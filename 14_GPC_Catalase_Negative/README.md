@@ -1,13 +1,13 @@
 <div dir="rtl">
 
-# ۱۴. کوکسی‌های گرم مثبت کاتالاز منفی
+# ۱۴. کوکسی گرم مثبت کاتالاز منفی
 
 ## دامنه
 | گروه | جنس/گونه‌های مهم |
 |---|---|
 | **استرپتوکوکوس‌های β-همولیتیک** | *S. pyogenes* (A)، *S. agalactiae* (B)، *S. dysgalactiae* subsp. *equisimilis* (SDSE؛ C/G)، *S. equi* (C، زئونوز)، *S. anginosus* group (کلنی ریز) |
 | ***S. pneumoniae*** | |
-| **استرپتوکوکوس‌های ویریدانس** | گروه‌های *mitis*، *sanguinis*، *salivarius*، *mutans*، *anginosus*؛ گروه **_S. bovis_/_gallolyticus_** |
+| **استرپتوکوکوس‌های ویریدانس** | گروه‌های *mitis*، *sanguinis*، *salivarius*، *mutans*، *anginosus*؛ ***S. gallolyticus*** |
 | ***Enterococcus*** | *E. faecalis*، *E. faecium*؛ *E. gallinarum*، *E. casseliflavus* (*vanC*) |
 | **جنس‌های مشابه** | *Aerococcus* (*A. urinae*، *A. viridans*، *A. sanguinicola*)، ***Abiotrophia*/*Granulicatella*** (NVS)، *Gemella*، *Lactococcus*، *Leuconostoc*، *Pediococcus*، *Globicatella*، *Weissella* |
 
@@ -28,7 +28,7 @@
 ## فایل‌های این ماژول
 | فایل | محتوا |
 |---|---|
-| [01_Differential_Tables.md](01_Differential_Tables.md) | β-همولیتیک‌ها؛ α/γ (پنوموکوکوس، ویریدانس، *S. bovis*، انتروکوکوس)؛ گروه‌های ویریدانس؛ گونه‌های انتروکوکوس؛ جنس‌های مشابه |
+| [01_Differential_Tables.md](01_Differential_Tables.md) | β-همولیتیک‌ها؛ α/γ (پنوموکوکوس، ویریدانس، *S. gallolyticus*، انتروکوکوس)؛ گروه‌های ویریدانس؛ گونه‌های انتروکوکوس؛ جنس‌های مشابه |
 | [02_Flowcharts.md](02_Flowcharts.md) | فلوچارت بر اساس همولیز؛ کوکسی گرم مثبت کاتالاز منفی مقاوم به ونکومایسین؛ NVS |
 | [03_Pitfalls_and_Reporting.md](03_Pitfalls_and_Reporting.md) | دام‌ها، MALDI-TOF (پنوموکوکوس/mitis)، گزارش‌های ویژه، پیوند AST |
 | [04_Scenarios.md](04_Scenarios.md) / [05_Answers.md](05_Answers.md) | ۱۰ سناریو و پاسخ |

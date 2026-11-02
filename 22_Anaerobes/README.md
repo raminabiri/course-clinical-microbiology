@@ -39,7 +39,7 @@
 ## فایل‌های این ماژول
 | فایل | محتوا |
 |---|---|
-| [01_Differential_Tables.md](01_Differential_Tables.md) | گروه‌بندی با دیسک‌های ویژه؛ گرم منفی‌ها؛ *Clostridium*؛ گرم مثبت‌های بدون اسپور؛ کوکسی‌ها؛ مقاومت ذاتی |
+| [01_Differential_Tables.md](01_Differential_Tables.md) | گروه‌بندی با دیسک‌های ویژه؛ گرم منفی‌ها؛ *Clostridium*؛ گرم مثبت‌های بدون اسپور؛ کوکسی؛ مقاومت ذاتی |
 | [02_Flowcharts.md](02_Flowcharts.md) | از پلیت بی‌هوازی تا گروه؛ گرم منفی‌ها؛ *Clostridium* |
 | [03_Pitfalls_and_Reporting.md](03_Pitfalls_and_Reporting.md) | دام‌ها، نمونهٔ نامناسب، MALDI-TOF، گزارش چندمیکروبی، پیوند AST |
 | [04_Scenarios.md](04_Scenarios.md) / [05_Answers.md](05_Answers.md) | ۱۰ سناریو و پاسخ |

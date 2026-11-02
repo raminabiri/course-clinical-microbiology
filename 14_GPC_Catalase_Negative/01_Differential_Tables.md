@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-# جدول‌های افتراقی: کوکسی‌های گرم مثبت کاتالاز منفی
+# جدول‌های افتراقی: کوکسی گرم مثبت کاتالاز منفی
 
 > نمادها: **+**، **−**، **v**، **w**. شرح تست‌ها: [02](../12_Identification_Tests/02_Spot_Rapid_Tests.md)، [03](../12_Identification_Tests/03_Disk_and_Growth_Tests.md)، [04](../12_Identification_Tests/04_Antigen_Serology.md)؛ BEA و NaCl ۶٫۵٪: [11_Culture_Media/08](../11_Culture_Media/08_Biochemical_Tube_Media.md).
 
@@ -20,7 +20,7 @@
 |---|---|---|---|---|---|---|---|
 | ***S. pneumoniae*** | **S (≥ ۱۴ mm)** | **+** | − | − | − | + | کلنی سکه‌ای/موکوئید؛ دیپلوکوک لانسه‌ای |
 | **ویریدانس** (اکثر) | R | − | − (۱۰٪ w) | − | − | + | |
-| **گروه *S. bovis*/*gallolyticus*** | R | − | **+** | **−** | **−** | + | γ یا α |
+| ***S. gallolyticus*** | R | − | **+** | **−** | **−** | + | γ یا α |
 | ***Enterococcus*** | R | − | **+** | **+** | **+** | + | γ (گاه α یا β)؛ زنجیره‌های کوتاه/جفت |
 
 ## جدول ۳: گروه‌های استرپتوکوکوس ویریدانس
@@ -32,7 +32,7 @@
 | ***salivarius*** | *S. salivarius*، *S. vestibularis* | v | − | v | − | + | باکتریمی، مننژیت پس از LP |
 | ***mutans*** | *S. mutans*، *S. sobrinus* | + | **+** | − | − | + | پوسیدگی دندان؛ اندوکاردیت |
 | ***anginosus*** | *S. anginosus*، *S. intermedius*، *S. constellatus* | **+** | v | − | **+** | v | **آبسه** (مغز، کبد، ریه، پلور) |
-| ***bovis*/*gallolyticus*** | *S. gallolyticus* subsp. *gallolyticus* (biotype I)، subsp. *pasteurianus* (II/2)، *S. infantarius* (II/1) | + | v | − | − | **+ (BEA)** | biotype I: **اندوکاردیت + سرطان کولون**؛ subsp. *pasteurianus*: مننژیت نوزادی |
+| ***gallolyticus*** | *S. gallolyticus* subsp. *gallolyticus* (biotype I)، subsp. *pasteurianus* (II/2)، *S. infantarius* (II/1) | + | v | − | − | **+ (BEA)** | biotype I: **اندوکاردیت + سرطان کولون**؛ subsp. *pasteurianus*: مننژیت نوزادی |
 
 > ⚠️ تمایز گونه‌های ویریدانس با تست‌های فنوتیپی **غیرقابل‌اعتماد** است؛ **MALDI-TOF** تا سطح گروه/گونه (با محدودیت در گروه *mitis*) یا **توالی‌یابی *sodA*/16S** در موارد مهم (اندوکاردیت).
 
@@ -50,7 +50,7 @@
 | آمپی‌سیلین | **معمولاً S** | **معمولاً R** | S | S |
 | کینوپریستین–دالفوپریستین | **R ذاتی** | S | | |
 
-## جدول ۵: سایر کوکسی‌های گرم مثبت کاتالاز منفی
+## جدول ۵: سایر کوکسی گرم مثبت کاتالاز منفی
 
 | جنس | آرایش | **ونکومایسین** | **PYR** | **LAP** | NaCl ۶٫۵٪ | BEA | سایر |
 |---|---|---|---|---|---|---|---|

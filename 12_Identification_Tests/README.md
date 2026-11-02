@@ -49,6 +49,6 @@ A -->|غیرقابل‌کشت/بدون دیواره| I[24: کلامیدیا، م
 - CLSI **M58** (MALDI-TOF identification)؛ CLSI **MM18** (sequencing-based identification)؛ CLSI **M35** (Abbreviated identification of bacteria and yeast).
 - ASM. *Sentinel Level Clinical Laboratory Guidelines* (agents of bioterrorism).
 
-**تصاویر:** ۲۸ عکس و ۱۶ دیاگرام در فایل‌های ۰۱ تا ۰۴؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+**تصاویر:** ۴۰ عکس و ۱۶ دیاگرام در فایل‌های ۰۱ تا ۰۴؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
 
 </div>

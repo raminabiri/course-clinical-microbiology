@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-# ۱۶. کوکسی‌های گرم منفی (*Neisseria* و *Moraxella*)
+# ۱۶. کوکسی گرم منفی (*Neisseria* و *Moraxella*)
 
 ## دامنه
 | گروه | جنس/گونه‌های مهم |

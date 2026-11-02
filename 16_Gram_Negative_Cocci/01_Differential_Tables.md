@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-# جدول‌های افتراقی: کوکسی‌های گرم منفی
+# جدول‌های افتراقی: کوکسی گرم منفی
 
 > نمادها: **+** (≥ ۹۰٪)، **−** (≥ ۹۰٪ منفی)، **v** متغیر، **w** ضعیف. شرح تست‌ها: [02_Spot_Rapid_Tests](../12_Identification_Tests/02_Spot_Rapid_Tests.md)، [03_Disk_and_Growth_Tests](../12_Identification_Tests/03_Disk_and_Growth_Tests.md)؛ قندها: [11_Culture_Media/08 بخش ۸.۱۴](../11_Culture_Media/08_Biochemical_Tube_Media.md).
 

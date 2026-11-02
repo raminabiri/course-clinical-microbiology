@@ -20,7 +20,7 @@
 | C | ***S. dysgalactiae* subsp. *equisimilis*** (SDSE)، *S. equi* | *S. anginosus* group |
 | G | **SDSE** | *S. anginosus* group |
 | F | — | ***S. anginosus* group** |
-| D | انتروکوکوس، *S. bovis*/*gallolyticus* (← BEA، NaCl ۶٫۵٪، PYR) | |
+| D | انتروکوکوس، *S. gallolyticus* (← BEA، NaCl ۶٫۵٪، PYR) | |
 
 - ⚠️ **کلنی ریز + گروه A/C/F/G** ← ***S. anginosus* group** (آبسه‌ساز؛ بوی **کارامل/کره**؛ VP +). گروه‌بندی به‌تنهایی کافی نیست ← **اندازهٔ کلنی، PYR، MALDI-TOF**.
 - **چند گروه هم‌زمان** ← کشت مخلوط یا واکنش متقاطع ← تکرار از کلنی خالص.
@@ -31,7 +31,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/latex-agglutination-staphylococcus-aureus.jpg" width="300" alt="latex-agglutination-staphylococcus-aureus"><br><sub><b>شکل ۱۲.۴۴.</b> لاتکس <i>S. aureus</i>: آگلوتیناسیون (مثبت) در برابر سوسپانسیون یکنواخت (منفی)<br>منبع: Stefan Walkowski، <a href="https://commons.wikimedia.org/wiki/File:Latex_slide_agglutination_test.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/latex-agglutination-staphylococcus-aureus.jpg" width="300" alt="latex-agglutination-staphylococcus-aureus"><br><sub><b>شکل ۱۲.۵۷.</b> لاتکس <i>S. aureus</i>: آگلوتیناسیون (مثبت) در برابر سوسپانسیون یکنواخت (منفی)<br>منبع: Stefan Walkowski، <a href="https://commons.wikimedia.org/wiki/File:Latex_slide_agglutination_test.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ### الف۳. سروتایپینگ *Salmonella*
 - **آنتی‌ژن‌ها:** **O** (سوماتیک، LPS)، **H** (تاژکی؛ فاز ۱ و ۲)، **Vi** (کپسولی؛ *S.* Typhi، *S.* Paratyphi C، برخی *S.* Dublin).

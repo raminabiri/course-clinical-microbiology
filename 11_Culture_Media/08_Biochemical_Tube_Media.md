@@ -195,8 +195,8 @@
 ## ۸.۱۲ بایل اسکولین (Bile Esculin Agar, BEA)
 - **صفرای گاوی ۴۰٪ (oxgall)** ← فقط ارگانیسم‌های مقاوم به صفرا رشد می‌کنند؛ **اسکولین** ← هیدرولیز ← **اسکولتین** + **سیترات آهن** ← **سیاه** (حداقل نیمی از شیب).
 - ۳۵°C، **۲۴–۴۸ ساعت**.
-- **مثبت:** ***Enterococcus***، **گروه *S. bovis*/*S. gallolyticus*** (D، غیرانتروکوکوس)، *Listeria*، *Leuconostoc*، *Pediococcus*، *Aerococcus viridans*؛ و بسیاری از Enterobacterales (بی‌ربط در این کاربرد). **منفی:** ویریدانس‌ها (اکثر؛ برخی **۱۰٪** مثبت ضعیف)، GBS، GAS.
-- **افتراق انتروکوکوس و *S. bovis*:** **NaCl ۶٫۵٪** (انتروکوکوس +، *S. bovis* −) و **PYR** (انتروکوکوس +، *S. bovis* −).
+- **مثبت:** ***Enterococcus***، ***S. gallolyticus*** (D، غیرانتروکوکوس)، *Listeria*، *Leuconostoc*، *Pediococcus*، *Aerococcus viridans*؛ و بسیاری از Enterobacterales (بی‌ربط در این کاربرد). **منفی:** ویریدانس‌ها (اکثر؛ برخی **۱۰٪** مثبت ضعیف)، GBS، GAS.
+- **افتراق انتروکوکوس و *S. gallolyticus*:** **NaCl ۶٫۵٪** (انتروکوکوس +، *S. gallolyticus* −) و **PYR** (انتروکوکوس +، *S. gallolyticus* −).
 - **QC:** *E. faecalis* ATCC 29212 (رشد، سیاه)؛ *S. pyogenes* ATCC 19615 (بدون رشد/سیاه شدن).
 - ⚠️ **اسکولین براث/دیسک بدون صفرا** ← آزمون **هیدرولیز اسکولین** جدا (برای *Listeria*، *Aeromonas*، بی‌هوازی‌ها)؛ با BEA اشتباه نشود.
 
@@ -205,7 +205,7 @@
 ## ۸.۱۳ براث NaCl ۶٫۵٪
 - BHI (یا HIB) + **NaCl ۶٫۵٪** + بروموکرزول ارغوانی (± گلوکز).
 - **رشد (کدورت) ± تغییر رنگ به زرد** = مثبت؛ ۳۵°C، **۲۴–۷۲ ساعت**.
-- **مثبت:** ***Enterococcus***، *Aerococcus*، *Pediococcus*، *Leuconostoc* (متغیر)، **استافیلوکوکوس‌ها**. **منفی:** *S. bovis* group، ویریدانس‌ها، اغلب استرپتوکوکوس‌های بتا (حدود ۸۰٪ GBS هم ممکن است رشد کند؛ ⚠️ برای GBS کاربرد ندارد).
+- **مثبت:** ***Enterococcus***، *Aerococcus*، *Pediococcus*، *Leuconostoc* (متغیر)، **استافیلوکوکوس‌ها**. **منفی:** *S. gallolyticus*، ویریدانس‌ها، اغلب استرپتوکوکوس‌های بتا (حدود ۸۰٪ GBS هم ممکن است رشد کند؛ ⚠️ برای GBS کاربرد ندارد).
 - **QC:** *E. faecalis* ATCC 29212 (+)؛ *S. bovis* ATCC 9809 یا *S. pyogenes* ATCC 19615 (−).
 
 ---
@@ -236,7 +236,7 @@
 | *Salmonella* یا *Proteus* (هر دو H₂S+)؟ | **LIA** (*Proteus*: R/A)، **اوره** (*Proteus* +)، PAD |
 | *Shigella* یا *E. coli* بی‌حرکت؟ | لیزین (*E. coli* اغلب +)، **استات/موسیک** (*E. coli* +)، لاکتوز دیررس، ایندول |
 | *Klebsiella* یا *Enterobacter*؟ | **تحرک** (*Klebsiella* −)، **اورنیتین** (*Enterobacter* +) |
-| انتروکوکوس یا *S. bovis*؟ | BEA (هر دو +) + **NaCl ۶٫۵٪** (انتروکوکوس +) |
+| انتروکوکوس یا *S. gallolyticus*؟ | BEA (هر دو +) + **NaCl ۶٫۵٪** (انتروکوکوس +) |
 | *Yersinia*؟ | تحرک **۲۵°C +/۳۷°C −**، اوره +، CIN |
 | Proteeae؟ | **PAD +**، LIA R/A |
 | *P. aeruginosa*؟ | OF اکسیداتیو، **آرژینین +**، نیترات تا N₂، ۴۲°C + |
