@@ -14,7 +14,7 @@
 |---|---|
 | [01_Microscopy_Stains.md](01_Microscopy_Stains.md) | رنگ‌آمیزی گرم (خطاها، ارگانیسم‌های گمراه‌کننده، مورفولوژی‌ها)، اسیدفست (ZN، کینیون، اورامین، اصلاح‌شده)، سایر رنگ‌ها و روش‌ها |
 | [02_Spot_Rapid_Tests.md](02_Spot_Rapid_Tests.md) | کاتالاز، اکسیداز، کوآگولاز (لام/لوله/لاتکس)، PYR، LAP، ایندول اسپات، حلالیت صفرا، هیپورات، بوتیرات استراز، سوپراکسول، DNase، ONPG، اوره‌آز سریع، نخ، ایندوکسیل استات |
-| [03_Disk_and_Growth_Tests.md](03_Disk_and_Growth_Tests.md) | اپتوچین، باسیتراسین، نووبیوسین، دیسک‌های ویژهٔ بی‌هوازی، X/V و پورفیرین، اقمار، CAMP و CAMP معکوس، ناگلر، هوازی‌تحملی، تحرک، دما و نمک، اسپور، ایمنی زیستی |
+| [03_Disk_and_Growth_Tests.md](03_Disk_and_Growth_Tests.md) | اپتوچین، باسیتراسین، نووبیوسین، دیسک‌های ویژهٔ بی‌هوازی، هِمین/NAD و پورفیرین، اقمار، CAMP و CAMP معکوس، ناگلر، هوازی‌تحملی، تحرک، دما و نمک، اسپور، ایمنی زیستی |
 | [04_Antigen_Serology.md](04_Antigen_Serology.md) | لانسفیلد، سروتایپینگ *Salmonella*/*Shigella*/O157/*V. cholerae*/مننگوکوکوس/Hib، آنتی‌ژن‌های مستقیم (GAS، ادراری، *C. difficile*، *H. pylori*، MPT64) |
 | [05_Identification_Systems.md](05_Identification_Systems.md) | API/RapID، Vitek 2/Phoenix/MicroScan، **MALDI-TOF** (اصول، امتیاز، محدودیت‌ها، ایمنی)، الگوریتم کلی |
 | [06_Molecular_ID.md](06_Molecular_ID.md) | 16S rRNA (CLSI MM18)، ژن‌های دیگر، پنل‌های سندرومیک، WGS و mNGS |
@@ -49,6 +49,6 @@ A -->|غیرقابل‌کشت/بدون دیواره| I[24: کلامیدیا، م
 - CLSI **M58** (MALDI-TOF identification)؛ CLSI **MM18** (sequencing-based identification)؛ CLSI **M35** (Abbreviated identification of bacteria and yeast).
 - ASM. *Sentinel Level Clinical Laboratory Guidelines* (agents of bioterrorism).
 
-**تصاویر:** ۲۱ عکس و ۵ دیاگرام در فایل‌های ۰۱ تا ۰۴؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+**تصاویر:** ۲۸ عکس و ۱۶ دیاگرام در فایل‌های ۰۱ تا ۰۴؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
 
 </div>

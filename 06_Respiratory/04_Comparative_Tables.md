@@ -19,7 +19,7 @@
 | ارگانیسم | گرم | محیط | آزمون کلیدی |
 |---|---|---|---|
 | *S. pneumoniae* | GPDC نیزه‌ای | SBA (α) | اپتوچین، صفرا |
-| *H. influenzae* | GN کوکوباسیل | CA | X+V |
+| *H. influenzae* | GN کوکوباسیل | CA | هِمین + NAD |
 | *M. catarrhalis* | GNDC | SBA/CA | DNase، بوتیرات، «ژتون هاکی» |
 | GAS | GPC زنجیره | SBA (β) | PYR +، لانسفیلد A |
 | *S. aureus* | GPC خوشه | SBA | کوآگولاز |

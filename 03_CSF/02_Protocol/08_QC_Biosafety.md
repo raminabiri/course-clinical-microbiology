@@ -35,7 +35,7 @@
 | حلالیت در صفرا | *S. pneumoniae* ATCC 49619 | *E. faecalis* ATCC 29212 | هر روز استفاده |
 | اکسیداز | *P. aeruginosa* ATCC 27853 | *E. coli* ATCC 25922 | هر روز استفاده |
 | کاتالاز | *S. aureus* ATCC 25923 | *E. faecalis* ATCC 29212 | هر روز استفاده |
-| دیسک X و V / پورفیرین | *H. influenzae* ATCC 10211 (X+V) | *H. parainfluenzae* ATCC 7901 (فقط V؛ پورفیرین +) | هر سری |
+| دیسک هِمین و NAD / پورفیرین | *H. influenzae* ATCC 10211 (هِمین + NAD) | *H. parainfluenzae* ATCC 7901 (فقط NAD؛ پورفیرین +) | هر سری |
 | نیتروسفین (بتالاکتاماز) | *S. aureus* ATCC 29213 (بتالاکتاماز +) | *S. aureus* ATCC 25923 (بتالاکتاماز –) | هر روز استفاده |
 | CAMP | *S. agalactiae* ATCC 12386 | *S. pyogenes* ATCC 19615 | هفتگی |
 | آنتی‌سرم‌ها / لاتکس | کنترل‌های کیت | کنترل‌های کیت | هر سری و طبق IFU |

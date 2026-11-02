@@ -25,7 +25,7 @@
 | **رنگ‌بری بیش از حد** | گرم مثبت ← **منفی کاذب** |
 | **رنگ‌بری ناکافی** / لام ضخیم | گرم منفی ← **مثبت کاذب** |
 | حرارت زیاد | تغییر شکل، رسوب |
-| **کشت کهنه** یا تحت درمان آنتی‌بیوتیک | **گرم مثبت‌ها منفی دیده می‌شوند** (*Bacillus*، *Clostridium*، *Actinomyces*، *Corynebacterium*) |
+| **کشت کهنه** یا تحت درمان آنتی‌بیوتیک | **گرم مثبت‌ها منفی مشاهده می‌شوند** (*Bacillus*، *Clostridium*، *Actinomyces*، *Corynebacterium*) |
 | رسوب کریستال ویوله | «کوکسی» کاذب |
 
 ### ارگانیسم‌های گرم‌متغیر یا گمراه‌کننده
@@ -34,10 +34,10 @@
 | ***Acinetobacter*** | کوکوباسیل، **مقاوم به رنگ‌بری** ← گاه گرم مثبت | گرم منفی |
 | ***Gardnerella vaginalis*** | گرم‌متغیر | گرم مثبت (دیوارهٔ نازک) |
 | ***Mobiluncus*** | خمیده، گرم‌متغیر | گرم مثبت |
-| *Thomasclavelia ramosa* (نام قدیم *C. ramosum*)، *Enterocloster clostridioformis* (نام قدیم *C. clostridioforme*)، *C. tertium* | **گرم منفی** دیده می‌شوند | گرم مثبت ← دیسک ونکومایسین S (← [03_Disk_and_Growth_Tests.md](03_Disk_and_Growth_Tests.md)) |
-| ***Mycoplasma*، *Ureaplasma*** | **دیده نمی‌شوند** (بدون دیواره) | |
-| *Chlamydia*، *Rickettsia*، *Coxiella* | دیده نمی‌شوند (داخل‌سلولی) | |
-| *Treponema*، *Leptospira*، *Borrelia* (اغلب) | دیده نمی‌شوند (خیلی نازک) | میدان تاریک، گیمسا، نقره |
+| *Thomasclavelia ramosa* (نام قدیم *C. ramosum*)، *Enterocloster clostridioformis* (نام قدیم *C. clostridioforme*)، *C. tertium* | **گرم منفی** مشاهده می‌شوند | گرم مثبت ← دیسک ونکومایسین S (← [03_Disk_and_Growth_Tests.md](03_Disk_and_Growth_Tests.md)) |
+| ***Mycoplasma*، *Ureaplasma*** | **مشاهده نمی‌شوند** (بدون دیواره) | |
+| *Chlamydia*، *Rickettsia*، *Coxiella* | مشاهده نمی‌شوند (داخل‌سلولی) | |
+| *Treponema*، *Leptospira*، *Borrelia* (اغلب) | مشاهده نمی‌شوند (خیلی نازک) | میدان تاریک، گیمسا، نقره |
 | ***Legionella*** | گرم منفی بسیار **کمرنگ** | فوشین بازی/کاربول‌فوشین |
 | مایکوباکتری‌ها | **«شبح» (ghost)** یا دانه‌دار گرم مثبت ضعیف | اسیدفست |
 | *Nocardia* | گرم مثبت **دانه‌دار، رشته‌ای منشعب** | اسیدفست **اصلاح‌شده** + |

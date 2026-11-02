@@ -43,8 +43,8 @@
 | **ATCC 49619** | *S. pneumoniae* | اپتوچین S، حلالیت صفرا؛ **AST** استرپتوکوکوس‌ها | [12/03](../12_Identification_Tests/03_Disk_and_Growth_Tests.md)، [AST/08](../AST/08_QC/01_AST_QC.md) |
 | ATCC 9809 | *S. bovis* | NaCl ۶٫۵٪ (کنترل منفی) | [11/08](../11_Culture_Media/08_Biochemical_Tube_Media.md) |
 | ATCC 15305 | *S. saprophyticus* | نووبیوسین R | [12/03](../12_Identification_Tests/03_Disk_and_Growth_Tests.md) |
-| ATCC 10211 / **49247** / **49766** | *H. influenzae* | X+V، پورفیرین −، شکلات؛ **AST** (HTM) | [12/03](../12_Identification_Tests/03_Disk_and_Growth_Tests.md)، [AST/08](../AST/08_QC/01_AST_QC.md) |
-| ATCC 7901 | *H. parainfluenzae* | فقط V، پورفیرین + | [12/03](../12_Identification_Tests/03_Disk_and_Growth_Tests.md) |
+| ATCC 10211 / **49247** / **49766** | *H. influenzae* | هِمین + NAD، پورفیرین −، شکلات؛ **AST** (HTM) | [12/03](../12_Identification_Tests/03_Disk_and_Growth_Tests.md)، [AST/08](../AST/08_QC/01_AST_QC.md) |
+| ATCC 7901 | *H. parainfluenzae* | فقط NAD، پورفیرین + | [12/03](../12_Identification_Tests/03_Disk_and_Growth_Tests.md) |
 | ATCC 43069 | *N. gonorrhoeae* | MTM/ML، قندها (فقط گلوکز)، بوتیرات − | [11/04](../11_Culture_Media/04_Pathogen_Specific_Selective.md)، [11/08](../11_Culture_Media/08_Biochemical_Tube_Media.md) |
 | **ATCC 49226** | *N. gonorrhoeae* | **AST** گونوکوکوس | [AST/08](../AST/08_QC/01_AST_QC.md) |
 | ATCC 13090 | *N. meningitidis* | قندها (گلوکز، مالتوز)، MTM | [11/08](../11_Culture_Media/08_Biochemical_Tube_Media.md) |

@@ -20,7 +20,7 @@ E -->|−| F[Neisseria<br/>قند یا آنزیم یا MALDI-TOF<br/>ماژول 
 ## نقاط تصمیم کلیدی
 | گام | نکته | ارجاع |
 |---|---|---|
-| **رنگ گرم** | *Acinetobacter* (کوکوباسیل جفتی، گاه مقاوم به رنگ‌بری) و *Moraxella* شبیه دیپلوکوک دیده می‌شوند | [12/01](../../12_Identification_Tests/01_Microscopy_Stains.md) |
+| **رنگ گرم** | *Acinetobacter* (کوکوباسیل جفتی، گاه مقاوم به رنگ‌بری) و *Moraxella* شبیه دیپلوکوک مشاهده می‌شوند | [12/01](../../12_Identification_Tests/01_Microscopy_Stains.md) |
 | **اکسیداز** | *Neisseria*/*Moraxella* +؛ *Acinetobacter* − | [12/02 بخش ۲.۲](../../12_Identification_Tests/02_Spot_Rapid_Tests.md) |
 | **کاتالاز** | *K. denitrificans* (روی MTM رشد می‌کند، PRO +) را از گونوکوکوس جدا می‌کند | [ماژول ۱۶](../../16_Gram_Negative_Cocci/03_Pitfalls_and_Reporting.md) |
 | **رنگ گرم ترشح مجرا** | فقط در **مرد علامت‌دار** برای گنوره معتبر است | [ماژول ۱۶](../../16_Gram_Negative_Cocci/02_Flowcharts.md) |

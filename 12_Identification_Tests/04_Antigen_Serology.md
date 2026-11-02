@@ -31,7 +31,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/latex-agglutination-staphylococcus-aureus.jpg" width="300" alt="latex-agglutination-staphylococcus-aureus"><br><sub><b>شکل ۱۲.۲۶.</b> لاتکس <i>S. aureus</i>: آگلوتیناسیون (مثبت) در برابر سوسپانسیون یکنواخت (منفی)<br>منبع: Stefan Walkowski، <a href="https://commons.wikimedia.org/wiki/File:Latex_slide_agglutination_test.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/latex-agglutination-staphylococcus-aureus.jpg" width="300" alt="latex-agglutination-staphylococcus-aureus"><br><sub><b>شکل ۱۲.۴۴.</b> لاتکس <i>S. aureus</i>: آگلوتیناسیون (مثبت) در برابر سوسپانسیون یکنواخت (منفی)<br>منبع: Stefan Walkowski، <a href="https://commons.wikimedia.org/wiki/File:Latex_slide_agglutination_test.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ### الف۳. سروتایپینگ *Salmonella*
 - **آنتی‌ژن‌ها:** **O** (سوماتیک، LPS)، **H** (تاژکی؛ فاز ۱ و ۲)، **Vi** (کپسولی؛ *S.* Typhi، *S.* Paratyphi C، برخی *S.* Dublin).

@@ -20,9 +20,9 @@
 
 <p align="center"><img src="Assets/figures/optochin-reading-schematic.svg" width="760" alt="optochin-reading-schematic"></p>
 
-> **شکل ۱۲.۱۷.** خواندن آزمون اپتوچین — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+> **شکل ۱۲.۳۲.** خواندن آزمون اپتوچین — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/optochin-streptococcus-pneumoniae.jpg" width="300" alt="optochin-streptococcus-pneumoniae"><br><sub><b>شکل ۱۲.۱۸.</b> هالهٔ مهار اطراف دیسک اپتوچین (<i>S. pneumoniae</i>، آگار خون)<br>منبع: Gsbhalla، <a href="https://commons.wikimedia.org/wiki/File:S._pneumoniae.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/optochin-streptococcus-pneumoniae.jpg" width="300" alt="optochin-streptococcus-pneumoniae"><br><sub><b>شکل ۱۲.۳۳.</b> هالهٔ مهار اطراف دیسک اپتوچین (<i>S. pneumoniae</i>، آگار خون)<br>منبع: Gsbhalla، <a href="https://commons.wikimedia.org/wiki/File:S._pneumoniae.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ## ۳.۲ باسیتراسین (۰٫۰۴ واحد، Taxo A)
 - آگار خون، کشت چمنی؛ ۳۵°C، ۱۸–۲۴ ساعت.
@@ -32,7 +32,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/bacitracin-beta-haemolytic-streptococci.jpg" width="300" alt="bacitracin-beta-haemolytic-streptococci"><br><sub><b>شکل ۱۲.۱۹.</b> دیسک باسیتراسین روی کشت استرپتوکوکوس بتاهمولیتیک (آگار خون کلمبیا)<br>منبع: Pöllö، <a href="https://commons.wikimedia.org/wiki/File:Columbia_blood_agar_plate_to_test_betahemolytic_streptococci.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/bacitracin-beta-haemolytic-streptococci.jpg" width="300" alt="bacitracin-beta-haemolytic-streptococci"><br><sub><b>شکل ۱۲.۳۴.</b> دیسک باسیتراسین روی کشت استرپتوکوکوس بتاهمولیتیک (آگار خون کلمبیا)<br>منبع: Pöllö، <a href="https://commons.wikimedia.org/wiki/File:Columbia_blood_agar_plate_to_test_betahemolytic_streptococci.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a></sub></td></tr></table>
 
 ## ۳.۳ نووبیوسین (۵ µg)
 - **MHA یا آگار خون**؛ هالهٔ **≤ ۱۶ mm** = **مقاوم** ← ***S. saprophyticus*** (در ایزولهٔ ادراری زن جوان). (*S. cohnii*، *S. xylosus* هم مقاوم‌اند.)
@@ -45,7 +45,7 @@
 
 | گروه | ونکومایسین ۵ | کانامایسین ۱۰۰۰ | کولیستین ۱۰ |
 |---|---|---|---|
-| **گرم مثبت‌ها** (حتی اگر گرم منفی دیده شوند؛ مثلاً *Enterocloster clostridioformis* (نام قدیم *C. clostridioforme*)، *Thomasclavelia ramosa* (نام قدیم *C. ramosum*)) | **S** | v | **R** |
+| **گرم مثبت‌ها** (حتی اگر گرم منفی مشاهده شوند؛ مثلاً *Enterocloster clostridioformis* (نام قدیم *C. clostridioforme*)، *Thomasclavelia ramosa* (نام قدیم *C. ramosum*)) | **S** | v | **R** |
 | **گروه *B. fragilis*** | R | **R** | **R** |
 | ***Porphyromonas*** | **S** | R | R |
 | ***Prevotella*** | R | R | v |
@@ -56,11 +56,11 @@
 - **SPS (سدیم پلی‌آنتول سولفونات ۵٪)**: ***Peptostreptococcus anaerobius*** **حساس** (≥ ۱۲ mm) ← افتراق از سایر کوکسی‌های گرم مثبت بی‌هوازی.
 - **QC:** *B. fragilis* ATCC 25285 (R/R/R)؛ *C. perfringens* ATCC 13124 (S/S/R)؛ *F. necrophorum* ATCC 25286 (R/S/S).
 
-## ۳.۵ فاکتورهای X و V، و آزمون پورفیرین (*Haemophilus*)
-### X و V (دیسک یا نوار)
-- سوسپانسیون در سالین (بدون انتقال آگار) ← کشت چمنی روی **MHA یا TSA** (فاقد X و V) ← دیسک‌های **X**، **V** و **XV** با فاصلهٔ ۱–۲ cm؛ ۳۵°C، CO₂، ۱۸–۲۴ ساعت ← **رشد فقط اطراف** دیسک(ها).
+## ۳.۵ هِمین (فاکتور X) و NAD (فاکتور V)، و آزمون پورفیرین (*Haemophilus*)
+### هِمین و NAD (دیسک یا نوار)
+- سوسپانسیون در سالین (بدون انتقال آگار) ← کشت چمنی روی **MHA یا TSA** (فاقد هِمین و NAD) ← دیسک‌های **هِمین**، **NAD** و **هِمین + NAD** با فاصلهٔ ۱–۲ cm؛ ۳۵°C، CO₂، ۱۸–۲۴ ساعت ← **رشد فقط اطراف** دیسک(ها).
 
-| گونه | X | V | همولیز (خون اسب) | پورفیرین |
+| گونه | هِمین | NAD | همولیز (خون اسب) | پورفیرین |
 |---|---|---|---|---|
 | ***H. influenzae*** | **+** | **+** | − | **−** |
 | *H. haemolyticus* | + | + | **+** | − |
@@ -70,22 +70,22 @@
 | *Aggregatibacter aphrophilus* | − | − | − | + |
 
 ### آزمون پورفیرین (ALA؛ δ-آمینولوولینیک اسید)
-- **اساس:** ارگانیسمی که **همین را خودش می‌سازد** (نیاز به X **ندارد**) ALA را به **پورفوبیلینوژن و پورفیرین‌ها** تبدیل می‌کند.
-- سوسپانسیون سنگین در **ALA**؛ ۳۵°C، **۴ ساعت** ← **فلورسانس قرمز** زیر **UV ۳۶۰ nm** یا **رنگ قرمز با معرف کواکس** = **مثبت** (نیاز X ندارد).
-- ✓ **قابل‌اعتمادتر از دیسک X** (انتقال همین از آگار شکلات ← رشد کاذب اطراف دیسک V ← اشتباه *H. influenzae* با *H. parainfluenzae*).
-- **QC:** *H. influenzae* ATCC 49247 یا 10211 (منفی؛ X+V)؛ *H. parainfluenzae* ATCC 7901 (مثبت؛ فقط V).
+- **اساس:** ارگانیسمی که **همین را خودش می‌سازد** (نیاز به هِمین **ندارد**) ALA را به **پورفوبیلینوژن و پورفیرین‌ها** تبدیل می‌کند.
+- سوسپانسیون سنگین در **ALA**؛ ۳۵°C، **۴ ساعت** ← **فلورسانس قرمز** زیر **UV ۳۶۰ nm** یا **رنگ قرمز با معرف کواکس** = **مثبت** (نیاز به هِمین ندارد).
+- ✓ **قابل‌اعتمادتر از دیسک هِمین** (انتقال هِمین از آگار شکلات ← رشد کاذب اطراف دیسک NAD ← اشتباه *H. influenzae* با *H. parainfluenzae*).
+- **QC:** *H. influenzae* ATCC 49247 یا 10211 (منفی؛ هِمین + NAD)؛ *H. parainfluenzae* ATCC 7901 (مثبت؛ فقط NAD).
 
 ### اقمار (Satellitism)
-- خط کشت ***S. aureus*** روی **آگار خون گوسفند** که با ارگانیسم مشکوک چمن شده ← رشد **فقط اطراف خط *S. aureus*** (آزاد شدن V با همولیز + NAD از استافیلوکوکوس).
+- خط کشت ***S. aureus*** روی **آگار خون گوسفند** که با ارگانیسم مشکوک چمن شده ← رشد **فقط اطراف خط *S. aureus*** (آزاد شدن NAD از گلبول‌های قرمز با همولیز، و ترشح NAD توسط استافیلوکوکوس).
 - **مثبت:** *H. influenzae*، *H. parainfluenzae*، ***Abiotrophia*/*Granulicatella*** (نیاز به **پیریدوکسال**).
 
 **تصاویر:**
 
-<p align="center"><img src="Assets/figures/xv-factor-patterns-schematic.svg" width="760" alt="xv-factor-patterns-schematic"></p>
+<p align="center"><img src="Assets/figures/hemin-nad-patterns-schematic.svg" width="760" alt="hemin-nad-patterns-schematic"></p>
 
-> **شکل ۱۲.۲۰.** الگوهای رشد اطراف دیسک‌های X، V و XV — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+> **شکل ۱۲.۳۵.** الگوهای رشد اطراف دیسک‌های هِمین، NAD و هِمین + NAD — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/xv-disk-haemophilus-influenzae.jpg" width="300" alt="xv-disk-haemophilus-influenzae"><br><sub><b>شکل ۱۲.۲۱.</b> رشد <i>H. influenzae</i> فقط اطراف دیسک XV<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Haemophilus_influenzae_growth_around_XV_growth_factor_disk.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/satellitism-haemophilus-influenzae.jpg" width="300" alt="satellitism-haemophilus-influenzae"><br><sub><b>شکل ۱۲.۲۲.</b> اقمار: رشد <i>H. influenzae</i> فقط در کنار خط <i>S. aureus</i><br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Satellitism_test_-positive_Haemophilus_influenzae.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/haemophilus-influenzae-chocolate-agar.jpg" width="300" alt="haemophilus-influenzae-chocolate-agar"><br><sub><b>شکل ۱۲.۳۶.</b> کلنی‌های <i>H. influenzae</i> روی آگار شکلات (بدون رشد روی آگار خون گوسفند)<br>منبع: Stefan Walkowski، <a href="https://commons.wikimedia.org/wiki/File:Haemophilus_influenzae.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/hemin-nad-disk-haemophilus-influenzae.jpg" width="300" alt="hemin-nad-disk-haemophilus-influenzae"><br><sub><b>شکل ۱۲.۳۷.</b> رشد <i>H. influenzae</i> فقط اطراف دیسک هِمین + NAD روی محیط بدون خون<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Haemophilus_influenzae_growth_around_XV_growth_factor_disk.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr><tr><td align="center" width="50%"><img src="Assets/images/satellitism-haemophilus-influenzae.jpg" width="300" alt="satellitism-haemophilus-influenzae"><br><sub><b>شکل ۱۲.۳۸.</b> اقمار: رشد <i>H. influenzae</i> فقط در کنار خط <i>S. aureus</i> روی آگار خون گوسفند<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Satellitism_test_-positive_Haemophilus_influenzae.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/satellitism-haemophilus-influenzae-closeup.jpg" width="300" alt="satellitism-haemophilus-influenzae-closeup"><br><sub><b>شکل ۱۲.۳۹.</b> اقمار از نزدیک: کلنی‌های ریز <i>H. influenzae</i> کنار کلنی‌های <i>S. aureus</i><br>منبع: Deminorwood، <a href="https://commons.wikimedia.org/wiki/File:Hinfluenzae_satillite.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ## ۳.۶ آزمون CAMP و CAMP معکوس
 ### CAMP
@@ -109,9 +109,9 @@
 
 <p align="center"><img src="Assets/figures/camp-reverse-camp-schematic.svg" width="760" alt="camp-reverse-camp-schematic"></p>
 
-> **شکل ۱۲.۲۳.** CAMP و CAMP معکوس — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+> **شکل ۱۲.۴۰.** CAMP و CAMP معکوس — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/camp-positive-streptococcus-agalactiae.jpg" width="300" alt="camp-positive-streptococcus-agalactiae"><br><sub><b>شکل ۱۲.۲۴.</b> CAMP مثبت: همولیز هم‌افزا که به سمت خط <i>S. aureus</i> پهن می‌شود (<i>S. agalactiae</i>)<br>منبع: Blueiridium، <a href="https://commons.wikimedia.org/wiki/File:CAMP_test.JPG">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/camp-positive-streptococcus-agalactiae.jpg" width="300" alt="camp-positive-streptococcus-agalactiae"><br><sub><b>شکل ۱۲.۴۱.</b> CAMP مثبت: همولیز هم‌افزا که به سمت خط <i>S. aureus</i> پهن می‌شود (<i>S. agalactiae</i>)<br>منبع: Blueiridium، <a href="https://commons.wikimedia.org/wiki/File:CAMP_test.JPG">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td><td align="center" width="50%"><img src="Assets/images/camp-negative-streptococcus-pyogenes.jpg" width="300" alt="camp-negative-streptococcus-pyogenes"><br><sub><b>شکل ۱۲.۴۲.</b> CAMP منفی: بدون همولیز هم‌افزا (<i>S. pyogenes</i>)<br>منبع: Pavel Dušek <a href="https://commons.wikimedia.org/wiki/File:Negative_CAMP.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a></sub></td></tr></table>
 
 ## ۳.۷ آزمون ناگلر (Nagler)
 - **آگار زردهٔ تخم‌مرغ**؛ نیمی از پلیت با **آنتی‌توکسین α (فسفولیپاز C) *C. perfringens*** پوشانده؛ ارگانیسم روی هر دو نیمه؛ بی‌هوازی ۲۴–۴۸ ساعت.
@@ -149,7 +149,7 @@
 
 <p align="center"><img src="Assets/figures/motility-patterns-schematic.svg" width="600" alt="motility-patterns-schematic"></p>
 
-> **شکل ۱۲.۲۵.** الگوهای تحرک در آگار نیمه‌جامد — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+> **شکل ۱۲.۴۳.** الگوهای تحرک در آگار نیمه‌جامد — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
 
 ## ۳.۱۰ رشد در دما و نمک
 | آزمون | مثبت | منفی | کاربرد |

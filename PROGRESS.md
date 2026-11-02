@@ -115,6 +115,14 @@ Next family is 20 (`20_Fastidious_GNB`; review the zip in the backup tarball fir
   `svg_gen.py`, `place.py`. Render check: `gh api markdown -f mode=gfm` + headless Chrome screenshot.
   Next: user reviews pilot → roll out to 11 (media) and family modules 13–24.
 
+- **2026-11-02 round 2 (branch `final-review`):** module 12 now 28 photos + 16 SVGs (tube coagulase, real
+  *Haemophilus* chocolate-agar and satellitism plates, CAMP negative, urea agar, Kovacs indole; positive-vs-negative
+  reading schematics for PYR, LAP, spot indole, bile, hippurate, butyrate, superoxol, ONPG, string, indoxyl acetate,
+  nitrocefin — no open-licence photos exist for these). Schematics laid out right-to-left (positive on the right).
+  User rules: X/V factors → **هِمین (فاکتور X)** and **NAD (فاکتور V)** (old label only once in parentheses);
+  «دیده می‌شود/شد» → «مشاهده می‌شود/شد» repo-wide. Scripts: `img/svg_pairs.py`, `img/place.py` (re-runnable after
+  stripping figure blocks).
+
 ## 3. Files changed
 - Committed: `268e92a` (60 files) — `AST/**`, `0[1-9]_*/03_Antibiogram/*`, `01/05/07 06_Answers.md`,
   `05_Genital/02_Protocol/07_Reporting.md`, `.gitignore` (`*.pdf`), `PROGRESS.md`.
