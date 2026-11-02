@@ -32,6 +32,10 @@
 - QC: *S.* Typhimurium ATCC 14028 (بی‌رنگ، مرکز سیاه)؛ *S. flexneri* ATCC 12022 (بی‌رنگ)؛ *E. coli* ATCC 25922 (مهار نسبی، صورتی)؛ *E. faecalis* ATCC 29212 (مهار).
 - ⚠️ **بیش از حد انتخابی برای *Shigella*** (به‌ویژه *S. dysenteriae* و *S. sonnei*) ← به‌تنهایی استفاده نشود.
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/ss-agar-shigella.jpg" width="300" alt="ss-agar-shigella"><br><sub><b>شکل ۱۱.۱۵.</b> کلنی‌های <i>Shigella</i> روی آگار SS<br>منبع: Fundación general de la Universidad de Salamanca.، <a href="https://commons.wikimedia.org/wiki/File:Medi_Salmonella-Shigella_(SS).jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ## الف۲. XLD (Xylose–Lysine–Deoxycholate)
 ### اساس (منطق سه‌مرحله‌ای)
 | جزء | نقش |
@@ -54,6 +58,10 @@
 - QC: *S.* Typhimurium ATCC 14028 (قرمز، مرکز سیاه)؛ *S. flexneri* ATCC 12022 (قرمز)؛ *E. coli* ATCC 25922 (زرد، مهار نسبی)؛ *E. faecalis* ATCC 29212 (مهار).
 - ⚠️ *Salmonella* H₂S منفی یا **لاکتوز مثبت** (نادر) به‌صورت قرمز بدون سیاهی یا زرد مشاهده می‌شوند. پلیت را در **۱۸–۲۴ ساعت** بخوانید (دیرتر ← قلیایی شدن کاذب).
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/xld-salmonella-h2s.jpg" width="300" alt="xld-salmonella-h2s"><br><sub><b>شکل ۱۱.۱۶.</b> کلنی‌های <i>Salmonella</i> با مرکز سیاه (تولید H₂S) روی آگار XLD<br>منبع: Nathan Reading from Halesowen, UK، <a href="https://commons.wikimedia.org/wiki/File:Salmonella_species_growing_on_XLD_agar_-_Showing_H2S_production.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/xld-shigella-sonnei.jpg" width="300" alt="xld-shigella-sonnei"><br><sub><b>شکل ۱۱.۱۷.</b> کلنی‌های <i>Shigella sonnei</i> روی آگار XLD پس از ۷۲ ساعت (بزرگ‌نمایی کم)<br>منبع: Todd Parker, Ph.D., Assoc Director for Laboratory Science, Div of Prep، <a href="https://commons.wikimedia.org/wiki/File:CDC_17192_Shigella_sonnei_XLD.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+
 ## الف۳. Hektoen Enteric (HE)
 | جزء | نقش |
 |---|---|
@@ -70,6 +78,10 @@
 | سبز-آبی تا قهوه‌ای، مسطح | *Pseudomonas* |
 
 - QC: *S.* Typhimurium ATCC 14028 (آبی-سبز، مرکز سیاه)؛ *S. flexneri* ATCC 12022 (آبی-سبز)؛ *E. coli* ATCC 25922 (زرد-نارنجی، مهار نسبی)؛ *E. faecalis* ATCC 29212 (مهار).
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/hektoen-shigella-sonnei.jpg" width="300" alt="hektoen-shigella-sonnei"><br><sub><b>شکل ۱۱.۱۸.</b> کلنی‌های <i>Shigella sonnei</i> روی آگار هکتوئن انتریک پس از ۴۸ ساعت<br>منبع: Todd Parker, Ph.D., Assoc Director for Laboratory Science, Div of Prep، <a href="https://commons.wikimedia.org/wiki/File:Gram_negative_Shigella_sonnei_bacteria_which_spent_48_hours_cultured_on_Hektoen_enteric_agar.jpg">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="Assets/images/hektoen-stool-culture.jpg" width="300" alt="hektoen-stool-culture"><br><sub><b>شکل ۱۱.۱۹.</b> کشت مدفوع روی آگار هکتوئن: کلنی‌های نارنجی (تخمیر لاکتوز) و کلنی‌های سیاه (تولید H₂S)<br>منبع: Mediocreclementine، <a href="https://commons.wikimedia.org/wiki/File:Hektoen_enteric_agar_stool_culture.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr></table>
 
 ## الف۴. بریلیانت گرین (BGA) و دزوکسی‌کولات–سیترات (DCA)
 | محیط | اساس | کاربرد | تفسیر |
@@ -118,6 +130,10 @@
   - *Proteus* و انتروکوکوس گاه کلنی‌های زرد ریز می‌دهند.
   - تأیید: **رشد در NaCl ۰٪ و ۶٪** (*V. cholerae* بدون نمک رشد می‌کند)، **string test**، آنتی‌سرم **O1/O139**، PCR توکسین (*ctxA*).
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/tcbs-cholerae-parahaemolyticus.jpg" width="300" alt="tcbs-cholerae-parahaemolyticus"><br><sub><b>شکل ۱۱.۲۰.</b> آگار TCBS: <i>V. cholerae</i> (زرد، چپ) و <i>V. parahaemolyticus</i> (سبز، راست)<br>منبع: Chainwit.، <a href="https://commons.wikimedia.org/wiki/File:TCBS_agar_plate_of_Vibrio_Cholerae_and_vibrio_parahaemolyticus.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ## الف۸. CIN (Cefsulodin–Irgasan–Novobiocin)
 - **سفسولودین + ایرگاسان (تریکلوزان) + نوووبیوسین** + کریستال ویوله + دزوکسی‌کولات ← مهار انتخابی.
 - **مانیتول** + **نوترال رد** ← کلنی **«چشم گاوی» (bull's-eye)**: **مرکز قرمز تیره** با حاشیهٔ **شفاف**.
@@ -141,6 +157,10 @@
 - **ظاهر کلنی:** خاکستری، **مرطوب، پهن‌شونده** در امتداد خط کشت، غیرهمولیتیک؛ یا گرد و برآمده. **حرکت تیرمانند/فنری** در لام مرطوب؛ گرم: **باسیل منحنی، شکل «S» یا بال مرغ دریایی**.
 - **QC:** *C. jejuni* ATCC 33291 (رشد در شرایط میکروآئروفیل)؛ *E. coli* ATCC 25922 (مهار).
 - جزئیات شناسایی ← [21_Curved_GNB](../21_Curved_GNB/01_Differential_Tables.md).
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/campylobacter-charcoal.jpg" width="300" alt="campylobacter-charcoal"><br><sub><b>شکل ۱۱.۲۱.</b> کلنی‌های <i>Campylobacter jejuni</i> روی محیط انتخابی زغال‌دار بدون خون<br>منبع: Kubo (Dworaczek) Michal، <a href="https://commons.wikimedia.org/wiki/File:Campylobacter_jejuni.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/2.5">CC BY-SA 2.5</a></sub></td><td align="center" width="50%"><img src="Assets/images/campylobacter-skirrow.jpg" width="300" alt="campylobacter-skirrow"><br><sub><b>شکل ۱۱.۲۲.</b> کلنی‌های ریز <i>C. jejuni</i> روی محیط اسکیرو و بوتزلر<br>منبع: CDC/ Sheila Mitchel، <a href="https://commons.wikimedia.org/wiki/File:15985_lores.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 ---
 
@@ -184,6 +204,10 @@
 - گونوکوکوس بسیار حساس به **سرما و خشکی** ← تلقیح **فوری** یا محیط حمل‌ونقل؛ پلیت‌ها پیش از تلقیح به دمای اتاق برسند.
 - امروزه **NAAT** آزمون اصلی تشخیص است؛ کشت برای **AST** (مقاومت به سفتریاکسون؛ ← [AST/05_Fastidious_Anaerobes](../AST/05_Fastidious_Anaerobes/README.md)) و پزشکی قانونی.
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/neisseria-gonorrhoeae-two-media.jpg" width="300" alt="neisseria-gonorrhoeae-two-media"><br><sub><b>شکل ۱۱.۲۳.</b> نمونهٔ رکتال برای <i>N. gonorrhoeae</i>: رشد بیش از حد فلور روی آگار شکلات (چپ) و رشد فقط <i>Neisseria</i> روی تایر–مارتین (راست)<br>منبع: Wikimedia Commons، <a href="https://commons.wikimedia.org/wiki/File:Neisseria_gonorrhoeae_01.png">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+
 ---
 
 # ج. محیط‌های تنفسی و ارگانیسم‌های خاص
@@ -221,6 +245,10 @@
 - pH نادرست یا محیط کهنه ← عدم رشد.
 - رشد روی آگار خون معمولی ← **لژیونلا نیست**.
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/bcye-legionella.jpg" width="300" alt="bcye-legionella"><br><sub><b>شکل ۱۱.۲۴.</b> کلنی‌های <i>L. pneumophila</i> روی آگار BCYE<br>منبع: Turasayb، <a href="https://commons.wikimedia.org/wiki/File:BCYE.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ## ج۲. BCSA و OFPBL (*Burkholderia cepacia*)
 | محیط | اساس |
 |---|---|
@@ -242,6 +270,10 @@
 - **QC:** *P. aeruginosa* ATCC 27853 (رشد، رنگدانه، فلورسانس)؛ *E. coli* ATCC 25922 (مهار).
 - ⚠️ برخی سویه‌های *P. aeruginosa* (CF، موکوئید) رنگدانه نمی‌دهند یا کند رشد می‌کنند.
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/cetrimide-pseudomonas.jpg" width="300" alt="cetrimide-pseudomonas"><br><sub><b>شکل ۱۱.۲۵.</b> کلنی‌های <i>P. aeruginosa</i> روی آگار سترامید<br>منبع: HansN.، <a href="https://commons.wikimedia.org/wiki/File:Pseudomonas_aeruginosa_on_cetrimide_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/cetrimide-pseudomonas-uv.jpg" width="300" alt="cetrimide-pseudomonas-uv"><br><sub><b>شکل ۱۱.۲۶.</b> فلورسانس رنگدانهٔ <i>P. aeruginosa</i> روی آگار سترامید زیر نور UV<br>منبع: BiotechMichael، <a href="https://commons.wikimedia.org/wiki/File:P-aeruginosa_fluoreszenz.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+
 ## ج۴. ریگان–لو و بوردت–ژانگو (*Bordetella*)
 | محیط | ترکیب | نکته |
 |---|---|---|
@@ -256,6 +288,10 @@
 - **QC:** *B. pertussis* ATCC 9797 (رشد در ۳–۵ روز)؛ *S. aureus* ATCC 25923 (مهار).
 - ⚠️ **حساسیت کشت پایین** (۱۲–۶۰٪؛ پس از ۲ هفته سرفه، واکسیناسیون یا آنتی‌بیوتیک کاهش می‌یابد) ← **PCR** (IS*481*، IS*1001*، *ptxP*) آزمون اصلی؛ کشت برای **مقاومت به ماکرولید** و اپیدمیولوژی.
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/bordetella-charcoal-agar.jpg" width="300" alt="bordetella-charcoal-agar"><br><sub><b>شکل ۱۱.۲۷.</b> کلنی‌های <i>B. pertussis</i> روی آگار زغال با سفالکسین پس از ۷ روز (۱۰٪ CO₂)<br>منبع: Nathan Reading from Halesowen, UK، <a href="https://commons.wikimedia.org/wiki/File:Bordetella_pertussis_on_Charcoal_Agar_supplemented_with_Cephalexin.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td></tr></table>
+
 ## ج۵. محیط‌های دیفتری: تلوریت، تینزدیل، لوفلر
 | محیط | اساس | تفسیر | کاربرد |
 |---|---|---|---|
@@ -268,6 +304,10 @@
 - **تأیید:** شناسایی (MALDI-TOF)، و **مهم‌تر از همه، آزمون تولید توکسین**: **Elek** (ایمونودیفیوژن) یا **PCR ژن *tox*** (وجود ژن ≠ بیان؛ NTTB: سویه‌های *tox* مثبت غیرتوکسیژنیک) ← آزمایشگاه مرجع.
 - **QC:** *C. diphtheriae* سویهٔ **غیرتوکسیژنیک** مرجع (طبق IFU/آزمایشگاه مرجع) برای رشد و هاله در تینزدیل؛ *S. aureus* ATCC 25923 (مهار روی محیط‌های تلوریت).
 - ⚠️ **اورژانس بهداشتی**: هر شک بالینی ← **تماس فوری** با آزمایشگاه مرجع و بهداشت؛ ایمنی کارکنان (واکسیناسیون).
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/tinsdale-corynebacterium.jpg" width="300" alt="tinsdale-corynebacterium"><br><sub><b>شکل ۱۱.۲۸.</b> کلنی‌های قهوه‌ای تیره تا سیاه <i>C. diphtheriae</i> روی آگار تینزدیل<br>منبع: Unknown author Unknown author، <a href="https://commons.wikimedia.org/wiki/File:CDC_15191_(1979).png">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="Assets/images/tinsdale-corynebacterium-2.jpg" width="300" alt="tinsdale-corynebacterium-2"><br><sub><b>شکل ۱۱.۲۹.</b> کلنی‌های سیاه با هالهٔ تیره روی آگار تینزدیل (کشت سواب حلق)<br>منبع: Unknown author Unknown author، <a href="https://commons.wikimedia.org/wiki/File:CDC_16561_(1970).png">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 ---
 
@@ -282,6 +322,10 @@
 - **کاربرد:** غربالگری ناقلین *S. aureus* (بینی) در محیط‌های قدیمی‌تر؛ امروزه **کروموژنیک *S. aureus*/MRSA** (گروه ۵) ترجیح دارد.
 - **QC:** *S. aureus* ATCC 25923 (رشد، زرد)؛ *S. epidermidis* ATCC 12228 (رشد، صورتی)؛ *E. coli* ATCC 25922 (مهار).
 - ⚠️ **کوآگولاز** از کلنی MSA ممکن است تحت تأثیر قرار گیرد (به‌ویژه لاتکس) ← تأیید از آگار خون. انتروکوکوس‌ها گاه رشد می‌کنند.
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/msa-aureus-cons.jpg" width="300" alt="msa-aureus-cons"><br><sub><b>شکل ۱۱.۳۰.</b> <i>S. aureus</i> (کلنی زرد) و استافیلوکوکوس‌های کوآگولاز منفی (کلنی صورتی) روی مانیتول سالت آگار<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Staphylococcus_aureus_(yellow_colonies)_and_CoNS_(pink_colonies)_on_Mannitol_salt_agar_(MSA).jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/msa-aureus-epidermidis.jpg" width="300" alt="msa-aureus-epidermidis"><br><sub><b>شکل ۱۱.۳۱.</b> <i>S. aureus</i> و <i>S. epidermidis</i> روی مانیتول سالت آگار، ۲۴ ساعت<br>منبع: HansN.، <a href="https://commons.wikimedia.org/wiki/File:Mannitol_salt_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr></table>
 
 ---
 

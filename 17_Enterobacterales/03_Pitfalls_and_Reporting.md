@@ -22,6 +22,10 @@
 | **تخمیرکنندگان دیررس لاکتوز** | *Citrobacter*، *Serratia*، *S. sonnei* در ۲۴ ساعت لاکتوز منفی | **ONPG** |
 | **hvKp** | string test حساس و اختصاصی نیست | بالین (آبسهٔ کبدی، متاستاز) + در صورت نیاز ژن‌ها (*rmpA*، *iuc*) در آزمایشگاه مرجع |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/proteus-swarming-2.jpg" width="300" alt="proteus-swarming-2"><br><sub><b>شکل ۱۷.۱۶.</b> سوارم <i>Proteus</i> روی آگار خون‌دار: موج‌های هم‌مرکز رشد که سطح پلیت را می‌پوشاند<br>منبع: Microrao، <a href="https://commons.wikimedia.org/wiki/File:Proteus_swarming_on_blood_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ## ۲. MALDI-TOF در این گروه
 - برای اکثر جنس‌ها **عالی**.
 - ⚠️ **محدودیت‌ها:** *E. coli*/*Shigella* (جدا نمی‌کند)؛ گونه‌های *E. cloacae* complex؛ *Salmonella* فقط تا **جنس** (سروتیپ نه)؛ *K. pneumoniae*/*K. variicola*.

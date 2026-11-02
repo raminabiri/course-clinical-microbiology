@@ -51,4 +51,6 @@
 ## پیش‌نیاز
 ماژول‌های [۱۴](../14_GPC_Catalase_Negative/README.md) (کوکسی گرم مثبت کاتالاز منفی؛ GBS/GAS)، [۱۶](../16_Gram_Negative_Cocci/README.md) (کوکسی گرم منفی)، [۲۲](../22_Anaerobes/README.md) (بی‌هوازی)، [۲۴](../24_Non_Culturable/README.md) (کلامیدیا، مایکوپلاسما، اسپیروکت‌ها).
 
+**تصاویر:** ۱۲ عکس و ۰ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
 </div>

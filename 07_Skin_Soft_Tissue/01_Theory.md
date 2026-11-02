@@ -28,6 +28,10 @@
 | ضایعات مزمن گرانولوماتوز | | NTM (*M. marinum*، *M. ulcerans*، سریع‌الرشدها پس از تزریق/مزوتراپی)، *Nocardia* (نوکاردیوز پوستی/لنفوکوتانه)، *Actinomyces*، سل پوستی؛ (لیشمانیوز و اسپوروتریکوز در افتراق) |
 | مایستوما | | *Nocardia*، *Actinomadura*، *Streptomyces* (اکتینومایستوما)؛ (قارچی: اومایستوما) |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/impetigo-elbow.jpg" width="300" alt="impetigo-elbow"><br><sub><b>شکل ۷.۰۱.</b> زرد زخم روی آرنج: ضایعات دلمه‌دار روی پوست ملتهب<br>منبع: Evanherk at Dutch Wikipedia، <a href="https://commons.wikimedia.org/wiki/File:Impetigo_elbow.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></sub></td></tr></table>
+
 ## ۲. عوامل خطر
 - **MRSA جامعه:** ورزش‌های تماسی، زندان/سربازخانه، تزریق مواد، تماس نزدیک با فرد مبتلا، عفونت‌های عودکننده.
 - **فاشئیت نکروزان:** دیابت، اعتیاد تزریقی، جراحی/تروما، آبله‌مرغان در کودکان (GAS)، NSAIDها (پوشاندن علائم).

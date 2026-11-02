@@ -93,4 +93,6 @@
 - ماژول‌های خانواده: [۱۳](../13_GPC_Catalase_Positive/README.md) (استافیلوکوکوس‌ها)، [۱۴](../14_GPC_Catalase_Negative/README.md) (انتروکوکوس، GBS، *Aerococcus*)، [۱۵](../15_Aerobic_GPB/README.md) (*Corynebacterium*)، [۱۷](../17_Enterobacterales/README.md) (Enterobacterales)، [۱۹](../19_Non_Fermenters/README.md) (*Pseudomonas*)، [۲۳](../23_Mycobacteria/README.md) (سل ادراری)
 - واژه‌نامه: [Shared/Glossary_FA_EN.md](../Shared/Glossary_FA_EN.md)
 
+**تصاویر:** ۱۳ عکس و ۰ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
 </div>

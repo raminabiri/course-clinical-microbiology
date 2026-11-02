@@ -49,6 +49,10 @@
 - **اکسیداز را از MAC انجام ندهید** (اسید و رنگ ← نتیجهٔ نادرست).
 - *Vibrio*، *Aeromonas*: روی MAC رشد می‌کنند؛ *Aeromonas* ممکن است لاکتوز مثبت باشد ← **اکسیداز مثبت** (از BA)!
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/macconkey-lf-nlf.jpg" width="300" alt="macconkey-lf-nlf"><br><sub><b>شکل ۱۱.۰۸.</b> کلنی‌های تخمیرکنندهٔ لاکتوز (LF، صورتی) و غیرتخمیرکننده (NLF) روی مک‌کانکی آگار<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Lactose_fementing_(LF),_and_non-lactose_fermenting_(NLF)_colonies_on_MacConkey_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/macconkey-klebsiella-mucoid.jpg" width="300" alt="macconkey-klebsiella-mucoid"><br><sub><b>شکل ۱۱.۰۹.</b> کلنی‌های موکوئید تخمیرکنندهٔ لاکتوز <i>Klebsiella pneumoniae</i> روی مک‌کانکی آگار، ۲۴ ساعت<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Mucoid_lactose_fermenter_(MLF)_colonies_of_Klebsiella.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr><tr><td align="center" width="50%"><img src="Assets/images/macconkey-proteus-nlf.jpg" width="300" alt="macconkey-proteus-nlf"><br><sub><b>شکل ۱۱.۱۰.</b> کلنی‌های بی‌رنگ غیرتخمیرکنندهٔ لاکتوز <i>Proteus hauseri</i> روی مک‌کانکی آگار<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Proteus_hauseri_on_MacConkey_agar.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr></table>
+
 ---
 
 ## ۲.۲ آگار ائوزین متیلن بلو (EMB)
@@ -78,6 +82,10 @@
 - جلای سبز **اختصاصی *E. coli* نیست** (برخی *Citrobacter* و *Enterobacter*).
 - حساس به نور؛ با زمان تیره می‌شود.
 - در بسیاری از آزمایشگاه‌ها **MAC جایگزین** شده است.
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/emb-ecoli-sheen-2.jpg" width="300" alt="emb-ecoli-sheen-2"><br><sub><b>شکل ۱۱.۱۱.</b> کلنی‌های <i>E. coli</i> با جلای فلزی سبز روی آگار EMB<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:E._coli_on_Eosin-Methylene_Blue_(EMB)_Agar_Plate_showing_growth_with_green-metallic_sheen_colonies.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ---
 
@@ -164,6 +172,10 @@
 - همولیز را نشان نمی‌دهد ← GBS یا استرپتوکوکوس در ادرار ممکن است از دست برود.
 - *Shigella* ممکن است به‌علت کمبود الکترولیت رشد ضعیف کند.
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/cled-lf-nlf.jpg" width="300" alt="cled-lf-nlf"><br><sub><b>شکل ۱۱.۱۲.</b> کلنی‌های تخمیرکنندهٔ لاکتوز (زرد) و غیرتخمیرکننده (آبی) روی آگار CLED<br>منبع: Microrao JJMMC, Davangere, Karnataka, India، <a href="https://commons.wikimedia.org/wiki/File:Lactose_non_lactose_fermenters_on_CLED_agar.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+
 ---
 
 ## ۲.۶ محیط‌های کروموژنیک ادرار
@@ -185,6 +197,10 @@
 - ✓ شناسایی **احتمالی** سریع؛ تشخیص آسان **کشت مخلوط**؛ کاهش تست‌های تأییدی.
 - ✗ گران؛ **تأیید** شناسایی (MALDI-TOF یا بیوشیمیایی) در موارد بالینی مهم لازم است؛ رنگ‌ها بین سازندگان متفاوت است.
 - QC طبق IFU (معمولاً *E. coli* ATCC 25922، *K. pneumoniae* ATCC 13883، *E. faecalis* ATCC 29212، *P. mirabilis* ATCC 12453).
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/uti-chromogenic-agar.jpg" width="300" alt="uti-chromogenic-agar"><br><sub><b>شکل ۱۱.۱۳.</b> آگار کروموژنیک ادرار (UTI agar): از جمله <i>E. coli</i> (صورتی)، انتروکوکوس (سبز-آبی فیروزه‌ای) و <i>Klebsiella</i> (آبی تیره)<br>منبع: Stefan Walkowski، <a href="https://commons.wikimedia.org/wiki/File:UTI_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ---
 

@@ -49,4 +49,6 @@
 ## پیش‌نیاز
 ماژول‌های [۰۷](../07_Skin_Soft_Tissue/README.md) (پوست و بافت نرم)، [۱۳](../13_GPC_Catalase_Positive/README.md) (استافیلوکوکوس‌ها)، [۱۹](../19_Non_Fermenters/README.md) (غیرتخمیری‌ها)، [۲۲](../22_Anaerobes/README.md) (بی‌هوازی‌ها)، [۲۳](../23_Mycobacteria/README.md) (مایکوباکتری‌ها).
 
+**تصاویر:** ۱۰ عکس و ۰ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
 </div>

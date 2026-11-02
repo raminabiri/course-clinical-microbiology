@@ -33,6 +33,10 @@
 - **رنگ گرم مستقیم** و **بو** (بوی متعفن = بی‌هوازی) ارزشمندند ← [08_Wound_Tissue](../08_Wound_Tissue/README.md).
 - محیط‌ها: آگار خون بی‌هوازی، **BBE**، **KVLB**، **PEA**، **EYA**، تیوگلیکولات؛ **۴۸ ساعت** تا **۵–۷ روز** (*Actinomyces*، *Cutibacterium* تا **۱۴ روز**) ← [11_Culture_Media/06](../11_Culture_Media/06_Anaerobic.md).
 
+**تصاویر:** ۱۷ عکس و ۰ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/gaspak-jar.jpg" width="300" alt="gaspak-jar"><br><sub><b>شکل ۲۲.۰۱.</b> جار بی‌هوازی (GasPak) برای ایجاد محیط بدون اکسیژن<br>منبع: Netha Hussain، <a href="https://commons.wikimedia.org/wiki/File:Gas-Pak_jar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr></table>
+
 ## ایمنی
 ***C. botulinum***: توکسین بسیار قوی ← نمونه‌ها (سرم، مدفوع، غذا) **بدون کشت** به **آزمایشگاه مرجع** ارسال شوند؛ اطلاع فوری به بهداشت. سایر بی‌هوازی‌ها BSL-2.
 

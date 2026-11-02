@@ -24,6 +24,10 @@
 | **باسیل‌های گرم مثبت منشعب، دانه‌دار** | ***Nocardia*** ← اسیدفست اصلاح‌شده ← 📞 |
 | PMN بدون ارگانیسم | آتیپیک (*Legionella*، *Mycoplasma*)، ویروس، آنتی‌بیوتیک قبلی |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/gram-sputum-pneumococcus.jpg" width="300" alt="gram-sputum-pneumococcus"><br><sub><b>شکل ۶.۰۲.</b> رنگ‌آمیزی گرم خلط: <i>Streptococcus pneumoniae</i> کپسول‌دار در نمونهٔ بالینی<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Encapsulated_strain_of_Streptococcus_pneumoniae_in_clinical_sample_sputum_Gram_staining.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ### ۱-۳) گزارش ETA/BAL
 - **سلول‌ها:** PMN (نیمه‌کمّی)، SEC، **ماکروفاژ آلوئولار** (نشانهٔ نمونهٔ تحتانی)
 - **ارگانیسم‌ها:** نیمه‌کمّی (نادر/کم/متوسط/فراوان)

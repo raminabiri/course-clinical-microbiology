@@ -32,6 +32,10 @@
   - برخی CoNS، *Corynebacterium* و انتروکوکوس‌ها با رنگ مشابه یا شبیه.
   - **PCR مستقیم** (Xpert MRSA) سریع‌تر است، ولی SCC*mec* dropout ← مثبت کاذب ← [AST/07_Molecular](../AST/07_Molecular/01_Molecular_Resistance.md).
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/mrsa-brilliance.jpg" width="300" alt="mrsa-brilliance"><br><sub><b>شکل ۱۱.۳۲.</b> کلنی‌های MRSA روی آگار کروموژنیک Brilliance MRSA<br>منبع: Nathan Reading on Flickr Nathan R. on twitter، <a href="https://commons.wikimedia.org/wiki/File:MRSA_on_Brilliance_MRSA_Chromogenic_Agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td></tr></table>
+
 ## ۵.۲ کروموژنیک VRE (CHROMagar VRE، Brilliance VRE، chromID VRE، VRESelect)
 - **اساس:** سوبستراهای β-گلوکوزیداز و α-گالاکتوزیداز + **ونکومایسین (۶–۸ mg/L)** + مهارکننده‌های گرم منفی.
 - **رنگ نمونه:** chromID VRE: ***E. faecium* بنفش**، ***E. faecalis* آبی-سبز**؛ Brilliance VRE: *E. faecium* **بنفش/ایندیگو**، *E. faecalis* **آبی روشن**.

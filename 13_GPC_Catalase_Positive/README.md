@@ -32,4 +32,6 @@
 - آنتی‌بیوگرام: [AST/03_Other_Resistance/01_Staphylococcus.md](../AST/03_Other_Resistance/01_Staphylococcus.md) · [پنی‌سیلیناز](../AST/02_Beta_Lactamases/02_Staph_Penicillinase.md)
 - ماژول‌های نمونه: [01_Blood_Culture](../01_Blood_Culture/README.md) · [07_Skin_Soft_Tissue](../07_Skin_Soft_Tissue/README.md) · [02_Urine](../02_Urine/README.md)
 
+**تصاویر:** ۱۱ عکس و ۰ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
 </div>

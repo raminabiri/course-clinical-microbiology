@@ -74,6 +74,10 @@
 
 5. استایلت را جای‌گذاری و سوزن را خارج کنید. پانسمان استریل بگذارید.
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/csf-lp-performed.jpg" width="300" alt="csf-lp-performed"><br><sub><b>شکل ۳.۰۱.</b> انجام LP: سوزن در محل و جمع‌آوری CSF در لولهٔ کوچک؛ پوست کمر با ضدعفونی‌کنندهٔ یددار آماده شده است<br>منبع: Brainhell، <a href="https://commons.wikimedia.org/wiki/File:Wikipedian_getting_a_lumbar_puncture_(2006).jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></sub></td></tr></table>
+
 ### ۴-۵) پس از نمونه‌گیری
 - برچسب: نام و شناسه، **شمارهٔ لوله**، **محل نمونه (کمری/بطنی/شانت)**، تاریخ و ساعت دقیق، آنتی‌بیوتیک قبلی و زمان آن، تشخیص بالینی.
 - لوله‌ها را **بلافاصله با دست** (نه سیستم پنوماتیک، مگر با کیسهٔ ایمن و تأیید سیاست محلی) به آزمایشگاه بفرستید.

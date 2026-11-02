@@ -49,4 +49,8 @@
 | *K. kingae* | ماژول ۰۸؛ ماژول خانواده [۲۰](../../20_Fastidious_GNB/README.md) |
 | *N. gonorrhoeae* | ماژول ۰۵؛ ماژول خانواده [۱۶](../../16_Gram_Negative_Cocci/README.md) |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/bacillus-cereus-blood-agar.jpg" width="300" alt="bacillus-cereus-blood-agar"><br><sub><b>شکل ۹.۰۹.</b> کلنی‌های <i>Bacillus cereus</i> با همولیز روی آگار خون گوسفند<br>منبع: CDC/ Courtesy of Larry Stauffer, Oregon State Public Health Laboratory، <a href="https://commons.wikimedia.org/wiki/File:Bacillus_cereus_01.png">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="../Assets/images/pseudomonas-aeruginosa-mha.jpg" width="300" alt="pseudomonas-aeruginosa-mha"><br><sub><b>شکل ۹.۱۰.</b> رنگدانهٔ سبز منتشر <i>Pseudomonas aeruginosa</i> در آگار مولر–هینتون (پلیت آنتی‌بیوگرام)<br>منبع: Stefan Walkowski، <a href="https://commons.wikimedia.org/wiki/File:Pseudomonas_aeruginosa_antibiogram.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 </div>

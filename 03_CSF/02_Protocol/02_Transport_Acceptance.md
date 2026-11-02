@@ -23,6 +23,10 @@
 
 > 🔬 **پیشرفته — محیط Trans-Isolate:** محیطی دوفازی (آگار + براث) برای انتقال CSF در شرایطی که امکان کشت فوری نیست؛ برای بازیابی مننگوکوکوس، پنوموکوکوس و هموفیلوس. در نظام مراقبت مننژیت و ارسال به آزمایشگاه مرجع کاربرد دارد. پس از تلقیح در ۳۵–۳۷ °C انکوبه و درپوش آن پس از ۲۴ ساعت با سوزن استریل تهویه می‌شود (طبق دستورالعمل WHO/CDC).
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/csf-biphasic-culture.jpg" width="300" alt="csf-biphasic-culture"><br><sub><b>شکل ۳.۰۲.</b> کشت CSF در محیط دوفازی Trans-Isolate: بدون رشد (چپ) و با رشد قابل‌مشاهده (راست)<br>منبع: Bondarev.gal، <a href="https://commons.wikimedia.org/wiki/File:CSF_culture_in_Biphasic_Media.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a></sub></td></tr></table>
+
 ## ۴. اولویت‌بندی حجم کم
 اگر حجم کافی برای همهٔ درخواست‌ها نیست، **با پزشک تماس بگیرید**. در غیاب دستور، این اولویت را به‌کار ببرید:
 

@@ -40,4 +40,6 @@
 - آنتی‌بیوگرام: [اصول AST روده‌ای](../04_Gastrointestinal/03_Antibiogram/01_Principles.md) · [CLSI M45](../04_Gastrointestinal/03_Antibiogram/02_CLSI.md) · [EUCAST *Campylobacter* و *H. pylori*](../04_Gastrointestinal/03_Antibiogram/03_EUCAST.md) · [مولکولی: ۲۳S rRNA](../AST/07_Molecular/01_Molecular_Resistance.md)
 - ماژول‌های نمونه: [04_Gastrointestinal](../04_Gastrointestinal/README.md) · [01_Blood_Culture](../01_Blood_Culture/README.md)
 
+**تصاویر:** ۸ عکس و ۰ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
 </div>

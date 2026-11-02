@@ -34,6 +34,10 @@
 - **BAL**، **PSB** و بیوپسی
 - **ETA**: برخی آزمایشگاه‌ها معیار متفاوت دارند (مثلاً رد اگر **SEC بیش از ۱۰ و بدون باکتری**)؛ نمونه‌های ETA با **«عدم وجود باکتری» در گرم** ارزش اخباری منفی بالایی برای VAP دارند
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/gram-sputum-pus-cells.jpg" width="300" alt="gram-sputum-pus-cells"><br><sub><b>شکل ۶.۰۱.</b> رنگ‌آمیزی گرم خلط با PMN فراوان (۱۰۰۰×)<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Sputum_in_Gram_stain_showing_plenty_of_pus_cells.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ## ۳. معیار رد و اقدام
 
 | مشکل | اقدام |

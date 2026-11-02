@@ -11,6 +11,10 @@
 | سبز، بدبو | *Salmonella* |
 | شکل‌دار | برای CDI و کشت معمولاً نامناسب |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/rice-water-stool.jpg" width="300" alt="rice-water-stool"><br><sub><b>شکل ۴.۰۲.</b> مدفوع «برنج‌آب» بیمار مبتلا به وبا<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Cholera_patient_rice_water_stool.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ## ۲. نشانگرهای التهاب
 
 | آزمایش | اصل | تفسیر | محدودیت |
@@ -32,6 +36,10 @@
 - **مهار حرکت با آنتی‌سرم O1** (یا O139) ← تأیید احتمالی سریع
 - حساسیت محدود؛ تأیید با کشت
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/gram-vibrio-cholerae-cdc.jpg" width="300" alt="gram-vibrio-cholerae-cdc"><br><sub><b>شکل ۴.۰۳.</b> باسیل‌های گرم منفی خمیده (ویرگولی) <i>Vibrio cholerae</i> در رنگ‌آمیزی گرم<br>منبع: CDC، <a href="https://commons.wikimedia.org/wiki/File:Vibrio_cholerae_gram_stain_CDC.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+
 ## ۵. آزمون‌های آنتی‌ژنی/توکسینی مستقیم
 
 | آزمون | هدف | جایگاه |
@@ -48,6 +56,10 @@
 - بیوپسی در محیط اوره + شناساگر pH (مثلاً CLOtest)
 - *H. pylori* اوره‌آز قوی ← قلیایی ← تغییر رنگ (زرد به قرمز/صورتی) **ظرف ۱ تا ۲۴ ساعت**
 - حساسیت حدود ۹۰٪؛ ⚠️ منفی کاذب با PPI، آنتی‌بیوتیک، بیسموت، خونریزی گوارشی فعال
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/rapid-urease-test-pl.jpg" width="300" alt="rapid-urease-test-pl"><br><sub><b>شکل ۴.۰۴.</b> کیت تست اوره‌آز سریع برای <i>Helicobacter pylori</i>؛ راهنمای رنگ روی کیت: زرد = منفی، قرمز = مثبت<br>منبع: Louve.pl، <a href="https://commons.wikimedia.org/wiki/File:Rapid_urease_test.JPG">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ## ۷. گزارش
 - «لاکتوفرین مدفوع: مثبت.»

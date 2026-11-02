@@ -48,6 +48,10 @@
   - یا **کاتتر/SPA** (اگر نیاز به نتیجهٔ قطعی و درمان فوری است).
 - **کیسه:** فقط پس از تمیزکردن و خشک‌کردن پرینه؛ هر ۳۰–۶۰ دقیقه بررسی و در صورت عدم ادرار، کیسه تعویض شود. نمونه را **بلافاصله** از کیسه به ظرف استریل منتقل کنید.
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/ur-monovette.jpg" width="300" alt="ur-monovette"><br><sub><b>شکل ۲.۰۱.</b> ظرف استریل جمع‌آوری ادرار میانی (MSU) همراه سرنگ انتقال (Monovette) برای ارسال به آزمایشگاه<br>منبع: Whispyhistory، <a href="https://commons.wikimedia.org/wiki/File:Monovette.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ## ۵. نمونه از کاتتر دائم
 1. لوله را **زیر پورت نمونه‌گیری** برای ۱۰–۳۰ دقیقه کلمپ کنید (برای جمع‌شدن ادرار تازه). کلمپ طولانی نشود.
 2. پورت را با **الکل ۷۰٪** ضدعفونی و خشک کنید.

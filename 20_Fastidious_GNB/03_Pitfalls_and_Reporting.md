@@ -20,6 +20,10 @@
 | ***Legionella* با آنتی‌ژن ادراری** | فقط **سروگروه ۱ *L. pneumophila*** | کشت BCYE و PCR برای سایر گونه‌ها و اپیدمیولوژی |
 | ***Legionella* در رنگ گرم** | بسیار کم‌رنگ یا مشاهده نمی‌شود | فوشین بازی به‌عنوان رنگ متقابل؛ گیمنز |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/legionella-gram.jpg" width="300" alt="legionella-gram"><br><sub><b>شکل ۲۰.۱۲.</b> <i>Legionella pneumophila</i> در رنگ‌آمیزی گرم: باسیل‌های گرم منفی باریک، کم‌رنگ و گاه رشته‌ای<br>منبع: CDC-PHIL، <a href="https://commons.wikimedia.org/wiki/File:LegionellaPneumophila_Gram.jpg">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="Assets/images/legionella-dfa.jpg" width="300" alt="legionella-dfa"><br><sub><b>شکل ۲۰.۱۳.</b> <i>L. pneumophila</i> در رنگ‌آمیزی ایمونوفلورسانس<br>منبع: CDC-PHIL، <a href="https://commons.wikimedia.org/wiki/File:LegionellaPneumophila_IF.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr><tr><td align="center" width="50%"><img src="Assets/images/legionella-bcye.jpg" width="300" alt="legionella-bcye"><br><sub><b>شکل ۲۰.۱۴.</b> کلنی‌های <i>L. pneumophila</i> روی BCYE<br>منبع: Turasayb، <a href="https://commons.wikimedia.org/wiki/File:BCYE.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/legionella-colonies.jpg" width="300" alt="legionella-colonies"><br><sub><b>شکل ۲۰.۱۵.</b> کلنی‌های <i>L. pneumophila</i> (پیکان‌ها) در کنار کلنی‌های دیگر<br>منبع: CDC-PHIL، <a href="https://commons.wikimedia.org/wiki/File:LegionellaPneumophila_Kolonie.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+
 ## ۲. MALDI-TOF در این گروه
 - **خوب:** *H. influenzae* (با احتیاط در برابر *H. haemolyticus*)، *H. parainfluenzae*، HACEK، *Capnocytophaga*، *Bordetella*، *Legionella* (تا جنس).
 - ⚠️ **استفاده نشود:** *Brucella*، *Francisella* (خطر ایمنی + پایگاه IVD ندارد) ← [12/05](../12_Identification_Tests/05_Identification_Systems.md).

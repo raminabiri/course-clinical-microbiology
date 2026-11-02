@@ -50,4 +50,6 @@
 - آنتی‌بیوگرام: CLSI **M45** (*Vibrio*، *Aeromonas*، *Pasteurella*؛ M100-Ed36 فقط به M45 ارجاع می‌دهد) ← [AST/05](../AST/05_Fastidious_Anaerobes/README.md)
 - ماژول‌های نمونه: [01_Blood_Culture](../01_Blood_Culture/README.md) · [04_Gastrointestinal](../04_Gastrointestinal/README.md) · [07_Skin_Soft_Tissue](../07_Skin_Soft_Tissue/README.md) · [08_Wound_Tissue](../08_Wound_Tissue/README.md)
 
+**تصاویر:** ۸ عکس و ۰ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
 </div>

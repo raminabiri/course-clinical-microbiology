@@ -24,6 +24,10 @@ flowchart TD
 
 > ⚠️ **فشار مثبت بطری:** گاز تولیدی (به‌ویژه گرم منفی‌ها و کلستریدیوم‌ها) می‌تواند هنگام برداشت با سرنگ باعث **پاشیدن** شود. از **وسیلهٔ ونت/تخلیهٔ ایمن** (Venting/subculture unit) یا سرنگ با سوزن ایمن استفاده کنید. ⛔ هرگز سوزن را درپوش‌گذاری مجدد نکنید.
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/bc-bactec-positive-serratia.jpg" width="300" alt="bc-bactec-positive-serratia"><br><sub><b>شکل ۱.۰۱.</b> بطری کشت خون BACTEC مثبت با کدورت محیط (<i>Serratia marcescens</i>)<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Positive_BD_Bactec_blood_culture_vial_expressing_turbidity-Serratia_marcescens.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr></table>
+
 ## ۳. رنگ‌آمیزی گرم
 
 ### ۳-۱) روش
@@ -51,12 +55,20 @@ flowchart TD
 | مخمر | کاندیدا (خارج از دامنه) | گزارش بحرانی 📞 |
 | چند مورفولوژی | عفونت چندمیکروبی (منشأ شکمی، زخم) یا آلودگی | ساب‌کالچر کامل شامل بی‌هوازی |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/bc-gram-gpc.jpg" width="300" alt="bc-gram-gpc"><br><sub><b>شکل ۱.۰۲.</b> رنگ‌آمیزی گرم از بطری کشت خون مثبت: کوکسی گرم مثبت<br>منبع: Spicy، <a href="https://commons.wikimedia.org/wiki/File:Blood_culture_gram_stain_of_Gram_positive_cocci.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="../Assets/images/bc-brucella-gram.jpg" width="300" alt="bc-brucella-gram"><br><sub><b>شکل ۱.۰۳.</b> کوکوباسیل‌های گرم منفی بسیار ریز و کم‌رنگ <i>Brucella</i> (CDC)<br>منبع: CDC/Courtesy of Larry Stauffer, Oregon State Public Health Laboratory، <a href="https://commons.wikimedia.org/wiki/File:Brucella_spp.JPG">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+
 ### ۳-۳) دام‌های تفسیر گرم ⚠️
 - *Acinetobacter* ممکن است **گرم مثبت** (رنگ‌بری ناکافی) یا کوکوئید مشاهده شود.
 - *Bacillus* و *Clostridium* در کشت قدیمی ممکن است **گرم منفی یا متغیر** مشاهده شوند.
 - پنوموکوکوس **اتولیزشده** ممکن است گرم منفی یا گرم متغیر مشاهده شود.
 - مخمرها گرم مثبت درشت‌اند و گاه با کوکسی خوشه‌ای اشتباه می‌شوند (اندازه را مقایسه کنید).
 - *Streptococcus* در براث ممکن است **کوکوباسیلی** (به‌ویژه NVS) مشاهده شود.
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/bc-candida-gram-culture.jpg" width="300" alt="bc-candida-gram-culture"><br><sub><b>شکل ۱.۰۴.</b> سلول‌های مخمری گرم مثبت <i>Candida albicans</i> (گسترش از کشت)؛ اندازهٔ آن‌ها از کوکسی بسیار بزرگ‌تر است<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Yeast_cells_of_Candida_albicans_in_Gram_staining_of_culture_microscopy.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr></table>
 
 ## ۴. بطری مثبت، گرم منفی («بدون ارگانیسم»)
 

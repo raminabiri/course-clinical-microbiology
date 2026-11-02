@@ -32,6 +32,10 @@
 | **K/K** یا **K/NC** (بدون تغییر) | **غیرتخمیری** (گلوکز را تخمیر نمی‌کند) | ***P. aeruginosa***، *Acinetobacter*، *Stenotrophomonas*، *Alcaligenes* |
 | **سیاهی کامل عمق** | H₂S زیاد (عمق را **اسیدی** فرض کنید؛ H₂S فقط در محیط اسیدی تولید می‌شود) | *Salmonella*، *Proteus* |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/tsi-reactions.jpg" width="300" alt="tsi-reactions"><br><sub><b>شکل ۱۱.۴۰.</b> واکنش‌های TSI، از چپ: شاهد بدون تلقیح، <i>P. aeruginosa</i>، <i>E. coli</i>، <i>S.</i> Typhimurium (H₂S +)، <i>Shigella</i><br>منبع: Y_tambe، <a href="https://commons.wikimedia.org/wiki/File:TSIagar.JPG">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/tsi-reactions-2.jpg" width="300" alt="tsi-reactions-2"><br><sub><b>شکل ۱۱.۴۱.</b> ترکیب‌های مختلف واکنش شیب/عمق و H₂S در آگار TSI<br>منبع: Microrao، <a href="https://commons.wikimedia.org/wiki/File:TSI_agar.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+
 ### نکات تفسیری مهم
 - **TSI در برابر KIA:** *Yersinia enterocolitica*، *Vibrio cholerae*، برخی *Proteus vulgaris*، *Providencia* و *Serratia* ساکارز مثبت‌اند ← در TSI **A/A** ولی در KIA **K/A**. ⇐ KIA برای غربالگری *Salmonella*/*Shigella* اختصاصی‌تر است.
 - **خوانش زودهنگام** (کمتر از ۱۸ ساعت) ← **A/A کاذب** (قلیایی شدن شیب هنوز رخ نداده). **خوانش دیر** (بیش از ۲۴ ساعت) ← **K/K کاذب** (مصرف کامل قند و پپتون).
@@ -81,6 +85,10 @@
 - **تتراتزولیوم (TTC)** در برخی فرمول‌ها ← رشد **قرمز** ← خوانش آسان‌تر تحرک.
 - **QC (SIM):** *E. coli* ATCC 25922 (ایندول +، متحرک، H₂S −)؛ *S.* Typhimurium ATCC 14028 (H₂S +، متحرک، ایندول −)؛ *K. pneumoniae* ATCC 13883 (همه −، بی‌حرکت)؛ (MIO: *K. aerogenes* (نام قدیم *Enterobacter aerogenes*) ATCC 13048: اورنیتین +، متحرک).
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/sim-ecoli.jpg" width="300" alt="sim-ecoli"><br><sub><b>شکل ۱۱.۴۲.</b> <i>E. coli</i> در SIM: H₂S منفی، ایندول مثبت (پس از معرف کواکس)، متحرک<br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Escherichia_coli_in_SIM_Agar_07.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/sim-salmonella.jpg" width="300" alt="sim-salmonella"><br><sub><b>شکل ۱۱.۴۳.</b> <i>S.</i> Typhimurium در SIM: H₂S مثبت (سیاهی)، ایندول منفی، متحرک<br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Salmonella_Typhimurium_in_SIM_Agar_127.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr><tr><td align="center" width="50%"><img src="Assets/images/sim-shigella.jpg" width="300" alt="sim-shigella"><br><sub><b>شکل ۱۱.۴۴.</b> <i>Shigella sonnei</i> در SIM: H₂S منفی، ایندول منفی، غیرمتحرک<br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Shigella_sonnei_in_SIM_Agar_126.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ---
 
 ## ۸.۴ سیترات سیمونز (Simmons Citrate)
@@ -90,6 +98,10 @@
 - ۳۵°C، تا **۴ روز**.
 - **مثبت:** *Klebsiella*، *Enterobacter*، *Citrobacter*، *Salmonella* (اکثر؛ **S. Typhi و Paratyphi A منفی**)، *Serratia*، *P. aeruginosa*. **منفی:** *E. coli*، *Shigella*، *Edwardsiella*، *Morganella*.
 - **QC:** *K. pneumoniae* ATCC 13883 (آبی)؛ *E. coli* ATCC 25922 (سبز، بدون رشد).
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/citrate-simmons-pos-neg.jpg" width="300" alt="citrate-simmons-pos-neg"><br><sub><b>شکل ۱۱.۴۵.</b> سیترات سیمونز: بدون تغییر (سبز، چپ) و مثبت با قلیایی شدن (آبی، راست)<br>منبع: Jnjoffin، <a href="https://commons.wikimedia.org/wiki/File:Citrate_Simmons_DSCN0604.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ---
 
@@ -118,6 +130,10 @@
 - ⚠️ ترتیب معرف‌های VP **مهم** است (α-نفتول اول)؛ بیش از ۱ ساعت ← صورتی کاذب (مس و کراتین).
 - **QC:** *E. coli* ATCC 25922 (MR +، VP −)؛ *K. aerogenes* ATCC 13048 (MR −، VP +).
 - **IMViC** (ایندول، MR، VP، سیترات): *E. coli* **++−−**؛ *K. pneumoniae* **−−++** (کلاسیک).
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/methyl-red-test.jpg" width="300" alt="methyl-red-test"><br><sub><b>شکل ۱۱.۴۶.</b> آزمون MR: <i>E. coli</i> مثبت (قرمز، چپ) و <i>Enterobacter cloacae</i> منفی (زرد، راست)<br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Methylrot_Probe_methyl_red_test.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/vp-enterobacter.jpg" width="300" alt="vp-enterobacter"><br><sub><b>شکل ۱۱.۴۷.</b> آزمون VP مثبت (صورتی-قرمز) با <i>Enterobacter cloacae</i><br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Enterobacter_cloacae_Voges-Proskauer_test.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr><tr><td align="center" width="50%"><img src="Assets/images/vp-cosenzaea-neg.jpg" width="300" alt="vp-cosenzaea-neg"><br><sub><b>شکل ۱۱.۴۸.</b> آزمون VP منفی با <i>Cosenzaea myxofaciens</i><br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Cosenzaea_myxofaciens_Voges-Proskauer_test.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/imvic-results.jpg" width="300" alt="imvic-results"><br><sub><b>شکل ۱۱.۴۹.</b> نتایج مثبت و منفی آزمون‌های IMViC: ایندول، MR، VP و سیترات<br>منبع: Own work، <a href="https://commons.wikimedia.org/wiki/File:IMViC_Results.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr></table>
 
 ---
 
@@ -190,6 +206,10 @@
 - **مثبت:** تقریباً **همهٔ Enterobacterales** (برخی سویه‌های *Pantoea*، *Serratia* و *Erwinia* استثنا)؛ *P. aeruginosa* (تا N₂)؛ *M. catarrhalis*؛ *N. mucosa*؛ *Kingella denitrificans* (*K. kingae* منفی)؛ *M. tuberculosis* (آزمون نیترات ویژه). **منفی:** *Acinetobacter*، *N. gonorrhoeae*، *N. meningitidis*، *Bordetella pertussis*.
 - **QC:** *E. coli* ATCC 25922 (+، قرمز در مرحلهٔ ۱)؛ *Acinetobacter baumannii* ATCC 19606 (−؛ قرمز پس از روی)؛ *P. aeruginosa* ATCC 27853 (+ تا N₂؛ بی‌رنگ پس از روی، گاز).
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/nitrate-ecoli.jpg" width="300" alt="nitrate-ecoli"><br><sub><b>شکل ۱۱.۵۰.</b> احیای نیترات مثبت با <i>E. coli</i> (رنگ قرمز پس از افزودن معرف‌ها)<br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Test_auf_Nitratreduktion_nitrate_reducase_test.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr></table>
+
 ---
 
 ## ۸.۱۲ بایل اسکولین (Bile Esculin Agar, BEA)
@@ -199,6 +219,10 @@
 - **افتراق انتروکوکوس و *S. gallolyticus*:** **NaCl ۶٫۵٪** (انتروکوکوس +، *S. gallolyticus* −) و **PYR** (انتروکوکوس +، *S. gallolyticus* −).
 - **QC:** *E. faecalis* ATCC 29212 (رشد، سیاه)؛ *S. pyogenes* ATCC 19615 (بدون رشد/سیاه شدن).
 - ⚠️ **اسکولین براث/دیسک بدون صفرا** ← آزمون **هیدرولیز اسکولین** جدا (برای *Listeria*، *Aeromonas*، بی‌هوازی‌ها)؛ با BEA اشتباه نشود.
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/bile-esculin-pos-neg.jpg" width="300" alt="bile-esculin-pos-neg"><br><sub><b>شکل ۱۱.۵۱.</b> آزمون بایل اسکولین: منفی (چپ) و مثبت با سیاه شدن محیط (راست)<br>منبع: Microrao، <a href="https://commons.wikimedia.org/wiki/File:Bile_esculin_agar_test.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/bile-esculin-enterococcus.jpg" width="300" alt="bile-esculin-enterococcus"><br><sub><b>شکل ۱۱.۵۲.</b> <i>Enterococcus faecalis</i> روی بایل اسکولین آگار با سیاه شدن محیط<br>منبع: Pavel Dušek، <a href="https://commons.wikimedia.org/wiki/File:Enterococcus_faecalis-bile_esculin.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a></sub></td></tr></table>
 
 ---
 

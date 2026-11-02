@@ -80,6 +80,10 @@ flowchart TD
 | باسیل گرم منفی متوسط | Enterobacterales، *Pseudomonas*، *Acinetobacter* | نوزاد، جراحی؛ *Acinetobacter* گاه کوکوباسیل و شبیه نایسریا |
 | باسیل گرم مثبت پلئومورف (شانت) | *Cutibacterium acnes* یا دیفتروئید | |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/csf-meningococcus-gram.jpg" width="300" alt="csf-meningococcus-gram"><br><sub><b>شکل ۳.۰۳.</b> گرم CSF (۱۰۰۰×): دیپلوکوک گرم منفی همراه PMN فراوان؛ از کشت این نمونه <i>Neisseria meningitidis</i> رشد کرد<br>منبع: Microman12345، <a href="https://commons.wikimedia.org/wiki/File:Neisseria_meningitidis_CSF_Gram_1000.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="../Assets/images/csf-pneumo-fa-cdc.jpg" width="300" alt="csf-pneumo-fa-cdc"><br><sub><b>شکل ۳.۰۴.</b> دیپلوکوک‌های <i>Streptococcus pneumoniae</i> در CSF با رنگ‌آمیزی ایمونوفلورسانس (FA، رنگ دیجیتال؛ CDC)<br>منبع: CDC/Dr. M.S. Mitchell، <a href="https://commons.wikimedia.org/wiki/File:Pneumococcus_CDC_PHIL_ID1003.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+
 ### ۵-۳) عملکرد
 
 | شرایط | حساسیت تقریبی گرم |
@@ -122,6 +126,10 @@ flowchart TD
 | **زیل–نلسون / کینیون** | ظن TB | حساسیت در CSF پایین (کمتر از ۲۰٪ در روش معمول)؛ با **حجم زیاد (≥ ۱۰ mL)** و بررسی طولانی (۳۰ دقیقه) و رنگ‌آمیزی لخته افزایش می‌یابد |
 | آکریدین اورنج | گرم مشکوک یا منفی با سلول بالا | حساس‌تر از گرم برای باکتری‌های کم‌تعداد؛ نیاز به میکروسکوپ فلورسنت |
 | مرکب چین (India ink) | کریپتوکوکوس (خارج از دامنه) | آنتی‌ژن کریپتوکوکوس (CrAg) بسیار حساس‌تر است |
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/csf-crypto-india-ink.jpg" width="300" alt="csf-crypto-india-ink"><br><sub><b>شکل ۳.۰۵.</b> مرکب چین در CSF: سلول‌های مخمری <i>Cryptococcus</i> با هالهٔ شفاف کپسول<br>منبع: Ed Uthman from Houston, TX, USA، <a href="https://commons.wikimedia.org/wiki/File:Cryptococcus_in_cerebrospinal_fluid,_India_ink_prep._(49623531757).jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td></tr></table>
 
 ## ۸. تست‌های آنتی‌ژنی سریع
 

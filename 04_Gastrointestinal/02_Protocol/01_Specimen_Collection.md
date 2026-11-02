@@ -17,6 +17,10 @@
    - **محیط انتقال Cary-Blair** (تا خط پرکردن؛ مخلوط کنید)
 3. برچسب و درخواست: **اسهال خونی؟ مسافرت؟ غذای دریایی؟ تماس با دام؟ شیوع؟ آنتی‌بیوتیک؟ بستری؟**
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/stool-container.jpg" width="300" alt="stool-container"><br><sub><b>شکل ۴.۰۱.</b> ظرف استریل درپیچ‌دار نمونهٔ مدفوع با قاشقک متصل به درپوش<br>منبع: Whispyhistory، <a href="https://commons.wikimedia.org/wiki/File:Stool_specimen_container.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ### ۱-۳) سواب رکتال
 - فقط وقتی مدفوع ممکن نیست (شیرخوار، بیمار بدحال) یا برای **غربالگری CRE/VRE**.
 - سواب را **۲–۳ cm از اسفنکتر عبور دهید**، بچرخانید. **آلودگی مدفوعی قابل مشاهده** روی سواب لازم است.

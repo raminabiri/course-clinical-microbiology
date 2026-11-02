@@ -53,4 +53,8 @@
 | *M. catarrhalis* | **نیتروسفین** کافی است (> ۹۰٪ +)؛ AST معمول لازم نیست؛ در صورت نیاز CLSI **M45** یا EUCAST | [پنی‌سیلیناز و بتالاکتاماز](../AST/02_Beta_Lactamases/02_Staph_Penicillinase.md) |
 | *Neisseria* همسفره | نقاط برش اختصاصی ندارند؛ در اندوکاردیت MIC (نوار گرادیان) با تفسیر محتاطانه یا ارسال به آزمایشگاه مرجع | [AST/05](../AST/05_Fastidious_Anaerobes/README.md) |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/moraxella-catarrhalis-ast.jpg" width="300" alt="moraxella-catarrhalis-ast"><br><sub><b>شکل ۱۶.۰۹.</b> آنتی‌بیوگرام <i>Moraxella catarrhalis</i>: مقاومت به آمپی‌سیلین؛ رنگ قرمز دیسک β (نیتروسفین) تولید بتالاکتاماز را تأیید می‌کند<br>منبع: Dr Graham Beards، <a href="https://commons.wikimedia.org/wiki/File:M._cat_BSAC.JPG">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr></table>
+
 </div>

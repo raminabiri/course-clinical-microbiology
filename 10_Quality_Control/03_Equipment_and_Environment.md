@@ -15,6 +15,10 @@
 | **دستگاه کشت خون** | دما، خودآزمایی حسگرها، بطری‌های منفی/مثبت طبق سازنده | روزانه/طبق سازنده | ← [01_Blood_Culture/08](../01_Blood_Culture/02_Protocol/08_QC_Biosafety.md) |
 | **MGIT** | دما، کالیبراسیون، بطری‌های کنترل | طبق سازنده | ← [11/07](../11_Culture_Media/07_Mycobacterial.md) |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/laboratory-incubator.jpg" width="300" alt="laboratory-incubator"><br><sub><b>شکل ۱۰.۰۱.</b> انکوباتور آزمایشگاهی<br>منبع: Frankincense Diala، <a href="https://commons.wikimedia.org/wiki/File:Laboratory_Incubator;_from_a_medical_laboratory_in_Abuja,_Nigeria.png">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td><td align="center" width="50%"><img src="Assets/images/gaspak-anaerobic-jar.jpg" width="300" alt="gaspak-anaerobic-jar"><br><sub><b>شکل ۱۰.۰۲.</b> جار بی‌هوازی از نوع GasPak<br>منبع: Netha Hussain، <a href="https://commons.wikimedia.org/wiki/File:Gas-Pak_jar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr></table>
+
 ## ۲. نگهداری سرد و ذخیره
 
 | تجهیز | محدوده | تواتر |
@@ -38,6 +42,10 @@
 | **سانتریفیوژ** | **درپوش ایمنی (safety cup)** برای نمونه‌های مایکوباکتری و خطرناک؛ سرعت و زمان | کالیبراسیون دوره‌ای |
 | **کیت ریخت‌وپاش** | موجودی و تاریخ ضدعفونی‌کننده | ماهانه |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/biosafety-cabinet.jpg" width="300" alt="biosafety-cabinet"><br><sub><b>شکل ۱۰.۰۳.</b> کابینت ایمنی زیستی (BSC) در آزمایشگاه BSL-2<br>منبع: Darja.Lavogina، <a href="https://commons.wikimedia.org/wiki/File:Laminaar_TYKI_DL20221105.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ## ۴. ابزار اندازه‌گیری و دستگاه‌های شناسایی
 
 | تجهیز | چه چیزی | تواتر رایج |
@@ -49,6 +57,10 @@
 | **سیستم‌های خودکار شناسایی/AST** | QC سازنده و CLSI؛ به‌روزرسانی نرم‌افزار و نقاط برش | طبق سازنده؛ هر نسخهٔ جدید نقاط برش ← [AST/09](../AST/09_Breakpoints/README.md) |
 | **میکروسکوپ فلورسنت** | ساعت کار لامپ، تراز، لام کنترل | طبق سازنده؛ لام کنترل هر روز کار |
 | **آب** | کیفیت آب مقطر/دیونیزه برای محیط و معرف | دوره‌ای؛ برای رنگ‌آمیزی AFB: **آب استریل/فیلترشده** (جلوگیری از *M. gordonae*) |
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/mcfarland-standards.jpg" width="300" alt="mcfarland-standards"><br><sub><b>شکل ۱۰.۰۴.</b> استانداردهای مک‌فارلند ۰٫۵، ۱ و ۲ (از چپ به راست)<br>منبع: User:Akaniji، <a href="https://commons.wikimedia.org/wiki/File:McFarland_standards.JPG">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a></sub></td></tr></table>
 
 ## ۵. محیط کار
 - جداسازی **فضاهای مولکولی** (پیش از تکثیر، تکثیر، پس از تکثیر) و جریان یک‌طرفه ← جلوگیری از **آلودگی آمپلیکون**؛ پاک‌سازی سطوح با هیپوکلریت.

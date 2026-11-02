@@ -26,6 +26,10 @@
 | **سراسر، یکنواخت** | **مقاوم به هوا (Aerotolerant)** (*Streptococcus*، *Lactobacillus*) |
 | **کمی زیر سطح** | **میکروآئروفیل** (*Campylobacter*) |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/oxygen-requirement-thioglycollate.jpg" width="300" alt="oxygen-requirement-thioglycollate"><br><sub><b>شکل ۱۱.۱۴.</b> الگوهای رشد متفاوت بر اساس نیاز به اکسیژن در تیوگلیکولات براث (لولهٔ A: شاهد بدون تلقیح)<br>منبع: Eunice Laurent، <a href="https://commons.wikimedia.org/wiki/File:Oxygen_requirement_of_bacteria.png">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ### کاربرد
 - **بک‌آپ** برای نمونه‌های **استریل و ارزشمند**: بافت، مایع مفصلی، **ایمپلنت/سونیکات**، آبسهٔ مغزی، استخوان.
 - کشت **بی‌هوازی** کمکی.

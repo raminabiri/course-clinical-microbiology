@@ -38,4 +38,6 @@
 - آنتی‌بیوگرام: [AST/03_Other_Resistance/02_Enterococcus.md](../AST/03_Other_Resistance/02_Enterococcus.md) · [03_Streptococci.md](../AST/03_Other_Resistance/03_Streptococci.md)
 - ماژول‌های نمونه: [01_Blood_Culture](../01_Blood_Culture/README.md) · [03_CSF](../03_CSF/README.md) · [05_Genital](../05_Genital/README.md) (GBS) · [06_Respiratory](../06_Respiratory/README.md) · [07_Skin_Soft_Tissue](../07_Skin_Soft_Tissue/README.md)
 
+**تصاویر:** ۱۲ عکس و ۰ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
 </div>

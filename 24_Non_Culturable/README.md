@@ -41,6 +41,10 @@
 | *Coxiella* | **سرولوژی IFA** (فاز I و II)؛ PCR (حاد، دریچه) | سرم، بافت دریچه |
 | *Rickettsia* | **سرولوژی IFA** (دو نمونه)؛ **PCR اسکار/بیوپسی پوست** | سرم، بیوپسی |
 
+**تصاویر:** ۱۲ عکس و ۰ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/tpallidum-steiner.jpg" width="300" alt="tpallidum-steiner"><br><sub><b>شکل ۲۴.۰۱.</b> اسپیروکت‌های <i>T. pallidum</i> در بافت؛ رنگ‌آمیزی نقره (استاینر اصلاح‌شده)<br>منبع: CDC، <a href="https://commons.wikimedia.org/wiki/File:Treponema_pallidum_01.png">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="Assets/images/borrelia-recurrentis-cdc.jpg" width="300" alt="borrelia-recurrentis-cdc"><br><sub><b>شکل ۲۴.۰۲.</b> طرح آموزشی CDC از <i>Borrelia recurrentis</i> (عامل تب راجعهٔ شپشی)<br>منبع: CDC، <a href="https://commons.wikimedia.org/wiki/File:Borrelia_recurrentis_CDC.png">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+
 ## ایمنی
 *C. psittaci*، *Coxiella* و *Rickettsia* در کشت **BSL-3**؛ کشت آن‌ها فقط در آزمایشگاه مرجع. کشت *Leptospira* و سرم‌های بیماران BSL-2.
 

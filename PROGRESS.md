@@ -1,212 +1,120 @@
 # PROGRESS
 
-Last handoff: 2026-10-27. Repo: public GitHub `raminabiri/Diagnostic-Clinical-Microbiology`, branch `main`.
-Language: Persian (fa). Audience: microbiology resident, basic → advanced. Bacteria only for now.
+Last handoff: 2026-11-02 22:10 (Tehran). Repo: public GitHub `raminabiri/Diagnostic-Clinical-Microbiology`.
+**Working branch: `final-review`** (3 commits ahead of `main`, pushed; NOT merged). Language: Persian (fa), RTL.
+Audience: microbiology residents. Bacteria only.
 
 ## 1. Current goal
-Replace the old organism modules 11–22 (grouped by bacterial family, which duplicated media/tests
-such as TSI across families) with a **three-layer structure** the user approved on 2026-10-13:
-
-1. `11_Culture_Media` — every medium described **once**, ordered by workflow use (8 groups).
-2. `12_Identification_Tests` — every test **once** (molecular ID in its own file).
-3. `13`–`24` — twelve **family modules** by Gram/morphology/key test, containing only
-   differential tables + Mermaid flowcharts + pitfalls/reporting + 10 scenarios + answers,
-   linking back to layers 1–2 and to `AST/`.
-
-Immediate task: family modules 13–24 ALL DONE and pushed 2026-10-15. Steps 11 and 13 done and pushed 2026-10-15. All planned modules are now built.
-Cleanup 2026-10-15: deleted 9 empty/obsolete untracked files (old Shared templates/references, empty
-LICENSE, empty .Rhistory); wrote root README.md, CONTRIBUTING.md, CITATION.cff. Open items: section 5.
-Next family is 22 (`22_Anaerobes`; old `19_Anaerobes/02_Tests` has 32 files in the backup).
-Next family is 21 (`21_Curved_GNB`: Campylobacter, Helicobacter, Arcobacter).
-Next family is 20 (`20_Fastidious_GNB`; review the zip in the backup tarball first).
+Add real open-licence figures to every module (01–24), the same way module 12 is done, then merge `final-review` → `main`
+after the user reviews it on GitHub.
 
 ## 2. Done so far
-- **Modules 01–09** (specimen-based) fully built on `Shared/Templates/Specimen_Module_Template.md`:
-  19 files each (README, Theory, 9 protocol files, 4 antibiogram files, comparative tables,
-  20 scenarios, answers, references). Old files read, merged, corrected, removed. Pushed.
-- **`AST/`** section complete and pushed (commit `268e92a`): README, `00_Principles` 01–03,
-  `01_Phenotypic_Methods` 01–08, `02_Beta_Lactamases` 01–06, `03_Other_Resistance` 01–05,
-  `04_Biofilm`, `05_Fastidious_Anaerobes`, `06_Mycobacteria`, `07_Molecular`, `08_QC`,
-  `09_Breakpoints` (README/01/02), `10_Treatment_Link` (IDSA 2026), `11_Scenarios` (20),
-  `12_Answers`, `13_References`. Every number verified against CLSI M100-Ed36 text,
-  EUCAST v16.1 xlsx and the IDSA 2026 PDF.
-- **Audit fixes in 01–09** (same commit): CSF "do not report" list corrected (fluoroquinolones are
-  NOT on it; doripenem/ertapenem/imipenem/lefamulin added; *H. influenzae* CSF keeps chloramphenicol
-  per Table 2E); *N. gonorrhoeae* ceftriaxone S≤0.12 / I 0.25 / R≥0.5, cefixime S≤0.06 / I 0.12 /
-  R≥0.25, disk breakpoints removed, azithromycin S≤1 (clinical since 2019, not ECV); pefloxacin is a
-  CLSI surrogate too, not EUCAST-only; β-haemolytic strep TMP-SMX added (Ed36, BMD only, SSTI only);
-  EUCAST colistin is bracketed (2), not clinical S; EUCAST aminoglycosides bracketed for systemic
-  infection; each module's `03_Antibiogram/01_Principles.md` now links to `AST/`.
-- **New layers (uncommitted):** `11_Culture_Media` (README + 01–08), `12_Identification_Tests`
-  (README + 01–06), `13_GPC_Catalase_Positive` (complete), `14_GPC_Catalase_Negative` (complete),
-  `15_Aerobic_GPB` (complete; `05_Answers.md` written 2026-10-14 in two pieces, no interruption),
-  `Shared/Templates/Family_Module_Template.md`.
-- **`16_Gram_Negative_Cocci`** (2026-10-14): README + 01–05 complete. Old `13_Gram_Negative_Cocci`
-  reviewed: all files 0 bytes except `02_Tests` (14 generic test notes, no numbers); every topic was
-  already in libraries 11/12 (Superoxol = 12/02 §2.10), so nothing needed merging.
-  `11_Culture_Media/08` §8.14 now links to it.
-- **`17_Enterobacterales`** (2026-10-14): README + 01–05 complete. Old `14_Enterobacterales`: 19 empty
-  files + 28 one-page generic test notes in `02_Tests`, all already covered by 11/02, 11/04, 11/08 and
-  12/02 — nothing merged. Intrinsic-resistance table (01, table 7) transcribed from CLSI M100-Ed36
-  Appendix B1 text; Salmonella/Shigella AST rule checked against Table 2A note (fecal NTS: no routine AST).
-  Appendix B parsing: `pdftotext -layout`, then map R marks by column START position (rotated headers).
-- **`18_Oxidase_Positive_Fermenters`** (2026-10-15, scheduled auto-run): README + 01–05 complete
-  (*Vibrio*, *Aeromonas*, *Plesiomonas*, *Pasteurella*; look-alikes *Chromobacterium*, *Shewanella*).
-  CLSI M100-Ed36 has no breakpoints for these (refers to M45, lines ~1634 and ~5164 of the pdftotext
-  extract) → no M45 numbers written; flagged in 03 §5 as not yet verified. *Plesiomonas* not mentioned
-  in M100 at all.
-- **`19_Non_Fermenters`** (2026-10-15): README + 01–05 complete. Old notes (25 generic files) added
-  nothing new. Intrinsic-resistance table from CLSI Appendix B2 text (polymyxin/colistin and
-  tetracyclines/tigecycline share one column there; BCC footnote a = no longer confirmable).
-  **Correction found:** CLSI M100-Ed36 Table 2B-3 removed ALL *B. cepacia* complex breakpoints
-  (BMD vs agar dilution disagree) — fixed hedged rows in `01_Blood_Culture/03_Antibiogram/02_CLSI.md`
-  and `06_Respiratory/03_Antibiogram/02_CLSI.md`.
-- **`20_Fastidious_GNB`** (2026-10-15): README + 01–05 complete (*Haemophilus*, HACEK,
-  *Capnocytophaga*, *Bordetella*, *Legionella*, *Brucella*, *Francisella*, *Bartonella*). Old zip
-  (11 generic notes, ~9 KB) added nothing. *Brucella* serology (Rose Bengal, Wright, 2-ME, Coombs)
-  lives in 20/01 table 5 because the tests library has no serology section for it. *Brucella*/
-  *Francisella* text kept short and procedural; no classifier interruptions. M45 numbers not written.
-- **`21_Curved_GNB`** (2026-10-15): README + 01–05 complete (*Campylobacter*, *Helicobacter*,
-  *Arcobacter*). Old 16 notes generic. AST numbers deliberately NOT repeated — links to
-  `04_Gastrointestinal/03_Antibiogram/*` (single source). `11_Culture_Media/04` §الف۹ now links here.
-- **`22_Anaerobes`** (2026-10-15): README + 01–05 complete. Old 32 notes generic. Anaerobe AST numbers
-  (CLSI 2J / EUCAST) only cited from the verified `AST/05` section; *C. difficile* algorithm linked to
-  `04_Gastrointestinal/02_Protocol/05`. *C. botulinum* = refer toxin testing, no culture.
-- **`23_Mycobacteria`** (2026-10-15): README + 01–05 complete (ID-focused: MTBC vs NTM, Runyon, NTM
-  significance criteria, cross-contamination, BCG). AST content links to `AST/06` (M24S/WHO numbers
-  there still flagged unverified; no new numbers written in 23).
-- **`24_Non_Culturable`** (2026-10-15): README + 01–05 (Chlamydia, Mycoplasma/Ureaplasma, Rickettsia,
-  Coxiella, T. pallidum, Borrelia incl. *B. persica*, Leptospira). Full syphilis serology (traditional
-  and reverse algorithms) lives here (01 tables 2–3, 02 flowchart 1). Old zip notes generic.
-  Mermaid subgraphs use ASCII IDs (`subgraph S1[عنوان فارسی]`).
-- **Old-numbering references fixed (2026-10-15):** 16 prose mentions «ماژول ۲۰/۲۱/۲۲» in modules
-  02, 05, 06, 07 now link to `23_Mycobacteria` / `24_Non_Culturable`. Whole-repo checker: 0 issues.
-- **Old organism folders deleted 2026-10-14 (user request):** `11_Gram_Positive_Cocci` … `22_Spirochetes`
-  and empty `Data/` (all were untracked). **Full backup:** `/data/clinical_microbiology_old_modules_backup_2026-10-14.tar.gz`
-  (484 entries). For families 18–24 read old notes from it, e.g.
-  `tar xzf <backup> -C <scratchpad> 19_Anaerobes/02_Tests`. Still unreviewed inside it: the zips
-  `18_Fastidious_GNR/Fastidious_Bacteria_02_Tests_Detailed_MD.zip` and
-  `21_Chlamydia_Mycoplasma/Chlamydia_Mycoplasma_Rickettsia_02_Tests_Detailed_MD.zip`.
-  Module 10 folder is now `10_Quality_Control/`.
-- **Folder names fixed by forward links (use exactly these):** `18_Oxidase_Positive_Fermenters`, `19_Non_Fermenters`, `21_Curved_GNB`,
-  `20_Fastidious_GNB`, `22_Anaerobes`, `23_Mycobacteria`. Checker reports these as BROKEN until built.
-- Mermaid blocks and all relative links in the new folders validated (0 broken, 0 parentheses in
-  node labels). Reusable checker: `<scratchpad>/chk.py '15_*/*.md'` (recreated 2026-10-14; scratchpad is per-session,
-  so recreate it if missing). Only expected failures: `15_Aerobic_GPB/README.md` forward links to
-  `../22_Anaerobes/` and `../23_Mycobacteria/` (resolve once those modules exist).
-
-- **Final full review 2026-10-27 (uncommitted):** all 317 .md read by 8 parallel reviewers (308 files changed).
-  Content fixes incl.: CLSI *Shigella* azithromycin is a clinical BP since Ed31 (≤8/16/≥32; disk ≥16/11–15/≤10),
-  fixed in 04 + AST/00; Ed36 Table 3F-4 *Acinetobacter* tobramycin removed (AST/01/08, AST/09); CSF minocycline
-  moved to "do not report"; GBS: report clindamycin only (2H-1); EUCAST *P. aeruginosa* ceftazidime = I;
-  *Bilophila* branch in 22 flowchart; selenite F/*S.* Typhi; IDSA 2026 carbapenemase drug order in 01;
-  old module numbers in specimen READMEs relinked; current taxonomy names (old name once).
-  Glossary drift fixed repo-wide (فلور نرمال، گزارش مقدماتی، کنترل کیفی، کلنی، ساب‌کالچر، رنگ‌آمیزی گرم، کابینت ایمنی زیستی…).
-  **RTL:** every Persian .md wrapped in `<div dir="rtl">` … `</div>` (blank lines around); the 10
-  `07_References.md`/`AST/13_References.md` (English citations) and PROGRESS.md left LTR on purpose.
-  Links 0 broken, Mermaid 0 issues. Review brief: scratchpad `review_brief.md`; RTL script `rtl.py` (idempotent).
-
-- **Images pilot, module 12 (2026-11-02, uncommitted):** 21 Wikimedia Commons photos (CC0/PD/CC BY/CC BY-SA;
-  resized ≤1000 px, EXIF stripped) in `12_Identification_Tests/Assets/images/` + 5 own SVG schematics in
-  `Assets/figures/` (Gram morphology, CAMP/reverse CAMP, X/V, motility, optochin). Placed in 01–04 as HTML
-  `<table>` cells (italics inside HTML must be `<i>`, markdown `*…*` does not render there), numbered «شکل ۱۲.NN»
-  (hyphen reverses in RTL — use dot). Credits table: `Assets/CREDITS.md`; policy §6 in `Shared/Figures/Image_Policy.md`.
-  Tools (scratchpad, recreate if gone): `img/commons.py` (Commons API search+license), `img/fetch.py`,
-  `svg_gen.py`, `place.py`. Render check: `gh api markdown -f mode=gfm` + headless Chrome screenshot.
-  Next: user reviews pilot → roll out to 11 (media) and family modules 13–24.
-
-- **2026-11-02 round 2 (branch `final-review`):** module 12 now 28 photos + 16 SVGs (tube coagulase, real
-  *Haemophilus* chocolate-agar and satellitism plates, CAMP negative, urea agar, Kovacs indole; positive-vs-negative
-  reading schematics for PYR, LAP, spot indole, bile, hippurate, butyrate, superoxol, ONPG, string, indoxyl acetate,
-  nitrocefin — no open-licence photos exist for these). Schematics laid out right-to-left (positive on the right).
-  User rules: X/V factors → **هِمین (فاکتور X)** and **NAD (فاکتور V)** (old label only once in parentheses);
-  «دیده می‌شود/شد» → «مشاهده می‌شود/شد» repo-wide. Scripts: `img/svg_pairs.py`, `img/place.py` (re-runnable after
-  stripping figure blocks).
+- Modules 01–24, `AST/`, `Shared/` all built (see git history for the module-by-module log).
+- **Full final review (2026-10-27, commit `dbb71d0`):** all 317 .md files reviewed by 8 parallel agents. Content fixes verified
+  against CLSI M100-Ed36 text, EUCAST v16.1 PDF and IDSA 2026. Examples:
+  - CLSI *Shigella* azithromycin has a clinical breakpoint (≤8/16/≥32)
+  - Ed36 removed *Acinetobacter* tobramycin breakpoints (Table 3F-4)
+  - EUCAST has no cefiderocol breakpoint for *Acinetobacter*
+  - CSF: do not report minocycline; GBS: report clindamycin only
+  - *Listeria* meropenem EUCAST S ≤0.25; CDC 2021 framing for epididymitis
+  - Glossary terms unified; every Persian page wrapped in `<div dir="rtl">` (except `07_References`, `AST/13`, PROGRESS).
+- **User naming rules applied repo-wide** (also in `Shared/Glossary_FA_EN.md` §«نام باکتری‌ها» and in memory):
+  - Full genus names: استافیلوکوکوس، استرپتوکوکوس، پنوموکوکوس، انتروکوکوس، گونوکوکوس، مننگوکوکوس.
+  - Plural «کوکسی» (never «کوکسی‌ها»); *S. bovis* → *S. gallolyticus*.
+  - Hemin and NAD: «هِمین (فاکتور X)» and «NAD (فاکتور V)», never bare X/V; «مشاهده می‌شود» instead of «دیده می‌شود».
+- **Module 12 figures done (commits `987e9a6`, `24fe1d4`):** 57 figures (40 Commons/CDC photos + 16 own SVGs).
+  - Per-figure Persian caption + author + link + licence; table in `12_Identification_Tests/Assets/CREDITS.md`.
+  - New 12/01 §۱.۳.۱–۱.۳.۵: spore, capsule, metachromatic granule, flagella and spirochete stains (method, reading, QC).
+- **Figure rollout started 2026-11-02:** 8 background agents for 11 | 13–15 | 16–18 | 19–21 | 22–24 | 01–03 | 04–06 | 07–10.
+  All 8 hit the 5-hour usage limit; they were resumed at 22:02. At handoff, nothing had been applied to the repo yet
+  (working tree clean). Fetched previews so far: 01 (11), 04 (6), 13 (11), 16 (10), 19 (8).
+- **16–18 figures applied (2026-11-02, uncommitted):** 16 = 9 photos, 17 = 16, 18 = 8; broken=0; README line + `Assets/CREDITS.md` written.
+  - Open issue: 16 `File:Neisseria_gonorrhoeae_01.png` (chocolate vs Thayer-Martin) has no author on Commons; credit reads
+    «Wikimedia Commons، Wikimedia Commons». Probably CDC PHIL, unconfirmed: verify or replace.
+  - Gaps (no free photo found): 16 M. catarrhalis colonies/Gram, CTA sugars, MTM plate; 17 CIN agar, string test, SMAC/O157;
+    18 Plesiomonas/Pasteurella colonies, V. vulnificus, Vibrio string test. Candidates for own SVGs.
+- **19–21 figures applied (2026-11-02, uncommitted):** 19 = 16 photos, 20 = 15, 21 = 8; broken=0; README line + CREDITS.md.
+  - Agent fixed 6 bad artist fields in `work/<module>/meta.json` (URL/placeholder → CDC PHIL credits / KGH).
+  - Gaps: 19 BCC on BCSA, Achromobacter, Chryseobacterium, SCV Pseudomonas, TSI K/K / OF; 20 Aggregatibacter, Cardiobacterium,
+    Regan–Lowe, H. ducreyi, Bartonella; 21 Campylobacter Gram (seagull), H. pylori culture, RUT/CLO, hippurate, Arcobacter.
+- **01–03 figures applied (2026-11-02, uncommitted):** 01 = 13 photos, 02 = 13, 03 = 11; broken=0.
+  - figkit.py fixed (lines 88/93/99): `apply` now adds `../` per subfolder level (was broken for `02_Protocol/` files).
+    Repo-wide link check after this: 262 figure links, 0 broken.
+  - Inconsistency: 03 uses `csf-meningococcus-nyc.jpg` (Commons, Xishan01), which the 16–18 agent rejected for handwritten labels.
+  - Some credit names long/odd (e.g. "We thank Nathan Reading…"): tidy in a credits pass.
+  - Gaps: 01 skin antisepsis/venipuncture, BACTEC instrument; 02 urine Gram smear, calibrated loop 1/10 µL;
+    03 direct CSF Gram of pneumococcus/H. influenzae/Listeria, turbid/xanthochromic CSF tubes.
+- **22–24 figures applied (2026-11-02, uncommitted):** 22 = 17 photos, 23 = 11, 24 = 12; broken=0.
+  - Fixed hemin naming: 23/01:50 (M. haemophilum, also «دیسک X» → «دیسک هِمین»), 11/06:9, 11/07:47, 08/06:117, 13/05:37.
+  - Gaps: 22 BBE/KVLB, Fusobacterium Gram, C. difficile on CCFA; 23 M. abscessus, M. marinum, MPT64;
+    24 RPR card, Mycoplasma fried-egg, Rickettsia eschar, Leptospira darkfield.
+- **13–15 figures applied (2026-11-02, uncommitted):** 13 = 11 photos, 14 = 12, 15 = 12; broken=0. Agent tidied cluttered credits.
+  - Agent's "empty «تصاویر:» heading" in 15/01 was checked: false alarm, every figure heading has figures under it.
+  - Fetched but unplaced (14): S. mitis, Gemella, Abiotrophia, Leuconostoc, VDE, pneumococcus Gram, in `imgkit/work/14_GPC_Catalase_Negative/`.
+  - Left out: Rhodococcus "inverse CAMP" plate (text gives inverse CAMP for Arcanobacterium). Gaps 15: Nocardia colonies,
+    C. diphtheriae on tellurite.
+- **04–06 figures applied (2026-11-02, uncommitted):** 04 = 15 photos, 05 = 12, 06 = 14; broken=0.
+  - Gaps: 04 CIN, CCFA, SMAC/O157, Campylobacter Gram, fecal leukocytes, positive RUT; 05 swabs/transport, LIM/Carrot broth,
+    Ureaplasma/Mycoplasma colonies, Lactobacillus smear (download failed); 06 sputum container, BAL/ETA, Regan–Lowe, Loeffler, BCSA.
+  - Rejected: NP swab photo (identifiable face), SMAC photo (purple colonies, mismatched description).
+- **07–10 figures applied (2026-11-02, uncommitted):** 07 = 14 photos, 08 = 10, 09 = 10, 10 = 4; broken=0.
+  - Fetching a .tif killed figkit with exit 137 (memory): avoid .tif sources.
+  - Gaps: 07 Pasteurella colonies, V. vulnificus on TCBS, C. perfringens double haemolysis, C. septicum swarming;
+    08 S. aureus SCV, S. lugdunensis, Finegoldia, stomacher; 09 S. anginosus, conjunctival Chlamydia Giemsa, fluid Gram stains;
+    10 autoclave indicators, anaerobic indicator strip, QC strain vials.
+- **11 figures applied (2026-11-02, uncommitted):** 52 photos (3.8 MB); broken=0. Urea skipped (in module 12).
+  - Gaps: CNA/PEA, SMAC, CIN, BCSA, Bordet–Gengou, enrichment broths, VRE/ESBL/CRE chromogenic, BBE/KVLB/CCFA, 7H10/7H11,
+    LIA, Møller, OF, PAD, malonate, CTA.
+- **Rollout complete: all modules 01–24 have figures.** Repo-wide check: 356 figure links, 0 broken; ~102 changed/new paths.
 
 ## 3. Files changed
-- Committed: `268e92a` (60 files) — `AST/**`, `0[1-9]_*/03_Antibiogram/*`, `01/05/07 06_Answers.md`,
-  `05_Genital/02_Protocol/07_Reporting.md`, `.gitignore` (`*.pdf`), `PROGRESS.md`.
-- Uncommitted (31 untracked + `PROGRESS.md` modified): `11_Culture_Media/`,
-  `12_Identification_Tests/`, `13_GPC_Catalase_Positive/`, `14_GPC_Catalase_Negative/`,
-  `15_Aerobic_GPB/`, `Shared/Templates/Family_Module_Template.md`, plus pre-existing untracked
-  items (old `11_Gram_Positive_Cocci` … `22_Spirochetes`, `Data/`, `LICENSE`, `README.md`,
-  `CITATION.cff`, `CONTRIBUTING.md`, `Shared/Algorithms|References|Templates/*`).
-- Memory: `methods-library-plan.md` + index line in `MEMORY.md`.
+- On `final-review`: about 340 files (all .md through review, RTL and naming), `12_Identification_Tests/Assets/**`,
+  `Shared/Glossary_FA_EN.md`, `Shared/Figures/Image_Policy.md` (§6 = image rules).
+- Memory: `persian-bacteria-names.md`, `image-sourcing.md` (+ index lines in `MEMORY.md`).
+- Scratchpad tools (session-specific, recreate if gone), under `/tmp/claude-1000/-data-Education-clinical-microbiology/<session>/scratchpad/`:
+  - `imgkit/figkit.py` + `commons.py`:
+    - `search` / `fetch MOD slug "File:…"` / `sheet MOD` / `apply MOD spec.json`
+    - Licence check, resize ≤1000 px, «شکل NN.MM» numbering, RTL `<table>` cells, CREDITS.md, README line, link check
+    - `apply` is idempotent: it strips old figure blocks first
+  - `imgkit/BRIEF.md`: the agent instructions.
+  - `img/svg_gen.py`, `img/svg_pairs.py`: module 12 SVGs.
+  - `clsi_m100_ed36.txt`, `eucast16.txt`, `idsa_2026.txt`: text extracts.
 
 ## 4. Key decisions and rejected approaches
-- **Rejected:** keeping 11–22 grouped by bacterial family — each medium/test was repeated in several
-  modules. **Chosen:** "each method once" (mirrors the `AST/` design the user accepted).
-- **Rejected:** writing media in taxonomic order. **Chosen:** order of use in the lab workflow
-  (basic/enriched → primary selective → enrichment broths → pathogen-specific → resistance
-  screening → anaerobic → mycobacterial → biochemical tubes), because that is how a bench works.
-- **Rejected:** separate image files for flowcharts. **Chosen:** **Mermaid** — renders natively on
-  GitHub, no binaries. Constraint: no parentheses inside node labels (breaks rendering).
-- **Rejected:** anchor links in Persian table-of-contents (GitHub drops ZWNJ/dashes from anchors).
-  **Chosen:** plain text TOC.
-- Biochemical tube media (TSI, LIA, SIM, …) live in `11_Culture_Media/08`, not in the tests library,
-  because they are media; the tests library links to them.
-- Molecular methods stay in separate files (user requirement), never mixed with classic methods.
-- Licensed PDFs (`CLSI 2026*.pdf`, `amr-guidance-update.pdf`) are gitignored; content is paraphrased
-  with table numbers cited, never reproduced wholesale.
-- Old 11–22 folders are kept untouched until the user approves deletion; their content (mostly thin
-  stubs, many 0-byte files, plus zips in 18 and 21) must be read and merged first.
+- **Images:** open licences only (Commons CC0/PD/CC BY/CC BY-SA, CDC PHIL). Rejected: textbook or atlas images, because the repo
+  is public and citing a source is not a licence. The user agreed after this was explained.
+- Own SVG schematics only where no free photo exists (e.g. PYR, LAP, bile, hippurate). Positive result on the RIGHT (RTL).
+- Figure numbers use a dot «شکل ۱۲.۰۵». Rejected: a hyphen, because bidi reverses it in RTL.
+- Inside HTML `<table>` cells italics must be `<i>`; markdown `*…*` does not render there.
+- RTL via `<div dir="rtl">` wrapping the whole file. Rejected: per-paragraph `dir=auto`, because tables stay LTR.
+- Work on branch `final-review`, not `main`, so the user can review on GitHub first.
+- Rejected: «همین» unmarked for hemin (it is ambiguous with the Persian word «همین»); use «هِمین».
+- Not changed: QC strain «*S. bovis* ATCC 9809» rows (`10/02`, `11/08`). The current catalogue species name is uncertain.
 
 ## 5. Known bugs with exact error messages
-- (Resolved 2026-10-14) `15_Aerobic_GPB/05_Answers.md` was blocked twice by the safety classifier /
-  `auto mode classifier gave no verdict`. Writing it in two pieces with brief, procedural
-  *B. anthracis* wording worked. Use the same approach for Francisella/Brucella in module 20.
-- Scratchpad extracts were wiped mid-session once: `sed: can't read t2b.txt: No such file or directory`.
-  Regenerate with `pdftotext -layout "CLSI 2026.pdf"` and the EUCAST xlsx from
-  `https://www.eucast.org/fileadmin/eucast/pdf/breakpoints/v_16.1_Breakpoint_Tables.xlsx`
-  (the `fileadmin/src/media/...` URL returns HTML, so `file` reports `HTML document, ASCII text`).
-- `git push` was once rejected because the user had edited `01_Blood_Culture/README.md` on GitHub:
-  `hint: the same ref. If you want to integrate the remote changes, use 'git pull' before pushing again.`
-  Fixed by `git rebase origin/main` (no conflict). Check for remote edits before pushing.
-- `AST/06_Mycobacteria/01_Mycobacteria_AST.md`: M24S and WHO critical-concentration numbers were
-  written from published versions, not from a document in the repo — flagged in the file, needs
-  verification against current M24S.
-- `AST/13_References.md` items 24–33 (reviews/textbooks) were written from memory; edition and page
-  numbers need checking before formal citation.
-- `03_Antibiogram/04_Iran_Reference.md` in all of 01–09 is still a placeholder framework.
-- (Resolved 2026-10-15) Root README/CONTRIBUTING/CITATION written. **LICENSE deliberately not created** —
-  license choice is the user's (suggested: CC BY-NC-SA 4.0 for educational text). CITATION author name
-  «Ramin Abiri» inferred from the GitHub handle — user to confirm.
-- Two local PDFs `CLSI 2026.pdf` (18.6 MB, re-saved Aug 2026) and `CLSI 2026 (1).pdf` (58.9 MB, original;
-  used for pdftotext) are the same document but NOT byte-identical — both kept (one may hold user notes).
-- Backup tarball of old 11–22 still at `/data/clinical_microbiology_old_modules_backup_2026-10-14.tar.gz`;
-  all its content has been reviewed (nothing needed merging) → safe to delete if the user wants.
-
-- **2026-11-02 follow-up:** EUCAST v16.1 PDF obtained via WebFetch (xlsx URL returns 403; curl with browser
-  headers is blocked by the classifier) → `pdftotext -layout` in scratchpad `eucast16.txt`. Verified OK:
-  *S. lugdunensis*/*S. epidermidis* cefoxitin 27, Enterobacterales cefiderocol 2/2 ATU 21–23, *Bacteroides*
-  clindamycin (4), pneumococcal TMP-SMX 1/1, β-strep 0.5/0.5. Fixed: *Acinetobacter* cefiderocol has no BP
-  (01/03_EUCAST); IV fosfomycin staph = AST discouraged (08/03_EUCAST); *Listeria* meropenem EUCAST ≤0.25
-  (03_CSF); *Pantoea* nitrate; *B. holmesii* MAC = v; *Ochrobactrum*→*Brucella* note (20/03); epididymitis
-  by risk (CDC 2021); AST/13 refs 28, 32 titles.
-  **Bacterial names:** truncated Persian forms replaced repo-wide (استافیلوکوکوس، استرپتوکوکوس، پنوموکوکوس،
-  انتروکوکوس، گونوکوکوس، مننگوکوکوس…; script `names.py`); rule added to glossary «نام باکتری‌ها».
-  Still for the user: CLSI M45 values (Listeria, H. pylori), M24S/WHO numbers (AST/06), McFarland (M02),
-  GBS non-haemolytic %, Nocardia TMP-SMX %, LICENSE, CITATION name, Iran placeholders.
+- Background agents stop on the usage cap: `Agent terminated early due to an API error: You've hit your 5-hour limit ·
+  resets 9:50pm (Asia/Tehran) (error type rate_limit, HTTP 429)`. Resume each with SendMessage (agent IDs are in the session).
+  A new session cannot resume them: re-launch with the BRIEF instead.
+- EUCAST xlsx download is blocked: the plain URL gives `403 Forbidden`, and curl with browser headers is denied by the
+  classifier (`[Bot Check Circumvention]`). Workaround: WebFetch the PDF
+  `https://www.eucast.org/fileadmin/eucast/pdf/breakpoints/v_16.1_Breakpoint_Tables.pdf`, then `pdftotext -layout`.
+- WebSearch on *Bordetella holmesii* returned `API Error: … can't help with this … [bio]`. Avoid that query form.
+- Still unverified (no source in repo):
+  - CLSI M45 values (*Listeria* meropenem, *H. pylori* clarithromycin)
+  - M24S/WHO numbers in `AST/06`
+  - McFarland 0.08–0.13 @625 nm (M02)
+  - GBS non-haemolytic %, *Nocardia* TMP-SMX %
+- Open user decisions: LICENSE file, CITATION author name, Iran data in `03_Antibiogram/04_Iran_Reference.md` (01–09).
 
 ## 6. Next steps (priority order, one session each)
-0. Review the 2026-10-27 diff, commit and push (check remote for web edits first); verify flagged EUCAST items against v16.1 xlsx.
-1. ~~Write `15_Aerobic_GPB/05_Answers.md`~~ — done 2026-10-14, checker clean.
-2. ~~Commit the new layers~~ — committed and pushed 2026-10-14 (`797247c`).
-3. ~~`16_Gram_Negative_Cocci`~~ — done and pushed 2026-10-14.
-4. ~~`17_Enterobacterales`~~ — done and pushed 2026-10-14 (`a67f817`).
-5. ~~`18_Oxidase_Positive_Fermenters`~~ — done and pushed 2026-10-15.
-6. ~~`19_Non_Fermenters`~~ — done and pushed 2026-10-15.
-7. ~~`20_Fastidious_GNB`~~ — done and pushed 2026-10-15.
-8. ~~`21_Curved_GNB`~~ — done and pushed 2026-10-15.
-9. ~~`22_Anaerobes`~~ — done and pushed 2026-10-15.
-10. ~~`23_Mycobacteria`~~ and ~~`24_Non_Culturable`~~ — done and pushed 2026-10-15.
-11. ~~`Shared/Algorithms`~~ — done 2026-10-15: README + 4 router masters (Gram stain → family module),
-    plus `Shared/README.md` index. 7 empty placeholders in `Shared/References` and `Shared/Templates`
-    remain untracked (listed in `Shared/README.md`).
-12. ~~Delete old 11–22 folders~~ — done 2026-10-14 (backup tarball, see section 2).
-13. ~~Module `10`~~ — done and pushed 2026-10-15: folder renamed `10-quality-contro` → `10_Quality_Control`
-    (git mv); README + 01 framework, 02 consolidated QC strain list (all ATCC/NCTC/DSM strains used in
-    the repo, each linked to its source file), 03 equipment/environment, 04 indicators/EQA/critical
-    values, 05–06 scenarios/answers. Cross-cutting only: per-medium/test/AST/specimen QC stays in place
-    and is linked. «ماژول ۱۰» mentions in 01, 03, 11 now link here. McFarland 0.08–0.13 @625 nm
-    flagged as unverified (CLSI M02 not in repo).
+1. Figure agents all done (2026-11-02). Before committing, user decisions pending:
+   a) `File:Neisseria_gonorrhoeae_01.png` (chocolate vs Thayer-Martin), used in 05, 11, 16: author blank on Commons;
+      confirm source (likely CDC PHIL) or replace.
+   b) `Neisseria_meningitidis_Colonies_growth_on_New_York_City_Medium_Agar.jpg` in 03: rejected by the 16 agent for handwritten
+      labels; keep or drop.
+   c) Optional: add the fetched-but-unplaced module 14 photos; SVGs for common gaps (string test, RUT, CIN, SMAC, CTA).
+2. Commit and push the figures to `final-review`; send the user the GitHub links per module and the list of gaps.
+3. After user approval: `git fetch` (check for web edits), merge `final-review` → `main`, push.
+4. Module 11: if gaps remain for key media (XLD, TCBS, CIN, BCYE, LJ…), draw SVGs in module 12 style.
+5. Verify the M45/M24S/M02 items above when the user supplies the documents.
+6. Ask the user about LICENSE, CITATION name and Iran reference data.

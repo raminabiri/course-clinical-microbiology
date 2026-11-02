@@ -18,6 +18,10 @@ G -->|هر دو مثبت| G1[Proteeae<br/>Proteus، Morganella، Providencia]
 G -->|منفی| H[Salmonella، Shigella، Serratia<br/>Yersinia، Hafnia، Citrobacter]
 ```
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/tsi-reactions-2.jpg" width="300" alt="tsi-reactions-2"><br><sub><b>شکل ۱۷.۰۸.</b> واکنش‌های TSI، از چپ: کنترل تلقیح‌نشده، <i>P. aeruginosa</i> (بدون تخمیر)، <i>E. coli</i> (اسید/اسید، گاز +)، <i>Salmonella</i> Typhimurium (H₂S +) و <i>Shigella</i><br>منبع: Y_tambe، <a href="https://commons.wikimedia.org/wiki/File:TSIagar.JPG">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr></table>
+
 ## فلوچارت ۲: تخمیرکنندگان لاکتوز
 
 ```mermaid
@@ -33,6 +37,10 @@ E -->|LDC + ، ADH −| E1[K. aerogenes]
 E -->|LDC − ، ADH +| E2[E. cloacae complex]
 E -->|LDC − ، H2S +| E3[C. freundii]
 ```
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/ecoli-klebsiella-macconkey.jpg" width="300" alt="ecoli-klebsiella-macconkey"><br><sub><b>شکل ۱۷.۰۹.</b> MacConkey: کلنی‌های صورتی تخمیرکنندهٔ لاکتوز؛ <i>E. coli</i> خشک و <i>K. pneumoniae</i> موکوئید<br>منبع: Microrao، <a href="https://commons.wikimedia.org/wiki/File:E.coli_vs_K.pneumoniae.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/ecoli-emb-sheen.jpg" width="300" alt="ecoli-emb-sheen"><br><sub><b>شکل ۱۷.۱۰.</b> کشت چهاربخشی <i>E. coli</i> روی آگار EMB: کلنی‌های تیره با جلای فلزی سبز<br>منبع: Eunice Laurent، <a href="https://commons.wikimedia.org/wiki/File:E_coli_on_EMB_plate.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr><tr><td align="center" width="50%"><img src="Assets/images/ecoli-biochem.jpg" width="300" alt="ecoli-biochem"><br><sub><b>شکل ۱۷.۱۱.</b> آزمون‌های بیوشیمیایی <i>E. coli</i>: TSI، SIM، سیترات و اوره<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:E._coli_Biochemical_Tests.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/klebsiella-biochem.jpg" width="300" alt="klebsiella-biochem"><br><sub><b>شکل ۱۷.۱۲.</b> آزمون‌های بیوشیمیایی <i>K. pneumoniae</i>: TSI، SIM، سیترات و اوره<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Klebsiella_pneumoniae_Biochemical_Tests.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ## فلوچارت ۳: غیرتخمیرکنندگان لاکتوز و پاتوژن‌های روده‌ای
 
@@ -56,6 +64,10 @@ D -->|TSI K/A بدون H2S ، تحرک 25 +| G[Yersinia یا Hafnia<br/>MALDI-TO
 - **LIA:** *Salmonella* لیزین + (K/K) و *Proteus* دآمیناز + (R/A) است.
 - **MALDI-TOF** *Salmonella* را تا جنس شناسایی می‌کند ولی **سروتیپ نمی‌دهد**؛ *Shigella* را از *E. coli* **جدا نمی‌کند**.
 - سرولوژی **روی کلنی از محیط غیرانتخابی** (آگار خون یا TSI شیب) انجام شود.
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/hektoen-stool.jpg" width="300" alt="hektoen-stool"><br><sub><b>شکل ۱۷.۱۳.</b> کشت مدفوع روی آگار Hektoen: کلنی‌های نارنجی (تخمیر لاکتوز) و کلنی‌های سیاه (تولید H₂S)<br>منبع: Mediocreclementine، <a href="https://commons.wikimedia.org/wiki/File:Hektoen_enteric_agar_stool_culture.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td><td align="center" width="50%"><img src="Assets/images/salmonella-xld-h2s.jpg" width="300" alt="salmonella-xld-h2s"><br><sub><b>شکل ۱۷.۱۴.</b> <i>Salmonella</i> روی آگار XLD: کلنی‌های با مرکز سیاه (تولید H₂S)<br>منبع: Nathan Reading from Halesowen, UK، <a href="https://commons.wikimedia.org/wiki/File:Salmonella_species_growing_on_XLD_agar_-_Showing_H2S_production.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td></tr><tr><td align="center" width="50%"><img src="Assets/images/shigella-sonnei-hektoen.jpg" width="300" alt="shigella-sonnei-hektoen"><br><sub><b>شکل ۱۷.۱۵.</b> کلنی‌های <i>Shigella sonnei</i> روی آگار Hektoen پس از ۴۸ ساعت<br>منبع: Todd Parker, Ph.D., Assoc Director for Laboratory Science, Div of Prep، <a href="https://commons.wikimedia.org/wiki/File:Gram_negative_Shigella_sonnei_bacteria_which_spent_48_hours_cultured_on_Hektoen_enteric_agar.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 ## فلوچارت ۴: کشت خون یا ادرار با Enterobacterales ← مسیر AST
 

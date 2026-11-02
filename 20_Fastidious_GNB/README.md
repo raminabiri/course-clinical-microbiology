@@ -54,4 +54,6 @@
 - آنتی‌بیوگرام: [*Haemophilus* (CLSI Table 2E)](../AST/05_Fastidious_Anaerobes/README.md) · HACEK و *Brucella*: CLSI **M45** · [بتالاکتاماز](../AST/02_Beta_Lactamases/02_Staph_Penicillinase.md)
 - ماژول‌های نمونه: [01_Blood_Culture](../01_Blood_Culture/README.md) · [03_CSF](../03_CSF/README.md) · [06_Respiratory](../06_Respiratory/README.md) · [09_Sterile_Fluids_and_Other](../09_Sterile_Fluids_and_Other/README.md)
 
+**تصاویر:** ۱۵ عکس و ۰ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
 </div>

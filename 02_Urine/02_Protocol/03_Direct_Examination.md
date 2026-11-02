@@ -27,6 +27,10 @@
 - حساسیت ترکیب LE یا نیتریت برای UTI حدود ۷۵–۹۰٪؛ نیتریت به‌تنهایی اختصاصیت بیش از ۹۰٪ ولی حساسیت حدود ۴۵–۶۰٪.
 - ⚠️ در **کودکان کمتر از ۲ سال** ادرار مدت کمی در مثانه می‌ماند؛ نیتریت اغلب منفی است.
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/ur-dipstick-reading.jpg" width="300" alt="ur-dipstick-reading"><br><sub><b>شکل ۲.۰۲.</b> آزمایش ادرار با نوار دیپ‌استیک در آزمایشگاه<br>منبع: Iqbal Osman1 from singapore، <a href="https://commons.wikimedia.org/wiki/File:Urine_dipstick_reading_(14834996677).jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td><td align="center" width="50%"><img src="../Assets/images/ur-dipstick-color-chart.jpg" width="300" alt="ur-dipstick-color-chart"><br><sub><b>شکل ۲.۰۳.</b> خواندن چشمی نوار ادرار با مقایسهٔ رنگ پدها با جدول رنگ سازنده<br>منبع: Hxa098020، <a href="https://commons.wikimedia.org/wiki/File:Visually_read_a_urine_test_strip_by_comparing_it_with_the_color_key_provided_by_the_manufacturer._Color_chart_from_Urinox-10_urine_test_strips_by_Diagnox_is_shown_in_this_image.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ## ۳. میکروسکوپی برای پیوری و باکتریوری
 
 ### ۳-۱) روش‌ها
@@ -49,6 +53,10 @@
 | تریکوموناس | ⚠️ متحرک فقط در نمونهٔ تازه |
 | کریستال استروویت (درب تابوتی) در ادرار قلیایی | ارگانیسم اوره‌آز مثبت |
 | اسپرم در ادرار زن | آلودگی |
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/ur-sediment-pus-bacteria.jpg" width="300" alt="ur-sediment-pus-bacteria"><br><sub><b>شکل ۲.۰۴.</b> میکروسکوپی ادرار در UTI باکتریایی: WBC (سلول چرکی) فراوان و باکتری<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Bacterial_UTI_picture_of_urine_microscopy_showing_plenty_of_pus_cells_and_bacteria.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="../Assets/images/ur-wbc-cast.jpg" width="300" alt="ur-wbc-cast"><br><sub><b>شکل ۲.۰۵.</b> کست WBC در رسوب ادرار<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:WBC_cast_in_urine.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr><tr><td align="center" width="50%"><img src="../Assets/images/ur-yeast-pus.jpg" width="300" alt="ur-yeast-pus"><br><sub><b>شکل ۲.۰۶.</b> WBC و سلول‌های مخمری فراوان در میکروسکوپی ادرار<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Numerous_pus_cells_and_yeast_cells_in_urine.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ## ۴. رنگ‌آمیزی گرم ادرار
 

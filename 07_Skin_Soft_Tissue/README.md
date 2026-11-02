@@ -48,4 +48,6 @@
 ## پیش‌نیاز
 ماژول‌های [۱۳](../13_GPC_Catalase_Positive/README.md) (استافیلوکوکوس‌ها)، [۱۴](../14_GPC_Catalase_Negative/README.md) (استرپتوکوکوس‌ها)، [۱۵](../15_Aerobic_GPB/README.md) (*Bacillus*، *Corynebacterium*، *Erysipelothrix*)، [۱۸](../18_Oxidase_Positive_Fermenters/README.md) (*Vibrio*/*Aeromonas*/*Pasteurella*)، [۲۰](../20_Fastidious_GNB/README.md) (*Capnocytophaga*)، [۲۲](../22_Anaerobes/README.md) (بی‌هوازی‌ها، *Clostridium*).
 
+**تصاویر:** ۱۴ عکس و ۰ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
 </div>

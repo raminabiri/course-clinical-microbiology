@@ -54,6 +54,10 @@
 | **حلالیت در صفرا** (دئوکسی‌کولات سدیم ۱۰٪) | مثبت (تأییدی) |
 | MALDI-TOF | ⚠️ با *S. mitis/oralis* اشتباه می‌شود. تأیید با حلالیت در صفرا یا الگوریتم‌های به‌روز |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/csf-pneumo-columbia.jpg" width="300" alt="csf-pneumo-columbia"><br><sub><b>شکل ۳.۰۶.</b> کلنی‌های موکوئید آلفاهمولیتیک <i>Streptococcus pneumoniae</i> روی آگار کلمبیا با خون اسب (ایزولهٔ ملتحمه)<br>منبع: Nathan Reading on Flickr، <a href="https://commons.wikimedia.org/wiki/File:Streptococcus_pneumoniae_columbia_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td></tr></table>
+
 ### ۶-۲) *Neisseria meningitidis* ☣️
 | ویژگی | نتیجه |
 |---|---|
@@ -66,6 +70,10 @@
 | سروگروه‌بندی | آگلوتیناسیون با آنتی‌سرم A، B، C، W، X، Y یا PCR (فایل مولکولی) |
 | ⚠️ ایمنی | **همهٔ کارها روی ایزوله در BSC کلاس II**؛ به فایل [08_QC_Biosafety.md](08_QC_Biosafety.md) مراجعه کنید |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/csf-meningococcus-nyc.jpg" width="300" alt="csf-meningococcus-nyc"><br><sub><b>شکل ۳.۰۷.</b> کلنی‌های <i>Neisseria meningitidis</i> روی محیط NYC (محیط انتخابی طراحی‌شده برای گونوکوکوس)<br>منبع: Xishan01، <a href="https://commons.wikimedia.org/wiki/File:Neisseria_meningitidis_Colonies_growth_on_New_York_City_Medium_Agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr></table>
+
 ### ۶-۳) *Haemophilus influenzae*
 | ویژگی | نتیجه |
 |---|---|
@@ -76,6 +84,10 @@
 | اقماری (Satellitism) | رشد اطراف خط *S. aureus* روی SBA |
 | تیپ‌بندی کپسولی | آنتی‌سرم تیپ b (و a–f) یا PCR (*bexA* برای کپسول و ژن‌های اختصاصی هر تیپ) |
 | بتالاکتاماز | **تست نیتروسفین (Cefinase) روی همهٔ ایزوله‌های CSF** |
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/csf-hinf-chocolate.jpg" width="300" alt="csf-hinf-chocolate"><br><sub><b>شکل ۳.۰۸.</b> کلنی‌های <i>Haemophilus influenzae</i> روی آگار شکلات پس از ۲۴ ساعت<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Haemophilus_influenzae_colony_morphology_on_chocolate_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ### ۶-۴) *Listeria monocytogenes*
 | ویژگی | نتیجه |
@@ -88,6 +100,10 @@
 | CAMP | مثبت (با *S. aureus*، الگوی مستطیلی/بیلچه‌ای) |
 | رشد در ۴ °C | + (اساس غنی‌سازی سرد، کاربرد در مواد غذایی) |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/csf-listeria-chba.jpg" width="300" alt="csf-listeria-chba"><br><sub><b>شکل ۳.۰۹.</b> کلنی‌های <i>Listeria monocytogenes</i> روی آگار کلمبیا با خون اسب<br>منبع: We thank Nathan Reading for his invaluable contribution.، <a href="https://commons.wikimedia.org/wiki/File:Listeria_monocytogenes_-_Columbia_Horse_Blood_Agar_-Detail.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td><td align="center" width="50%"><img src="../Assets/images/csf-listeria-gram.jpg" width="300" alt="csf-listeria-gram"><br><sub><b>شکل ۳.۱۰.</b> <i>Listeria monocytogenes</i> در رنگ‌آمیزی گرم (گسترش از کشت): گرم مثبت با اشکال کوکوئید تا باسیلی<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Gram_staining_footage_of_Listeria_monocytogenes_in_Gram_staining_of_culture_microscopy.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ### ۶-۵) *Streptococcus agalactiae* (GBS)
 | ویژگی | نتیجه |
 |---|---|
@@ -97,6 +113,10 @@
 | هیپورات | مثبت |
 | آگلوتیناسیون لانسفیلد | گروه B |
 | PYR | منفی |
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/csf-gbs-blood-agar.jpg" width="300" alt="csf-gbs-blood-agar"><br><sub><b>شکل ۳.۱۱.</b> کلنی‌های بتاهمولیتیک <i>Streptococcus agalactiae</i> (GBS) روی آگار خون‌دار<br>منبع: 43trevenque، <a href="https://commons.wikimedia.org/wiki/File:Streptococcus_agalactiae_on_blood_agar.JPG">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ### ۶-۶) Enterobacterales و غیرتخمیری‌ها
 - طبق ماژول‌های [۱۷](../../17_Enterobacterales/README.md) (Enterobacterales) و [۱۹](../../19_Non_Fermenters/README.md) (غیرتخمیری‌ها). در CSF بیمارستانی، *Acinetobacter baumannii* (کوکوباسیل گرم منفی، اکسیداز منفی، غیرمتحرک، رشد روی MAC بی‌رنگ) شایع و اغلب **مقاوم به کارباپنم** است.

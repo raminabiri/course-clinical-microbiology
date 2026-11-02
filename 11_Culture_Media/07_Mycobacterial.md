@@ -25,6 +25,10 @@
 | **مزایا** | ارزان؛ مورفولوژی کلنی؛ رشد خوب MTB؛ حفظ ایزوله؛ **AST قدیمی (روش تناسبی)** |
 | **محدودیت** | کند؛ آلودگی‌پذیر؛ **مخلوط** را خوب نشان نمی‌دهد؛ برای AST داروهای جدید **توصیه نمی‌شود** (WHO) |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/lj-mtb-colonies.jpg" width="300" alt="lj-mtb-colonies"><br><sub><b>شکل ۱۱.۳۶.</b> کلنی‌های خشن و کرم‌رنگ <i>M. tuberculosis</i> روی لوونشتاین–جنسن پس از ۴ هفته<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Mycobacterium_tuberculosis_growth_on_L-J_medium.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td><td align="center" width="50%"><img src="Assets/images/lj-slants-species.jpg" width="300" alt="lj-slants-species"><br><sub><b>شکل ۱۱.۳۷.</b> لوله‌های LJ، از چپ: شاهد منفی، <i>M. tuberculosis</i> (کلنی خشک)، کمپلکس <i>M. avium</i> (کلنی مرطوب)، <i>M. gordonae</i> (کلنی زرد)<br>منبع: Mikael Häggström , M.D. Author info - Reusing images - Conflicts of in، <a href="https://commons.wikimedia.org/wiki/File:Slant_tubes_of_L%C3%B6wenstein-Jensen_medium_with_control,_M_tuberculosis,_M_avium_and_M_gordonae.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr></table>
+
 ## ۷.۲ میدل‌بروک 7H10 و 7H11
 | ویژگی | توضیح |
 |---|---|
@@ -44,8 +48,12 @@
 | **زمان** | میانگین زمان مثبت شدن MTB **۱۰–۱۴ روز** (اسمیر مثبت: ۷–۱۰)؛ پایش تا **۴۲ روز** (۶ هفته) |
 | **اقدام بر مثبت** | **رنگ‌آمیزی اسیدفست (ZN)** ← (۱) **آزمون آنتی‌ژن MPT64** (ایمونوکروماتوگرافی؛ MTBC +) یا **PCR/LPA** برای شناسایی؛ (۲) **ساب‌کالچر روی آگار خون** (بررسی آلودگی) و LJ/7H11 |
 | **مزایا** | سریع‌ترین کشت؛ حساس‌ترین؛ خودکار؛ **AST** (SIRE، PZA، داروهای خط دوم، بداکیلین، لینزولید) ← [AST/06_Mycobacteria](../AST/06_Mycobacteria/01_Mycobacteria_AST.md) |
-| **محدودیت** | گران؛ **آلودگی** بیشتر از محیط جامد؛ مورفولوژی کلنی ندارد؛ **کشت مخلوط** مشاهده نمی‌شود؛ برخی گونه‌ها (*M. haemophilum*: نیاز به همین؛ *M. genavense*) رشد ضعیف |
+| **محدودیت** | گران؛ **آلودگی** بیشتر از محیط جامد؛ مورفولوژی کلنی ندارد؛ **کشت مخلوط** مشاهده نمی‌شود؛ برخی گونه‌ها (*M. haemophilum*: نیاز به هِمین؛ *M. genavense*) رشد ضعیف |
 | **دام** | **مثبت کاذب دستگاه** (بدون باکتری در اسمیر) ← ادامهٔ انکوباسیون؛ **MPT64 منفی** در جهش‌های *mpt64* (نادر) و برخی *M. bovis* BCG |
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/mgit-uv.jpg" width="300" alt="mgit-uv"><br><sub><b>شکل ۱۱.۳۸.</b> لوله‌های MGIT زیر نور UV؛ فلورسانس نارنجی نشانهٔ رشد مایکوباکتری است<br>منبع: Mikael Häggström , M.D. Author info - Reusing images - Conflicts of in، <a href="https://commons.wikimedia.org/wiki/File:Mycobacteria_Growth_Indicator_Tube_(MGIT)_samples_in_ultraviolet_light.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td><td align="center" width="50%"><img src="Assets/images/mgit-fortuitum-turbid.jpg" width="300" alt="mgit-fortuitum-turbid"><br><sub><b>شکل ۱۱.۳۹.</b> رشد کدر <i>M. fortuitum</i> در لولهٔ MGIT؛ حسگر فلورسنت نارنجی در کف لوله<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Turbid_growth_of_Mycobacterium_fortuitum_in_a_Mycobacteria_Growth_Indicator_Tube_(MGIT).jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr></table>
 
 ## ۷.۴ نیازهای ویژهٔ گونه‌ها
 

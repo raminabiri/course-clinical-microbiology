@@ -56,4 +56,6 @@
 - ماژول‌های خانواده (۱۳ تا ۲۴) از طریق الگوریتم‌های مسیریاب: [Shared/Algorithms](../Shared/Algorithms/README.md)
 - واژه‌نامه: [Shared/Glossary_FA_EN.md](../Shared/Glossary_FA_EN.md)
 
+**تصاویر:** ۱۳ عکس و ۰ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
 </div>

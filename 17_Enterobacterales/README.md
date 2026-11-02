@@ -52,4 +52,6 @@
 - آنتی‌بیوگرام: [نقاط برش Enterobacterales](../AST/09_Breakpoints/01_Gram_Negative.md) · [ESBL](../AST/02_Beta_Lactamases/03_ESBL.md) · [AmpC](../AST/02_Beta_Lactamases/04_AmpC.md) · [کارباپنمازها](../AST/02_Beta_Lactamases/05_Carbapenemases.md) · [کولیستین](../AST/03_Other_Resistance/04_Colistin.md) · [IDSA 2026](../AST/10_Treatment_Link/01_IDSA_2026.md)
 - ماژول‌های نمونه: [01_Blood_Culture](../01_Blood_Culture/README.md) · [02_Urine](../02_Urine/README.md) · [04_Gastrointestinal](../04_Gastrointestinal/README.md) · [06_Respiratory](../06_Respiratory/README.md)
 
+**تصاویر:** ۱۶ عکس و ۰ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
 </div>

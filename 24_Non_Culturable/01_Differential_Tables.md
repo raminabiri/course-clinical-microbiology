@@ -14,6 +14,10 @@
 | ***Borrelia*** | اسپیروکت؛ تب راجعه: **باکتریمی زیاد حین تب** | **لام خون** (تب راجعه)؛ سرولوژی دومرحله‌ای (لایم) |
 | ***Leptospira*** | اسپیروکت با انتهای **قلاب‌دار**؛ محیط **EMJH** (کشت کند، هفته‌ها) | **PCR** و **سرولوژی** (MAT) |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/chlamydia-mccoy-inclusions.jpg" width="300" alt="chlamydia-mccoy-inclusions"><br><sub><b>شکل ۲۴.۰۳.</b> اجسام انکلوزیون <i>C. trachomatis</i> (قهوه‌ای) در کشت سلول McCoy<br>منبع: User Marcus007 on de.wikipedia، <a href="https://commons.wikimedia.org/wiki/File:ChlamydiaTrachomatisEinschlussk%C3%B6rperchen.jpg">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="Assets/images/mycoplasma-colonies.jpg" width="300" alt="mycoplasma-colonies"><br><sub><b>شکل ۲۴.۰۴.</b> کلنی‌های <i>Ureaplasma urealyticum</i> (بزرگ‌نمایی ۵۰۰×)<br>منبع: CDC/ Dr. Francis Forrester، <a href="https://commons.wikimedia.org/wiki/File:10931_lores_(1).jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr><tr><td align="center" width="50%"><img src="Assets/images/rickettsia-gimenez.jpg" width="300" alt="rickettsia-gimenez"><br><sub><b>شکل ۲۴.۰۵.</b> رنگ‌آمیزی گیمنز: <i>Rickettsia rickettsii</i> درون سلول‌های همولنف کنه<br>منبع: CDC، <a href="https://commons.wikimedia.org/wiki/File:Rickettsia_rickettsii.jpg">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="Assets/images/ehrlichia-morula.jpg" width="300" alt="ehrlichia-morula"><br><sub><b>شکل ۲۴.۰۶.</b> مورولا در سیتوپلاسم نوتروفیل در گسترش خون بیمار مبتلا به ارلیشیوز<br>منبع: Lamiot, from US CDC، <a href="https://commons.wikimedia.org/wiki/File:EhrlichiaEwingiiUS_CDCMorulaInCytoplasmOfNeutrophil.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+
 ## جدول ۲: آزمون‌های سرولوژیک سیفلیس
 
 | نوع | آزمون‌ها | چه می‌سنجد | ویژگی‌ها |
@@ -23,6 +27,10 @@
 
 > **منفی کاذب:** سیفلیس اولیهٔ **بسیار زودرس** (قبل از تولید آنتی‌بادی)؛ **پروزون** در RPR با تیتر بسیار بالا (ثانویه) ← رقیق‌سازی.
 > **مثبت کاذب غیرترپونمایی:** بارداری، بیماری خودایمنی (لوپوس، APS)، HIV، اعتیاد تزریقی، سن بالا، عفونت‌های حاد (مالاریا، EBV، واکسیناسیون).
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/vdrl-slide-pd.jpg" width="300" alt="vdrl-slide-pd"><br><sub><b>شکل ۲۴.۰۷.</b> لام حفره‌دار مخصوص آزمون VDRL<br>منبع: Microrao، <a href="https://commons.wikimedia.org/wiki/File:VDRL_slide.jpg">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="Assets/images/tppa-test.jpg" width="300" alt="tppa-test"><br><sub><b>شکل ۲۴.۰۸.</b> آزمون آگلوتیناسیون ذره‌ای <i>T. pallidum</i> در میکروپلیت<br>منبع: Copacopac، <a href="https://commons.wikimedia.org/wiki/File:Treponema_pallidum-Partikelagglutinationstest.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr></table>
 
 ## جدول ۳: تفسیر الگوهای سرولوژی سیفلیس
 
@@ -44,6 +52,10 @@
 | **تب Q** | **PCR سرم/خون** | **IFA**: **فاز II** (IgM و IgG) ← **حاد** | **IgG فاز I بالا** (آستانه طبق آزمایشگاه) ← عفونت **پایدار/مزمن** (اندوکاردیت، عفونت عروقی)؛ PCR بافت دریچه |
 | **ریکتزیوز** (تب منقوط، تیفوس) | **PCR** از **اسکار** یا بیوپسی پوست (حساس‌تر از خون) | **IFA IgG**: افزایش **چهار برابری** بین سرم حاد و نقاهت (۲–۴ هفته) | **وایل–فلیکس** (آگلوتیناسیون *Proteus* OX) **منسوخ** است (حساسیت و ویژگی پایین)؛ درمان تجربی با داکسی‌سایکلین منتظر آزمایش نمی‌ماند |
 | **تب راجعه** (*B. persica*) | **لام خون ضخیم و نازک** حین **تب** (گیمسا/رایت) | | بین حملات لام **منفی**؛ PCR؛ **واکنش جاریش–هرکسهایمر** پس از درمان |
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/leptospira-rapid-test.jpg" width="300" alt="leptospira-rapid-test"><br><sub><b>شکل ۲۴.۰۹.</b> کاست سریع IgG/IgM لپتوسپیرا: IgG مثبت و IgM منفی<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Leptospira_IgG_rapid_test_positive_and_IgM_negative.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/leptospira-kidney-ws.jpg" width="300" alt="leptospira-kidney-ws"><br><sub><b>شکل ۲۴.۱۰.</b> وارتین–استاری: تجمع <i>Leptospira</i> (سیاه) در لومن توبول‌های مدولای کلیه<br>منبع: Marie Moinet، <a href="https://commons.wikimedia.org/wiki/File:Leptospira_in_kidney.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr><tr><td align="center" width="50%"><img src="Assets/images/coxiella-valve-ihc.jpg" width="300" alt="coxiella-valve-ihc"><br><sub><b>شکل ۲۴.۱۱.</b> ایمونوهیستوشیمی: <i>Coxiella burnetii</i> (قهوه‌ای) در دریچهٔ قلب برداشته‌شده از بیمار با اندوکاردیت تب Q<br>منبع: Mahamat A, Edouard S, Demar M, Abboud P, Patrice J-Y, La Scola B, et a، <a href="https://commons.wikimedia.org/wiki/File:Immunohistochemical_detection_of_Coxiella_burnetii_in_resected_cardiac_valve_of_a_60-year-old_man_with_Q_fever_endocarditis.jpg">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="Assets/images/rickettsia-ihc.jpg" width="300" alt="rickettsia-ihc"><br><sub><b>شکل ۲۴.۱۲.</b> ایمونوهیستوشیمی: <i>R. rickettsii</i> (قرمز) در سلول‌های اندوتلیال عروق<br>منبع: US Centers of Disease Control، <a href="https://commons.wikimedia.org/wiki/File:Immunohistochemical_Stain_of_Rickettsia_rickettsii.png">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 ## جدول ۵: *C. trachomatis*، *M. genitalium*، *M. pneumoniae*
 

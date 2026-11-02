@@ -27,6 +27,10 @@
 | **γ** | بدون تغییر | | انتروکوکوس (اغلب)، *S. epidermidis* |
 | **α-prime (wide-zone α)** | ناحیهٔ کوچک RBC سالم در مجاورت کلنی + ناحیهٔ شفاف بیرونی | | برخی ویریدانس‌ها |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/streptococcal-hemolysis-types.jpg" width="300" alt="streptococcal-hemolysis-types"><br><sub><b>شکل ۱۱.۰۱.</b> سه نوع همولیز روی آگار خون‌دار: آلفا (<i>S. mitis</i>)، بتا (<i>S. pyogenes</i>) و گاما (<i>S. salivarius</i>)<br>منبع: Y tambe، <a href="https://commons.wikimedia.org/wiki/File:Streptococcal_hemolysis.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/beta-gamma-hemolysis.jpg" width="300" alt="beta-gamma-hemolysis"><br><sub><b>شکل ۱۱.۰۲.</b> همولیز بتا (هالهٔ شفاف کامل) و گاما در کشت فلور پوست روی آگار خون‌دار گوسفند (کلمبیا)، ۴۸ ساعت<br>منبع: HansN.، <a href="https://commons.wikimedia.org/wiki/File:Beta_and_gamma_hemolysis_on_blood_agar_with_a_scale_bar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr><tr><td align="center" width="50%"><img src="Assets/images/alpha-gamma-hemolysis.jpg" width="300" alt="alpha-gamma-hemolysis"><br><sub><b>شکل ۱۱.۰۳.</b> همولیز آلفا (هالهٔ سبز-قهوه‌ای) و گاما در کشت فلور پوست روی آگار خون‌دار گوسفند (کلمبیا)، ۴۸ ساعت<br>منبع: HansN.، <a href="https://commons.wikimedia.org/wiki/File:Alpha_and_gamma_hemolysis_on_blood_agar_with_a_scale_bar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/staphylococcus-aureus-blood-agar-backlit.jpg" width="300" alt="staphylococcus-aureus-blood-agar-backlit"><br><sub><b>شکل ۱۱.۰۴.</b> کلنی‌های <i>S. aureus</i> با همولیز بتا روی آگار خون‌دار (نور از پشت پلیت)<br>منبع: Mikael Häggström , M.D. Author info - Reusing images - Conflicts of in، <a href="https://commons.wikimedia.org/wiki/File:Staphylococcus_aureus_on_blood_agar,_mildly_backlit.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr></table>
+
 ### انکوباسیون
 - ۳۵ ± ۲°C، **۵٪ CO₂** (بهبود رشد استرپتوکوکوس‌ها، پنوموکوکوس، *Neisseria*)، ۱۸–۲۴ ساعت؛ تا **۴۸ ساعت** برای نمونه‌های استریل و ارگانیسم‌های کندرشد.
 - **تکنیک stab:** کشت خطی همراه با **فرو بردن لوپ در آگار (stab)**: استرپتولیزین O به اکسیژن حساس است؛ همولیز β در اطراف خراش زیر سطح (بی‌هوازی نسبی) بهتر مشاهده می‌شود.
@@ -100,6 +104,10 @@
 - **رشد روی CA ولی نه BA** ← نشانهٔ نیاز به هِمین/NAD (*Haemophilus*)، یا *Neisseria* سخت‌گیر، یا *Francisella* (نیاز به سیستئین؛ ⚠️ BSL-3).
 - غیرانتخابی ← در نمونه‌های تناسلی حتماً همراه **تایر–مارتین**.
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/blood-chocolate-piles.jpg" width="300" alt="blood-chocolate-piles"><br><sub><b>شکل ۱۱.۰۵.</b> مقایسهٔ رنگ پلیت‌های آگار خون‌دار (قرمز، چپ) و آگار شکلات (قهوه‌ای، راست)<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Blood_and_chocolate_agar_piles.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/haemophilus-chocolate-colony.jpg" width="300" alt="haemophilus-chocolate-colony"><br><sub><b>شکل ۱۱.۰۶.</b> کلنی‌های <i>H. influenzae</i> روی آگار شکلات پس از ۲۴ ساعت<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Haemophilus_influenzae_colony_morphology_on_chocolate_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ---
 
 ## ۱.۳ نوترینت آگار، TSA و BHI آگار
@@ -111,6 +119,10 @@
 | **BHI آگار** | عصارهٔ مغز و قلب گوساله + پپتون + گلوکز | ارگانیسم‌های سخت‌گیرتر؛ **پایهٔ آگار غربالگری ونکومایسین (+ ۶ µg/mL)** (CLSI 3I)؛ HLAR آگار دایلوشن (CLSI 3L)؛ قارچ‌ها (± خون، آنتی‌بیوتیک) | *S. pneumoniae* ATCC 6305 |
 
 > نکتهٔ کاربردی: اکسیداز را **از محیط بدون قند و بدون رنگ** (نوترینت، TSA، BA) انجام دهید؛ کلنی از مک‌کانکی یا EMB **مثبت/منفی کاذب** می‌دهد (← [12_Identification_Tests](../12_Identification_Tests/README.md)).
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/staphylococcus-aureus-nutrient-agar.jpg" width="300" alt="staphylococcus-aureus-nutrient-agar"><br><sub><b>شکل ۱۱.۰۷.</b> کلنی‌های <i>S. aureus</i> با رنگدانهٔ زرد طلایی روی نوترینت آگار<br>منبع: Microrao، <a href="https://commons.wikimedia.org/wiki/File:Staphylococcus_aureus_with_pigment.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ---
 
