@@ -1,6 +1,8 @@
+<div dir="rtl">
+
 # AST سخت‌رشدها و بی‌هوازی‌ها
 
-> مبنا: CLSI M100-Ed36 (**Tables 2E** *Haemophilus*، **2F** *N. gonorrhoeae*، **2G–2H** استرپتوکوک‌ها، **2I** *N. meningitidis*، **2J** بی‌هوازی‌ها)؛ CLSI **M45** (سخت‌رشدهای نادر) و **M11** (بی‌هوازی‌ها)؛ EUCAST v16.1 (جداول ارگانیسم‌های مربوط، روی MH-F و FAA-HB).
+> مبنا: CLSI M100-Ed36 (**Tables 2E** *Haemophilus*، **2F** *N. gonorrhoeae*، **2G–2H** استرپتوکوکوس‌ها، **2I** *N. meningitidis*، **2J** بی‌هوازی‌ها)؛ CLSI **M45** (سخت‌رشدهای نادر) و **M11** (بی‌هوازی‌ها)؛ EUCAST v16.1 (جداول ارگانیسم‌های مربوط، روی MH-F و FAA-HB).
 
 ## ۱. *Haemophilus influenzae* و *H. parainfluenzae*
 
@@ -87,3 +89,5 @@
 | **HACEK**، ***Abiotrophia*** | M45؛ CAMHB-LHB (*Abiotrophia*: + پیریدوکسال)؛ بتالاکتاماز (HACEK) |
 | ***Brucella*** | EUCAST: CAMHB، **۴۸ ± ۲ ساعت**؛ ⚠️ **ایمنی BSL-3** |
 | ***Corynebacterium*** | EUCAST MH-F؛ *C. jeikeium* و *C. striatum* اغلب MDR ← ونکومایسین |
+
+</div>

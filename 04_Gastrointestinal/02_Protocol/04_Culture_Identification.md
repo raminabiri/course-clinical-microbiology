@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # پروتکل ۴: کشت و شناسایی پاتوژن‌های روده‌ای
 
 ## ۱. پنل محیط‌ها
@@ -47,8 +49,8 @@ flowchart TD
     B -->|+| B1[Aeromonas / Plesiomonas / Vibrio / Pseudomonas]
     B -->|–| C[TSI + LIA + اوره]
     C --> D{TSI}
-    D -->|K/A، H₂S + ، LIA K/K| E[Salmonella محتمل ← آگلوتیناسیون پلی‌والان O و Vi]
-    D -->|K/A، H₂S – ، بدون گاز، غیرمتحرک| F[Shigella محتمل ← آنتی‌سرم گروه A، B، C، D]
+    D -->|K/A، H₂S +، LIA K/K| E[Salmonella محتمل ← آگلوتیناسیون پلی‌والان O و Vi]
+    D -->|K/A، H₂S –، بدون گاز، غیرمتحرک| F[Shigella محتمل ← آنتی‌سرم گروه A، B، C، D]
     D -->|اوره +| G[Proteus / Morganella - غیرپاتوژن روده‌ای]
     D -->|A/A| H[لاکتوز/سوکروز تخمیرکننده - معمولاً فلور]
 ```
@@ -107,3 +109,5 @@ flowchart TD
 - CCDA: **۷۲ ساعت**
 - CIN: ۴۸ ساعت در ۲۵–۳۰ °C
 - *H. pylori*: تا ۱۰–۱۴ روز
+
+</div>

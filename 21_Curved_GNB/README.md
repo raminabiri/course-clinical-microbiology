@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ۲۱. باسیل‌های گرم منفی خمیده و مارپیچی (*Campylobacter*، *Helicobacter*، *Arcobacter*)
 
 ## دامنه
@@ -37,3 +39,5 @@
 - تست‌ها: [رنگ گرم با فوشین بازی، آکریدین اورنج](../12_Identification_Tests/01_Microscopy_Stains.md) · [اکسیداز، کاتالاز، هیپورات، ایندوکسیل استات، اوره‌آز سریع](../12_Identification_Tests/02_Spot_Rapid_Tests.md) · [تحرک، رشد در ۲۵ و ۴۲°C](../12_Identification_Tests/03_Disk_and_Growth_Tests.md) · [MALDI-TOF](../12_Identification_Tests/05_Identification_Systems.md) · [پانل‌های مولکولی مدفوع](../12_Identification_Tests/06_Molecular_ID.md)
 - آنتی‌بیوگرام: [اصول AST روده‌ای](../04_Gastrointestinal/03_Antibiogram/01_Principles.md) · [CLSI M45](../04_Gastrointestinal/03_Antibiogram/02_CLSI.md) · [EUCAST *Campylobacter* و *H. pylori*](../04_Gastrointestinal/03_Antibiogram/03_EUCAST.md) · [مولکولی: ۲۳S rRNA](../AST/07_Molecular/01_Molecular_Resistance.md)
 - ماژول‌های نمونه: [04_Gastrointestinal](../04_Gastrointestinal/README.md) · [01_Blood_Culture](../01_Blood_Culture/README.md)
+
+</div>

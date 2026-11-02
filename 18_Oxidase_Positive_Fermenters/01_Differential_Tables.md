@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # جدول‌های افتراقی: باسیل‌های گرم منفی اکسیداز مثبت تخمیرکننده
 
 > نمادها: **+** (≥ ۹۰٪)، **−** (≥ ۹۰٪ منفی)، **v** متغیر، **w** ضعیف. شرح تست‌ها: [12_Identification_Tests/02](../12_Identification_Tests/02_Spot_Rapid_Tests.md) (اکسیداز، نخ، ایندول، DNase، ONPG)، [03](../12_Identification_Tests/03_Disk_and_Growth_Tests.md) (تحرک، رشد در نمک)؛ دکربوکسیلازها و OF: [11_Culture_Media/08](../11_Culture_Media/08_Biochemical_Tube_Media.md).
@@ -67,3 +69,5 @@
 | رنگ گرم | کوکوباسیل کوچک، **رنگ‌پذیری دوقطبی** | | |
 
 > شبیه‌ها در گازگرفتگی: *Capnocytophaga canimorsus* (اکسیداز +، کاتالاز +، رشد کند در CO₂؛ سپسیس در **اسپلنکتومی**)، *Neisseria* حیوانی، *Bergeyella* ← [20_Fastidious_GNB](../20_Fastidious_GNB/README.md).
+
+</div>

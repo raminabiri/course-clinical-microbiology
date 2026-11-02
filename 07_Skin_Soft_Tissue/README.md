@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ماژول ۰۷: میکروب‌شناسی عفونت‌های پوست و بافت نرم (SSTI)
 
 ## معرفی
@@ -18,7 +20,7 @@
 2. گرم مستقیم را تفسیر کنید و یافته‌های بحرانی (باسیل‌های گرم مثبت درشت در فاشئیت) را فوراً گزارش کنید.
 3. ارگانیسم‌های گازگرفتگی و آب را با محیط‌ها و آزمون‌های مناسب جدا کنید.
 4. سیاه‌زخم پوستی را در سطح آزمایشگاه نگهبان رد یا ارجاع دهید.
-5. AST استافیلوکوک (MRSA، D-test، موپیروسین) و GAS را درست انجام و گزارش کنید.
+5. AST استافیلوکوکوس (MRSA، D-test، موپیروسین) و GAS را درست انجام و گزارش کنید.
 
 ## نقشهٔ فایل‌ها
 
@@ -44,4 +46,6 @@
 | [07_References.md](07_References.md) | منابع |
 
 ## پیش‌نیاز
-ماژول‌های ۱۱ (کوکسی‌های گرم مثبت)، ۱۲ (*Bacillus*، *Corynebacterium*، *Erysipelothrix*)، ۱۶ (*Vibrio*/*Aeromonas*)، ۱۸ (*Pasteurella*، *Capnocytophaga*)، ۱۹ (بی‌هوازی‌ها، *Clostridium*).
+ماژول‌های [۱۳](../13_GPC_Catalase_Positive/README.md) (استافیلوکوکوس‌ها)، [۱۴](../14_GPC_Catalase_Negative/README.md) (استرپتوکوکوس‌ها)، [۱۵](../15_Aerobic_GPB/README.md) (*Bacillus*، *Corynebacterium*، *Erysipelothrix*)، [۱۸](../18_Oxidase_Positive_Fermenters/README.md) (*Vibrio*/*Aeromonas*/*Pasteurella*)، [۲۰](../20_Fastidious_GNB/README.md) (*Capnocytophaga*)، [۲۲](../22_Anaerobes/README.md) (بی‌هوازی‌ها، *Clostridium*).
+
+</div>

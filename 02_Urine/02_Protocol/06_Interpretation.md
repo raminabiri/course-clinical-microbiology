@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # پروتکل ۶: تفسیر کشت ادرار
 
 ## ۱. سه پرسش محوری
@@ -11,7 +13,7 @@
 |---|---|
 | **اوروپاتوژن اولیه** | *E. coli*، *S. saprophyticus* (در زنان جوان)، *Salmonella* (هر تعداد گزارش شود) |
 | **اوروپاتوژن ثانویه** | *Klebsiella*، *Enterobacter*، *Citrobacter*، *Proteus*، *Morganella*، *Serratia*، *P. aeruginosa*، *Enterococcus*، *S. aureus*، GBS، *Aerococcus urinae*، *C. urealyticum* |
-| **مشکوک/معمولاً فلور** | CoNS (غیر *saprophyticus*)، استرپتوکوک‌های ویریدانس، *Lactobacillus*، *Corynebacterium* (غیر *urealyticum*)، *Gardnerella*، *Bifidobacterium*، بی‌هوازی‌ها |
+| **مشکوک/معمولاً فلور** | CoNS (غیر *saprophyticus*)، استرپتوکوکوس‌های ویریدانس، *Lactobacillus*، *Corynebacterium* (غیر *urealyticum*)، *Gardnerella*، *Bifidobacterium*، بی‌هوازی‌ها |
 
 ## ۳. آستانه‌های معنی‌دار (CFU/mL)
 
@@ -80,3 +82,5 @@
 | کشت ≥ ۱۰⁵ ولی بدون پیوری | ASB، نوتروپنی، **تأخیر در انتقال (رشد ثانویه)** |
 | سلول سنگفرشی فراوان + کشت مخلوط | آلودگی ← آموزش بیمار و تکرار |
 | WBC cast | پیلونفریت ← داروی سیستمیک |
+
+</div>

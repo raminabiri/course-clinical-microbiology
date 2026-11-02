@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # تئوری: عفونت جریان خون، سپسیس و اندوکاردیت
 
 ## ۱. تعاریف
@@ -32,11 +34,11 @@
 | ادراری (پیلونفریت، انسداد، سوند) | *E. coli*، *Klebsiella*، *Proteus*، *Enterococcus*، *Pseudomonas* (بیمارستانی) |
 | ریوی | *S. pneumoniae*، *S. aureus*، *K. pneumoniae*؛ در VAP: *P. aeruginosa*، *A. baumannii* |
 | شکمی/صفراوی | Enterobacterales، *Enterococcus*، **بی‌هوازی‌ها** (*Bacteroides fragilis*)، *Clostridium* |
-| پوست و بافت نرم | *S. aureus*، استرپتوکوک‌های بتا همولیتیک (A، C/G، B) |
+| پوست و بافت نرم | *S. aureus*، استرپتوکوکوس‌های بتا همولیتیک (A، C/G، B) |
 | کاتتر عروقی | CoNS، *S. aureus*، *Enterococcus*، گرم منفی‌ها (*Klebsiella*، *Pseudomonas*، *Serratia*، *Stenotrophomonas*)، کاندیدا |
-| اندوکاردیت | *S. aureus*، استرپتوکوک‌های ویریدانس، *S. gallolyticus*، *Enterococcus*، CoNS (دریچهٔ مصنوعی)، گروه **HACEK**، *Brucella*، کشت‌منفی (*Coxiella*، *Bartonella*) |
-| استخوان/مفصل | *S. aureus*، استرپتوکوک‌ها، *Kingella kingae* (کودک)، *Salmonella* (سیکل‌سل) |
-| نوتروپنی (جابه‌جایی از روده و موکوزیت) | Enterobacterales، *P. aeruginosa*، استرپتوکوک‌های ویریدانس، CoNS (کاتتر)، *Capnocytophaga* |
+| اندوکاردیت | *S. aureus*، استرپتوکوکوس‌های ویریدانس، *S. gallolyticus*، *Enterococcus*، CoNS (دریچهٔ مصنوعی)، گروه **HACEK**، *Brucella*، کشت‌منفی (*Coxiella*، *Bartonella*) |
+| استخوان/مفصل | *S. aureus*، استرپتوکوکوس‌ها، *Kingella kingae* (کودک)، *Salmonella* (سیکل‌سل) |
+| نوتروپنی (جابه‌جایی از روده و موکوزیت) | Enterobacterales، *P. aeruginosa*، استرپتوکوکوس‌های ویریدانس، CoNS (کاتتر)، *Capnocytophaga* |
 | **سیستمیک بدون کانون موضعی (ایران/آندمیک)** | ***Brucella melitensis***، ***Salmonella* Typhi/Paratyphi** |
 
 ### ۳-۲) بر اساس سن
@@ -46,7 +48,7 @@
 | نوزاد – شروع زودرس (کمتر از ۷۲ ساعت) | GBS، *E. coli*، *Listeria* |
 | نوزاد – شروع دیررس (NICU) | CoNS، *S. aureus*، *Klebsiella*، *Enterobacter*، *Serratia*، *Acinetobacter*، کاندیدا |
 | کودک | *S. pneumoniae*، *S. aureus*، *N. meningitidis*، *Salmonella*، *Kingella* |
-| بزرگسال (جامعه) | *E. coli*، *S. aureus*، *S. pneumoniae*، *Klebsiella*، استرپتوکوک‌ها |
+| بزرگسال (جامعه) | *E. coli*، *S. aureus*، *S. pneumoniae*، *Klebsiella*، استرپتوکوکوس‌ها |
 | سالمند | *E. coli* (ادراری)، *S. aureus*، *Enterococcus*، *Listeria* |
 
 ### ۳-۳) ارگانیسم‌های «پیام‌دار» (Sentinel organisms) 🔬
@@ -87,3 +89,5 @@
 ## ۶. اهمیت
 - BSI از علل اصلی مرگ بیمارستانی است. هر ساعت تأخیر در درمان مناسب شوک سپتیک با افزایش مرگ همراه است.
 - **نقش آزمایشگاه:** کوتاه‌کردن زمان از مثبت‌شدن بطری تا **درمان هدفمند** (گرم فوری، شناسایی سریع، آنتی‌بیوگرام سریع) و کاهش **آلودگی** که باعث درمان و بستری غیرضروری می‌شود.
+
+</div>

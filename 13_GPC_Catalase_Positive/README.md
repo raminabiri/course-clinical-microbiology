@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ۱۳. کوکسی‌های گرم مثبت کاتالاز مثبت
 
 ## دامنه
@@ -20,7 +22,7 @@
 ## فایل‌های این ماژول
 | فایل | محتوا |
 |---|---|
-| [01_Differential_Tables.md](01_Differential_Tables.md) | استاف در برابر *Micrococcus*/*Rothia*؛ گونه‌های مهم استافیلوکوک |
+| [01_Differential_Tables.md](01_Differential_Tables.md) | استافیلوکوکوس در برابر *Micrococcus*/*Rothia*؛ گونه‌های مهم استافیلوکوکوس |
 | [02_Flowcharts.md](02_Flowcharts.md) | فلوچارت از کوکسی گرم مثبت کاتالاز مثبت تا گونه |
 | [03_Pitfalls_and_Reporting.md](03_Pitfalls_and_Reporting.md) | دام‌ها، MALDI-TOF، اهمیت CoNS در خون، نمونهٔ گزارش، پیوند AST |
 | [04_Scenarios.md](04_Scenarios.md) / [05_Answers.md](05_Answers.md) | ۱۰ سناریو و پاسخ |
@@ -29,3 +31,5 @@
 - تست‌ها: [کاتالاز، کوآگولاز، PYR، DNase](../12_Identification_Tests/02_Spot_Rapid_Tests.md) · [باسیتراسین، نووبیوسین](../12_Identification_Tests/03_Disk_and_Growth_Tests.md) · [MALDI-TOF](../12_Identification_Tests/05_Identification_Systems.md)
 - آنتی‌بیوگرام: [AST/03_Other_Resistance/01_Staphylococcus.md](../AST/03_Other_Resistance/01_Staphylococcus.md) · [پنی‌سیلیناز](../AST/02_Beta_Lactamases/02_Staph_Penicillinase.md)
 - ماژول‌های نمونه: [01_Blood_Culture](../01_Blood_Culture/README.md) · [07_Skin_Soft_Tissue](../07_Skin_Soft_Tissue/README.md) · [02_Urine](../02_Urine/README.md)
+
+</div>

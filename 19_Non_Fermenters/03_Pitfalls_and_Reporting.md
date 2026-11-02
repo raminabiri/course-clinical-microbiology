@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # دام‌های تشخیصی و گزارش‌دهی: باسیل‌های گرم منفی غیرتخمیری
 
 ## ۱. دام‌های تشخیصی
@@ -48,3 +50,5 @@
 | سایر غیرتخمیری‌ها | Table 2B-5 (فقط MIC) | *Achromobacter*، *Pseudomonas* غیر *aeruginosa* و … | [AST](../AST/09_Breakpoints/README.md) |
 | کارباپنماز | — | *P. aeruginosa*: mCIM یا مولکولی؛ *Acinetobacter*: فقط مولکولی | [کارباپنمازها](../AST/02_Beta_Lactamases/05_Carbapenemases.md) |
 | درمان | IDSA 2026 | DTR-PA، CRAB، *S. maltophilia* | [10_Treatment_Link](../AST/10_Treatment_Link/01_IDSA_2026.md) |
+
+</div>

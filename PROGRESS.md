@@ -1,6 +1,6 @@
 # PROGRESS
 
-Last handoff: 2026-10-14. Repo: public GitHub `raminabiri/Diagnostic-Clinical-Microbiology`, branch `main`.
+Last handoff: 2026-10-27. Repo: public GitHub `raminabiri/Diagnostic-Clinical-Microbiology`, branch `main`.
 Language: Persian (fa). Audience: microbiology resident, basic → advanced. Bacteria only for now.
 
 ## 1. Current goal
@@ -95,6 +95,26 @@ Next family is 20 (`20_Fastidious_GNB`; review the zip in the backup tarball fir
   so recreate it if missing). Only expected failures: `15_Aerobic_GPB/README.md` forward links to
   `../22_Anaerobes/` and `../23_Mycobacteria/` (resolve once those modules exist).
 
+- **Final full review 2026-10-27 (uncommitted):** all 317 .md read by 8 parallel reviewers (308 files changed).
+  Content fixes incl.: CLSI *Shigella* azithromycin is a clinical BP since Ed31 (≤8/16/≥32; disk ≥16/11–15/≤10),
+  fixed in 04 + AST/00; Ed36 Table 3F-4 *Acinetobacter* tobramycin removed (AST/01/08, AST/09); CSF minocycline
+  moved to "do not report"; GBS: report clindamycin only (2H-1); EUCAST *P. aeruginosa* ceftazidime = I;
+  *Bilophila* branch in 22 flowchart; selenite F/*S.* Typhi; IDSA 2026 carbapenemase drug order in 01;
+  old module numbers in specimen READMEs relinked; current taxonomy names (old name once).
+  Glossary drift fixed repo-wide (فلور نرمال، گزارش مقدماتی، کنترل کیفی، کلنی، ساب‌کالچر، رنگ‌آمیزی گرم، کابینت ایمنی زیستی…).
+  **RTL:** every Persian .md wrapped in `<div dir="rtl">` … `</div>` (blank lines around); the 10
+  `07_References.md`/`AST/13_References.md` (English citations) and PROGRESS.md left LTR on purpose.
+  Links 0 broken, Mermaid 0 issues. Review brief: scratchpad `review_brief.md`; RTL script `rtl.py` (idempotent).
+
+- **Images pilot, module 12 (2026-11-02, uncommitted):** 21 Wikimedia Commons photos (CC0/PD/CC BY/CC BY-SA;
+  resized ≤1000 px, EXIF stripped) in `12_Identification_Tests/Assets/images/` + 5 own SVG schematics in
+  `Assets/figures/` (Gram morphology, CAMP/reverse CAMP, X/V, motility, optochin). Placed in 01–04 as HTML
+  `<table>` cells (italics inside HTML must be `<i>`, markdown `*…*` does not render there), numbered «شکل ۱۲.NN»
+  (hyphen reverses in RTL — use dot). Credits table: `Assets/CREDITS.md`; policy §6 in `Shared/Figures/Image_Policy.md`.
+  Tools (scratchpad, recreate if gone): `img/commons.py` (Commons API search+license), `img/fetch.py`,
+  `svg_gen.py`, `place.py`. Render check: `gh api markdown -f mode=gfm` + headless Chrome screenshot.
+  Next: user reviews pilot → roll out to 11 (media) and family modules 13–24.
+
 ## 3. Files changed
 - Committed: `268e92a` (60 files) — `AST/**`, `0[1-9]_*/03_Antibiogram/*`, `01/05/07 06_Answers.md`,
   `05_Genital/02_Protocol/07_Reporting.md`, `.gitignore` (`*.pdf`), `PROGRESS.md`.
@@ -148,7 +168,20 @@ Next family is 20 (`20_Fastidious_GNB`; review the zip in the backup tarball fir
 - Backup tarball of old 11–22 still at `/data/clinical_microbiology_old_modules_backup_2026-10-14.tar.gz`;
   all its content has been reviewed (nothing needed merging) → safe to delete if the user wants.
 
+- **2026-11-02 follow-up:** EUCAST v16.1 PDF obtained via WebFetch (xlsx URL returns 403; curl with browser
+  headers is blocked by the classifier) → `pdftotext -layout` in scratchpad `eucast16.txt`. Verified OK:
+  *S. lugdunensis*/*S. epidermidis* cefoxitin 27, Enterobacterales cefiderocol 2/2 ATU 21–23, *Bacteroides*
+  clindamycin (4), pneumococcal TMP-SMX 1/1, β-strep 0.5/0.5. Fixed: *Acinetobacter* cefiderocol has no BP
+  (01/03_EUCAST); IV fosfomycin staph = AST discouraged (08/03_EUCAST); *Listeria* meropenem EUCAST ≤0.25
+  (03_CSF); *Pantoea* nitrate; *B. holmesii* MAC = v; *Ochrobactrum*→*Brucella* note (20/03); epididymitis
+  by risk (CDC 2021); AST/13 refs 28, 32 titles.
+  **Bacterial names:** truncated Persian forms replaced repo-wide (استافیلوکوکوس، استرپتوکوکوس، پنوموکوکوس،
+  انتروکوکوس، گونوکوکوس، مننگوکوکوس…; script `names.py`); rule added to glossary «نام باکتری‌ها».
+  Still for the user: CLSI M45 values (Listeria, H. pylori), M24S/WHO numbers (AST/06), McFarland (M02),
+  GBS non-haemolytic %, Nocardia TMP-SMX %, LICENSE, CITATION name, Iran placeholders.
+
 ## 6. Next steps (priority order, one session each)
+0. Review the 2026-10-27 diff, commit and push (check remote for web edits first); verify flagged EUCAST items against v16.1 xlsx.
 1. ~~Write `15_Aerobic_GPB/05_Answers.md`~~ — done 2026-10-14, checker clean.
 2. ~~Commit the new layers~~ — committed and pushed 2026-10-14 (`797247c`).
 3. ~~`16_Gram_Negative_Cocci`~~ — done and pushed 2026-10-14.

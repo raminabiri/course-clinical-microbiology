@@ -6,7 +6,7 @@
 3. CLSI. *M02 (Disk diffusion)* و *M07 (Dilution methods)*، ویرایش‌های جاری.
 4. CLSI. *M22-A3 — Quality Control for Commercially Prepared Microbiological Culture Media*. 2004.
 5. CLSI. *M39 — Analysis and Presentation of Cumulative Antimicrobial Susceptibility Test Data*. ویرایش جاری.
-6. EUCAST. *Breakpoint tables for interpretation of MICs and zone diameters*. نسخهٔ جاری (v15.0، ۲۰۲۵ یا بعدتر). www.eucast.org
+6. EUCAST. *Breakpoint tables for interpretation of MICs and zone diameters*. نسخهٔ جاری (v16.1، ۲۰۲۶). www.eucast.org
 7. EUCAST. *Expected Resistant Phenotypes* و *Expert Rules*. نسخهٔ جاری.
 8. Tunkel AR, et al. Practice guidelines for the management of bacterial meningitis. *Clin Infect Dis*. 2004;39:1267–84. (IDSA)
 9. Tunkel AR, et al. 2017 IDSA Clinical Practice Guidelines for Healthcare-Associated Ventriculitis and Meningitis. *Clin Infect Dis*. 2017;64:e34–e65.

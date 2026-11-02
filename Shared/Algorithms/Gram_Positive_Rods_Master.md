@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # الگوریتم اصلی: باسیل‌های گرم مثبت
 
 > **مسیریاب** از رنگ گرم تا ماژول خانواده. ⚠️ در شک به ***Bacillus anthracis*** (کلنی بزرگ غیرهمولیتیک، بی‌حرکت، چسبنده) پیش از هر آزمون دیگر ← **توقف و BSC** ← [ماژول ۱۵](../../15_Aerobic_GPB/README.md).
@@ -34,3 +36,5 @@ I -->|−| I2[Arcanobacterium، Lactobacillus، Gardnerella<br/>ماژول 15]
 ## ماژول‌های مقصد
 - [15_Aerobic_GPB](../../15_Aerobic_GPB/README.md) · [22_Anaerobes](../../22_Anaerobes/README.md) · [23_Mycobacteria](../../23_Mycobacteria/README.md)
 - آنتی‌بیوگرام: CLSI **M45** و **M24** ← [AST/05](../../AST/05_Fastidious_Anaerobes/README.md) · [AST/06](../../AST/06_Mycobacteria/01_Mycobacteria_AST.md)
+
+</div>

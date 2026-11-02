@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ماژول ۰۹: مایعات استریل بدن و سایر نمونه‌ها
 
 ## معرفی
@@ -41,3 +43,5 @@
 | [05_Scenarios.md](05_Scenarios.md) | ۲۰ سناریو |
 | [06_Answers.md](06_Answers.md) | پاسخ‌ها |
 | [07_References.md](07_References.md) | منابع |
+
+</div>

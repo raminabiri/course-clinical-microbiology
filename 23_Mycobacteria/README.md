@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ۲۳. مایکوباکتری‌ها
 
 ## دامنه
@@ -49,3 +51,5 @@
 - تست‌ها: [اسید–فست، اورامین، درجه‌بندی](../12_Identification_Tests/01_Microscopy_Stains.md) · [MALDI-TOF مایکوباکتری](../12_Identification_Tests/05_Identification_Systems.md) · [*hsp65*، *rpoB*، LPA، WGS](../12_Identification_Tests/06_Molecular_ID.md)
 - آنتی‌بیوگرام: [AST مایکوباکتری‌ها (MTBC و NTM)](../AST/06_Mycobacteria/01_Mycobacteria_AST.md) — ⚠️ اعداد M24S/WHO هنوز با سند جاری بررسی نشده‌اند
 - ماژول‌های نمونه: [06_Respiratory](../06_Respiratory/README.md) · [03_CSF](../03_CSF/README.md) · [09_Sterile_Fluids_and_Other](../09_Sterile_Fluids_and_Other/README.md) · [07_Skin_Soft_Tissue](../07_Skin_Soft_Tissue/README.md)
+
+</div>

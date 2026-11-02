@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ۱۹. باسیل‌های گرم منفی غیرتخمیری (Non-Fermenters)
 
 ## دامنه
@@ -45,3 +47,5 @@
 - تست‌ها: [اکسیداز، DNase، ایندول](../12_Identification_Tests/02_Spot_Rapid_Tests.md) · [تحرک، رشد در ۴۲°C](../12_Identification_Tests/03_Disk_and_Growth_Tests.md) · [VITEK، MALDI-TOF](../12_Identification_Tests/05_Identification_Systems.md) · [*recA* و ۱۶S](../12_Identification_Tests/06_Molecular_ID.md)
 - آنتی‌بیوگرام: [نقاط برش *P. aeruginosa*، *Acinetobacter*، *S. maltophilia*](../AST/09_Breakpoints/01_Gram_Negative.md) · [کارباپنمازها](../AST/02_Beta_Lactamases/05_Carbapenemases.md) · [کولیستین](../AST/03_Other_Resistance/04_Colistin.md) · [بیوفیلم](../AST/04_Biofilm/01_Biofilm_Testing.md) · [IDSA 2026](../AST/10_Treatment_Link/01_IDSA_2026.md)
 - ماژول‌های نمونه: [01_Blood_Culture](../01_Blood_Culture/README.md) · [02_Urine](../02_Urine/README.md) · [06_Respiratory](../06_Respiratory/README.md) · [08_Wound_Tissue](../08_Wound_Tissue/README.md)
+
+</div>

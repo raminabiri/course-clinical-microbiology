@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # سیستم‌های شناسایی: کیت‌های دستی، خودکار و MALDI-TOF
 
 > مبنا: CLSI **M58** (Methods for the Identification of Cultured Microorganisms Using MALDI-TOF MS)، دستورالعمل سازندگان، Manual of Clinical Microbiology (ASM).
@@ -26,7 +28,7 @@
 | **MicroScan** | پانل‌های خشک/سریع | |
 
 - معمولاً **همراه AST** (← [AST/01_Phenotypic_Methods/07_Automated_Systems.md](../AST/01_Phenotypic_Methods/07_Automated_Systems.md)).
-- **محدودیت:** سخت‌رشدها، بی‌هوازی‌ها، گونه‌های جدید یا نادر، و **گونه‌های نزدیک** (*Burkholderia*، *Achromobacter*، استرپ‌های ویریدانس).
+- **محدودیت:** سخت‌رشدها، بی‌هوازی‌ها، گونه‌های جدید یا نادر، و **گونه‌های نزدیک** (*Burkholderia*، *Achromobacter*، استرپتوکوکوس‌های ویریدانس).
 
 ---
 
@@ -60,7 +62,7 @@
 | مشکل | توضیح | راه‌حل |
 |---|---|---|
 | ***E. coli* در برابر *Shigella*** | **جدا نمی‌کند** (طیف تقریباً یکسان) | بیوشیمیایی (لیزین، استات، ایندول/گاز) + سرولوژی |
-| ***S. pneumoniae* در برابر *S. mitis/oralis*، *S. pseudopneumoniae*** | شناسایی نادرست پنوموکوک (به‌ویژه در پایگاه‌های قدیمی) | **حلالیت صفرا**، اپتوچین |
+| ***S. pneumoniae* در برابر *S. mitis/oralis*، *S. pseudopneumoniae*** | شناسایی نادرست پنوموکوکوس (به‌ویژه در پایگاه‌های قدیمی) | **حلالیت صفرا**، اپتوچین |
 | **گروه *B. cereus*** (*B. anthracis*، *B. cereus*، *B. thuringiensis*) | *B. anthracis* در پایگاه **IVD** نیست؛ ممکن است *B. cereus* گزارش شود | ⚠️ ایمنی؛ تحرک، همولیز، الگوریتم Sentinel |
 | ***Brucella*** | در پایگاه IVD نیست ← ممکن است **«*Ochrobactrum*»** گزارش شود | ⚠️ **خطر عفونت آزمایشگاهی** (آئروسل از لکه‌گذاری روی میز باز) |
 | ***Francisella*، *Burkholderia mallei/pseudomallei*، *Y. pestis*** | در پایگاه IVD نیستند یا اشتباه می‌شوند (*B. thailandensis*) | پایگاه **RUO/امنیتی**؛ آزمایشگاه مرجع |
@@ -80,7 +82,7 @@
 
 ```mermaid
 flowchart TD
-A[کلنی خالص] --> B[رنگ گرم + کاتالاز/اکسیداز]
+A[کلنی خالص] --> B[رنگ‌آمیزی گرم + کاتالاز/اکسیداز]
 B --> C{شک به عامل خطرناک؟<br/>Brucella, Francisella, B. anthracis, ...}
 C -->|بله| D[BSC + ارجاع به آزمایشگاه مرجع<br/>بدون MALDI روی میز باز]
 C -->|خیر| E[MALDI-TOF]
@@ -92,3 +94,5 @@ E -->|امتیاز پایین| I[تکرار با فرمیک اسید / استخ�
 I -->|باز هم پایین| J[کیت بیوشیمیایی یا سیستم خودکار<br/>یا توالی‌یابی 16S]
 J --> G
 ```
+
+</div>

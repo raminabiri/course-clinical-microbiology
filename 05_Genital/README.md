@@ -1,10 +1,12 @@
+<div dir="rtl">
+
 # ماژول ۰۵: میکروب‌شناسی نمونه‌های دستگاه تناسلی
 
 ## معرفی
 این ماژول تشخیص آزمایشگاهی عفونت‌های باکتریایی دستگاه تناسلی را پوشش می‌دهد:
 - **عفونت‌های مقاربتی (STI):** گنوره، کلامیدیا، *Mycoplasma genitalium*، شانکروئید (و سیفلیس در حد اشاره؛ جزئیات در [ماژول ۲۴](../24_Non_Culturable/README.md))
 - **سندرم‌های واژینال:** واژینوز باکتریایی (BV)؛ (تریکوموناس و کاندیدا در حد تشخیص افتراقی)
-- **غربالگری استرپتوکوک گروه B (GBS) در بارداری**
+- **غربالگری استرپتوکوکوس گروه B (GBS) در بارداری**
 - **عفونت‌های پس از زایمان/سقط** (اندومتریت، سپسیس نفاسی)، PID
 - **اورتریت و اپیدیدیمیت در مردان**
 - **نمونه‌های پزشکی قانونی** (سوءاستفادهٔ جنسی)
@@ -29,9 +31,9 @@
 |---|---|
 | [01_Theory.md](01_Theory.md) | STI، واژینوز، GBS، عفونت‌های نفاسی، PID |
 | [02_Protocol/01_Specimen_Collection.md](02_Protocol/01_Specimen_Collection.md) | سواب‌ها، ادرار اول جریان، GBS، نمونه‌های بالینی خاص |
-| [02_Protocol/02_Transport_Acceptance.md](02_Protocol/02_Transport_Acceptance.md) | انتقال گنوکوک، NAAT، پذیرش و رد |
+| [02_Protocol/02_Transport_Acceptance.md](02_Protocol/02_Transport_Acceptance.md) | انتقال گونوکوکوس، NAAT، پذیرش و رد |
 | [02_Protocol/03_Direct_Examination.md](02_Protocol/03_Direct_Examination.md) | گرم اورترال، Nugent، Amsel، لام مرطوب |
-| [02_Protocol/04_Culture_Identification.md](02_Protocol/04_Culture_Identification.md) | گنوکوک، GBS، *H. ducreyi*، کشت‌های نفاسی |
+| [02_Protocol/04_Culture_Identification.md](02_Protocol/04_Culture_Identification.md) | گونوکوکوس، GBS، *H. ducreyi*، کشت‌های نفاسی |
 | [02_Protocol/05_Molecular_Methods.md](02_Protocol/05_Molecular_Methods.md) | NAAT، پنل‌های واژینال، GBS حین زایمان |
 | [02_Protocol/06_Interpretation.md](02_Protocol/06_Interpretation.md) | تفسیر و دام‌ها |
 | [02_Protocol/07_Reporting.md](02_Protocol/07_Reporting.md) | گزارش و بهداشت عمومی |
@@ -47,4 +49,6 @@
 | [07_References.md](07_References.md) | منابع |
 
 ## پیش‌نیاز
-ماژول‌های ۱۱ (کوکسی گرم مثبت)، ۱۳ (کوکسی گرم منفی)، ۱۹ (بی‌هوازی)، ۲۱ (کلامیدیا/مایکوپلاسما)، ۲۲ (اسپیروکت‌ها).
+ماژول‌های [۱۴](../14_GPC_Catalase_Negative/README.md) (کوکسی گرم مثبت کاتالاز منفی؛ GBS/GAS)، [۱۶](../16_Gram_Negative_Cocci/README.md) (کوکسی گرم منفی)، [۲۲](../22_Anaerobes/README.md) (بی‌هوازی)، [۲۴](../24_Non_Culturable/README.md) (کلامیدیا، مایکوپلاسما، اسپیروکت‌ها).
+
+</div>

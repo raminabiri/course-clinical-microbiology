@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ۱۵. باسیل‌های گرم مثبت هوازی
 
 ## دامنه
@@ -39,3 +41,5 @@
 - محیط‌ها: [آگار خون](../11_Culture_Media/01_Basic_Enriched.md) · [تلوریت، تینزدیل، لوفلر](../11_Culture_Media/04_Pathogen_Specific_Selective.md) · [TSI، اوره، نیترات](../11_Culture_Media/08_Biochemical_Tube_Media.md)
 - تست‌ها: [کاتالاز، هیپورات](../12_Identification_Tests/02_Spot_Rapid_Tests.md) · [CAMP، تحرک، اسپور](../12_Identification_Tests/03_Disk_and_Growth_Tests.md) · [اسید–فست اصلاح‌شده](../12_Identification_Tests/01_Microscopy_Stains.md) · [MALDI-TOF](../12_Identification_Tests/05_Identification_Systems.md)
 - آنتی‌بیوگرام: CLSI **M45** و **M24** ← [AST/05_Fastidious_Anaerobes](../AST/05_Fastidious_Anaerobes/README.md) · [AST/06_Mycobacteria](../AST/06_Mycobacteria/01_Mycobacteria_AST.md)
+
+</div>

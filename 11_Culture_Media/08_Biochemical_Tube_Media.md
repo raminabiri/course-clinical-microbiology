@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # گروه ۸: محیط‌های بیوشیمیایی لوله‌ای (شناسایی)
 
 > پس از جداسازی کلنی خالص و تست‌های سریع (← [12_Identification_Tests](../12_Identification_Tests/README.md)). امروزه **MALDI-TOF** و سیستم‌های خودکار جایگزین بسیاری از این‌ها شده‌اند، ولی این محیط‌ها (۱) **منطق شناسایی** را آموزش می‌دهند، (۲) در آزمایشگاه‌های بدون MALDI-TOF **روش اصلی** هستند، (۳) برای **حل ناهمخوانی‌ها** و **تأیید** (مثلاً *Salmonella*/*Shigella*) لازم‌اند.
@@ -77,7 +79,7 @@
 
 - تحرک را **در ۲۵°C هم** بررسی کنید: ***Yersinia enterocolitica*** و ***Listeria*** (چتری/umbrella در زیر سطح) در **۲۵°C متحرک**، در ۳۵–۳۷°C **بی‌حرکت**.
 - **تتراتزولیوم (TTC)** در برخی فرمول‌ها ← رشد **قرمز** ← خوانش آسان‌تر تحرک.
-- **QC (SIM):** *E. coli* ATCC 25922 (ایندول +، متحرک، H₂S −)؛ *S.* Typhimurium ATCC 14028 (H₂S +، متحرک، ایندول −)؛ *K. pneumoniae* ATCC 13883 (همه −، بی‌حرکت)؛ (MIO: *E. aerogenes*/*K. aerogenes* ATCC 13048: اورنیتین +، متحرک).
+- **QC (SIM):** *E. coli* ATCC 25922 (ایندول +، متحرک، H₂S −)؛ *S.* Typhimurium ATCC 14028 (H₂S +، متحرک، ایندول −)؛ *K. pneumoniae* ATCC 13883 (همه −، بی‌حرکت)؛ (MIO: *K. aerogenes* (نام قدیم *Enterobacter aerogenes*) ATCC 13048: اورنیتین +، متحرک).
 
 ---
 
@@ -132,7 +134,7 @@
 | سبز/**آبی** (قلیایی) | سبز | **غیرواکنش‌گر (asaccharolytic)** | *Alcaligenes*، *Moraxella*، *Achromobacter* (برخی)، *Bordetella* |
 
 - **OF با قندهای دیگر** (لاکتوز، مالتوز، زایلوز، مانیتول) برای افتراق غیرتخمیری‌ها (*B. cepacia*: لاکتوز/مالتوز +؛ *S. maltophilia*: مالتوز قوی +).
-- **کنترل:** لوله‌ی **بدون قند** (پایه) برای تشخیص قلیایی شدن از پپتون.
+- **کنترل:** لولهٔ **بدون قند** (پایه) برای تشخیص قلیایی شدن از پپتون.
 - **QC:** *E. coli* ATCC 25922 (F)؛ *P. aeruginosa* ATCC 27853 (O)؛ *Moraxella* / *Alcaligenes faecalis* ATCC 8750 (غیرواکنش‌گر).
 
 ---
@@ -185,7 +187,7 @@
   - **قرمز** شد ← نیترات باقی است ← **منفی**
   - **بی‌رنگ** ماند ← نیترات به **N₂ یا آمونیاک** احیا شده ← **مثبت** (دنیتریفیکاسیون)
 - **دورهام** در لوله: **گاز (N₂)** ← *P. aeruginosa* و برخی غیرتخمیری‌ها (*P. stutzeri*).
-- **مثبت:** تقریباً **همهٔ Enterobacterales** (*Pantoea agglomerans*، برخی *Serratia* و *Erwinia* استثنا)؛ *P. aeruginosa* (تا N₂)؛ *M. catarrhalis*؛ *N. mucosa*؛ *Kingella denitrificans* (*K. kingae* منفی)؛ *M. tuberculosis* (آزمون نیترات ویژه). **منفی:** *Acinetobacter*، *N. gonorrhoeae*، *N. meningitidis*، *Bordetella pertussis*.
+- **مثبت:** تقریباً **همهٔ Enterobacterales** (برخی سویه‌های *Pantoea*، *Serratia* و *Erwinia* استثنا)؛ *P. aeruginosa* (تا N₂)؛ *M. catarrhalis*؛ *N. mucosa*؛ *Kingella denitrificans* (*K. kingae* منفی)؛ *M. tuberculosis* (آزمون نیترات ویژه). **منفی:** *Acinetobacter*، *N. gonorrhoeae*، *N. meningitidis*، *Bordetella pertussis*.
 - **QC:** *E. coli* ATCC 25922 (+، قرمز در مرحلهٔ ۱)؛ *Acinetobacter baumannii* ATCC 19606 (−؛ قرمز پس از روی)؛ *P. aeruginosa* ATCC 27853 (+ تا N₂؛ بی‌رنگ پس از روی، گاز).
 
 ---
@@ -193,8 +195,8 @@
 ## ۸.۱۲ بایل اسکولین (Bile Esculin Agar, BEA)
 - **صفرای گاوی ۴۰٪ (oxgall)** ← فقط ارگانیسم‌های مقاوم به صفرا رشد می‌کنند؛ **اسکولین** ← هیدرولیز ← **اسکولتین** + **سیترات آهن** ← **سیاه** (حداقل نیمی از شیب).
 - ۳۵°C، **۲۴–۴۸ ساعت**.
-- **مثبت:** ***Enterococcus***، **گروه *S. bovis*/*S. gallolyticus*** (D، غیرانتروکوک)، *Listeria*، *Leuconostoc*، *Pediococcus*، *Aerococcus viridans*؛ و بسیاری از Enterobacterales (بی‌ربط در این کاربرد). **منفی:** ویریدانس‌ها (اکثر؛ برخی **۱۰٪** مثبت ضعیف)، GBS، GAS.
-- **افتراق انتروکوک و *S. bovis*:** **NaCl ۶٫۵٪** (انتروکوک +، *S. bovis* −) و **PYR** (انتروکوک +، *S. bovis* −).
+- **مثبت:** ***Enterococcus***، **گروه *S. bovis*/*S. gallolyticus*** (D، غیرانتروکوکوس)، *Listeria*، *Leuconostoc*، *Pediococcus*، *Aerococcus viridans*؛ و بسیاری از Enterobacterales (بی‌ربط در این کاربرد). **منفی:** ویریدانس‌ها (اکثر؛ برخی **۱۰٪** مثبت ضعیف)، GBS، GAS.
+- **افتراق انتروکوکوس و *S. bovis*:** **NaCl ۶٫۵٪** (انتروکوکوس +، *S. bovis* −) و **PYR** (انتروکوکوس +، *S. bovis* −).
 - **QC:** *E. faecalis* ATCC 29212 (رشد، سیاه)؛ *S. pyogenes* ATCC 19615 (بدون رشد/سیاه شدن).
 - ⚠️ **اسکولین براث/دیسک بدون صفرا** ← آزمون **هیدرولیز اسکولین** جدا (برای *Listeria*، *Aeromonas*، بی‌هوازی‌ها)؛ با BEA اشتباه نشود.
 
@@ -203,7 +205,7 @@
 ## ۸.۱۳ براث NaCl ۶٫۵٪
 - BHI (یا HIB) + **NaCl ۶٫۵٪** + بروموکرزول ارغوانی (± گلوکز).
 - **رشد (کدورت) ± تغییر رنگ به زرد** = مثبت؛ ۳۵°C، **۲۴–۷۲ ساعت**.
-- **مثبت:** ***Enterococcus***، *Aerococcus*، *Pediococcus*، *Leuconostoc* (متغیر)، **استاف‌ها**. **منفی:** *S. bovis* group، ویریدانس‌ها، اغلب استرپتوکوک‌های بتا (حدود ۸۰٪ GBS هم ممکن است رشد کند؛ ⚠️ برای GBS کاربرد ندارد).
+- **مثبت:** ***Enterococcus***، *Aerococcus*، *Pediococcus*، *Leuconostoc* (متغیر)، **استافیلوکوکوس‌ها**. **منفی:** *S. bovis* group، ویریدانس‌ها، اغلب استرپتوکوکوس‌های بتا (حدود ۸۰٪ GBS هم ممکن است رشد کند؛ ⚠️ برای GBS کاربرد ندارد).
 - **QC:** *E. faecalis* ATCC 29212 (+)؛ *S. bovis* ATCC 9809 یا *S. pyogenes* ATCC 19615 (−).
 
 ---
@@ -211,7 +213,7 @@
 ## ۸.۱۴ قندهای CTA (Cystine Trypticase Agar) و آزمون‌های قندی *Neisseria*
 - **پایهٔ CTA** (سیستین، تریپتیکاز، آگار نیمه‌جامد، **فنل رد**) + **۱٪** قند (گلوکز، مالتوز، لاکتوز، ساکارز).
 - تلقیح **سنگین** در **۱ cm بالایی** محیط؛ ۳۵°C، **هوا (بدون CO₂)**، ۲۴–۷۲ ساعت؛ اسید ← **زرد در لایهٔ بالایی**.
-- ⚠️ **کند و غیرقابل‌اعتماد** برای گنوکوک (رشد ضعیف، اسیدی‌شدن کم) ← امروزه **آزمون‌های سریع قند غیروابسته به رشد** (RCUT: Rapid Carbohydrate Utilization Test، سوسپانسیون سنگین در بافر، ۴ ساعت)، **آنزیم‌های کروموژنیک** (Gonochek-II، RapID NH) و **MALDI-TOF**.
+- ⚠️ **کند و غیرقابل‌اعتماد** برای گونوکوکوس (رشد ضعیف، اسیدی‌شدن کم) ← امروزه **آزمون‌های سریع قند غیروابسته به رشد** (RCUT: Rapid Carbohydrate Utilization Test، سوسپانسیون سنگین در بافر، ۴ ساعت)، **آنزیم‌های کروموژنیک** (Gonochek-II، RapID NH) و **MALDI-TOF**.
 
 | ارگانیسم | گلوکز | مالتوز | لاکتوز | ساکارز |
 |---|---|---|---|---|
@@ -234,7 +236,9 @@
 | *Salmonella* یا *Proteus* (هر دو H₂S+)؟ | **LIA** (*Proteus*: R/A)، **اوره** (*Proteus* +)، PAD |
 | *Shigella* یا *E. coli* بی‌حرکت؟ | لیزین (*E. coli* اغلب +)، **استات/موسیک** (*E. coli* +)، لاکتوز دیررس، ایندول |
 | *Klebsiella* یا *Enterobacter*؟ | **تحرک** (*Klebsiella* −)، **اورنیتین** (*Enterobacter* +) |
-| انتروکوک یا *S. bovis*؟ | BEA (هر دو +) + **NaCl ۶٫۵٪** (انتروکوک +) |
+| انتروکوکوس یا *S. bovis*؟ | BEA (هر دو +) + **NaCl ۶٫۵٪** (انتروکوکوس +) |
 | *Yersinia*؟ | تحرک **۲۵°C +/۳۷°C −**، اوره +، CIN |
 | Proteeae؟ | **PAD +**، LIA R/A |
 | *P. aeruginosa*؟ | OF اکسیداتیو، **آرژینین +**، نیترات تا N₂، ۴۲°C + |
+
+</div>

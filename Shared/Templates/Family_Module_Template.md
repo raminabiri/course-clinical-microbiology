@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # الگوی ماژول خانواده (۱۳ تا ۲۴)
 
 > ماژول‌های خانواده **جدول و فلوچارت تشخیصی** می‌سازند. شرح محیط‌ها و تست‌ها در [11_Culture_Media](../../11_Culture_Media/README.md) و [12_Identification_Tests](../../12_Identification_Tests/README.md) و آنتی‌بیوگرام در [AST](../../AST/README.md) است؛ این‌جا **فقط ارجاع** داده می‌شود (بدون تکرار).
@@ -19,3 +21,5 @@ NN_Family_Name/
 - فلوچارت‌ها: Mermaid `flowchart TD`؛ بدون پرانتز داخل برچسب گره‌ها.
 - سطح: دستیار میکروب‌شناسی، از پایه تا پیشرفته.
 - منابع: Manual of Clinical Microbiology (13th ed.)، Koneman (7th ed.)، Bailey & Scott (15th ed.)، CLSI M35/M58، ASM Sentinel Guidelines.
+
+</div>

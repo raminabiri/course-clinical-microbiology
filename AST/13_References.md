@@ -36,11 +36,11 @@
 25. Humphries RM, Ambler J, Mitchell SL, et al. CLSI Methods Development and Standardization Working Group best practices for evaluation of AST methods. *J Clin Microbiol.* 2018;56:e01934-17.
 26. Tamma PD, Simner PJ. Phenotypic detection of carbapenemase-producing organisms from clinical isolates. *J Clin Microbiol.* 2018;56:e01140-18.
 27. Simner PJ, Patel R. Cefiderocol antimicrobial susceptibility testing considerations. *J Clin Microbiol.* 2020;59:e00951-20.
-28. Satlin MJ, et al. CLSI and EUCAST joint recommendations on colistin susceptibility testing. *Clin Infect Dis.* 2020;71:e523-e529.
+28. Satlin MJ, Lewis JS, Weinstein MP, et al. Clinical and Laboratory Standards Institute and European Committee on Antimicrobial Susceptibility Testing position statements on polymyxin B and colistin clinical breakpoints. *Clin Infect Dis.* 2020;71(9):e523-e529.
 29. Macià MD, Rojo-Molinero E, Oliver A. Antimicrobial susceptibility testing in biofilm-growing bacteria. *Clin Microbiol Infect.* 2014;20:981-990.
 30. Ceri H, Olson ME, Stremick C, et al. The Calgary Biofilm Device. *J Clin Microbiol.* 1999;37:1771-1776.
 31. ASTM **E2799**. Standard Test Method for Testing Disinfectant Efficacy against *P. aeruginosa* Biofilm using the MBEC Assay.
-32. Waters V, Ratjen F. Antimicrobial susceptibility testing for chronic infections in cystic fibrosis. *Cochrane Database Syst Rev.* (latest update).
+32. Waters V, Ratjen F. Standard versus biofilm antimicrobial susceptibility testing to guide antibiotic therapy in cystic fibrosis. *Cochrane Database Syst Rev.* 2017;10:CD009528.
 33. Daley CL, et al. Treatment of nontuberculous mycobacterial pulmonary disease: ATS/ERS/ESCMID/IDSA guideline. *Clin Infect Dis.* 2020;71:e1-e36.
 
 > ⚠️ برای منابع ۲۴ تا ۳۳ شمارهٔ صفحه و ویرایش را پیش از استناد رسمی با منبع اصلی تطبیق دهید.

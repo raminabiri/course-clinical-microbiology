@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # فلوچارت‌های تشخیصی: Enterobacterales
 
 ## فلوچارت ۱: از باسیل گرم منفی تا گروه
@@ -42,7 +44,7 @@ C -->|مثبت سریع| C1[Proteeae یا Y. enterocolitica<br/>کنار گذا�
 C -->|منفی| D{TSI H2S و LIA}
 D -->|TSI K/A H2S + ، LIA K/K| E[مشکوک به Salmonella]
 E --> E1[آنتی‌سرم O پلی‌والان و Vi<br/>سپس گروه O]
-E1 --> E2[گزارش اولیه: Salmonella سروگروه ...<br/>ارسال به آزمایشگاه مرجع]
+E1 --> E2[گزارش مقدماتی: Salmonella سروگروه ...<br/>ارسال به آزمایشگاه مرجع]
 D -->|TSI K/A بدون گاز و H2S ، LIA K/A ، بی‌حرکت| F[مشکوک به Shigella]
 F --> F1[آنتی‌سرم A، B، C، D<br/>رد E. coli غیرفعال: استات، موکات]
 F1 --> F2[گزارش Shigella سروگروه ...<br/>AST و اطلاع به بهداشت]
@@ -73,3 +75,5 @@ E -->|خیر| G[گزارش طبق قواعد Cascade]
 ```
 
 > جزئیات: [ESBL](../AST/02_Beta_Lactamases/03_ESBL.md) · [AmpC](../AST/02_Beta_Lactamases/04_AmpC.md) · [کارباپنمازها](../AST/02_Beta_Lactamases/05_Carbapenemases.md) · [انتخاب و گزارش](../AST/00_Principles/03_Selection_and_Reporting.md).
+
+</div>

@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ۱۰. کنترل کیفی و تضمین کیفیت در آزمایشگاه میکروب‌شناسی
 
 ## دامنه
@@ -27,3 +29,5 @@
 - WHO: *Laboratory Quality Management System Handbook*؛ *Laboratory Biosafety Manual* (4th ed.).
 
 > ⚠️ عناوین و ویرایش اسناد CLSI بالا از دانش عمومی آمده‌اند (فقط M100-Ed36 در مخزن موجود است)؛ پیش از استناد رسمی با فهرست جاری CLSI تطبیق دهید.
+
+</div>

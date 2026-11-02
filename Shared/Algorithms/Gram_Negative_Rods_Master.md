@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # الگوریتم اصلی: باسیل‌ها و کوکوباسیل‌های گرم منفی
 
 > **مسیریاب** از رنگ گرم تا ماژول خانواده. ⚠️ **ایمنی اول:** کوکوباسیل **بسیار ریز** با رشد **کند** (۴۸–۷۲ ساعت) و **بدون رشد روی MacConkey** ← تا رد *Brucella*/*Francisella* **کار باز ممنوع** ← [ماژول ۲۰](../../20_Fastidious_GNB/02_Flowcharts.md). باسیل اکسیداز + با کلنی چروکیده و **جنتامایسین/کولیستین R** ← *B. pseudomallei* ← [ماژول ۱۹](../../19_Non_Fermenters/README.md).
@@ -33,3 +35,5 @@ H -->|K/K، غیرتخمیری| H2[Pseudomonas، Burkholderia، Achromobacter و
 ## ماژول‌های مقصد
 - [17_Enterobacterales](../../17_Enterobacterales/README.md) · [18_Oxidase_Positive_Fermenters](../../18_Oxidase_Positive_Fermenters/README.md) · [19_Non_Fermenters](../../19_Non_Fermenters/README.md) · [20_Fastidious_GNB](../../20_Fastidious_GNB/README.md) · [21_Curved_GNB](../../21_Curved_GNB/README.md) · [22_Anaerobes](../../22_Anaerobes/README.md) · [24_Non_Culturable](../../24_Non_Culturable/README.md)
 - آنتی‌بیوگرام: [نقاط برش گرم منفی](../../AST/09_Breakpoints/01_Gram_Negative.md) · [بتالاکتامازها](../../AST/02_Beta_Lactamases/README.md)
+
+</div>

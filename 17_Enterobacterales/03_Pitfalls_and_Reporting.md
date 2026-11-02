@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # دام‌های تشخیصی و گزارش‌دهی: Enterobacterales
 
 ## ۱. دام‌های تشخیصی
@@ -54,3 +56,5 @@
 | کارباپنماز | Carba NP، mCIM/eCIM، مولکولی، ایمونوکروماتوگرافی | [کارباپنمازها](../AST/02_Beta_Lactamases/05_Carbapenemases.md) |
 | کولیستین | فقط **BMD** یا CBDE/CAT؛ Proteeae، *Serratia*، *Hafnia* ذاتاً R | [کولیستین](../AST/03_Other_Resistance/04_Colistin.md) |
 | درمان | IDSA 2026 (ESBL، AmpC، CRE) | [10_Treatment_Link](../AST/10_Treatment_Link/01_IDSA_2026.md) |
+
+</div>

@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # تست‌های دیسکی، رشدی و فیزیولوژیک
 
 > تست‌هایی که بر پایهٔ **حساسیت به یک ماده (دیسک)**، **نیاز رشدی**، **هم‌افزایی**، یا **شرایط رشد** (اکسیژن، دما، نمک) هستند. همه روی **کلنی خالص**.
@@ -10,15 +12,27 @@
 - هالهٔ **کمتر از ۱۴ mm** ← **حلالیت در صفرا** (← [02_Spot_Rapid_Tests.md](02_Spot_Rapid_Tests.md) ۲.۷).
 - **QC:** *S. pneumoniae* ATCC 49619 (حساس)؛ *E. faecalis* ATCC 29212 یا *S. mitis* (مقاوم).
 - **دام‌ها:**
-  - **CO₂** هاله را **کوچک‌تر** می‌کند (برخی پنوموکوک‌ها ۱۰–۱۳ mm) ← حلالیت صفرا.
-  - **پنوموکوک‌های مقاوم به اپتوچین** (جهش *atpC/atpA*) گزارش شده‌اند.
+  - **CO₂** هاله را **کوچک‌تر** می‌کند (برخی پنوموکوکوس‌ها ۱۰–۱۳ mm) ← حلالیت صفرا.
+  - **پنوموکوکوس‌های مقاوم به اپتوچین** (جهش *atpC/atpA*) گزارش شده‌اند.
   - برخی ***S. mitis*/*S. oralis*/*S. pseudopneumoniae*** هالهٔ مرزی (به‌ویژه در هوا) دارند.
+
+**تصاویر:**
+
+<p align="center"><img src="Assets/figures/optochin-reading-schematic.svg" width="760" alt="optochin-reading-schematic"></p>
+
+> **شکل ۱۲.۱۷.** خواندن آزمون اپتوچین — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/optochin-streptococcus-pneumoniae.jpg" width="300" alt="optochin-streptococcus-pneumoniae"><br><sub><b>شکل ۱۲.۱۸.</b> هالهٔ مهار اطراف دیسک اپتوچین (<i>S. pneumoniae</i>، آگار خون)<br>منبع: Gsbhalla، <a href="https://commons.wikimedia.org/wiki/File:S._pneumoniae.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ## ۳.۲ باسیتراسین (۰٫۰۴ واحد، Taxo A)
 - آگار خون، کشت چمنی؛ ۳۵°C، ۱۸–۲۴ ساعت.
-- **استرپتوکوک بتا:** **هر هالهٔ مهار** = حساس ← ***S. pyogenes*** (احتمالی). ⚠️ ۵–۱۵٪ استرپ‌های گروه C و G هم حساس‌اند و برخی GAS مقاوم ← **PYR** یا **لانسفیلد** ارجح است.
-- **استافیلوکوک در برابر *Micrococcus***: *Micrococcus* **حساس** (≥ ۱۰ mm)؛ استاف **مقاوم** (کمتر از ۱۰ mm). (همراه **فورازولیدون ۱۰۰ µg**: استاف حساس، *Micrococcus* مقاوم؛ و **اکسیداز اصلاح‌شده**: *Micrococcus* +.)
+- **استرپتوکوکوس بتا:** **هر هالهٔ مهار** = حساس ← ***S. pyogenes*** (احتمالی). ⚠️ ۵–۱۵٪ استرپتوکوکوس‌های گروه C و G هم حساس‌اند و برخی GAS مقاوم ← **PYR** یا **لانسفیلد** ارجح است.
+- **استافیلوکوکوس در برابر *Micrococcus***: *Micrococcus* **حساس** (≥ ۱۰ mm)؛ استافیلوکوکوس **مقاوم** (کمتر از ۱۰ mm). (همراه **فورازولیدون ۱۰۰ µg**: استافیلوکوکوس حساس، *Micrococcus* مقاوم؛ و **اکسیداز اصلاح‌شده**: *Micrococcus* +.)
 - **QC:** *S. pyogenes* ATCC 19615 (حساس)؛ *S. agalactiae* ATCC 13813 (مقاوم).
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/bacitracin-beta-haemolytic-streptococci.jpg" width="300" alt="bacitracin-beta-haemolytic-streptococci"><br><sub><b>شکل ۱۲.۱۹.</b> دیسک باسیتراسین روی کشت استرپتوکوکوس بتاهمولیتیک (آگار خون کلمبیا)<br>منبع: Pöllö، <a href="https://commons.wikimedia.org/wiki/File:Columbia_blood_agar_plate_to_test_betahemolytic_streptococci.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a></sub></td></tr></table>
 
 ## ۳.۳ نووبیوسین (۵ µg)
 - **MHA یا آگار خون**؛ هالهٔ **≤ ۱۶ mm** = **مقاوم** ← ***S. saprophyticus*** (در ایزولهٔ ادراری زن جوان). (*S. cohnii*، *S. xylosus* هم مقاوم‌اند.)
@@ -27,11 +41,11 @@
 ## ۳.۴ دیسک‌های ویژهٔ بی‌هوازی (Special-Potency Disks)
 - روی **آگار خون بی‌هوازی** (بروسلا)؛ **ونکومایسین ۵ µg**، **کانامایسین ۱ mg**، **کولیستین ۱۰ µg**؛ بی‌هوازی، ۴۸ ساعت.
 - **هالهٔ ≥ ۱۰ mm = حساس (S)**.
-- **کاربرد:** (۱) **تأیید رنگ گرم** (بی‌هوازی‌ها گاه گرم‌متغیرند)؛ (۲) **گروه‌بندی** گرم منفی‌ها.
+- **کاربرد:** (۱) **تأیید رنگ‌آمیزی گرم** (بی‌هوازی‌ها گاه گرم‌متغیرند)؛ (۲) **گروه‌بندی** گرم منفی‌ها.
 
 | گروه | ونکومایسین ۵ | کانامایسین ۱۰۰۰ | کولیستین ۱۰ |
 |---|---|---|---|
-| **گرم مثبت‌ها** (حتی اگر گرم منفی دیده شوند؛ مثلاً *C. clostridioforme*، *C. ramosum*) | **S** | v | **R** |
+| **گرم مثبت‌ها** (حتی اگر گرم منفی دیده شوند؛ مثلاً *Enterocloster clostridioformis* (نام قدیم *C. clostridioforme*)، *Thomasclavelia ramosa* (نام قدیم *C. ramosum*)) | **S** | v | **R** |
 | **گروه *B. fragilis*** | R | **R** | **R** |
 | ***Porphyromonas*** | **S** | R | R |
 | ***Prevotella*** | R | R | v |
@@ -62,8 +76,16 @@
 - **QC:** *H. influenzae* ATCC 49247 یا 10211 (منفی؛ X+V)؛ *H. parainfluenzae* ATCC 7901 (مثبت؛ فقط V).
 
 ### اقمار (Satellitism)
-- خط کشت ***S. aureus*** روی **آگار خون گوسفند** که با ارگانیسم مشکوک چمن شده ← رشد **فقط اطراف خط *S. aureus*** (آزاد شدن V با همولیز + NAD از استاف).
+- خط کشت ***S. aureus*** روی **آگار خون گوسفند** که با ارگانیسم مشکوک چمن شده ← رشد **فقط اطراف خط *S. aureus*** (آزاد شدن V با همولیز + NAD از استافیلوکوکوس).
 - **مثبت:** *H. influenzae*، *H. parainfluenzae*، ***Abiotrophia*/*Granulicatella*** (نیاز به **پیریدوکسال**).
+
+**تصاویر:**
+
+<p align="center"><img src="Assets/figures/xv-factor-patterns-schematic.svg" width="760" alt="xv-factor-patterns-schematic"></p>
+
+> **شکل ۱۲.۲۰.** الگوهای رشد اطراف دیسک‌های X، V و XV — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/xv-disk-haemophilus-influenzae.jpg" width="300" alt="xv-disk-haemophilus-influenzae"><br><sub><b>شکل ۱۲.۲۱.</b> رشد <i>H. influenzae</i> فقط اطراف دیسک XV<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Haemophilus_influenzae_growth_around_XV_growth_factor_disk.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/satellitism-haemophilus-influenzae.jpg" width="300" alt="satellitism-haemophilus-influenzae"><br><sub><b>شکل ۱۲.۲۲.</b> اقمار: رشد <i>H. influenzae</i> فقط در کنار خط <i>S. aureus</i><br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Satellitism_test_-positive_Haemophilus_influenzae.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ## ۳.۶ آزمون CAMP و CAMP معکوس
 ### CAMP
@@ -83,13 +105,21 @@
 - خط ***S. agalactiae*** + ارگانیسم مشکوک عمود ← همولیز به شکل **پیکان به سمت خط GBS** (عامل CAMP GBS با لسیتیناز *C. perfringens*).
 - **مثبت:** ***C. perfringens*** (بی‌هوازی)؛ ***Arcanobacterium haemolyticum*** (فسفولیپاز D **مهار** همولیز β-لیزین *S. aureus* = **CAMP مهاری**)؛ *C. pseudotuberculosis* و *C. ulcerans* (فسفولیپاز D، مهار با *S. aureus*).
 
+**تصاویر:**
+
+<p align="center"><img src="Assets/figures/camp-reverse-camp-schematic.svg" width="760" alt="camp-reverse-camp-schematic"></p>
+
+> **شکل ۱۲.۲۳.** CAMP و CAMP معکوس — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/camp-positive-streptococcus-agalactiae.jpg" width="300" alt="camp-positive-streptococcus-agalactiae"><br><sub><b>شکل ۱۲.۲۴.</b> CAMP مثبت: همولیز هم‌افزا که به سمت خط <i>S. aureus</i> پهن می‌شود (<i>S. agalactiae</i>)<br>منبع: Blueiridium، <a href="https://commons.wikimedia.org/wiki/File:CAMP_test.JPG">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr></table>
+
 ## ۳.۷ آزمون ناگلر (Nagler)
 - **آگار زردهٔ تخم‌مرغ**؛ نیمی از پلیت با **آنتی‌توکسین α (فسفولیپاز C) *C. perfringens*** پوشانده؛ ارگانیسم روی هر دو نیمه؛ بی‌هوازی ۲۴–۴۸ ساعت.
 - **لسیتیناز در نیمهٔ بدون آنتی‌توکسین، مهار در نیمهٔ دارای آنتی‌توکسین** = ***C. perfringens*** (و *C. bifermentans*، *C. sordellii*، *C. baratii* که لسیتیناز آن‌ها را آنتی‌توکسین مهار می‌کند).
 - محیط: ← [11_Culture_Media/06_Anaerobic.md](../11_Culture_Media/06_Anaerobic.md) بخش ۶.۶.
 
 ## ۳.۸ هوازی‌تحملی (Aerotolerance)
-- هر مورفوتیپ از پلیت بی‌هوازی ← زیرکشت روی: (۱) **آگار خون/شکلات + CO₂** (هوازی)، (۲) **آگار خون بی‌هوازی**.
+- هر مورفوتیپ از پلیت بی‌هوازی ← ساب‌کالچر روی: (۱) **آگار خون/شکلات + CO₂** (هوازی)، (۲) **آگار خون بی‌هوازی**.
 
 | رشد هوازی (CO₂) | رشد بی‌هوازی | تفسیر |
 |---|---|---|
@@ -115,6 +145,12 @@
 
 - **رنگ‌آمیزی تاژک (Leifson/Ryu)**: آرایش تاژک (قطبی، پری‌تریش) در غیرتخمیری‌ها.
 
+**تصاویر:**
+
+<p align="center"><img src="Assets/figures/motility-patterns-schematic.svg" width="600" alt="motility-patterns-schematic"></p>
+
+> **شکل ۱۲.۲۵.** الگوهای تحرک در آگار نیمه‌جامد — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+
 ## ۳.۱۰ رشد در دما و نمک
 | آزمون | مثبت | منفی | کاربرد |
 |---|---|---|---|
@@ -123,14 +159,16 @@
 | **۴°C** (غنی‌سازی سرد) | *Listeria*، *Yersinia* | | جداسازی از نمونه‌های پرفلور |
 | **NaCl ۰٪** (براث پپتون بدون نمک) | ***V. cholerae***، *V. mimicus*، *Aeromonas*، *Plesiomonas* | *Vibrio*های **هالوفیل** (*V. parahaemolyticus*، *V. vulnificus*، *V. alginolyticus*) | *Vibrio* |
 | **NaCl ۶–۸٪** | *V. parahaemolyticus*، *V. alginolyticus* (۱۰٪ هم) | *V. cholerae*، *Aeromonas* | |
-| **NaCl ۶٫۵٪** | انتروکوک، استاف | *S. bovis*، ویریدانس | ← [11_Culture_Media/08](../11_Culture_Media/08_Biochemical_Tube_Media.md) |
+| **NaCl ۶٫۵٪** | انتروکوکوس، استافیلوکوکوس | *S. bovis*، ویریدانس | ← [11_Culture_Media/08](../11_Culture_Media/08_Biochemical_Tube_Media.md) |
 
 ## ۳.۱۱ اسپور
-- **مشاهدهٔ مستقیم:** رنگ‌آمیزی **شفر–فولتون (مالاشیت گرین)**: اسپور **سبز**، سلول **قرمز**؛ یا جاهای **روشن (ghost)** در رنگ گرم. محل: **انتهایی گرد** (*C. tetani*: **چوب‌طبل**)، **زیرانتهایی** (*C. sporogenes*، *C. botulinum*)، **مرکزی**.
-- **شوک حرارتی** (۸۰°C، ۱۰ دقیقه) یا **الکلی** (اتانول ۹۵٪، ۱ ساعت) ← کشت ← **رشد = اسپوردار**.
-- ⚠️ ***C. perfringens*** و ***C. ramosum*** و *C. clostridioforme* **به‌ندرت در محیط کشت اسپور می‌سازند**.
+- **مشاهدهٔ مستقیم:** رنگ‌آمیزی **شفر–فولتون (مالاشیت گرین)**: اسپور **سبز**، سلول **قرمز**؛ یا جاهای **روشن (ghost)** در رنگ‌آمیزی گرم. محل: **انتهایی گرد** (*C. tetani*: **چوب‌طبل**)، **زیرانتهایی** (*C. sporogenes*، *C. botulinum*)، **مرکزی**.
+- **شوک حرارتی** (۸۰°C، ۱۰ دقیقه) یا **الکلی** (اتانول ۹۵٪ هم‌حجم نمونه، ۱ ساعت) ← کشت ← **رشد = اسپوردار**.
+- ⚠️ ***C. perfringens*** و ***T. ramosa*** و *E. clostridioformis* **به‌ندرت در محیط کشت اسپور می‌سازند**.
 - *Bacillus* (هوازی) و *Clostridium* (بی‌هوازی؛ به‌جز گونه‌های هوازی‌تحمل).
 
 ## ۳.۱۲ ایمنی زیستی (یادآوری مهم)
 اگر کلنی **کوچک، کندرشد، گرم منفی کوکوباسیل، اکسیداز/اوره‌آز مثبت سریع** (*Brucella*)، یا **فقط روی شکلات/BCYE با سیستئین** (*Francisella*)، یا **باسیل گرم مثبت بزرگ بی‌حرکت، غیرهمولیتیک، «سر مدوسا»** (*B. anthracis*) است:
 - **کار روی میز باز (کاتالاز، اکسیداز، MALDI-TOF) را متوقف کنید** ← **BSC**؛ اطلاع به مسئول ایمنی؛ ارجاع به آزمایشگاه مرجع (پروتکل‌های **ASM Sentinel Level**).
+
+</div>

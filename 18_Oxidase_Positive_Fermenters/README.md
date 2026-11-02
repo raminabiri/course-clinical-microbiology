@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ۱۸. باسیل‌های گرم منفی اکسیداز مثبت تخمیرکننده
 
 ## دامنه
@@ -47,3 +49,5 @@
 - تست‌ها: [رنگ گرم، لام مرطوب](../12_Identification_Tests/01_Microscopy_Stains.md) · [اکسیداز، آزمون نخ، ایندول](../12_Identification_Tests/02_Spot_Rapid_Tests.md) · [تحرک، رشد در نمک](../12_Identification_Tests/03_Disk_and_Growth_Tests.md) · [آنتی‌سرم O1/O139](../12_Identification_Tests/04_Antigen_Serology.md) · [MALDI-TOF](../12_Identification_Tests/05_Identification_Systems.md) · [مولکولی](../12_Identification_Tests/06_Molecular_ID.md)
 - آنتی‌بیوگرام: CLSI **M45** (*Vibrio*، *Aeromonas*، *Pasteurella*؛ M100-Ed36 فقط به M45 ارجاع می‌دهد) ← [AST/05](../AST/05_Fastidious_Anaerobes/README.md)
 - ماژول‌های نمونه: [01_Blood_Culture](../01_Blood_Culture/README.md) · [04_Gastrointestinal](../04_Gastrointestinal/README.md) · [07_Skin_Soft_Tissue](../07_Skin_Soft_Tissue/README.md) · [08_Wound_Tissue](../08_Wound_Tissue/README.md)
+
+</div>

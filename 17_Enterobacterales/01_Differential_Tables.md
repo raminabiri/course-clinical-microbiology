@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # جدول‌های افتراقی: Enterobacterales
 
 > نمادها: **+** (≥ ۹۰٪)، **−** (≥ ۹۰٪ منفی)، **v** متغیر، **w** ضعیف، **L** دیررس. شرح تست‌ها: [11_Culture_Media/08](../11_Culture_Media/08_Biochemical_Tube_Media.md) (TSI، LIA، SIM/MIO، سیترات، اوره، MR-VP، دکربوکسیلازها، PAD، مالونات)؛ [12_Identification_Tests/02](../12_Identification_Tests/02_Spot_Rapid_Tests.md) (اکسیداز، ایندول اسپات، ONPG).
@@ -109,3 +111,5 @@
 > - ⚠️ ***Salmonella*/*Shigella*:** آمینوگلیکوزیدها، سفالوسپورین نسل ۱ و ۲ و سفامایسین‌ها **ممکن است در آزمایشگاه فعال به نظر برسند ولی بالینی مؤثر نیستند** ← **S گزارش نشوند**.
 > - همهٔ Enterobacterales: کلیندامایسین، داپتومایسین، فوزیدیک اسید، گلیکوپپتیدها، لینزولید، ریفامپین و ماکرولیدها (به‌جز آزیترومایسین در *Salmonella*/*Shigella*).
 > - EUCAST: «Expected Resistant Phenotypes» (فهرست مشابه با تفاوت‌های جزئی) ← [AST/00_Principles/02](../AST/00_Principles/02_CLSI_vs_EUCAST.md).
+
+</div>
