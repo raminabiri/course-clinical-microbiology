@@ -114,7 +114,6 @@ after the user reviews it on GitHub.
      `sheet.py`, `addfig.py MODULE spec.json [--check]` (insert photos/SVGs, renumber in file order, CREDITS, README count),
      `svgs.py` (the 5 new SVGs). Avoid "≥" in RTL SVG text (renders mirrored).
 2. (Done 2026-11-03) `final-review` merged into `main` (merge commit `7892c84`), pushed.
-3. After user approval: `git fetch` (check for web edits), merge `final-review` → `main`, push.
-4. Module 11: if gaps remain for key media (XLD, TCBS, CIN, BCYE, LJ…), draw SVGs in module 12 style.
-5. Verify the M45/M24S/M02 items above when the user supplies the documents.
-6. Ask the user about LICENSE, CITATION name and Iran reference data.
+3. (Done) Remote now `raminabiri/course-clinical-microbiology` (CITATION.cff updated).
+4. Verify the M45/M24S/M02 items above when the user supplies the documents.
+5. Ask the user about LICENSE (none yet; repo has CC BY-SA photos and says «مجوز مخزن» for own SVGs), CITATION name, Iran reference data.
