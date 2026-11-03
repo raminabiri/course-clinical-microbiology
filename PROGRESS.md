@@ -1,7 +1,7 @@
 # PROGRESS
 
 Last handoff: 2026-11-02 22:10 (Tehran). Repo: public GitHub `raminabiri/Diagnostic-Clinical-Microbiology`.
-**Working branch: `final-review`** (3 commits ahead of `main`, pushed; NOT merged). Language: Persian (fa), RTL.
+**Branch: `main`** (`final-review` merged 2026-11-03). Language: Persian (fa), RTL.
 Audience: microbiology residents. Bacteria only.
 
 ## 1. Current goal
@@ -113,7 +113,7 @@ after the user reviews it on GitHub.
    - Old scratchpad was wiped; new tools in this session's scratchpad `kit/`: `commons.py` (search/info), `fetch.py`,
      `sheet.py`, `addfig.py MODULE spec.json [--check]` (insert photos/SVGs, renumber in file order, CREDITS, README count),
      `svgs.py` (the 5 new SVGs). Avoid "≥" in RTL SVG text (renders mirrored).
-2. Merge `final-review` → `main` after the user approves on GitHub.
+2. (Done 2026-11-03) `final-review` merged into `main` (merge commit `7892c84`), pushed.
 3. After user approval: `git fetch` (check for web edits), merge `final-review` → `main`, push.
 4. Module 11: if gaps remain for key media (XLD, TCBS, CIN, BCYE, LJ…), draw SVGs in module 12 style.
 5. Verify the M45/M24S/M02 items above when the user supplies the documents.
