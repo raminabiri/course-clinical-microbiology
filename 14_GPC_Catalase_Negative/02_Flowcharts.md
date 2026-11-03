@@ -34,7 +34,7 @@ H -->|BEA − و NaCl +| H4[Aerococcus / Globicatella<br/>PYR و LAP]
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/hemolysis-types.jpg" width="300" alt="hemolysis-types"><br><sub><b>شکل ۱۴.۱۲.</b> انواع همولیز روی آگار خون‌دار: α (<i>S. mitis</i>، چپ)، β (<i>S. pyogenes</i>، وسط) و γ (<i>S. salivarius</i>، راست)<br>منبع: Y tambe، <a href="https://commons.wikimedia.org/wiki/File:Streptococcal_hemolysis.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/hemolysis-types.jpg" width="300" alt="hemolysis-types"><br><sub><b>شکل ۱۴.۱۷.</b> انواع همولیز روی آگار خون‌دار: α (<i>S. mitis</i>، چپ)، β (<i>S. pyogenes</i>، وسط) و γ (<i>S. salivarius</i>، راست)<br>منبع: Y tambe، <a href="https://commons.wikimedia.org/wiki/File:Streptococcal_hemolysis.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></sub></td></tr></table>
 
 ---
 
