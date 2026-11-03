@@ -6,7 +6,7 @@
 
 | شکل | فایل | زیرنویس | سازنده | منبع | مجوز | تغییرات |
 |---|---|---|---|---|---|---|
-| ۱۲.۰۱ | `figures/gram-morphology-schematic.svg` | ریخت‌شناسی‌های کلیدی در رنگ‌آمیزی گرم (بنفش = گرم مثبت، صورتی = گرم منفی) | رسم آموزشی همین مخزن | — | مجوز مخزن | — |
+| ۱۲.۰۱ | `figures/gram-morphology-schematic.svg` | ریخت‌شناسی‌های کلیدی در رنگ‌آمیزی گرم (بنفش = گرم مثبت، صورتی = گرم منفی) | رسم آموزشی همین مخزن | — | [CC BY-SA 4.0](../../LICENSE) | — |
 | ۱۲.۰۲ | `images/gram-staphylococcus-clusters.jpg` | کوکسی گرم مثبت خوشه‌ای (*Staphylococcus epidermidis*) | Hadano Y, Isoda M, Ishibashi K, Kakuma T | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gram_stain_of_Staphylococcus_epidermidis.jpg) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
 | ۱۲.۰۳ | `images/gram-streptococcus-pyogenes-chains.jpg` | کوکسی گرم مثبت زنجیره‌ای (*Streptococcus pyogenes*) | Gary E. Kaiser, Ph.D. | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gram_stain_of_Streptococcus_pyogenes.jpg) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
 | ۱۲.۰۴ | `images/gram-streptococcus-pneumoniae-diplococci.jpg` | دیپلوکوک گرم مثبت نیزه‌ای (*Streptococcus pneumoniae*) | Arnold Kaufman | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gram_stain_of_Streptococcus_pneumoniae.jpg) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
@@ -35,33 +35,33 @@
 | ۱۲.۲۷ | `images/oxidase-positive-disk.jpg` | اکسیداز مثبت: رنگ ارغوانی تیره روی دیسک/کاغذ صافی در ۱۰ ثانیه | Ajay Kumar Chaurasiya | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oxidase_Test_Positive.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
 | ۱۲.۲۸ | `images/coagulase-tube-staphylococcus.jpg` | کوآگولاز لوله (مرجع): لختهٔ پلاسما با *S. aureus* (لولهٔ B)؛ *S. epidermidis* بدون لخته (لولهٔ A) | ELaurent | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coagulase_test.png) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
 | ۱۲.۲۹ | `images/coagulase-slide-staphylococcus.jpg` | کوآگولاز لام (clumping factor): کلامپ *S. aureus* (وسط و راست)؛ *S. epidermidis* منفی (چپ) | New HanseN. | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coagulase_test_in_S._aureus_and_S._epidermidis.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
-| ۱۲.۳۰ | `figures/pyr-reading-schematic.svg` | خواندن PYR | رسم آموزشی همین مخزن | — | مجوز مخزن | — |
-| ۱۲.۳۱ | `figures/lap-reading-schematic.svg` | خواندن LAP | رسم آموزشی همین مخزن | — | مجوز مخزن | — |
-| ۱۲.۳۲ | `figures/spot-indole-reading-schematic.svg` | خواندن ایندول اسپات | رسم آموزشی همین مخزن | — | مجوز مخزن | — |
+| ۱۲.۳۰ | `figures/pyr-reading-schematic.svg` | خواندن PYR | رسم آموزشی همین مخزن | — | [CC BY-SA 4.0](../../LICENSE) | — |
+| ۱۲.۳۱ | `figures/lap-reading-schematic.svg` | خواندن LAP | رسم آموزشی همین مخزن | — | [CC BY-SA 4.0](../../LICENSE) | — |
+| ۱۲.۳۲ | `figures/spot-indole-reading-schematic.svg` | خواندن ایندول اسپات | رسم آموزشی همین مخزن | — | [CC BY-SA 4.0](../../LICENSE) | — |
 | ۱۲.۳۳ | `images/indole-tube-kovacs.jpg` | برای مقایسه: ایندول لوله‌ای با معرف کواکس؛ حلقهٔ قرمز = مثبت (راست)، زرد = منفی (چپ) | Ajay Kumar Chaurasiya | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Indole_Test_Positive.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
-| ۱۲.۳۴ | `figures/bile-solubility-reading-schematic.svg` | خواندن حلالیت در صفرا (روش لوله) | رسم آموزشی همین مخزن | — | مجوز مخزن | — |
-| ۱۲.۳۵ | `figures/hippurate-reading-schematic.svg` | خواندن هیدرولیز هیپورات | رسم آموزشی همین مخزن | — | مجوز مخزن | — |
-| ۱۲.۳۶ | `figures/butyrate-reading-schematic.svg` | خواندن بوتیرات استراز | رسم آموزشی همین مخزن | — | مجوز مخزن | — |
-| ۱۲.۳۷ | `figures/superoxol-reading-schematic.svg` | خواندن سوپراکسول | رسم آموزشی همین مخزن | — | مجوز مخزن | — |
+| ۱۲.۳۴ | `figures/bile-solubility-reading-schematic.svg` | خواندن حلالیت در صفرا (روش لوله) | رسم آموزشی همین مخزن | — | [CC BY-SA 4.0](../../LICENSE) | — |
+| ۱۲.۳۵ | `figures/hippurate-reading-schematic.svg` | خواندن هیدرولیز هیپورات | رسم آموزشی همین مخزن | — | [CC BY-SA 4.0](../../LICENSE) | — |
+| ۱۲.۳۶ | `figures/butyrate-reading-schematic.svg` | خواندن بوتیرات استراز | رسم آموزشی همین مخزن | — | [CC BY-SA 4.0](../../LICENSE) | — |
+| ۱۲.۳۷ | `figures/superoxol-reading-schematic.svg` | خواندن سوپراکسول | رسم آموزشی همین مخزن | — | [CC BY-SA 4.0](../../LICENSE) | — |
 | ۱۲.۳۸ | `images/dnase-positive-staphylococcus-aureus.jpg` | DNase مثبت: هالهٔ شفاف اطراف رشد پس از افزودن HCl | JORDI PRAT FONT | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Positive_DNAse_test_on_a_suspected_S._aureus_sample.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
-| ۱۲.۳۹ | `figures/onpg-reading-schematic.svg` | خواندن ONPG | رسم آموزشی همین مخزن | — | مجوز مخزن | — |
+| ۱۲.۳۹ | `figures/onpg-reading-schematic.svg` | خواندن ONPG | رسم آموزشی همین مخزن | — | [CC BY-SA 4.0](../../LICENSE) | — |
 | ۱۲.۴۰ | `images/urea-agar-positive.jpg` | اوره آگار کریستنسن: صورتی = اوره‌آز مثبت (*Raoultella planticola*) | A doubt | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Raoultella_planticola_on_urea_agar.jpg) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
 | ۱۲.۴۱ | `images/urea-agar-negative.jpg` | اوره آگار کریستنسن: بدون تغییر رنگ = منفی (*Serratia odorifera*) | A doubt | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Serratia_odorifera_on_urea_agar.jpg) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
-| ۱۲.۴۲ | `figures/string-test-reading-schematic.svg` | خواندن آزمون نخ | رسم آموزشی همین مخزن | — | مجوز مخزن | — |
-| ۱۲.۴۳ | `figures/indoxyl-acetate-reading-schematic.svg` | خواندن هیدرولیز ایندوکسیل استات | رسم آموزشی همین مخزن | — | مجوز مخزن | — |
-| ۱۲.۴۴ | `figures/nitrocefin-reading-schematic.svg` | خواندن نیتروسفین | رسم آموزشی همین مخزن | — | مجوز مخزن | — |
-| ۱۲.۴۵ | `figures/optochin-reading-schematic.svg` | خواندن آزمون اپتوچین | رسم آموزشی همین مخزن | — | مجوز مخزن | — |
+| ۱۲.۴۲ | `figures/string-test-reading-schematic.svg` | خواندن آزمون نخ | رسم آموزشی همین مخزن | — | [CC BY-SA 4.0](../../LICENSE) | — |
+| ۱۲.۴۳ | `figures/indoxyl-acetate-reading-schematic.svg` | خواندن هیدرولیز ایندوکسیل استات | رسم آموزشی همین مخزن | — | [CC BY-SA 4.0](../../LICENSE) | — |
+| ۱۲.۴۴ | `figures/nitrocefin-reading-schematic.svg` | خواندن نیتروسفین | رسم آموزشی همین مخزن | — | [CC BY-SA 4.0](../../LICENSE) | — |
+| ۱۲.۴۵ | `figures/optochin-reading-schematic.svg` | خواندن آزمون اپتوچین | رسم آموزشی همین مخزن | — | [CC BY-SA 4.0](../../LICENSE) | — |
 | ۱۲.۴۶ | `images/optochin-streptococcus-pneumoniae.jpg` | هالهٔ مهار اطراف دیسک اپتوچین (*S. pneumoniae*، آگار خون) | Gsbhalla | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:S._pneumoniae.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
 | ۱۲.۴۷ | `images/bacitracin-beta-haemolytic-streptococci.jpg` | دیسک باسیتراسین روی کشت استرپتوکوکوس بتاهمولیتیک (آگار خون کلمبیا) | Pöllö | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Columbia_blood_agar_plate_to_test_betahemolytic_streptococci.jpg) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
-| ۱۲.۴۸ | `figures/hemin-nad-patterns-schematic.svg` | الگوهای رشد اطراف دیسک‌های هِمین، NAD و هِمین + NAD | رسم آموزشی همین مخزن | — | مجوز مخزن | — |
+| ۱۲.۴۸ | `figures/hemin-nad-patterns-schematic.svg` | الگوهای رشد اطراف دیسک‌های هِمین، NAD و هِمین + NAD | رسم آموزشی همین مخزن | — | [CC BY-SA 4.0](../../LICENSE) | — |
 | ۱۲.۴۹ | `images/haemophilus-influenzae-chocolate-agar.jpg` | کلنی‌های *H. influenzae* روی آگار شکلات (بدون رشد روی آگار خون گوسفند) | Stefan Walkowski | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Haemophilus_influenzae.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
 | ۱۲.۵۰ | `images/hemin-nad-disk-haemophilus-influenzae.jpg` | رشد *H. influenzae* فقط اطراف دیسک هِمین + NAD روی محیط بدون خون | Ajay Kumar Chaurasiya | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Haemophilus_influenzae_growth_around_XV_growth_factor_disk.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
 | ۱۲.۵۱ | `images/satellitism-haemophilus-influenzae.jpg` | اقمار: رشد *H. influenzae* فقط در کنار خط *S. aureus* روی آگار خون گوسفند | Ajay Kumar Chaurasiya | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Satellitism_test_-positive_Haemophilus_influenzae.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
 | ۱۲.۵۲ | `images/satellitism-haemophilus-influenzae-closeup.jpg` | اقمار از نزدیک: کلنی‌های ریز *H. influenzae* کنار کلنی‌های *S. aureus* | Deminorwood | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hinfluenzae_satillite.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
-| ۱۲.۵۳ | `figures/camp-reverse-camp-schematic.svg` | CAMP و CAMP معکوس | رسم آموزشی همین مخزن | — | مجوز مخزن | — |
+| ۱۲.۵۳ | `figures/camp-reverse-camp-schematic.svg` | CAMP و CAMP معکوس | رسم آموزشی همین مخزن | — | [CC BY-SA 4.0](../../LICENSE) | — |
 | ۱۲.۵۴ | `images/camp-positive-streptococcus-agalactiae.jpg` | CAMP مثبت: همولیز هم‌افزا که به سمت خط *S. aureus* پهن می‌شود (*S. agalactiae*) | Blueiridium | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CAMP_test.JPG) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
 | ۱۲.۵۵ | `images/camp-negative-streptococcus-pyogenes.jpg` | CAMP منفی: بدون همولیز هم‌افزا (*S. pyogenes*) | Pavel Dušek | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Negative_CAMP.jpg) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
-| ۱۲.۵۶ | `figures/motility-patterns-schematic.svg` | الگوهای تحرک در آگار نیمه‌جامد | رسم آموزشی همین مخزن | — | مجوز مخزن | — |
+| ۱۲.۵۶ | `figures/motility-patterns-schematic.svg` | الگوهای تحرک در آگار نیمه‌جامد | رسم آموزشی همین مخزن | — | [CC BY-SA 4.0](../../LICENSE) | — |
 | ۱۲.۵۷ | `images/latex-agglutination-staphylococcus-aureus.jpg` | لاتکس *S. aureus*: آگلوتیناسیون (مثبت) در برابر سوسپانسیون یکنواخت (منفی) | Stefan Walkowski | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Latex_slide_agglutination_test.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
 
 </div>

@@ -44,6 +44,12 @@
 - متن اسناد دارای حق نشر (CLSI و …) **بازنشر نشده** است؛ محتوا خلاصه و بازنویسی شده و شمارهٔ جدول‌ها ذکر شده است.
 - در بخش‌های مربوط به عوامل خطرناک (*B. anthracis*، *Brucella*، *Francisella*، *Y. pestis*، *B. pseudomallei*)، فقط اقدامات **رد تشخیص و ارجاع** آزمایشگاه سنتینل آمده است.
 
+## مجوز و ارجاع
+- متن، جدول‌ها، فلوچارت‌ها و دیاگرام‌های رسم‌شده در این مخزن تحت مجوز **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fa)** منتشر می‌شوند (متن کامل: [LICENSE](LICENSE)). استفاده، بازنشر و اقتباس آزاد است، به شرط ذکر منبع و انتشار نسخهٔ اقتباسی با همین مجوز.
+- **عکس‌ها** مجوز جداگانهٔ خودشان را دارند (CC0، مالکیت عمومی، CC BY یا CC BY-SA) که زیر هر شکل و در `Assets/CREDITS.md` هر ماژول آمده است.
+- برای ارجاع از [CITATION.cff](CITATION.cff) استفاده کنید (دکمهٔ «Cite this repository» در GitHub). نمونه:
+  > Abiri R. *Diagnostic Clinical Microbiology: a Persian teaching handbook of diagnostic clinical bacteriology*. 2026. https://github.com/raminabiri/course-clinical-microbiology
+
 ## وضعیت
 همهٔ ماژول‌های ۰۱ تا ۲۴ و بخش AST نوشته شده‌اند. در حال تکمیل: فایل‌های «مرجع ایران» آنتی‌بیوگرام (`03_Antibiogram/04_Iran_Reference.md`) و بازبینی اعداد علامت‌گذاری‌شده. برای مشارکت ← [CONTRIBUTING.md](CONTRIBUTING.md)؛ برای ارجاع ← [CITATION.cff](CITATION.cff).
 

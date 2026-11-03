@@ -104,7 +104,7 @@ after the user reviews it on GitHub.
   - M24S/WHO numbers in `AST/06`
   - McFarland 0.08–0.13 @625 nm (M02)
   - GBS non-haemolytic %, *Nocardia* TMP-SMX %
-- Open user decisions: LICENSE file, CITATION author name, Iran data in `03_Antibiogram/04_Iran_Reference.md` (01–09).
+- Open user decisions: Iran data in `03_Antibiogram/04_Iran_Reference.md` (01–09).
 
 ## 6. Next steps (priority order, one session each)
 1. (Done 2026-11-03) Figures `9c8da87`; module 14 extra photos `57bf332` (Gemella ×2, Abiotrophia, Leuconostoc, Lactococcus;
@@ -116,4 +116,5 @@ after the user reviews it on GitHub.
 2. (Done 2026-11-03) `final-review` merged into `main` (merge commit `7892c84`), pushed.
 3. (Done) Remote now `raminabiri/course-clinical-microbiology` (CITATION.cff updated).
 4. Verify the M45/M24S/M02 items above when the user supplies the documents.
-5. Ask the user about LICENSE (none yet; repo has CC BY-SA photos and says «مجوز مخزن» for own SVGs), CITATION name, Iran reference data.
+5. (Done 2026-11-03) LICENSE = CC BY-SA 4.0 (legalcode); README «مجوز و ارجاع»; CITATION.cff license/abstract/version 1.0;
+   own-SVG credit cells → [CC BY-SA 4.0](../../LICENSE). User reviews the rest (unverified numbers, AST tables, Iran data).
