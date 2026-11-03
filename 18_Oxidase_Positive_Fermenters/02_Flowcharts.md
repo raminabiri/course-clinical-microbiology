@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # فلوچارت‌های تشخیصی: باسیل‌های گرم منفی اکسیداز مثبت تخمیرکننده
 
 ## فلوچارت ۱: از باسیل گرم منفی اکسیداز مثبت تا جنس
@@ -43,6 +45,10 @@ E -->|سبز| H[V. parahaemolyticus یا V. vulnificus<br/>NaCl 6%، لاکتو�
 - **APW** کوتاه (۶–۸ ساعت) است؛ بیشتر از آن فلور روده رشد می‌کند. کشت از **لایهٔ سطحی** (*Vibrio* هوازی و متحرک است).
 - **پانل‌های مولکولی مدفوع** *Vibrio* را بدون کشت شناسایی می‌کنند ولی برای **سروگروه، توکسین، اپیدمیولوژی و AST** کشت لازم است.
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/vibrio-cholerae-tcbs-stool.jpg" width="300" alt="vibrio-cholerae-tcbs-stool"><br><sub><b>شکل ۱۸.۰۹.</b> کلنی‌های زرد <i>V. cholerae</i> روی آگار TCBS از کشت مدفوع آبکی بیمار مبتلا به وبا<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Vibrio_cholerae_growth_on_TCBS_agar_of_Rice_water_stool_culture_of_Cholera_patient.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ## فلوچارت ۳: زخم یا خون با سابقهٔ تماس
 
 ```mermaid
@@ -54,3 +60,5 @@ B -->|گاز یا خراش گربه یا سگ| E[Pasteurella<br/>رشد روی �
 B -->|خاک یا آب گرمسیری| F[Chromobacterium violaceum<br/>کلنی بنفش]
 B -->|نامشخص| G[MALDI-TOF و سؤال از پزشک دربارهٔ تماس]
 ```
+
+</div>

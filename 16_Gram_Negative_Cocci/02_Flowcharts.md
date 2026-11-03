@@ -1,4 +1,6 @@
-# فلوچارت‌های تشخیصی: کوکسی‌های گرم منفی
+<div dir="rtl">
+
+# فلوچارت‌های تشخیصی: کوکسی گرم منفی
 
 ## فلوچارت ۱: از دیپلوکوک گرم منفی تا گونه
 
@@ -26,9 +28,9 @@ E -->|هیچ‌کدام| J[N. cinerea یا N. flavescens<br/>بازبینی بو
 - **اکسیداز و کاتالاز اول:** دو شبیه مهم (*Acinetobacter* اکسیداز −؛ *Kingella* کاتالاز −) در همین دو گام حذف می‌شوند.
 - **بوتیرات + DNase** سریع‌ترین راه شناسایی *M. catarrhalis* است (۵ دقیقه).
 - **«فقط گلوکز» کافی نیست:** همیشه **کولیستین** و **رشد روی آگار مغذی** (یا MALDI-TOF) را اضافه کنید تا *N. cinerea* حذف شود.
-- **مننگوکوک:** GGT تنها آنزیم اختصاصی است؛ *N. polysaccharea* روی محیط انتخابی رشد می‌کند و الگوی قندی یکسان دارد.
+- **مننگوکوکوس:** GGT تنها آنزیم اختصاصی است؛ *N. polysaccharea* روی محیط انتخابی رشد می‌کند و الگوی قندی یکسان دارد.
 
-## فلوچارت ۲: تشخیص گنوکوک بر اساس نوع نمونه
+## فلوچارت ۲: تشخیص گونوکوکوس بر اساس نوع نمونه
 
 ```mermaid
 flowchart TD
@@ -44,6 +46,10 @@ B -->|شکست درمان یا پایش مقاومت| H[کشت پیش از در�
 B -->|DGI: مفصل، خون، پوست| I[کشت مایع مفصلی و خون<br/>به‌علاوهٔ NAAT محل‌های مخاطی]
 ```
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/gonococcus-two-media.jpg" width="300" alt="gonococcus-two-media"><br><sub><b>شکل ۱۶.۰۷.</b> نمونهٔ رکتوم برای <i>N. gonorrhoeae</i>: رشد بیش از حد فلور نرمال روی آگار شکلات (چپ) در برابر رشد فقط <i>Neisseria</i> روی محیط Thayer-Martin (راست)<br>منبع: Wikimedia Commons، <a href="https://commons.wikimedia.org/wiki/File:Neisseria_gonorrhoeae_01.png">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="Assets/images/gram-gonococcus-vaginal-swab.jpg" width="300" alt="gram-gonococcus-vaginal-swab"><br><sub><b>شکل ۱۶.۰۸.</b> رنگ گرم سواب واژن: گونوکوکوس‌های جفتی داخل PMN (پیکان)<br>منبع: Graham Beards، <a href="https://commons.wikimedia.org/wiki/File:Neisseria_gonorrhoeae_and_pus_cells_in_a_vaginal_swab_(Gram_stain).jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ## فلوچارت ۳: دیپلوکوک گرم منفی در CSF یا خون
 
 ```mermaid
@@ -57,3 +63,9 @@ F --> F1[اطلاع به بهداشت<br/>پروفیلاکسی تماس‌ها]
 E -->|M. catarrhalis یا Neisseria همسفره| G[تفسیر با بالین<br/>تکرار کشت]
 E -->|Acinetobacter| H[ماژول 19]
 ```
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/gram-meningococcus-csf.jpg" width="300" alt="gram-meningococcus-csf"><br><sub><b>شکل ۱۶.۰۹.</b> رنگ گرم CSF (۱۰۰۰×): دیپلوکوک‌های گرم منفی همراه با PMN؛ از این نمونه <i>N. meningitidis</i> کشت شد<br>منبع: Microman12345، <a href="https://commons.wikimedia.org/wiki/File:Neisseria_meningitidis_CSF_Gram_1000.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
+</div>

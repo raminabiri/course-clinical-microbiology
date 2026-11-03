@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # تجهیزات و محیط کار
 
 > تواترها **حداقل‌های رایج** هستند؛ دستورالعمل سازنده، مقررات ملی و نهاد اعتباربخشی مقدم‌اند. هر بررسی **ثبت** و هر انحراف با **اقدام اصلاحی** مستند شود ← [01 بخش ۴](01_QC_Framework.md).
@@ -7,11 +9,15 @@
 | تجهیز | چه چیزی | تواتر رایج | محدودهٔ قابل‌قبول / نکته |
 |---|---|---|---|
 | **انکوباتور** | دما (دماسنج کالیبره، نه فقط نمایشگر) | **روزانه** (روزهای کاری) | ۳۵ ± ۲°C (یا طبق روش: ۳۰°C، ۴۲°C، ۲۵°C) |
-| **انکوباتور CO₂** | غلظت CO₂ (حسگر تأییدشده یا Fyrite) و رطوبت | **روزانه** | معمولاً **۵–۷٪** (مقدار دقیق طبق روش؛ AST *Haemophilus*/پنوموکوک: ۵٪ ± ۱) |
+| **انکوباتور CO₂** | غلظت CO₂ (حسگر تأییدشده یا Fyrite) و رطوبت | **روزانه** | معمولاً **۵–۷٪** (مقدار دقیق طبق روش؛ AST *Haemophilus*/پنوموکوکوس: ۵٪ ± ۱) |
 | **جار/چمبر بی‌هوازی** | **نشانگر** (متیلن بلو یا رزازورین) در هر جار/هر روز چمبر؛ کاتالیزور پالادیم (احیا یا تعویض) | **هر بار استفاده** | نشانگر **بی‌رنگ** = بی‌هوازی؛ مخلوط گاز چمبر حدود ۸۵٪ N₂، ۱۰٪ H₂، ۵٪ CO₂؛ سویهٔ QC: *B. fragilis* ATCC 25285 ← [11/06](../11_Culture_Media/06_Anaerobic.md) |
 | **میکروآئروفیل** | کیسه/سیستم گاز؛ سویهٔ QC | هر بچ کیسه یا هفتگی | حدود ۵٪ O₂، ۱۰٪ CO₂؛ *C. jejuni* ATCC 33291 ← [11/04](../11_Culture_Media/04_Pathogen_Specific_Selective.md) |
 | **دستگاه کشت خون** | دما، خودآزمایی حسگرها، بطری‌های منفی/مثبت طبق سازنده | روزانه/طبق سازنده | ← [01_Blood_Culture/08](../01_Blood_Culture/02_Protocol/08_QC_Biosafety.md) |
 | **MGIT** | دما، کالیبراسیون، بطری‌های کنترل | طبق سازنده | ← [11/07](../11_Culture_Media/07_Mycobacterial.md) |
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/laboratory-incubator.jpg" width="300" alt="laboratory-incubator"><br><sub><b>شکل ۱۰.۰۱.</b> انکوباتور آزمایشگاهی<br>منبع: Frankincense Diala، <a href="https://commons.wikimedia.org/wiki/File:Laboratory_Incubator;_from_a_medical_laboratory_in_Abuja,_Nigeria.png">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td><td align="center" width="50%"><img src="Assets/images/gaspak-anaerobic-jar.jpg" width="300" alt="gaspak-anaerobic-jar"><br><sub><b>شکل ۱۰.۰۲.</b> جار بی‌هوازی از نوع GasPak<br>منبع: Netha Hussain، <a href="https://commons.wikimedia.org/wiki/File:Gas-Pak_jar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr></table>
 
 ## ۲. نگهداری سرد و ذخیره
 
@@ -36,6 +42,10 @@
 | **سانتریفیوژ** | **درپوش ایمنی (safety cup)** برای نمونه‌های مایکوباکتری و خطرناک؛ سرعت و زمان | کالیبراسیون دوره‌ای |
 | **کیت ریخت‌وپاش** | موجودی و تاریخ ضدعفونی‌کننده | ماهانه |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/biosafety-cabinet.jpg" width="300" alt="biosafety-cabinet"><br><sub><b>شکل ۱۰.۰۳.</b> کابینت ایمنی زیستی (BSC) در آزمایشگاه BSL-2<br>منبع: Darja.Lavogina، <a href="https://commons.wikimedia.org/wiki/File:Laminaar_TYKI_DL20221105.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ## ۴. ابزار اندازه‌گیری و دستگاه‌های شناسایی
 
 | تجهیز | چه چیزی | تواتر رایج |
@@ -48,7 +58,13 @@
 | **میکروسکوپ فلورسنت** | ساعت کار لامپ، تراز، لام کنترل | طبق سازنده؛ لام کنترل هر روز کار |
 | **آب** | کیفیت آب مقطر/دیونیزه برای محیط و معرف | دوره‌ای؛ برای رنگ‌آمیزی AFB: **آب استریل/فیلترشده** (جلوگیری از *M. gordonae*) |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/mcfarland-standards.jpg" width="300" alt="mcfarland-standards"><br><sub><b>شکل ۱۰.۰۴.</b> استانداردهای مک‌فارلند ۰٫۵، ۱ و ۲ (از چپ به راست)<br>منبع: User:Akaniji، <a href="https://commons.wikimedia.org/wiki/File:McFarland_standards.JPG">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a></sub></td></tr></table>
+
 ## ۵. محیط کار
 - جداسازی **فضاهای مولکولی** (پیش از تکثیر، تکثیر، پس از تکثیر) و جریان یک‌طرفه ← جلوگیری از **آلودگی آمپلیکون**؛ پاک‌سازی سطوح با هیپوکلریت.
 - **پایش محیطی** هدفمند (نه روتین): فقط در بررسی کاذب‌طغیان یا خوشهٔ غیرعادی (مثلاً *M. gordonae*، *Ralstonia*، *Burkholderia*) ← [19](../19_Non_Fermenters/03_Pitfalls_and_Reporting.md)، [23](../23_Mycobacteria/03_Pitfalls_and_Reporting.md).
 - نظافت روزانهٔ سطوح، مدیریت پسماند عفونی، ثبت حوادث و مواجهه‌ها.
+
+</div>

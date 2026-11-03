@@ -1,0 +1,22 @@
+<div dir="rtl">
+
+# منابع و مجوز تصاویر ماژول ۵
+
+همهٔ عکس‌ها از **Wikimedia Commons** (شامل تصاویر CDC PHIL) با مجوز آزاد (CC0، مالکیت عمومی، CC BY، CC BY-SA) گرفته شده‌اند. تغییر انجام‌شده: کوچک‌کردن به حداکثر ۱۰۰۰ پیکسل و ذخیرهٔ مجدد JPEG (بدون EXIF). عکس‌های **CC BY-SA** با همان مجوز بازنشر می‌شوند. قواعد: [Shared/Figures/Image_Policy.md](../../Shared/Figures/Image_Policy.md).
+
+| شکل | فایل | زیرنویس | سازنده | منبع | مجوز | تغییرات |
+|---|---|---|---|---|---|---|
+| ۵.۰۱ | `images/gram-gc-urethral-pus.jpg` | رنگ‌آمیزی گرم ترشح مجرا: دیپلوکوک گرم منفی داخل PMN (گونوکوکوس) | Dr Graham Beards | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pus_cells_with_intracellular_gonococci.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+| ۵.۰۲ | `images/bv-workup.jpg` | وسایل بررسی واژینوز باکتریایی: نوار pH (در اینجا حدود pH ۸) و لام برای لام مرطوب | Mikael Häggström | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bacterial_vaginosis_workup.jpg) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+| ۵.۰۳ | `images/bv-gram-normal-vs-bv.jpg` | رنگ‌آمیزی گرم ترشح واژن: فلور نرمال لاکتوباسیلی (بالا) در برابر فلور واژینوز باکتریایی (پایین) | Graham Beards | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bacterial_vaginosis_Gram_stain.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+| ۵.۰۴ | `images/clue-cell-gram.jpg` | Clue cell در رنگ‌آمیزی گرم سواب واژن (واژینوز باکتریایی) | Dr Graham Beards | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Clue_cell_in_bacterial_vaginosis.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+| ۵.۰۵ | `images/clue-cell-wet-mount.jpg` | لام مرطوب واژینال (سالین): یک clue cell، دو سلول سنگفرشی طبیعی و نوتروفیل | Mikael Häggström , M.D. Author info - Reusing images - Conflicts of in | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vaginal_wet_mount_with_clue_cell_-_annotated.png) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+| ۵.۰۶ | `images/trichomonas-wet-mount.jpg` | *Trichomonas vaginalis* در لام مرطوب ترشح واژن | CDC/ Joe Miller | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:14500_lores.jpg) | Public domain | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+| ۵.۰۷ | `images/ngo-01.jpg` | نمونهٔ رکتال برای گونوکوکوس: رشد بیش از حد فلور روی آگار شکلات (چپ) در برابر رشد فقط *Neisseria* روی محیط Thayer–Martin (راست) | Wikimedia Commons | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Neisseria_gonorrhoeae_01.png) | Public domain | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+| ۵.۰۸ | `images/gc-culture.jpg` | کلنی‌های *Neisseria gonorrhoeae* روی پلیت‌های کشت | Graham Beards | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:GC_Culture.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+| ۵.۰۹ | `images/gbs-granada.jpg` | کلنی‌های نارنجی *Streptococcus agalactiae* (GBS) روی آگار Granada (انکوباسیون بی‌هوازی) | 43trevenque | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Streptococcus_agalactiae_on_Granada_medium.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+| ۵.۱۰ | `images/gbs-blood-agar.jpg` | کلنی‌های بتاهمولیتیک *Streptococcus agalactiae* (GBS) روی آگار خون‌دار | 43trevenque | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Streptococcus_agalactiae_on_blood_agar.JPG) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+| ۵.۱۱ | `images/ducreyi-gram-2.jpg` | باسیل‌های گرم منفی *Haemophilus ducreyi* در زنجیره‌های بلند (رنگ‌آمیزی گرم، کشت خون خرگوش) | CDC/ Dr. Greg Hammond | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2775_lores.jpg) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+| ۵.۱۲ | `images/chlamydia-inclusions.jpg` | اجسام انکلوزیونی *Chlamydia trachomatis* (قهوه‌ای) در کشت سلول McCoy | User Marcus007 on de.wikipedia | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ChlamydiaTrachomatisEinschlussk%C3%B6rperchen.jpg) | Public domain | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+
+</div>

@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ماژول ۰۴: میکروب‌شناسی نمونه‌های گوارشی
 
 ## معرفی
@@ -48,4 +50,10 @@
 | [07_References.md](07_References.md) | منابع |
 
 ## پیش‌نیاز
-ماژول‌های ۱۴ (Enterobacterales)، ۱۶ (*Vibrio*/*Aeromonas*/*Plesiomonas*)، ۱۷ (*Campylobacter*/*Helicobacter*)، ۱۹ (بی‌هوازی‌ها).
+- محیط‌های کشت و تست‌های شناسایی: ماژول‌های [۱۱](../11_Culture_Media/README.md) و [۱۲](../12_Identification_Tests/README.md)
+- ماژول‌های خانواده: [۱۷](../17_Enterobacterales/README.md) (Enterobacterales)، [۱۸](../18_Oxidase_Positive_Fermenters/README.md) (*Vibrio*/*Aeromonas*/*Plesiomonas*)، [۲۱](../21_Curved_GNB/README.md) (*Campylobacter*/*Helicobacter*)، [۲۲](../22_Anaerobes/README.md) (بی‌هوازی‌ها، *C. difficile*)
+- واژه‌نامه: [Shared/Glossary_FA_EN.md](../Shared/Glossary_FA_EN.md)
+
+**تصاویر:** ۱۵ عکس و ۳ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
+</div>

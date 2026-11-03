@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # پروتکل ۳: بررسی مستقیم نمونه‌های گوارشی
 
 ## ۱. ظاهر مدفوع
@@ -8,6 +10,10 @@
 | خون فراوان بدون تب | ⚠️ **STEC** |
 | سبز، بدبو | *Salmonella* |
 | شکل‌دار | برای CDI و کشت معمولاً نامناسب |
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/rice-water-stool.jpg" width="300" alt="rice-water-stool"><br><sub><b>شکل ۴.۰۲.</b> مدفوع «برنج‌آب» بیمار مبتلا به وبا<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Cholera_patient_rice_water_stool.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ## ۲. نشانگرهای التهاب
 
@@ -22,13 +28,17 @@
 - **روتین نیست.** کاربرد محدود:
   - ***Campylobacter*:** باسیل‌های گرم منفی **خمیده/S-شکل/بال مرغ دریایی** (حساسیت حدود ۵۰–۷۵٪ در دست تجربه‌دیده؛ رنگ‌آمیزی با **کاربول فوشین** به‌جای سافرانین)
   - **انتروکولیت استافیلوکوکی** (نادر): کوکسی گرم مثبت خوشه‌ای فراوان + PMN، با کاهش فلور گرم منفی
-  - ⛔ برای *C. difficile* بی‌ارزش (باسیل‌های گرم مثبت اسپوردار در فلور طبیعی هم هستند)
+  - ⛔ برای *C. difficile* بی‌ارزش (باسیل‌های گرم مثبت اسپوردار در فلور نرمال هم هستند)
 
 ## ۴. میکروسکوپ زمینهٔ تاریک / فازکنتراست (ظن وبا)
 - نمونهٔ تازهٔ آبکی (یا APW ۶ ساعته)
 - **حرکت «تیرمانند» (Darting/Shooting-star)** باسیل‌های خمیده
 - **مهار حرکت با آنتی‌سرم O1** (یا O139) ← تأیید احتمالی سریع
 - حساسیت محدود؛ تأیید با کشت
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/gram-vibrio-cholerae-cdc.jpg" width="300" alt="gram-vibrio-cholerae-cdc"><br><sub><b>شکل ۴.۰۳.</b> باسیل‌های گرم منفی خمیده (ویرگولی) <i>Vibrio cholerae</i> در رنگ‌آمیزی گرم<br>منبع: CDC، <a href="https://commons.wikimedia.org/wiki/File:Vibrio_cholerae_gram_stain_CDC.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 ## ۵. آزمون‌های آنتی‌ژنی/توکسینی مستقیم
 
@@ -47,7 +57,17 @@
 - *H. pylori* اوره‌آز قوی ← قلیایی ← تغییر رنگ (زرد به قرمز/صورتی) **ظرف ۱ تا ۲۴ ساعت**
 - حساسیت حدود ۹۰٪؛ ⚠️ منفی کاذب با PPI، آنتی‌بیوتیک، بیسموت، خونریزی گوارشی فعال
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/rapid-urease-test-pl.jpg" width="300" alt="rapid-urease-test-pl"><br><sub><b>شکل ۴.۰۴.</b> کیت تست اوره‌آز سریع برای <i>Helicobacter pylori</i>؛ راهنمای رنگ روی کیت: زرد = منفی، قرمز = مثبت<br>منبع: Louve.pl، <a href="https://commons.wikimedia.org/wiki/File:Rapid_urease_test.JPG">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
+<p align="center"><img src="../Assets/figures/rapid-urease-reading-schematic.svg" width="420" alt="rapid-urease-reading-schematic"></p>
+
+> **شکل ۴.۰۵.** خواندن تست اوره‌آز سریع (RUT) روی بیوپسی معده: تغییر رنگ زرد به قرمز/صورتی ظرف ۱ تا ۲۴ ساعت = *H. pylori* مثبت — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+
 ## ۷. گزارش
 - «لاکتوفرین مدفوع: مثبت.»
 - «*C. difficile*: GDH مثبت، توکسین A/B منفی؛ آزمایش تکمیلی (NAAT) در جریان.»
 - «شیگاتوکسین: **مثبت** (Stx2). کشت برای جداسازی STEC در جریان است. ⚠️ آنتی‌بیوتیک و داروهای ضدحرکت روده توصیه نمی‌شوند. بیماری واجب‌الگزارش.» 📞
+
+</div>

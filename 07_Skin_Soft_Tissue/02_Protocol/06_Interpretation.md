@@ -1,12 +1,14 @@
+<div dir="rtl">
+
 # پروتکل ۶: تفسیر — پوست و بافت نرم
 
 ## ۱. فلور پوست (در سواب‌های سطحی معمولاً گزارش نمی‌شود)
-CoNS، *Micrococcus*، *Corynebacterium* (دیفتروئیدها)، *Cutibacterium acnes*، *Bacillus* غیر *anthracis*، استرپتوکوک‌های ویریدانس، (*Acinetobacter* پوستی).
+CoNS، *Micrococcus*، *Corynebacterium* (دیفتروئیدها)، *Cutibacterium acnes*، *Bacillus* غیر *anthracis*، استرپتوکوکوس‌های ویریدانس، (*Acinetobacter* پوستی).
 
 ## ۲. ارگانیسم‌های معنی‌دار
 | همیشه گزارش (هر نمونه) | معنی‌دار در نمونه‌های عمقی/زمینهٔ خاص |
 |---|---|
-| *S. aureus*، GAS، استرپتوکوک گروه C/G، *P. aeruginosa* (در زمینهٔ مناسب)، *Pasteurella*، *Capnocytophaga*، *Eikenella* (گازگرفتگی)، *V. vulnificus*، *Aeromonas*، *Erysipelothrix*، *C. perfringens*/*septicum*، ***B. anthracis***، *C. diphtheriae*، NTM، *Nocardia* | Enterobacterales، انتروکوک، بی‌هوازی‌ها (آبسهٔ پرینه، فاشئیت نوع I)، CoNS (در ایمپلنت/بافت عمقی، مکرر) |
+| *S. aureus*، GAS، استرپتوکوکوس گروه C/G، *P. aeruginosa* (در زمینهٔ مناسب)، *Pasteurella*، *Capnocytophaga*، *Eikenella* (گازگرفتگی)، *V. vulnificus*، *Aeromonas*، *Erysipelothrix*، *C. perfringens*/*septicum*، ***B. anthracis***، *C. diphtheriae*، NTM، *Nocardia* | Enterobacterales، انتروکوکوس، بی‌هوازی‌ها (آبسهٔ پرینه، فاشئیت نوع I)، CoNS (در ایمپلنت/بافت عمقی، مکرر) |
 
 ## ۳. تطبیق گرم و کشت
 | وضعیت | تفسیر |
@@ -37,3 +39,5 @@ CoNS، *Micrococcus*، *Corynebacterium* (دیفتروئیدها)، *Cutibacteri
 | *Vibrio* در زخم پس از آب شور + بیماری کبدی | 📞 فوری (مرگ‌ومیر بالا) |
 | *B. anthracis* (مشکوک) | 📞 فوری؛ ☣️ |
 | کشت منفی در سلولیت | **انتظار می‌رود** (بیشتر استرپتوکوکی، تعداد کم)؛ سرولوژی ASO/anti-DNase B گذشته‌نگر |
+
+</div>

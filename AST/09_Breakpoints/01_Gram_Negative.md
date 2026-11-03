@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # نقاط برش گرم منفی‌ها: CLSI M100-Ed36 در برابر EUCAST v16.1
 
 > MIC بر حسب µg/mL (= mg/L). CLSI Tables 2A-1، 2A-2، 2B-1، 2B-2، 2B-4؛ EUCAST v16.1 برگه‌های Enterobacterales، Pseudomonas، Acinetobacter، S.maltophilia. قرارداد نمایش در [README](README.md).
@@ -109,3 +111,5 @@
 | آزترئونام–اویباکتام | ATM+CZA (BDE، 3D) | IE (ECOFF: > ۸ یا هالهٔ کمتر از ۲۱ = مقاومت اکتسابی) |
 
 > ذاتاً R (CLSI Appendix B): کارباپنم‌ها، بیشتر بتالاکتام‌ها، آمینوگلیکوزیدها، تتراسایکلین (نه داکسی/مینوسایکلین/تایگسایکلین)، فسفومایسین.
+
+</div>

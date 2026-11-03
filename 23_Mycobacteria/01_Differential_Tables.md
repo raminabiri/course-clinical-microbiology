@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # جدول‌های افتراقی: مایکوباکتری‌ها
 
 > امروزه شناسایی با **MALDI-TOF** (پس از غیرفعال‌سازی و استخراج ویژه)، **آنتی‌ژن MPT64**، **LPA** (GenoType CM/AS) یا **توالی‌یابی** (*hsp65*، *rpoB*، ۱۶S، WGS) انجام می‌شود ← [12/05](../12_Identification_Tests/05_Identification_Systems.md)، [12/06](../12_Identification_Tests/06_Molecular_ID.md). تست‌های بیوشیمیایی کلاسیک زیر برای **درک** و آزمایشگاه‌های بدون این امکانات آمده‌اند.
@@ -17,6 +19,10 @@
 | **پیرازینامید** | S | **R ذاتی** (*pncA*) | |
 | رشد در حضور **PNB** (پارانیتروبنزوئیک اسید) | **مهار** | مهار | **رشد** |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/mtb-lj-cdc.jpg" width="300" alt="mtb-lj-cdc"><br><sub><b>شکل ۲۳.۰۴.</b> کلنی‌های خشک، برجسته و کرمی‌رنگ <i>M. tuberculosis</i> روی محیط لوون‌اشتاین–جنسن (LJ)<br>منبع: Agarwal et al، <a href="https://commons.wikimedia.org/wiki/File:M-tuberculosis-on-Lowenstein-Jensen.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/lj-slants-mtb-mav-mgo.jpg" width="300" alt="lj-slants-mtb-mav-mgo"><br><sub><b>شکل ۲۳.۰۵.</b> لوله‌های LJ، از چپ: کنترل منفی؛ <i>M. tuberculosis</i> (کلنی خشک)؛ MAC (کلنی مرطوب)؛ <i>M. gordonae</i> (کلنی زردرنگ)<br>منبع: Mikael Häggström , M.D. Author info - Reusing images - Conflicts of in، <a href="https://commons.wikimedia.org/wiki/File:Slant_tubes_of_L%C3%B6wenstein-Jensen_medium_with_control,_M_tuberculosis,_M_avium_and_M_gordonae.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr><tr><td align="center" width="50%"><img src="Assets/images/mtb-cording-classic.jpg" width="300" alt="mtb-cording-classic"><br><sub><b>شکل ۲۳.۰۶.</b> کوردینگ مارپیچی MTBC در رنگ‌آمیزی زیل–نلسون از کشت مثبت MGIT<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Classic_serpentine_cording_of_Mycobacterium_tuberculosis_complex_(MTBC).jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td><td align="center" width="50%"><img src="Assets/images/mtb-cording-auramine.jpg" width="300" alt="mtb-cording-auramine"><br><sub><b>شکل ۲۳.۰۷.</b> کوردینگ MTBC در رنگ‌آمیزی فلورسنت اورامین–رودامین (کشت مایع 7H9)<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Serpentine_cords_of_Mycobacterium_tuberculosis_complex_(MTBC)_in_a_Auramine-Rhodamine_fluorescent_stained_smear_of_Mycobacterium_tuberculosis_complex_(MTBC)_of_modified_Middlebrook_7H9_Broth.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr></table>
+
 ## جدول ۲: گروه‌بندی رانیون (Runyon)
 
 | گروه | تعریف | گونه‌ها |
@@ -28,6 +34,10 @@
 
 > آزمون رنگدانه: دو لوله، یکی در **فویل** (تاریکی)؛ پس از رشد، لولهٔ تاریک **۱ ساعت** در معرض نور و انکوباسیون مجدد ۲۴ ساعت.
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/mkansasii-lj.jpg" width="300" alt="mkansasii-lj"><br><sub><b>شکل ۲۳.۰۸.</b> کلنی‌های زردرنگ <i>M. kansasii</i> روی محیط LJ<br>منبع: Nathan Reading from Halesowen, UK، <a href="https://commons.wikimedia.org/wiki/File:Mycobacterium_kansasii_growing_on_Lowenstein%E2%80%93Jensen_medium.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/mfortuitum-lj.jpg" width="300" alt="mfortuitum-lj"><br><sub><b>شکل ۲۳.۰۹.</b> رشد صاف و کرمی‌رنگ <i>M. fortuitum</i> (سریع‌رشد) روی محیط LJ<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Mycobacterium_fortuitum_growth_on_Lowenstein-Jensen_(L-J)_medium.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr></table>
+
 ## جدول ۳: NTM مهم
 
 | گونه | رانیون | دمای مناسب | نکات کلیدی شناسایی | اهمیت |
@@ -37,10 +47,14 @@
 | ***M. marinum*** | **I** | **۲۸–۳۰°C** (در ۳۷ ضعیف) | اوره‌آز +، Tween + | آکواریوم، ضایعات **اسپوروتریکوئید** دست |
 | ***M. gordonae*** | **II** | ۳۵°C | Tween +، نیترات − | **معمولاً آلودگی** (آب لوله‌کشی) |
 | ***M. xenopi*** | III | **۴۲°C** رشد | کلنی **«لانهٔ پرنده»** | ریه؛ کاذب‌طغیان از آب گرم |
-| ***M. haemophilum*** | III | **۳۰°C** | **نیاز به همین** (شکلات، دیسک X) | پوست در نقص ایمنی |
+| ***M. haemophilum*** | III | **۳۰°C** | **نیاز به هِمین (فاکتور X)** (شکلات، دیسک هِمین) | پوست در نقص ایمنی |
 | ***M. abscessus*** | IV | ۳۰–۳۵°C | نیترات −، **NaCl ۵٪ +**، سیترات −؛ زیرگونه با *erm(41)*/*rpoB* | CF، جراحی زیبایی؛ **مقاومت بالا** |
 | ***M. chelonae*** | IV | **۲۸–۳۰°C** | نیترات −، **NaCl ۵٪ −**، سیترات + | پوست، چشم، کاتتر |
 | ***M. fortuitum*** | IV | ۳۵°C | **نیترات +**، NaCl ۵٪ +، **آریل‌سولفاتاز ۳ روزه +**، جذب آهن + | پدیکور، زخم جراحی |
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/mac-lymph-node.jpg" width="300" alt="mac-lymph-node"><br><sub><b>شکل ۲۳.۱۰.</b> تعداد بسیار زیاد باسیل اسید–فست درون هیستیوسیت‌ها در غدهٔ لنفاوی بیمار مبتلا به AIDS (MAC، زیل–نلسون)<br>منبع: CDC/ Dr. Edwin P. Ewing, Jr.، <a href="https://commons.wikimedia.org/wiki/File:Mycobacterium_avium-intracellulare.jpg">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="Assets/images/mfortuitum-mgit.jpg" width="300" alt="mfortuitum-mgit"><br><sub><b>شکل ۲۳.۱۱.</b> رشد کدر <i>M. fortuitum</i> در لولهٔ MGIT؛ حسگر فلورسانس نارنجی در ته لوله مشاهده می‌شود<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Turbid_growth_of_Mycobacterium_fortuitum_in_a_Mycobacteria_Growth_Indicator_Tube_(MGIT).jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr></table>
 
 ## جدول ۴: روش‌های تشخیص سل
 
@@ -54,3 +68,5 @@
 | **LPA / tNGS / WGS** | ۱–۳ روز | گونه + **مقاومت چند دارو** | ← [AST/06](../AST/06_Mycobacteria/01_Mycobacteria_AST.md) |
 | **IGRA / TST** | ۱–۳ روز | **عفونت** (نهفته یا فعال) | ⛔ **سل فعال را تشخیص نمی‌دهد**؛ منفی کاذب در نقص ایمنی |
 | **ADA**، LAM ادراری | | ADA در مایع پلور/پریتوئن؛ **LF-LAM** در HIV پیشرفته | کمکی |
+
+</div>

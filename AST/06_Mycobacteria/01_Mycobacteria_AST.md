@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # آزمون حساسیت مایکوباکتری‌ها
 
 > مبنا: **CLSI M24** (ویرایش ۳، ۲۰۱۸) و **M24S** (نقاط برش و QC مایکوباکتری‌ها، نوکاردیا و اکتینومیست‌های هوازی)؛ **WHO**: Technical report on critical concentrations (۲۰۱۸، ۲۰۲۱) و Catalogue of mutations in MTBC (ویرایش ۲، ۲۰۲۳)؛ **EUCAST v16.1** (برگهٔ *M. tuberculosis*) و روش مرجع BMD EUCAST برای MTBC.
@@ -128,3 +130,5 @@
 - **MTBC:** *M. tuberculosis* **H37Rv ATCC 27294** (حساس به همه)؛ کنترل‌های مقاوم برای هر بچ (طبق دستورالعمل).
 - **NTM:** *M. avium* ATCC 700898، *M. peregrinum* ATCC 700686، *S. aureus* ATCC 29213، *E. faecalis* ATCC 29212 (M24S)؛ برای *erm(41)*: سویهٔ القایی شناخته‌شده.
 - **نوکاردیا:** *N. nova* ATCC BAA-2227 (M24S).
+
+</div>

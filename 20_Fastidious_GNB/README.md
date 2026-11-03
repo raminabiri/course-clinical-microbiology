@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ۲۰. باسیل‌ها و کوکوباسیل‌های گرم منفی سخت‌رشد
 
 ## دامنه
@@ -29,7 +31,7 @@
 
 ## نمونه‌ها و محیط‌ها
 - **آگار شکلات** + CO₂ (*Haemophilus*، HACEK، *Capnocytophaga*، *Brucella*، *Francisella*) ← [11_Culture_Media/01](../11_Culture_Media/01_Basic_Enriched.md).
-- **کشت خون:** سیستم‌های خودکار مدرن اکثر HACEK و *Brucella* را در **۵ روز** معمول جدا می‌کنند؛ **K. kingae**: مایع مفصلی را در **بطری کشت خون** تلقیح کنید (بازده بیشتر) + PCR.
+- **کشت خون:** سیستم‌های خودکار مدرن اکثر HACEK و *Brucella* را در **۵ روز** معمول جدا می‌کنند؛ ***K. kingae***: مایع مفصلی را در **بطری کشت خون** تلقیح کنید (بازده بیشتر) + PCR.
 - ***Bordetella*:** سواب **نازوفارنکس** (داکرون/فلوکد؛ نه پنبه) ← **PCR** (روش اصلی) ± **ریگان–لو** (۷ روز) ← [11_Culture_Media/04 بخش ج۴](../11_Culture_Media/04_Pathogen_Specific_Selective.md).
 - ***Legionella*:** **BCYE** (۷ روز) + **آنتی‌ژن ادراری** (فقط سروگروه ۱) + PCR ← [11_Culture_Media/04 بخش ج۱](../11_Culture_Media/04_Pathogen_Specific_Selective.md).
 - ***Brucella*:** کشت خون/مغز استخوان + **سرولوژی** (رایت، 2-ME، کومبس) ← [01_Differential_Tables جدول ۵](01_Differential_Tables.md).
@@ -48,6 +50,10 @@
 
 ## پیوندها
 - محیط‌ها: [شکلات](../11_Culture_Media/01_Basic_Enriched.md) · [BCYE، ریگان–لو](../11_Culture_Media/04_Pathogen_Specific_Selective.md)
-- تست‌ها: [رنگ گرم، گیمنز](../12_Identification_Tests/01_Microscopy_Stains.md) · [اکسیداز، کاتالاز، اوره‌آز، نیتروسفین](../12_Identification_Tests/02_Spot_Rapid_Tests.md) · [X، V، پورفیرین، اقمار](../12_Identification_Tests/03_Disk_and_Growth_Tests.md) · [سروتایپ *H. influenzae*، آنتی‌ژن ادراری](../12_Identification_Tests/04_Antigen_Serology.md) · [MALDI-TOF](../12_Identification_Tests/05_Identification_Systems.md) · [PCR](../12_Identification_Tests/06_Molecular_ID.md)
+- تست‌ها: [رنگ گرم، گیمنز](../12_Identification_Tests/01_Microscopy_Stains.md) · [اکسیداز، کاتالاز، اوره‌آز، نیتروسفین](../12_Identification_Tests/02_Spot_Rapid_Tests.md) · [هِمین، NAD، پورفیرین، اقمار](../12_Identification_Tests/03_Disk_and_Growth_Tests.md) · [سروتایپ *H. influenzae*، آنتی‌ژن ادراری](../12_Identification_Tests/04_Antigen_Serology.md) · [MALDI-TOF](../12_Identification_Tests/05_Identification_Systems.md) · [PCR](../12_Identification_Tests/06_Molecular_ID.md)
 - آنتی‌بیوگرام: [*Haemophilus* (CLSI Table 2E)](../AST/05_Fastidious_Anaerobes/README.md) · HACEK و *Brucella*: CLSI **M45** · [بتالاکتاماز](../AST/02_Beta_Lactamases/02_Staph_Penicillinase.md)
 - ماژول‌های نمونه: [01_Blood_Culture](../01_Blood_Culture/README.md) · [03_CSF](../03_CSF/README.md) · [06_Respiratory](../06_Respiratory/README.md) · [09_Sterile_Fluids_and_Other](../09_Sterile_Fluids_and_Other/README.md)
+
+**تصاویر:** ۱۵ عکس و ۰ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
+</div>

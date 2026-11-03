@@ -1,6 +1,8 @@
+<div dir="rtl">
+
 # تست‌های سریع و نقطه‌ای (Spot / Rapid Tests)
 
-> نخستین تست‌ها پس از رنگ گرم؛ چند ثانیه تا چند ساعت. **کلنی ۱۸–۲۴ ساعته** از محیط **غیرانتخابی** (آگار خون، TSA، شکلات) مگر خلاف آن ذکر شود.
+> نخستین تست‌ها پس از رنگ‌آمیزی گرم؛ چند ثانیه تا چند ساعت. **کلنی ۱۸–۲۴ ساعته** از محیط **غیرانتخابی** (آگار خون، TSA، شکلات) مگر خلاف آن ذکر شود.
 
 ## ⚠️ قواعد عمومی (منشأ بیشتر خطاها)
 | قاعده | دلیل |
@@ -22,15 +24,19 @@
 
 | مثبت | منفی |
 |---|---|
-| **استافیلوکوک**، *Micrococcus*، *Rothia* (متغیر) | **استرپتوکوک**، **انتروکوک** (گاه **«شبه‌کاتالاز» ضعیف**)، *Aerococcus*، *Abiotrophia* |
+| **استافیلوکوکوس**، *Micrococcus*، *Rothia* (متغیر) | **استرپتوکوکوس**، **انتروکوکوس** (گاه **«شبه‌کاتالاز» ضعیف**)، *Aerococcus*، *Abiotrophia* |
 | *Listeria*، *Corynebacterium*، *Bacillus*، *Nocardia* | *Erysipelothrix*، *Arcanobacterium*، *Lactobacillus*، *Gardnerella*، *Actinomyces* (اکثر) |
 | Enterobacterales، *Pseudomonas*، *Neisseria*، *Moraxella* | *Kingella*، *Eikenella*، *Cardiobacterium*، *Streptobacillus* |
 | *Campylobacter* (اکثر)، *Helicobacter* | |
 
 - **QC:** *S. aureus* ATCC 25923 (+)؛ *E. faecalis* ATCC 29212 (−).
-- **دام‌ها:** آگار خون (RBC)؛ H₂O₂ کهنه (منفی کاذب)؛ لوپ آهنی (مثبت کاذب)؛ آئروسل حباب (ایمنی؛ ترجیحاً در لوله/زیر هود).
+- **دام‌ها:** آگار خون (RBC)؛ H₂O₂ کهنه (منفی کاذب)؛ لوپ آهنی (مثبت کاذب)؛ آئروسل حباب (ایمنی؛ ترجیحاً در لوله یا داخل کابینت ایمنی زیستی).
 
 ---
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/catalase-slide-positive.jpg" width="300" alt="catalase-slide-positive"><br><sub><b>شکل ۱۲.۲۶.</b> کاتالاز مثبت روی لام: حباب فوری پس از افزودن H₂O₂ ۳٪<br>منبع: Nase، <a href="https://commons.wikimedia.org/wiki/File:Catalase_reaction.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></sub></td></tr></table>
 
 ## ۲.۲ اکسیداز (سیتوکروم c اکسیداز)
 - **اساس:** سیتوکروم c اکسیداز ← اکسیداسیون **تترامتیل-p-فنیلن‌دی‌آمین (TMPD؛ معرف کواکس ۱٪)** ← **ارغوانی تیره (ایندوفنل)**.
@@ -49,7 +55,11 @@
 
 ---
 
-## ۲.۳ کوآگولاز (استافیلوکوک)
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/oxidase-positive-disk.jpg" width="300" alt="oxidase-positive-disk"><br><sub><b>شکل ۱۲.۲۷.</b> اکسیداز مثبت: رنگ ارغوانی تیره روی دیسک/کاغذ صافی در ۱۰ ثانیه<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Oxidase_Test_Positive.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
+## ۲.۳ کوآگولاز (استافیلوکوکوس)
 
 ### دو سازوکار متفاوت (با هم اشتباه نشوند)
 | ویژگی | **کوآگولاز متصل (Clumping factor، ClfA)** | **کوآگولاز آزاد (Free coagulase)** |
@@ -87,9 +97,13 @@
   - **پلاسمای سیتراته** + ارگانیسم مصرف‌کنندهٔ سیترات (*Enterococcus*، *Pseudomonas*) ← **لختهٔ کاذب** ← همیشه **EDTA**.
   - پلاسمای **انسانی** ممنوع (آنتی‌بادی، فاکتورها متغیر).
   - کلنی از **MSA** ← لاتکس نادرست.
-  - **رنگ گرم را تأیید کنید**: کوآگولاز روی گرم منفی بی‌معنی است.
+  - **رنگ‌آمیزی گرم را تأیید کنید**: کوآگولاز روی گرم منفی بی‌معنی است.
 
 ---
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/coagulase-tube-staphylococcus.jpg" width="300" alt="coagulase-tube-staphylococcus"><br><sub><b>شکل ۱۲.۲۸.</b> کوآگولاز لوله (مرجع): لختهٔ پلاسما با <i>S. aureus</i> (لولهٔ B)؛ <i>S. epidermidis</i> بدون لخته (لولهٔ A)<br>منبع: ELaurent، <a href="https://commons.wikimedia.org/wiki/File:Coagulase_test.png">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/coagulase-slide-staphylococcus.jpg" width="300" alt="coagulase-slide-staphylococcus"><br><sub><b>شکل ۱۲.۲۹.</b> کوآگولاز لام (clumping factor): کلامپ <i>S. aureus</i> (وسط و راست)؛ <i>S. epidermidis</i> منفی (چپ)<br>منبع: New HanseN.، <a href="https://commons.wikimedia.org/wiki/File:Coagulase_test_in_S._aureus_and_S._epidermidis.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ## ۲.۴ PYR (L-پیرولیدونیل آریل‌آمیداز)
 - **اساس:** **L-پیرولیدونیل-β-نفتیل‌آمید** ← **β-نفتیل‌آمین** + معرف **p-دی‌متیل‌آمینوسینامالدهید (DMACA)** ← **قرمز گیلاسی** در **۱ دقیقه** = مثبت.
@@ -97,8 +111,8 @@
 
 | مثبت | منفی |
 |---|---|
-| ***S. pyogenes*** (GAS) | سایر استرپتوکوک‌های بتا (B، C، G) |
-| ***Enterococcus*** | **گروه *S. bovis*/*gallolyticus*** |
+| ***S. pyogenes*** (GAS) | سایر استرپتوکوکوس‌های بتا (B، C، G) |
+| ***Enterococcus*** | ***S. gallolyticus*** |
 | ***Abiotrophia*/*Granulicatella***، *Gemella*، *Aerococcus viridans* | *Aerococcus urinae*، *Leuconostoc*، *Pediococcus* |
 | ***S. lugdunensis***، *S. haemolyticus*، *S. schleiferi* | *S. aureus*، *S. epidermidis* (اکثر) |
 | *Arcanobacterium haemolyticum* (v)، *Corynebacterium* (برخی) | |
@@ -109,9 +123,15 @@
 
 ---
 
+**تصاویر:**
+
+<p align="center"><img src="Assets/figures/pyr-reading-schematic.svg" width="420" alt="pyr-reading-schematic"></p>
+
+> **شکل ۱۲.۳۰.** خواندن PYR — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+
 ## ۲.۵ LAP (لوسین آمینوپپتیداز)
 - **اساس:** **لوسین-β-نفتیل‌آمید** ← β-نفتیل‌آمین + **DMACA** ← **قرمز** (مانند PYR).
-- **کاربرد:** کوکسی‌های گرم مثبت **کاتالاز منفی**، به‌ویژه همراه PYR:
+- **کاربرد:** کوکسی گرم مثبت **کاتالاز منفی**، به‌ویژه همراه PYR:
 
 | ارگانیسم | PYR | LAP |
 |---|---|---|
@@ -127,23 +147,43 @@
 
 ---
 
+**تصاویر:**
+
+<p align="center"><img src="Assets/figures/lap-reading-schematic.svg" width="420" alt="lap-reading-schematic"></p>
+
+> **شکل ۱۲.۳۱.** خواندن LAP — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+
 ## ۲.۶ ایندول اسپات (Spot Indole)
 - **اساس:** تریپتوفاناز ← **ایندول** + معرف **DMACA ۱٪** ← **آبی-سبز** (مثبت)؛ **صورتی/بی‌رنگ** (منفی). (معرف کواکس هم قابل‌استفاده: قرمز.)
 - **روش:** کلنی از **آگار خون یا شکلات** (حاوی تریپتوفان) روی کاغذ صافی مرطوب با معرف.
-- **مثبت:** ***E. coli*** (≈ ۹۹٪؛ شناسایی احتمالی سریع *E. coli*: گرم منفی، اکسیداز −، ایندول +، همولیز β یا لاکتوز +)، *P. vulgaris*، *Morganella*، *Providencia*، *K. oxytoca*، *Aeromonas*، *Vibrio*، *Pasteurella multocida*، *Haemophilus* (برخی بیوتیپ‌ها)، ***Porphyromonas***، *F. nucleatum*، *C. sordellii*، *P. acnes* (*Cutibacterium*). **منفی:** *P. mirabilis*، *K. pneumoniae*، *Salmonella*، *Enterobacter*، *Pseudomonas*.
+- **مثبت:** ***E. coli*** (≈ ۹۹٪؛ شناسایی احتمالی سریع *E. coli*: گرم منفی، اکسیداز −، ایندول +، همولیز β یا لاکتوز +)، *P. vulgaris*، *Morganella*، *Providencia*، *K. oxytoca*، *Aeromonas*، *Vibrio*، *Pasteurella multocida*، *Haemophilus* (برخی بیوتیپ‌ها)، ***Porphyromonas***، *F. nucleatum*، *C. sordellii*، *Cutibacterium acnes* (نام قدیم *Propionibacterium acnes*). **منفی:** *P. mirabilis*، *K. pneumoniae*، *Salmonella*، *Enterobacter*، *Pseudomonas*.
 - **QC:** *E. coli* ATCC 25922 (+)؛ *K. pneumoniae* ATCC 13883 (−).
 - **دام:** کلنی‌های **مخلوط** (*E. coli* در کنار) ← مثبت کاذب؛ پلیت‌های **کم‌تریپتوفان** (مک‌کانکی) ← منفی کاذب.
 
 ---
 
+**تصاویر:**
+
+<p align="center"><img src="Assets/figures/spot-indole-reading-schematic.svg" width="420" alt="spot-indole-reading-schematic"></p>
+
+> **شکل ۱۲.۳۲.** خواندن ایندول اسپات — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/indole-tube-kovacs.jpg" width="300" alt="indole-tube-kovacs"><br><sub><b>شکل ۱۲.۳۳.</b> برای مقایسه: ایندول لوله‌ای با معرف کواکس؛ حلقهٔ قرمز = مثبت (راست)، زرد = منفی (چپ)<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Indole_Test_Positive.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ## ۲.۷ حلالیت در صفرا (Bile Solubility) — *S. pneumoniae*
-- **اساس:** **سدیم دزوکسی‌کولات** ← فعال‌سازی **اتولیزین (LytA)** پنوموکوک ← **لیز سلول**.
+- **اساس:** **سدیم دزوکسی‌کولات** ← فعال‌سازی **اتولیزین (LytA)** پنوموکوکوس ← **لیز سلول**.
 - **روش پلیت:** یک قطره **دزوکسی‌کولات ۱۰٪** روی کلنی؛ ۳۵°C، **۱۵–۳۰ دقیقه** (پلیت افقی) ← **ناپدید/صاف شدن کلنی** = مثبت.
 - **روش لوله (مرجع):** سوسپانسیون سنگین (≈ ۰٫۵–۱ مک‌فارلند) ۰٫۵ mL + **۰٫۵ mL دزوکسی‌کولات ۲٪** (و لولهٔ کنترل با سالین)؛ ۳۵°C تا **۳ ساعت** ← **شفاف شدن** = مثبت.
 - **QC:** *S. pneumoniae* ATCC 49619 (+)؛ *E. faecalis* ATCC 29212 (−).
-- **دام‌ها:** شستن کلنی با قطرهٔ زیاد (جابه‌جایی ≠ حل‌شدن)؛ pH محیط پایین؛ **پنوموکوک‌های غیرکپسول‌دار/بیلی-مقاوم** (نادر)؛ **S. pseudopneumoniae** و برخی *S. mitis* (مثبت ضعیف) ← MALDI-TOF ممکن است اشتباه کند (← [05_Identification_Systems.md](05_Identification_Systems.md)).
+- **دام‌ها:** شستن کلنی با قطرهٔ زیاد (جابه‌جایی ≠ حل‌شدن)؛ pH محیط پایین؛ **پنوموکوکوس‌های غیرکپسول‌دار/بیلی-مقاوم** (نادر)؛ ***S. pseudopneumoniae*** و برخی *S. mitis* (مثبت ضعیف) ← MALDI-TOF ممکن است اشتباه کند (← [05_Identification_Systems.md](05_Identification_Systems.md)).
 
 ---
+
+**تصاویر:**
+
+<p align="center"><img src="Assets/figures/bile-solubility-reading-schematic.svg" width="420" alt="bile-solubility-reading-schematic"></p>
+
+> **شکل ۱۲.۳۴.** خواندن حلالیت در صفرا (روش لوله) — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
 
 ## ۲.۸ هیپورات (Hippurate Hydrolysis)
 - **اساس:** هیپوریکاز ← **بنزوات + گلیسین** ← **نین‌هیدرین** با گلیسین ← **ارغوانی تیره** (روش سریع ۲ ساعته).
@@ -154,6 +194,12 @@
 
 ---
 
+**تصاویر:**
+
+<p align="center"><img src="Assets/figures/hippurate-reading-schematic.svg" width="420" alt="hippurate-reading-schematic"></p>
+
+> **شکل ۱۲.۳۵.** خواندن هیدرولیز هیپورات — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+
 ## ۲.۹ بوتیرات استراز (Tributyrin / Indoxyl Butyrate)
 - **اساس:** استراز ← **ایندوکسیل بوتیرات** ← **ایندوکسیل** ← **آبی-سبز**.
 - **روش:** دیسک/قرص؛ کلنی؛ ۵ دقیقه (طبق IFU).
@@ -162,6 +208,12 @@
 
 ---
 
+**تصاویر:**
+
+<p align="center"><img src="Assets/figures/butyrate-reading-schematic.svg" width="420" alt="butyrate-reading-schematic"></p>
+
+> **شکل ۱۲.۳۶.** خواندن بوتیرات استراز — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+
 ## ۲.۱۰ سوپراکسول (H₂O₂ ۳۰٪)
 - قطره روی کلنی ← **حباب فوری و شدید («انفجاری»)** = قوی مثبت.
 - ***N. gonorrhoeae*: ۴+ (قوی)**؛ *N. meningitidis*: ضعیف تا متوسط؛ *M. catarrhalis*: قوی؛ *Kingella*: منفی (کاتالاز −).
@@ -169,6 +221,12 @@
 - ⚠️ H₂O₂ ۳۰٪ **سوزاننده** است؛ دستکش و عینک.
 
 ---
+
+**تصاویر:**
+
+<p align="center"><img src="Assets/figures/superoxol-reading-schematic.svg" width="420" alt="superoxol-reading-schematic"></p>
+
+> **شکل ۱۲.۳۷.** خواندن سوپراکسول — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
 
 ## ۲.۱۱ DNase
 - **محیط:** **DNase آگار** با **متیل گرین** (DNA پلیمر سبز ← هیدرولیز ← **هالهٔ شفاف/بی‌رنگ**) یا **تولوئیدین بلو** (هالهٔ **صورتی**)؛ یا روش **HCl ۱N** روی آگار بدون رنگ (هالهٔ شفاف).
@@ -179,13 +237,23 @@
 
 ---
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/dnase-positive-staphylococcus-aureus.jpg" width="300" alt="dnase-positive-staphylococcus-aureus"><br><sub><b>شکل ۱۲.۳۸.</b> DNase مثبت: هالهٔ شفاف اطراف رشد پس از افزودن HCl<br>منبع: JORDI PRAT FONT، <a href="https://commons.wikimedia.org/wiki/File:Positive_DNAse_test_on_a_suspected_S._aureus_sample.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ## ۲.۱۲ ONPG (β-گالاکتوزیداز)
 - **اساس:** **o-نیتروفنیل-β-D-گالاکتوپیرانوزید** ← **o-نیتروفنل زرد**.
-- **کاربرد:** کشف **تخمیرکنندگان دیررس لاکتوز** (دارای β-گالاکتوزیداز ولی فاقد **پرمئاز**): *Citrobacter*، *Serratia*، *Hafnia*، ***S. sonnei*** (+؛ سایر *Shigella* −)، *Salmonella* زیرگونهٔ III (arizonae) (+)؛ ***N. lactamica*** (+) در برابر *N. meningitidis* (−)؛ *Burkholderia* و *Vibrio*.
+- **کاربرد:** کشف **تخمیرکنندگان دیررس لاکتوز** (دارای β-گالاکتوزیداز ولی فاقد **پرمئاز**): *Citrobacter*، *Serratia*، *Hafnia*، ***S. sonnei*** (+؛ بیشتر *Shigella*های دیگر −، به‌جز برخی سروتیپ‌های *S. dysenteriae* و *S. boydii*)، *Salmonella* زیرگونهٔ III (arizonae) (+)؛ ***N. lactamica*** (+) در برابر *N. meningitidis* (−)؛ *Burkholderia* و *Vibrio*.
 - **روش:** دیسک/براث ONPG؛ سوسپانسیون سنگین؛ ۳۵°C، **۱–۴ ساعت** (تا ۲۴) ← **زرد** = مثبت.
 - **QC:** *E. coli* ATCC 25922 (+)؛ *P. mirabilis* ATCC 12453 یا *S.* Typhimurium ATCC 14028 (−).
 
 ---
+
+**تصاویر:**
+
+<p align="center"><img src="Assets/figures/onpg-reading-schematic.svg" width="420" alt="onpg-reading-schematic"></p>
+
+> **شکل ۱۲.۳۹.** خواندن ONPG — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
 
 ## ۲.۱۳ اوره‌آز سریع
 - قرص/براث اوره با بافر کم؛ سوسپانسیون **سنگین**؛ **۱۵ دقیقه تا ۴ ساعت** ← **صورتی** = مثبت.
@@ -194,12 +262,22 @@
 
 ---
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/urea-agar-positive.jpg" width="300" alt="urea-agar-positive"><br><sub><b>شکل ۱۲.۴۰.</b> اوره آگار کریستنسن: صورتی = اوره‌آز مثبت (<i>Raoultella planticola</i>)<br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Raoultella_planticola_on_urea_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/urea-agar-negative.jpg" width="300" alt="urea-agar-negative"><br><sub><b>شکل ۱۲.۴۱.</b> اوره آگار کریستنسن: بدون تغییر رنگ = منفی (<i>Serratia odorifera</i>)<br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Serratia_odorifera_on_urea_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr></table>
+
 ## ۲.۱۴ آزمون نخ (String Test) — *Vibrio*
 - کلنی در قطرهٔ **سدیم دزوکسی‌کولات ۰٫۵٪** روی لام ← **۶۰ ثانیه** ← بالا کشیدن لوپ ← **نخ موکوئید ≥ ۲–۳ cm** = مثبت (لیز سلول و آزاد شدن DNA).
 - **مثبت:** ***Vibrio*** (اکثر) ← افتراق از ***Aeromonas*** (منفی یا ضعیف) و *Plesiomonas* (منفی).
 - **QC:** *V. parahaemolyticus* ATCC 17802 (+)؛ *A. hydrophila* ATCC 7966 (−).
 
 ---
+
+**تصاویر:**
+
+<p align="center"><img src="Assets/figures/string-test-reading-schematic.svg" width="420" alt="string-test-reading-schematic"></p>
+
+> **شکل ۱۲.۴۲.** خواندن آزمون نخ — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
 
 ## ۲.۱۵ هیدرولیز ایندوکسیل استات
 - دیسک ایندوکسیل استات؛ کلنی؛ ۵–۳۰ دقیقه ← **آبی-سبز** (+).
@@ -208,27 +286,41 @@
 
 ---
 
+**تصاویر:**
+
+<p align="center"><img src="Assets/figures/indoxyl-acetate-reading-schematic.svg" width="420" alt="indoxyl-acetate-reading-schematic"></p>
+
+> **شکل ۱۲.۴۳.** خواندن هیدرولیز ایندوکسیل استات — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+
 ## ۲.۱۶ نیتروسفین (بتالاکتاماز)
-← [AST/02_Beta_Lactamases/02_Staph_Penicillinase.md](../AST/02_Beta_Lactamases/02_Staph_Penicillinase.md) (*Haemophilus*، *Moraxella*، گنوکوک، بی‌هوازی‌ها، استاف).
+← [AST/02_Beta_Lactamases/02_Staph_Penicillinase.md](../AST/02_Beta_Lactamases/02_Staph_Penicillinase.md) (*Haemophilus*، *Moraxella*، گونوکوکوس، بی‌هوازی‌ها، استافیلوکوکوس).
 
 ---
+
+**تصاویر:**
+
+<p align="center"><img src="Assets/figures/nitrocefin-reading-schematic.svg" width="420" alt="nitrocefin-reading-schematic"></p>
+
+> **شکل ۱۲.۴۴.** خواندن نیتروسفین — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
 
 ## جدول مرجع سریع
 
 | تست | معرف/سوبسترا | مثبت | زمان | کاربرد کلیدی |
 |---|---|---|---|---|
-| کاتالاز | H₂O₂ ۳٪ | حباب | فوری | استاف/استرپ؛ *Listeria*/*Erysipelothrix* |
+| کاتالاز | H₂O₂ ۳٪ | حباب | فوری | استافیلوکوکوس/استرپتوکوکوس؛ *Listeria*/*Erysipelothrix* |
 | اکسیداز | TMPD ۱٪ | ارغوانی | ≤ ۱۰ ثانیه | Enterobacterales/غیرتخمیری‌ها؛ *Acinetobacter* (−) |
 | کوآگولاز لام | پلاسمای خرگوش EDTA | کلامپ | ۱۰ ثانیه | *S. aureus*، *S. lugdunensis* |
 | کوآگولاز لوله | پلاسمای خرگوش EDTA | لخته | ۴ (± ۲۴) ساعت | *S. aureus* |
-| PYR | L-پیرولیدونیل-β-NA + DMACA | قرمز | ۲ + ۱ دقیقه | GAS، انتروکوک |
+| PYR | L-پیرولیدونیل-β-NA + DMACA | قرمز | ۲ + ۱ دقیقه | GAS، انتروکوکوس |
 | LAP | لوسین-β-NA + DMACA | قرمز | ۵ دقیقه | *Aerococcus*، *Leuconostoc* |
 | ایندول اسپات | DMACA | آبی-سبز | فوری | *E. coli* |
-| حلالیت صفرا | دزوکسی‌کولات | لیز | ۱۵ دقیقه – ۳ ساعت | پنوموکوک |
+| حلالیت صفرا | دزوکسی‌کولات | لیز | ۱۵ دقیقه – ۳ ساعت | پنوموکوکوس |
 | هیپورات | هیپورات + نین‌هیدرین | بنفش | ۲ ساعت | GBS، *C. jejuni* |
 | بوتیرات | ایندوکسیل بوتیرات | آبی | ۵ دقیقه | *M. catarrhalis* |
-| سوپراکسول | H₂O₂ ۳۰٪ | انفجاری | فوری | گنوکوک (غربالگری) |
+| سوپراکسول | H₂O₂ ۳۰٪ | انفجاری | فوری | گونوکوکوس (غربالگری) |
 | DNase | DNA + متیل گرین | هالهٔ شفاف | ۲۴ ساعت | *S. aureus*، *Serratia*، *Moraxella* |
 | ONPG | ONPG | زرد | ۱–۴ ساعت | تخمیرکنندگان دیررس، *N. lactamica* |
 | نخ | دزوکسی‌کولات ۰٫۵٪ | نخ | ۶۰ ثانیه | *Vibrio* |
 | ایندوکسیل استات | ایندوکسیل استات | آبی | ۵–۳۰ دقیقه | *Campylobacter* |
+
+</div>

@@ -1,10 +1,12 @@
+<div dir="rtl">
+
 # دام‌های تشخیصی و گزارش‌دهی: Enterobacterales
 
 ## ۱. دام‌های تشخیصی
 
 | دام | توضیح | راه‌حل |
 |---|---|---|
-| ***Salmonella* لاکتوز مثبت یا H₂S منفی** | روی MacConkey/XLD «کلیفرم» یا «*Shigella*» دیده می‌شود | کروموژنیک *Salmonella*؛ کلنی‌های مشکوک را با TSI/LIA و آنتی‌سرم بررسی کنید |
+| ***Salmonella* لاکتوز مثبت یا H₂S منفی** | روی MacConkey/XLD «کلیفرم» یا «*Shigella*» مشاهده می‌شود | کروموژنیک *Salmonella*؛ کلنی‌های مشکوک را با TSI/LIA و آنتی‌سرم بررسی کنید |
 | ***S.* Typhi و Paratyphi A در مدفوع** | H₂S ضعیف/منفی، سیترات منفی؛ روی SS و BGA ضعیف رشد می‌کنند | **کشت خون** در تب روده‌ای؛ غنی‌سازی سلنیت |
 | **پوشاندن آنتی‌ژن O با Vi** | *S.* Typhi با آنتی‌سرم O گروه D منفی | **جوشاندن ۱۰–۱۵ دقیقه** و تکرار ← [12/04](../12_Identification_Tests/04_Antigen_Serology.md) |
 | **MALDI-TOF و *Shigella*** | *E. coli* و *Shigella* از نظر ژنتیکی یک گونه‌اند ← MALDI-TOF جدا نمی‌کند | بیوشیمی (تحرک، LDC، گاز، استات) + **آنتی‌سرم** |
@@ -19,6 +21,10 @@
 | ***Enterobacter* و *K. aerogenes*** | MALDI-TOF گونه‌های *E. cloacae* complex را جدا نمی‌کند | گزارش «*E. cloacae* complex» |
 | **تخمیرکنندگان دیررس لاکتوز** | *Citrobacter*، *Serratia*، *S. sonnei* در ۲۴ ساعت لاکتوز منفی | **ONPG** |
 | **hvKp** | string test حساس و اختصاصی نیست | بالین (آبسهٔ کبدی، متاستاز) + در صورت نیاز ژن‌ها (*rmpA*، *iuc*) در آزمایشگاه مرجع |
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/proteus-swarming-2.jpg" width="300" alt="proteus-swarming-2"><br><sub><b>شکل ۱۷.۱۹.</b> سوارم <i>Proteus</i> روی آگار خون‌دار: موج‌های هم‌مرکز رشد که سطح پلیت را می‌پوشاند<br>منبع: Microrao، <a href="https://commons.wikimedia.org/wiki/File:Proteus_swarming_on_blood_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ## ۲. MALDI-TOF در این گروه
 - برای اکثر جنس‌ها **عالی**.
@@ -54,3 +60,5 @@
 | کارباپنماز | Carba NP، mCIM/eCIM، مولکولی، ایمونوکروماتوگرافی | [کارباپنمازها](../AST/02_Beta_Lactamases/05_Carbapenemases.md) |
 | کولیستین | فقط **BMD** یا CBDE/CAT؛ Proteeae، *Serratia*، *Hafnia* ذاتاً R | [کولیستین](../AST/03_Other_Resistance/04_Colistin.md) |
 | درمان | IDSA 2026 (ESBL، AmpC، CRE) | [10_Treatment_Link](../AST/10_Treatment_Link/01_IDSA_2026.md) |
+
+</div>

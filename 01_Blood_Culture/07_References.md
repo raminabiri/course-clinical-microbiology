@@ -2,7 +2,7 @@
 
 ## استانداردها و راهنماها
 1. CLSI. *M47 — Principles and Procedures for Blood Cultures*. 2nd ed. 2022.
-2. CLSI. *M100 — Performance Standards for Antimicrobial Susceptibility Testing*. نسخهٔ جاری (ویرایش ۳۴–۳۶، ۲۰۲۴–۲۰۲۶).
+2. CLSI. *M100 — Performance Standards for Antimicrobial Susceptibility Testing*. 36th ed (M100-Ed36). 2026.
 3. CLSI. *M45 — Infrequently Isolated or Fastidious Bacteria*. 3rd ed. 2016.
 4. CLSI. *M11 — Antimicrobial Susceptibility Testing of Anaerobic Bacteria*. ویرایش جاری.
 5. CLSI. *M39 — Cumulative Antimicrobial Susceptibility Test Data*. ویرایش جاری.
@@ -13,7 +13,7 @@
 10. Singer M, et al. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). *JAMA*. 2016;315:801–10.
 11. Fowler VG, et al. The 2023 Duke-ISCVID Criteria for Infective Endocarditis. *Clin Infect Dis*. 2023;77:518–26.
 12. Baddour LM, et al. Infective endocarditis in adults: AHA scientific statement. *Circulation*. 2015;132:1435–86.
-13. Tamma PD, et al. IDSA Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections. نسخهٔ جاری (۲۰۲۴).
+13. Tamma PD, et al. Infectious Diseases Society of America 2026 Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections. IDSA; 2026.
 14. Miller JM, et al. Guide to utilization of the microbiology laboratory for diagnosis of infectious diseases: 2024 update by IDSA and ASM. *Clin Infect Dis*. 2024.
 15. CDC. *Brucellosis Reference Guide: Exposures, Testing, and Prevention*. 2017. / Laboratory exposure to *Brucella*: PEP recommendations.
 16. Doern GV, et al. A comprehensive update on the problem of blood culture contamination and a discussion of methods for addressing the problem. *Clin Microbiol Rev*. 2019;33:e00009-19.

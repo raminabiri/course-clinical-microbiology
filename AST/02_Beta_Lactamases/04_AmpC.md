@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # بتالاکتامازهای AmpC
 
 > مبنا: IDSA 2026 (Section 2: AmpC-E)؛ EUCAST v16.1 (Enterobacterales، یادداشت ۵ سفالوسپورین‌ها) و EUCAST Guidelines for detection of resistance mechanisms؛ CLSI M100-Ed36 (Appendix B؛ CLSI **روش استاندارد برای کشف AmpC ندارد**).
@@ -56,3 +58,5 @@
   - داروهای غیربتالاکتام (TMP-SMX، فلوروکینولون‌ها، آمینوگلیکوزیدها) در صورت حساسیت مؤثرند
   - داروهای جدید ضد CRE فقط برای مقاومت به کارباپنم ذخیره شوند
   - ← [10_Treatment_Link/01_IDSA_2026.md](../10_Treatment_Link/01_IDSA_2026.md)
+
+</div>

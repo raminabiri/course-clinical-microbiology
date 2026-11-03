@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # کتابخانهٔ تست‌های شناسایی
 
 ## معرفی
@@ -10,22 +12,22 @@
 
 | فایل | محتوا |
 |---|---|
-| [01_Microscopy_Stains.md](01_Microscopy_Stains.md) | رنگ گرم (خطاها، ارگانیسم‌های گمراه‌کننده، مورفولوژی‌ها)، اسید–فست (ZN، کینیون، اورامین، اصلاح‌شده)، سایر رنگ‌ها و روش‌ها |
+| [01_Microscopy_Stains.md](01_Microscopy_Stains.md) | رنگ‌آمیزی گرم (خطاها، ارگانیسم‌های گمراه‌کننده، مورفولوژی‌ها)، اسیدفست (ZN، کینیون، اورامین، اصلاح‌شده)، سایر رنگ‌ها و روش‌ها |
 | [02_Spot_Rapid_Tests.md](02_Spot_Rapid_Tests.md) | کاتالاز، اکسیداز، کوآگولاز (لام/لوله/لاتکس)، PYR، LAP، ایندول اسپات، حلالیت صفرا، هیپورات، بوتیرات استراز، سوپراکسول، DNase، ONPG، اوره‌آز سریع، نخ، ایندوکسیل استات |
-| [03_Disk_and_Growth_Tests.md](03_Disk_and_Growth_Tests.md) | اپتوچین، باسیتراسین، نووبیوسین، دیسک‌های ویژهٔ بی‌هوازی، X/V و پورفیرین، اقمار، CAMP و CAMP معکوس، ناگلر، هوازی‌تحملی، تحرک، دما و نمک، اسپور، ایمنی زیستی |
-| [04_Antigen_Serology.md](04_Antigen_Serology.md) | لانسفیلد، سروتایپینگ *Salmonella*/*Shigella*/O157/*V. cholerae*/مننگوکوک/Hib، آنتی‌ژن‌های مستقیم (GAS، ادراری، *C. difficile*، *H. pylori*، MPT64) |
+| [03_Disk_and_Growth_Tests.md](03_Disk_and_Growth_Tests.md) | اپتوچین، باسیتراسین، نووبیوسین، دیسک‌های ویژهٔ بی‌هوازی، هِمین/NAD و پورفیرین، اقمار، CAMP و CAMP معکوس، ناگلر، هوازی‌تحملی، تحرک، دما و نمک، اسپور، ایمنی زیستی |
+| [04_Antigen_Serology.md](04_Antigen_Serology.md) | لانسفیلد، سروتایپینگ *Salmonella*/*Shigella*/O157/*V. cholerae*/مننگوکوکوس/Hib، آنتی‌ژن‌های مستقیم (GAS، ادراری، *C. difficile*، *H. pylori*، MPT64) |
 | [05_Identification_Systems.md](05_Identification_Systems.md) | API/RapID، Vitek 2/Phoenix/MicroScan، **MALDI-TOF** (اصول، امتیاز، محدودیت‌ها، ایمنی)، الگوریتم کلی |
-| [06_Molecular_ID.md](06_Molecular_ID.md) | 16S rRNA (CLSI MM18)، ژن‌های دیگر، پنل‌های سندرمی، WGS و mNGS |
+| [06_Molecular_ID.md](06_Molecular_ID.md) | 16S rRNA (CLSI MM18)، ژن‌های دیگر، پنل‌های سندرومیک، WGS و mNGS |
 
 ## مسیر اولیهٔ شناسایی (از کلنی تا خانواده)
 
 ```mermaid
 flowchart TD
-A[کلنی خالص] --> B[رنگ گرم]
+A[کلنی خالص] --> B[رنگ‌آمیزی گرم]
 B -->|کوکسی گرم مثبت| C{کاتالاز}
-C -->|+| C1[13: کوکسی گرم مثبت کاتالاز مثبت<br/>استافیلوکوک و مشابه‌ها]
-C -->|−| C2[14: کوکسی گرم مثبت کاتالاز منفی<br/>استرپتوکوک، انتروکوک و…]
-B -->|باسیل گرم مثبت| D{اسید–فست؟}
+C -->|+| C1[13: کوکسی گرم مثبت کاتالاز مثبت<br/>استافیلوکوکوس و مشابه‌ها]
+C -->|−| C2[14: کوکسی گرم مثبت کاتالاز منفی<br/>استرپتوکوکوس، انتروکوکوس و…]
+B -->|باسیل گرم مثبت| D{اسیدفست؟}
 D -->|+ قوی| D1[23: مایکوباکتری‌ها]
 D -->|− یا ضعیف| D2[15: باسیل گرم مثبت هوازی<br/>کورینه، لیستریا، باسیلوس، نوکاردیا]
 B -->|کوکسی گرم منفی| E[16: نایسریا، موراکسلا]
@@ -46,3 +48,7 @@ A -->|غیرقابل‌کشت/بدون دیواره| I[24: کلامیدیا، م
 - Procop GW, et al. *Koneman's Color Atlas and Textbook of Diagnostic Microbiology.* 7th ed.
 - CLSI **M58** (MALDI-TOF identification)؛ CLSI **MM18** (sequencing-based identification)؛ CLSI **M35** (Abbreviated identification of bacteria and yeast).
 - ASM. *Sentinel Level Clinical Laboratory Guidelines* (agents of bioterrorism).
+
+**تصاویر:** ۴۰ عکس و ۱۶ دیاگرام در فایل‌های ۰۱ تا ۰۴؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
+</div>

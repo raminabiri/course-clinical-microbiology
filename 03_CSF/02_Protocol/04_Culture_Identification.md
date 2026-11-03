@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # پروتکل ۴: کشت و شناسایی کلاسیک CSF
 
 ## ۱. هدف
@@ -7,14 +9,14 @@
 
 | محیط | CSF معمولی | شانت / EVD / پس از جراحی | آبسهٔ مغزی | هدف |
 |---|---|---|---|---|
-| **آگار خون‌دار گوسفندی ۵٪ (SBA)** | ✅ | ✅ | ✅ | پنوموکوک، GBS، لیستریا، استافیلوکوک، گرم منفی‌ها |
+| **آگار خون‌دار گوسفندی ۵٪ (SBA)** | ✅ | ✅ | ✅ | پنوموکوکوس، GBS، لیستریا، استافیلوکوکوس، گرم منفی‌ها |
 | **آگار شکلات (CA)** | ✅ | ✅ | ✅ | **ضروری برای *H. influenzae*** و *N. meningitidis* |
 | مک‌کانکی (MAC) | اختیاری (نوزاد، پس از جراحی) | ✅ | ✅ | باسیل‌های گرم منفی |
 | **براث غنی‌کننده** (تیوگلیکولات یا BHI) | ❌ روتین نیست | ✅ | ✅ | ارگانیسم‌های کم‌تعداد؛ *C. acnes* |
 | آگار خون‌دار بی‌هوازی (مثلاً Brucella/CDC anaerobic blood agar) | ❌ | ✅ (شانت) | ✅ | بی‌هوازی‌ها، *C. acnes* |
 | محیط مایکوباکتری (لوون‌اشتاین–جنسن + MGIT) | بر اساس درخواست | بر اساس درخواست | بر اساس درخواست | TB |
 
-> 🔬 **پیشرفته — چرا براث در CSF روتین توصیه نمی‌شود؟** براث تعداد کمی آلودگی پوستی را تکثیر می‌کند و مثبت کاذب می‌سازد. در حالی که در مننژیت حاد تعداد باکتری معمولاً برای کشت جامد کافی است. بیشتر رشدهایی که **فقط در براث** دیده می‌شوند، CoNS یا دیفتروئید آلوده‌کننده‌اند. استثناها: شانت، EVD، آبسه، و نمونهٔ کم‌حجم بیمار با آنتی‌بیوتیک قبلی (طبق سیاست آزمایشگاه).
+> 🔬 **پیشرفته — چرا براث در CSF روتین توصیه نمی‌شود؟** براث تعداد کمی آلودگی پوستی را تکثیر می‌کند و مثبت کاذب می‌سازد. در حالی که در مننژیت حاد تعداد باکتری معمولاً برای کشت جامد کافی است. بیشتر رشدهایی که **فقط در براث** مشاهده می‌شوند، CoNS یا دیفتروئید آلوده‌کننده‌اند. استثناها: شانت، EVD، آبسه، و نمونهٔ کم‌حجم بیمار با آنتی‌بیوتیک قبلی (طبق سیاست آزمایشگاه).
 
 ## ۳. تلقیح
 1. با پیپت استریل **۲ تا ۳ قطره** از رسوب ورتکس‌شده (یا CSF مستقیم اگر حجم کمتر از ۱ mL است) روی هر پلیت بگذارید.
@@ -52,6 +54,10 @@
 | **حلالیت در صفرا** (دئوکسی‌کولات سدیم ۱۰٪) | مثبت (تأییدی) |
 | MALDI-TOF | ⚠️ با *S. mitis/oralis* اشتباه می‌شود. تأیید با حلالیت در صفرا یا الگوریتم‌های به‌روز |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/csf-pneumo-columbia.jpg" width="300" alt="csf-pneumo-columbia"><br><sub><b>شکل ۳.۰۶.</b> کلنی‌های موکوئید آلفاهمولیتیک <i>Streptococcus pneumoniae</i> روی آگار کلمبیا با خون اسب (ایزولهٔ ملتحمه)<br>منبع: Nathan Reading on Flickr، <a href="https://commons.wikimedia.org/wiki/File:Streptococcus_pneumoniae_columbia_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td></tr></table>
+
 ### ۶-۲) *Neisseria meningitidis* ☣️
 | ویژگی | نتیجه |
 |---|---|
@@ -64,27 +70,39 @@
 | سروگروه‌بندی | آگلوتیناسیون با آنتی‌سرم A، B، C، W، X، Y یا PCR (فایل مولکولی) |
 | ⚠️ ایمنی | **همهٔ کارها روی ایزوله در BSC کلاس II**؛ به فایل [08_QC_Biosafety.md](08_QC_Biosafety.md) مراجعه کنید |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/csf-meningococcus-nyc.jpg" width="300" alt="csf-meningococcus-nyc"><br><sub><b>شکل ۳.۰۷.</b> کلنی‌های <i>Neisseria meningitidis</i> روی محیط NYC (محیط انتخابی طراحی‌شده برای گونوکوکوس)<br>منبع: Xishan01، <a href="https://commons.wikimedia.org/wiki/File:Neisseria_meningitidis_Colonies_growth_on_New_York_City_Medium_Agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr></table>
+
 ### ۶-۳) *Haemophilus influenzae*
 | ویژگی | نتیجه |
 |---|---|
-| کلنی | **فقط روی CA** (نه SBA، مگر به‌صورت اقماری کنار استافیلوکوک)؛ کوچک، خاکستری، شفاف، بوی «موش/کپک» |
+| کلنی | **فقط روی CA** (نه SBA، مگر به‌صورت اقماری کنار استافیلوکوکوس)؛ کوچک، خاکستری، شفاف، بوی «موش/کپک» |
 | گرم | کوکوباسیل گرم منفی کوچک |
-| نیاز به فاکتور X (همین) و V (NAD) | **X+V** ← *H. influenzae* (و *H. haemolyticus* که همولیتیک است). V فقط ← *H. parainfluenzae* |
-| **تست پورفیرین (ALA)** | منفی ← نیاز به X دارد (روش مطمئن‌تر از دیسک X، چون انتقال همین از محیط نتیجهٔ دیسک X را کاذب می‌کند) |
+| نیاز به هِمین (فاکتور X) و NAD (فاکتور V) | **هِمین + NAD** ← *H. influenzae* (و *H. haemolyticus* که همولیتیک است). فقط NAD ← *H. parainfluenzae* |
+| **تست پورفیرین (ALA)** | منفی ← نیاز به هِمین دارد (روش مطمئن‌تر از دیسک هِمین، چون انتقال هِمین از محیط نتیجهٔ دیسک هِمین را کاذب می‌کند) |
 | اقماری (Satellitism) | رشد اطراف خط *S. aureus* روی SBA |
-| تیپ‌بندی کپسولی | آنتی‌سرم تیپ b (و a–f) یا PCR (*bexA*, *fbs*) |
+| تیپ‌بندی کپسولی | آنتی‌سرم تیپ b (و a–f) یا PCR (*bexA* برای کپسول و ژن‌های اختصاصی هر تیپ) |
 | بتالاکتاماز | **تست نیتروسفین (Cefinase) روی همهٔ ایزوله‌های CSF** |
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/csf-hinf-chocolate.jpg" width="300" alt="csf-hinf-chocolate"><br><sub><b>شکل ۳.۰۸.</b> کلنی‌های <i>Haemophilus influenzae</i> روی آگار شکلات پس از ۲۴ ساعت<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Haemophilus_influenzae_colony_morphology_on_chocolate_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ### ۶-۴) *Listeria monocytogenes*
 | ویژگی | نتیجه |
 |---|---|
-| کلنی SBA | کوچک، خاکستری، **بتا همولیز باریک** (زیر کلنی؛ با برداشتن کلنی بهتر دیده می‌شود) — ⚠️ با GBS اشتباه می‌شود |
+| کلنی SBA | کوچک، خاکستری، **بتا همولیز باریک** (زیر کلنی؛ با برداشتن کلنی بهتر مشاهده می‌شود) — ⚠️ با GBS اشتباه می‌شود |
 | گرم | باسیل کوتاه گرم مثبت |
-| **کاتالاز** | **مثبت** (کلید افتراق از استرپتوکوک) |
+| **کاتالاز** | **مثبت** (کلید افتراق از استرپتوکوکوس) |
 | حرکت | **چرخشی/غلتان** (tumbling) در لام مرطوب در ۲۰–۲۵ °C؛ **چتری** (umbrella) در محیط نیمه‌جامد در ۲۵ °C؛ در ۳۵ °C حرکت کم |
 | اسکولین | هیدرولیز + (کنار GBS که منفی است) |
 | CAMP | مثبت (با *S. aureus*، الگوی مستطیلی/بیلچه‌ای) |
 | رشد در ۴ °C | + (اساس غنی‌سازی سرد، کاربرد در مواد غذایی) |
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/csf-listeria-chba.jpg" width="300" alt="csf-listeria-chba"><br><sub><b>شکل ۳.۰۹.</b> کلنی‌های <i>Listeria monocytogenes</i> روی آگار کلمبیا با خون اسب<br>منبع: We thank Nathan Reading for his invaluable contribution.، <a href="https://commons.wikimedia.org/wiki/File:Listeria_monocytogenes_-_Columbia_Horse_Blood_Agar_-Detail.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td><td align="center" width="50%"><img src="../Assets/images/csf-listeria-gram.jpg" width="300" alt="csf-listeria-gram"><br><sub><b>شکل ۳.۱۰.</b> <i>Listeria monocytogenes</i> در رنگ‌آمیزی گرم (گسترش از کشت): گرم مثبت با اشکال کوکوئید تا باسیلی<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Gram_staining_footage_of_Listeria_monocytogenes_in_Gram_staining_of_culture_microscopy.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ### ۶-۵) *Streptococcus agalactiae* (GBS)
 | ویژگی | نتیجه |
@@ -96,8 +114,12 @@
 | آگلوتیناسیون لانسفیلد | گروه B |
 | PYR | منفی |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/csf-gbs-blood-agar.jpg" width="300" alt="csf-gbs-blood-agar"><br><sub><b>شکل ۳.۱۱.</b> کلنی‌های بتاهمولیتیک <i>Streptococcus agalactiae</i> (GBS) روی آگار خون‌دار<br>منبع: 43trevenque، <a href="https://commons.wikimedia.org/wiki/File:Streptococcus_agalactiae_on_blood_agar.JPG">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ### ۶-۶) Enterobacterales و غیرتخمیری‌ها
-- طبق ماژول‌های ۱۴ و ۱۵. در CSF بیمارستانی، *Acinetobacter baumannii* (کوکوباسیل گرم منفی، اکسیداز منفی، غیرمتحرک، رشد روی MAC بی‌رنگ) شایع و اغلب **مقاوم به کارباپنم** است.
+- طبق ماژول‌های [۱۷](../../17_Enterobacterales/README.md) (Enterobacterales) و [۱۹](../../19_Non_Fermenters/README.md) (غیرتخمیری‌ها). در CSF بیمارستانی، *Acinetobacter baumannii* (کوکوباسیل گرم منفی، اکسیداز منفی، غیرمتحرک، رشد روی MAC بی‌رنگ) شایع و اغلب **مقاوم به کارباپنم** است.
 - *Elizabethkingia meningoseptica* (نوزاد): اکسیداز مثبت، غیرتخمیری، **ذاتاً مقاوم به بیشتر بتالاکتام‌ها، آمینوگلیکوزیدها و کولیستین**؛ اغلب حساس به ونکومایسین در شرایط آزمایشگاهی. 🔬
 
 ### ۶-۷) ارگانیسم‌های شانت
@@ -112,3 +134,5 @@
 ## ۸. ارسال ایزوله به آزمایشگاه مرجع
 - **همهٔ ایزوله‌های *N. meningitidis*، *H. influenzae* و *S. pneumoniae* CSF** برای سروگروه‌بندی/سروتیپ‌بندی و پایش مقاومت، طبق دستورالعمل نظام مراقبت کشوری ارسال شوند (ترانس‌ایزوله یا محیط انتقال مناسب، با بسته‌بندی سه‌لایهٔ UN3373).
 - ایزوله‌ها را حداقل ۷ روز پس از گزارش نهایی (ترجیحاً منجمد در ۷۰– °C در براث با ۱۵–۲۰٪ گلیسرول) نگه دارید.
+
+</div>

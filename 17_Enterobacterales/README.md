@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ۱۷. Enterobacterales
 
 ## دامنه
@@ -49,3 +51,7 @@
 - تست‌ها: [اکسیداز، ایندول اسپات، ONPG](../12_Identification_Tests/02_Spot_Rapid_Tests.md) · [تحرک در ۲۵ و ۳۵ درجه](../12_Identification_Tests/03_Disk_and_Growth_Tests.md) · [سروتایپینگ *Salmonella*، *Shigella*، O157](../12_Identification_Tests/04_Antigen_Serology.md) · [API 20E، VITEK، MALDI-TOF](../12_Identification_Tests/05_Identification_Systems.md) · [NAAT و پانل‌های مدفوع](../12_Identification_Tests/06_Molecular_ID.md)
 - آنتی‌بیوگرام: [نقاط برش Enterobacterales](../AST/09_Breakpoints/01_Gram_Negative.md) · [ESBL](../AST/02_Beta_Lactamases/03_ESBL.md) · [AmpC](../AST/02_Beta_Lactamases/04_AmpC.md) · [کارباپنمازها](../AST/02_Beta_Lactamases/05_Carbapenemases.md) · [کولیستین](../AST/03_Other_Resistance/04_Colistin.md) · [IDSA 2026](../AST/10_Treatment_Link/01_IDSA_2026.md)
 - ماژول‌های نمونه: [01_Blood_Culture](../01_Blood_Culture/README.md) · [02_Urine](../02_Urine/README.md) · [04_Gastrointestinal](../04_Gastrointestinal/README.md) · [06_Respiratory](../06_Respiratory/README.md)
+
+**تصاویر:** ۱۶ عکس و ۳ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
+</div>

@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ۲۳. مایکوباکتری‌ها
 
 ## دامنه
@@ -10,6 +12,10 @@
 | **NTM سریع‌رشد (RGM)** | ***M. abscessus*** complex (*abscessus*، *massiliense*، *bolletii*)، ***M. fortuitum***، ***M. chelonae***، *M. mucogenicum* |
 | ***M. leprae*** | غیرقابل‌کشت ← لام **بریدگی پوست** (slit-skin smear) و PCR |
 | در ماژول‌های دیگر | *Nocardia*، *Rhodococcus*، *Gordonia*، *Tsukamurella* (اسید–فست **اصلاح‌شده**) ← [15](../15_Aerobic_GPB/README.md) |
+
+**تصاویر:** ۱۱ عکس و ۰ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/mleprae-sss-1000.jpg" width="300" alt="mleprae-sss-1000"><br><sub><b>شکل ۲۳.۰۱.</b> بار باسیلی سنگین (6+) <i>M. leprae</i> در لام بریدگی پوست (slit-skin smear)، رنگ‌آمیزی زیل–نلسون<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Mycobacterium_leprae_in_Magnification_of_1000X.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr></table>
 
 ## اهمیت بالینی (خلاصه)
 | ارگانیسم | بیماری |
@@ -33,6 +39,10 @@
 - **نگهداری:** MGIT تا **۶ هفته**؛ محیط جامد تا **۶–۸ هفته**.
 - **IGRA و TST:** عفونت (نهفته یا فعال) را نشان می‌دهند؛ **سل فعال را تأیید یا رد نمی‌کنند**.
 
+**تصاویر:** ۱۱ عکس و ۰ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/mgit-uv.jpg" width="300" alt="mgit-uv"><br><sub><b>شکل ۲۳.۰۲.</b> لوله‌های MGIT زیر نور UV: فلورسانس نارنجی نشانهٔ رشد مایکوباکتری است<br>منبع: Mikael Häggström , M.D. Author info - Reusing images - Conflicts of in، <a href="https://commons.wikimedia.org/wiki/File:Mycobacteria_Growth_Indicator_Tube_(MGIT)_samples_in_ultraviolet_light.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td><td align="center" width="50%"><img src="Assets/images/genexpert.jpg" width="300" alt="genexpert"><br><sub><b>شکل ۲۳.۰۳.</b> دستگاه GeneXpert برای NAAT خودکار کارتریجی<br>منبع: Aliva Sahoo، <a href="https://commons.wikimedia.org/wiki/File:GeneXpert_Molecular_Diagnostic_System.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ## ایمنی ☣️
 کشت *M. tuberculosis* در **BSL-3** (یا BSL-2 با روش‌های BSL-3)، **BSC کلاس II**، سانتریفیوژ با **درپوش ایمنی**، **N95/PAPR**. تهیهٔ اسمیر از نمونهٔ مستقیم در BSC. پایش کارکنان (IGRA/TST سالانه).
 
@@ -49,3 +59,5 @@
 - تست‌ها: [اسید–فست، اورامین، درجه‌بندی](../12_Identification_Tests/01_Microscopy_Stains.md) · [MALDI-TOF مایکوباکتری](../12_Identification_Tests/05_Identification_Systems.md) · [*hsp65*، *rpoB*، LPA، WGS](../12_Identification_Tests/06_Molecular_ID.md)
 - آنتی‌بیوگرام: [AST مایکوباکتری‌ها (MTBC و NTM)](../AST/06_Mycobacteria/01_Mycobacteria_AST.md) — ⚠️ اعداد M24S/WHO هنوز با سند جاری بررسی نشده‌اند
 - ماژول‌های نمونه: [06_Respiratory](../06_Respiratory/README.md) · [03_CSF](../03_CSF/README.md) · [09_Sterile_Fluids_and_Other](../09_Sterile_Fluids_and_Other/README.md) · [07_Skin_Soft_Tissue](../07_Skin_Soft_Tissue/README.md)
+
+</div>

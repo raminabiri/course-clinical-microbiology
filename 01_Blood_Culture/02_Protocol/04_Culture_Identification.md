@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # پروتکل ۴: کشت، انکوباسیون، ساب‌کالچر و شناسایی
 
 ## ۱. سیستم‌های کشت خون
@@ -18,17 +20,25 @@
 | بطری | ترکیب کلیدی | کاربرد |
 |---|---|---|
 | هوازی استاندارد | براث سویا–کازئین غنی‌شده + **SPS** + هوا/CO₂ | پاتوژن‌های هوازی و بی‌هوازی اختیاری |
-| بی‌هوازی | + عوامل احیاکننده، اتمسفر N₂/CO₂ | بی‌هوازی‌های اجباری؛ استرپتوکوک‌ها و استافیلوکوک‌ها هم در آن خوب رشد می‌کنند |
-| **رزین‌دار/ذغال‌دار** (مثلاً BACTEC Plus، BacT/ALERT FA/FN Plus) | رزین‌های جاذب آنتی‌بیوتیک | بیمار تحت درمان آنتی‌بیوتیک؛ بازیابی بهتر استافیلوکوک و استرپتوکوک |
+| بی‌هوازی | + عوامل احیاکننده، اتمسفر N₂/CO₂ | بی‌هوازی‌های اجباری؛ استرپتوکوکوس‌ها و استافیلوکوکوس‌ها هم در آن خوب رشد می‌کنند |
+| **رزین‌دار/ذغال‌دار** (مثلاً BACTEC Plus، BacT/ALERT FA/FN Plus) | رزین‌های جاذب آنتی‌بیوتیک | بیمار تحت درمان آنتی‌بیوتیک؛ بازیابی بهتر استافیلوکوکوس و استرپتوکوکوس |
 | اطفال | حجم کمتر محیط، بهینه برای ۱–۴ mL خون | کودکان |
 | مایکوباکتری/قارچ | محیط اختصاصی + لیزکننده | HIV پیشرفته؛ کپک‌ها |
 
 > 🔬 **SPS** (سدیم پلی‌آنتول سولفونات، ۰٫۰۲۵–۰٫۰۵٪): ضدانعقاد، ضدکمپلمان، ضدفاگوسیتوز، و خنثی‌کنندهٔ آمینوگلیکوزیدها. ⚠️ **مهارکنندهٔ برخی ارگانیسم‌ها:** *Neisseria meningitidis*، *N. gonorrhoeae*، *Gardnerella vaginalis*، *Peptostreptococcus anaerobius*، و *Streptobacillus moniliformis*. در ظن این ارگانیسم‌ها، افزودن ژلاتین ۱٪ یا روش‌های جایگزین.
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/bc-blutkultur.jpg" width="300" alt="bc-blutkultur"><br><sub><b>شکل ۱.۰۵.</b> بطری‌های کشت خون سیستم خودکار BacT/ALERT<br>منبع: Strolch1983، <a href="https://commons.wikimedia.org/wiki/File:Blutkultur_-_blood_culture.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></sub></td></tr></table>
+
 ### ۱-۳) سیستم دستی (در صورت نبود دستگاه)
 - انکوباسیون ۳۵ °C؛ بررسی **روزانه** از نظر کدورت، همولیز، گاز، لایهٔ سطحی (pellicle)، کلنی (پفک)
 - **ساب‌کالچر کور** بطری هوازی در ۶–۱۸ ساعت اول و در روز ۲ (و انتهای انکوباسیون) روی CA
 - مدت: ۷ روز
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/bc-manual-growth-signs.jpg" width="300" alt="bc-manual-growth-signs"><br><sub><b>شکل ۱.۰۶.</b> نشانه‌های رشد در بطری کشت خون دستی: (A) لایهٔ سطحی؛ (B) تولید گاز؛ (C) کدورت (چپ بدون رشد، راست با رشد)؛ (D) کلنی‌های پفکی (puff balls)<br>منبع: Ombelet, S., Barbé, B., Affolabi, D., Ronat, J. B., Lompo, P., Lunguya، <a href="https://commons.wikimedia.org/wiki/File:Signs_of_growth_in_manual_blood_culture_systems.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a></sub></td><td align="center" width="50%"><img src="../Assets/images/bc-bottle-no-growth.jpg" width="300" alt="bc-bottle-no-growth"><br><sub><b>شکل ۱.۰۷.</b> بطری کشت خون دستی بدون رشد<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Blood_culture_bottle_without_growth_of_organisms.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr><tr><td align="center" width="50%"><img src="../Assets/images/bc-bottle-turbid.jpg" width="300" alt="bc-bottle-turbid"><br><sub><b>شکل ۱.۰۸.</b> بطری کشت خون دستی با رشد میکروبی و کدورت<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Growth_of_microbes_in_blood_culture_bottle.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ## ۲. مدت انکوباسیون
 
@@ -49,7 +59,7 @@
 | بطری **بی‌هوازی** یا ارگانیسم مشکوک بی‌هوازی | + **آگار خون‌دار بی‌هوازی** (± PEA، BBE) | بی‌هوازی، ۴۸–۷۲ ساعت |
 | چند مورفولوژی | + آگار انتخابی گرم مثبت (CNA/PEA) برای جداسازی | |
 | مخمر | + سابورو/کروموژنیک | |
-| گرم منفی خمیده | + آگار کامپیلوباکتر | میکروآئروفیل |
+| گرم منفی خمیده | + آگار کمپیلوباکتر | میکروآئروفیل |
 | کوکسی زنجیره‌ای بدون رشد روی SBA | CA + خط *S. aureus* (NVS) | |
 
 - مقدار: ۱ قطره (حدود ۱۰–۲۰ µL)؛ کشت چهارناحیه‌ای برای کلنی جدا.
@@ -58,16 +68,20 @@
 
 ## ۴. شناسایی پاتوژن‌های اصلی (کلاسیک)
 
-### ۴-۱) کوکسی‌های گرم مثبت
+### ۴-۱) کوکسی گرم مثبت
 | ارگانیسم | آزمون‌های کلیدی |
 |---|---|
 | *S. aureus* | کاتالاز +، **کوآگولاز لوله +** (۴ ساعت و ۲۴ ساعت)، DNase +، لاتکس (کلامپینگ فاکتور/پروتئین A) +، مانیتول +؛ MALDI-TOF |
 | *S. lugdunensis* | کوآگولاز لوله –، (کلامپینگ ممکن است +)، **PYR +**، **اورنیتین دکربوکسیلاز +** |
 | CoNS | کوآگولاز –؛ شناسایی تا حد گونه در صورت اهمیت بالینی |
 | *S. pneumoniae* | آلفا، اپتوچین S (≥ ۱۴ mm)، صفرا + |
-| استرپتوکوک‌های بتا همولیتیک | لانسفیلد A/B/C/G؛ PYR (گروه A +) |
-| ویریدانس | آلفا، اپتوچین R، صفرا –؛ گروه‌بندی با MALDI (mitis، anginosus، mutans، salivarius، **bovis/gallolyticus**) |
+| استرپتوکوکوس‌های بتا همولیتیک | لانسفیلد A/B/C/G؛ PYR (گروه A +) |
+| ویریدانس | آلفا، اپتوچین R، صفرا –؛ گروه‌بندی با MALDI (mitis، anginosus، mutans، salivarius، **gallolyticus**) |
 | *Enterococcus* | PYR +، بایل–اسکولین +، رشد در NaCl ۶٫۵٪؛ *E. faecalis* در برابر *E. faecium* (آرابینوز، تلوریت، حرکت/رنگدانه برای *E. gallinarum*/*casseliflavus* با *vanC*) |
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/bc-saureus-blood-agar.jpg" width="300" alt="bc-saureus-blood-agar"><br><sub><b>شکل ۱.۰۹.</b> کلنی‌های <i>Staphylococcus aureus</i> با بتاهمولیز روی آگار خون‌دار (نور از پشت)<br>منبع: Mikael Häggström , M.D. Author info - Reusing images - Conflicts of in، <a href="https://commons.wikimedia.org/wiki/File:Staphylococcus_aureus_on_blood_agar,_mildly_backlit.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr></table>
 
 ### ۴-۲) باسیل‌های گرم منفی
 | ارگانیسم | آزمون‌های کلیدی |
@@ -80,6 +94,10 @@
 | ***Brucella*** ☣️ | کوکوباسیل گرم منفی بسیار ریز، رشد آهسته (کلنی‌های ریز پس از ۴۸ ساعت)، **اکسیداز +، کاتالاز +، اوره‌آز سریع + (*B. melitensis* ظرف دقایق تا ۲ ساعت)**، غیرمتحرک، بدون رشد روی MAC (یا ضعیف). ⛔ **از سیستم‌های خودکار برای شناسایی استفاده نکنید** (خطر آئروسل و شناسایی اشتباه، مثلاً *Ochrobactrum* یا *Psychrobacter*). در ظن بالا: ارسال به آزمایشگاه مرجع (BSL-3) |
 | HACEK | رشد آهسته روی CA در CO₂ (۲–۵ روز)؛ *Aggregatibacter*، *Cardiobacterium*، *Eikenella* (بوی کلر، فرورفتگی در آگار)، *Kingella* (بتا همولیز ضعیف) |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/bc-ecoli-macconkey.jpg" width="300" alt="bc-ecoli-macconkey"><br><sub><b>شکل ۱.۱۰.</b> کلنی‌های تخمیرکنندهٔ لاکتوز (صورتی) <i>Escherichia coli</i> روی مک‌کانکی آگار<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Escherichia_coli_Colony_Morphology_on_MacConkey_Agar.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td><td align="center" width="50%"><img src="../Assets/images/bc-pseudomonas-blood-agar.jpg" width="300" alt="bc-pseudomonas-blood-agar"><br><sub><b>شکل ۱.۱۱.</b> کشت <i>Pseudomonas aeruginosa</i> روی آگار خون‌دار<br>منبع: Pavel Dušek, vyfotografováno s laskavým svolením zaměstnanců Ústavu im، <a href="https://commons.wikimedia.org/wiki/File:Pseudomonas_aeruginosa-blood_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a></sub></td></tr><tr><td align="center" width="50%"><img src="../Assets/images/bc-brucella-melitensis-cdc.jpg" width="300" alt="bc-brucella-melitensis-cdc"><br><sub><b>شکل ۱.۱۲.</b> کلنی‌های ریز <i>Brucella melitensis</i> (CDC)<br>منبع: This media comes from the Centers for Disease Control and Pr، <a href="https://commons.wikimedia.org/wiki/File:BrucellaMelitensis.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+
 ### ۴-۳) سایر
 | ارگانیسم | نکته |
 |---|---|
@@ -88,6 +106,10 @@
 | *Bacillus* | *B. cereus* (بتا همولیتیک، متحرک، لسیتیناز +) در برابر ☣️ *B. anthracis* (غیرهمولیتیک، غیرمتحرک) |
 | *Clostridium perfringens* | همولیز دوگانه، لسیتیناز + (ناگلر)، باسیل مستطیلی بدون اسپور |
 | *C. septicum* | حرکت swarming روی آگار بی‌هوازی |
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/bc-listeria-blood-agar.jpg" width="300" alt="bc-listeria-blood-agar"><br><sub><b>شکل ۱.۱۳.</b> رشد <i>Listeria</i> روی آگار خون‌دار گوسفند (ساب‌کالچر از کشت خون نوزاد، پس از یک روز)<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Listeria_growth_on_5%25_sheep_blood_agar-Upper_site.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ## ۵. کشت نوک کاتتر (روش نیمه‌کمّی Maki)
 1. نوک ۵ cm را با پنس استریل روی SBA **۴ بار به جلو و عقب بغلتانید** (بدون فشار زیاد).
@@ -107,3 +129,5 @@
 ## ۷. پایان کشت و نگهداری ایزوله
 - گزارش نهایی منفی: «پس از ۵ روز انکوباسیون، رشدی مشاهده نشد.»
 - ایزوله‌های معنی‌دار را **حداقل ۷ روز** (ترجیحاً منجمد، در براث + ۱۵–۲۰٪ گلیسرول در ۷۰– °C) نگه دارید. ایزوله‌های *S. aureus*، CRE، VRE و *Brucella* (فقط مراکز BSL-3) برای پایش و تحقیقات طولانی‌تر نگهداری شوند.
+
+</div>

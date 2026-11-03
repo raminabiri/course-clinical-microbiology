@@ -1,0 +1,20 @@
+<div dir="rtl">
+
+# منابع و مجوز تصاویر ماژول ۸
+
+همهٔ عکس‌ها از **Wikimedia Commons** (شامل تصاویر CDC PHIL) با مجوز آزاد (CC0، مالکیت عمومی، CC BY، CC BY-SA) گرفته شده‌اند. تغییر انجام‌شده: کوچک‌کردن به حداکثر ۱۰۰۰ پیکسل و ذخیرهٔ مجدد JPEG (بدون EXIF). عکس‌های **CC BY-SA** با همان مجوز بازنشر می‌شوند. قواعد: [Shared/Figures/Image_Policy.md](../../Shared/Figures/Image_Policy.md).
+
+| شکل | فایل | زیرنویس | سازنده | منبع | مجوز | تغییرات |
+|---|---|---|---|---|---|---|
+| ۸.۰۱ | `images/clostridium-perfringens-gas-gangrene-muscle.jpg` | گرم بافت عضلهٔ برداشته‌شده در جراحی: باسیل‌های گرم مثبت درشت، سازگار با *Clostridium perfringens* | Engelbert Schröpfer, Stephan Rauthe and Thomas Meyer. | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Clostridium_perfringens_gas_gangrene.jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+| ۸.۰۲ | `images/osteomyelitis-acute-histology.jpg` | بافت‌شناسی استئومیلیت حاد (H&E): نوتروفیل‌های متعدد در استرومای کنار ترابکول استخوانی (کشت: *Staphylococcus aureus*) | Mikael Häggström , M.D. Author info - Reusing images - Conflicts of in | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Histopathology_of_acute_osteomyelitis.jpg) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+| ۸.۰۳ | `images/dounce-homogenizer.jpg` | هموژنایزرهای شیشه‌ای دستی (Dounce) در اندازه‌های مختلف | Lilly_M | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tissue_glass_Dounce_homogenizer-08.jpg) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+| ۸.۰۴ | `images/ultrasonic-bath-lab.jpg` | حمام اولتراسونیک آزمایشگاهی | Karelj | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ultrasonic_bath_1.jpg) | Public domain | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+| ۸.۰۵ | `images/pseudomonas-aeruginosa-blood-agar.jpg` | کشت *Pseudomonas aeruginosa* روی آگار خون‌دار | Pavel Dušek, vyfotografováno s laskavým svolením zaměstnanců Ústavu im | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pseudomonas_aeruginosa-blood_agar.jpg) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+| ۸.۰۶ | `images/acinetobacter-baumannii-blood-agar.jpg` | کلنی‌های صاف، کدر، خاکستری–سفید و غیرهمولیتیک کمپلکس *Acinetobacter baumannii* روی آگار خون‌دار | Ajay Kumar Chaurasiya | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Acinetobacter_baumannii_Complex_on_Blood_Agar_from_Sputum_Culture.jpg) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+| ۸.۰۷ | `images/cutibacterium-acnes-thioglycollate.jpg` | گرم *Cutibacterium acnes* (نام قبلی *Propionibacterium acnes*) از کشت تیوگلیکولات: باسیل‌های گرم مثبت پلئومورف | CDC/Bobby Strong | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Propionibacterium_acnes.jpg) | Public domain | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+| ۸.۰۸ | `images/kingella-kingae-colonies-cdc.jpg` | کلنی‌های *Kingella kingae* روی آگار خون گوسفند پس از ۲۴ ساعت | CDC/ Amanda Moore, MT; Todd Parker, PhD; Audra Marsh | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kingella_kingae_PHIL12451.jpg) | Public domain | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+| ۸.۰۹ | `images/corynebacterium-striatum-blood-agar.jpg` | کلنی‌های *Corynebacterium striatum* روی آگار خون اسب کلمبیا (ایزوله از کشت خون) | Nathan Reading from Halesowen, UK | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Corynebacterium_striatum_on_Columbia_Horse_Blood_Agar_-_Detail.jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+| ۸.۱۰ | `images/brucella-melitensis-colonies.jpg` | کلنی‌های *Brucella melitensis* روی آگار خون‌دار | This media comes from the Centers for Disease Control and Pr | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BrucellaMelitensis.jpg) | Public domain | تغییر اندازه (حداکثر ۱۰۰۰ px)، حذف EXIF |
+
+</div>

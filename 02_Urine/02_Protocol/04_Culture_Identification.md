@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # پروتکل ۴: کشت کمّی ادرار و شناسایی
 
 ## ۱. محیط‌ها
@@ -9,6 +11,10 @@
 | **آگار کروموژنیک ادرار** (مثلاً CHROMagar Orientation، UTI Brilliance) | شناسایی احتمالی رنگی: *E. coli* (صورتی/بنفش)، KESC (آبی تیره)، *Enterococcus* (آبی فیروزه‌ای کوچک)، *Proteus* (قهوه‌ای هاله‌دار)؛ **تشخیص آسان کشت مخلوط** | گران‌تر؛ تأیید برخی رنگ‌ها لازم است |
 | + **CNA/PEA** | نمونه‌های پیچیده/کاتتر برای جداسازی گرم مثبت‌ها از گرم منفی‌های پرتکثیر | |
 | + **CA** | SPA، سیستوسکوپی، ظن ارگانیسم سخت‌رشد | |
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/ur-cled-lf-nlf.jpg" width="300" alt="ur-cled-lf-nlf"><br><sub><b>شکل ۲.۰۷.</b> CLED: کلنی‌های تخمیرکنندهٔ لاکتوز (زرد) و غیرتخمیرکننده (آبی)<br>منبع: Microrao JJMMC, Davangere, Karnataka, India، <a href="https://commons.wikimedia.org/wiki/File:Lactose_non_lactose_fermenters_on_CLED_agar.jpg">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="../Assets/images/ur-cled-mixed.jpg" width="300" alt="ur-cled-mixed"><br><sub><b>شکل ۲.۰۸.</b> CLED با معرف آندراده (زمینهٔ صورتی): <i>E. coli</i> (قرمز)، <i>Pseudomonas aeruginosa</i> (سبز) و <i>Staphylococcus aureus</i> (زرد)<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Various_bacterial_growth_on_CLED_agar-E._coli_(red),_Pseudomonas_aeruginosa_(green),_and_Staphylococcus_aureus_(yellow).jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr><tr><td align="center" width="50%"><img src="../Assets/images/ur-chromid-efaecalis.jpg" width="300" alt="ur-chromid-efaecalis"><br><sub><b>شکل ۲.۰۹.</b> کلنی‌های ریز سبز–آبی <i>Enterococcus faecalis</i> روی آگار کروموژنیک ChromID CPS (ایزولهٔ ادراری)<br>منبع: Nathan Reading from Halesowen, UK، <a href="https://commons.wikimedia.org/wiki/File:Enterococcus_faecalis_on_ChromID_CPS_chromogenic_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td><td align="center" width="50%"><img src="../Assets/images/ur-chromid-saureus.jpg" width="300" alt="ur-chromid-saureus"><br><sub><b>شکل ۲.۱۰.</b> کلنی‌های سفید–کرم <i>Staphylococcus aureus</i> روی آگار کروموژنیک ChromID CPS (ایزولهٔ ادراری)<br>منبع: Nathan Reading from Halesowen, UK، <a href="https://commons.wikimedia.org/wiki/File:Staphylococcus_aureus_on_ChromID_CPS_chromogenic_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td></tr></table>
 
 ## ۲. لوپ کالیبره و تلقیح
 
@@ -35,6 +41,10 @@
 
 > 🔬 **دقت لوپ:** لوپ‌های پلاستیکی یک‌بارمصرف ±۵۰٪ خطا دارند. CFU تقریبی است و **دسته‌بندی لگاریتمی** (۱۰³، ۱۰⁴، ۱۰⁵) معنی‌دار است، نه عدد دقیق. لوپ‌های فلزی باید دوره‌ای کالیبره شوند.
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/ur-loop-sizes.jpg" width="300" alt="ur-loop-sizes"><br><sub><b>شکل ۲.۱۱.</b> لوپ‌ها و سوزن کشت فلزی؛ طبق منبع، لوپ کوچک برای کشت ادرار و لوپ بزرگ‌تر برای سایر نمونه‌ها و سوزن برای آزمون‌های بیوشیمیایی<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Inoculating_loop_and_wire_used_in_Microbiology_Laboratory.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+
 ## ۳. شمارش و محاسبه
 **CFU/mL = تعداد کلنی × (۱ ÷ حجم لوپ به mL)**
 
@@ -53,7 +63,7 @@
 
 | ارگانیسم | آزمون‌های کلیدی/سریع |
 |---|---|
-| ***E. coli*** | لاکتوز +، **اسپات ایندول +**، اکسیداز –، (± β-گلوکورونیداز/PYR – برای شناسایی سریع)؛ کروموژنیک صورتی |
+| ***E. coli*** | لاکتوز +، **اسپات ایندول +**، اکسیداز –، (± β-گلوکورونیداز + و PYR – برای شناسایی سریع)؛ کروموژنیک صورتی |
 | *Klebsiella* | لاکتوز +، موکوئید، ایندول – (*K. oxytoca* ایندول +)، غیرمتحرک، اوره‌آز + |
 | ***P. mirabilis*** | swarming، لاکتوز –، H₂S +، **ایندول –**، اوره‌آز + سریع، فنیل‌آلانین دآمیناز + (*P. vulgaris*: ایندول +) |
 | *P. aeruginosa* | اکسیداز +، رنگدانهٔ سبز، بوی انگور |
@@ -61,12 +71,16 @@
 | GBS | بتای باریک، CAMP +، لانسفیلد B |
 | ***S. saprophyticus*** | کاتالاز +، کوآگولاز –، **مقاوم به نووبیوسین (۵ µg؛ هاله ≤ ۱۶ mm)**، اوره‌آز + |
 | *S. aureus* | کوآگولاز + |
-| *Aerococcus urinae* | کوکسی گرم مثبت خوشه‌ای/تتراد، آلفا، **کاتالاز –**، PYR –، LAP + (اغلب با استرپتوکوک یا استافیلوکوک اشتباه می‌شود؛ MALDI) |
+| *Aerococcus urinae* | کوکسی گرم مثبت خوشه‌ای/تتراد، آلفا، **کاتالاز –**، PYR –، LAP + (اغلب با استرپتوکوکوس یا استافیلوکوکوس اشتباه می‌شود؛ MALDI) |
 | *C. urealyticum* | کلنی ریز پس از ۴۸ ساعت، **اوره‌آز بسیار سریع +**، چندمقاومتی |
 | کاندیدا | خارج از دامنه؛ گزارش «مخمر» با شمارش |
 
 - **MALDI-TOF** یا سیستم‌های خودکار برای شناسایی نهایی در صورت لزوم.
 - **شناسایی محدود (Limited ID)** برای ارگانیسم‌های فلور بدون اهمیت: «فلور ادراری–تناسلی مخلوط» (بدون نام‌گذاری).
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/ur-proteus-swarming.jpg" width="300" alt="ur-proteus-swarming"><br><sub><b>شکل ۲.۱۲.</b> رشد swarming <i>Proteus</i> به‌صورت موج‌های هم‌مرکز روی آگار خون‌دار<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Swarming_growth_of_Proteus_on_blood_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="../Assets/images/ur-cled-proteus.jpg" width="300" alt="ur-cled-proteus"><br><sub><b>شکل ۲.۱۳.</b> <i>Proteus mirabilis</i> روی CLED: کلنی‌های جدا بدون swarming<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Proteus_mirabilis_on_CLED_agar.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr></table>
 
 ## ۵. کشت در موقعیت‌های خاص
 
@@ -77,3 +91,5 @@
 | ***Leptospira*** | خارج از کشت روتین ([ماژول ۲۴](../../24_Non_Culturable/README.md)) |
 | ادرار پیش از جراحی اورولوژیک | آستانهٔ ASB؛ شناسایی و AST برای انتخاب پروفیلاکسی |
 | *Ureaplasma*/*Mycoplasma* | روش‌های اختصاصی ([ماژول ۲۴](../../24_Non_Culturable/README.md)) |
+
+</div>

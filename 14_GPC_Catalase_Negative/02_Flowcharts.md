@@ -1,4 +1,6 @@
-# فلوچارت‌های تشخیصی: کوکسی‌های گرم مثبت کاتالاز منفی
+<div dir="rtl">
+
+# فلوچارت‌های تشخیصی: کوکسی گرم مثبت کاتالاز منفی
 
 ## فلوچارت ۱: بر اساس همولیز
 
@@ -19,16 +21,20 @@ G -->|+| F1
 G -->|−| H{BEA و NaCl 6.5%}
 B -->|γ| H
 H -->|BEA + و NaCl +| H1[Enterococcus<br/>PYR + ; گونه: تحرک، رنگدانه، MALDI]
-H -->|BEA + و NaCl −| H2[S. bovis / gallolyticus group<br/>PYR −]
+H -->|BEA + و NaCl −| H2[S. gallolyticus<br/>PYR −]
 H -->|BEA − و NaCl −| H3[ویریدانس<br/>یا NVS، Gemella<br/>MALDI-TOF]
 H -->|BEA − و NaCl +| H4[Aerococcus / Globicatella<br/>PYR و LAP]
 ```
 
 ### منطق شاخه‌ها
-1. **همولیز** اولین شاخه است، ولی کافی نیست: GBS غیرهمولیتیک، انتروکوک β‌همولیتیک، پنوموکوک گاه γ در محیط بی‌هوازی.
+1. **همولیز** اولین شاخه است، ولی کافی نیست: GBS غیرهمولیتیک، انتروکوکوس β-همولیتیک، پنوموکوکوس گاه γ در محیط بی‌هوازی.
 2. در β: **اندازهٔ کلنی** پیش از لانسفیلد؛ کلنی ریز با آنتی‌ژن A = *S. anginosus* group، **نه GAS**.
 3. در α: **اپتوچین** غربالگری؛ هالهٔ مرزی (به‌ویژه در CO₂) ← **حلالیت صفرا** (قطعی‌تر).
-4. **BEA + NaCl ۶٫۵٪ + PYR** سه تست ارزان برای جدا کردن انتروکوک از *S. bovis* (ارتباط با سرطان کولون).
+4. **BEA + NaCl ۶٫۵٪ + PYR** سه تست ارزان برای جدا کردن انتروکوکوس از *S. gallolyticus* (ارتباط با سرطان کولون).
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/hemolysis-types.jpg" width="300" alt="hemolysis-types"><br><sub><b>شکل ۱۴.۱۷.</b> انواع همولیز روی آگار خون‌دار: α (<i>S. mitis</i>، چپ)، β (<i>S. pyogenes</i>، وسط) و γ (<i>S. salivarius</i>، راست)<br>منبع: Y tambe، <a href="https://commons.wikimedia.org/wiki/File:Streptococcal_hemolysis.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></sub></td></tr></table>
 
 ---
 
@@ -51,7 +57,7 @@ D3 --> E
 
 ---
 
-## فلوچارت ۳: اقمار و استرپتوکوک‌های نیازمند تغذیه (NVS)
+## فلوچارت ۳: اقمار و استرپتوکوکوس‌های نیازمند تغذیه (NVS)
 
 ```mermaid
 flowchart TD
@@ -61,3 +67,5 @@ C -->|بله| D[Abiotrophia / Granulicatella<br/>PYR + ; MALDI-TOF]
 D --> E[AST: CLSI M45 با CAMHB-LHB + پیریدوکسال<br/>اطلاع: احتمال اندوکاردیت کشت‌منفی]
 C -->|خیر| F[سایر ارگانیسم‌های سخت‌رشد<br/>H. influenzae در صورت گرم منفی]
 ```
+
+</div>

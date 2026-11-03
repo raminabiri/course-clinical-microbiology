@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # دام‌های تشخیصی و گزارش‌دهی: گرم منفی‌های سخت‌رشد
 
 ## ۱. دام‌های تشخیصی
@@ -5,18 +7,22 @@
 | دام | توضیح | راه‌حل |
 |---|---|---|
 | **کار روی میز باز با *Brucella*** | کوکوباسیل ریز «*Haemophilus*-مانند» یا «*Acinetobacter*» فرض می‌شود؛ شایع‌ترین علت عفونت آزمایشگاهی | قاعدهٔ «ریز + کند + MacConkey منفی» ← BSC؛ **درخواست پزشک با ذکر شک** |
-| ***Brucella* در MALDI-TOF** | پایگاه IVD ندارد ← «*Ochrobactrum*» | *Ochrobactrum* روی MacConkey رشد می‌کند و متحرک است؛ *Brucella* نه |
+| ***Brucella* در MALDI-TOF** | پایگاه IVD ندارد ← «*Ochrobactrum*» (از ۲۰۲۰ در جنس *Brucella* ادغام شده، مثل *B. anthropi*؛ ولی پایگاه‌ها هنوز نام قدیم را نشان می‌دهند) | *Ochrobactrum* روی MacConkey رشد می‌کند و متحرک است؛ *Brucella* نه |
 | **سرولوژی بروسلوز منفی کاذب** | **پروزون**، بروسلوز مزمن (آنتی‌بادی ناقص)، *B. canis* | رقت بالا؛ **کومبس رایت**؛ کشت |
-| **دیسک X با کلنی از شکلات** | انتقال همین ← *H. influenzae* «فقط V» ← *H. parainfluenzae* کاذب | **پورفیرین** |
-| ***H. haemolyticus* به‌جای NTHi** | MALDI-TOF و بیوشیمی گاه جدا نمی‌کنند؛ همولیز روی آگار خون گوسفند دیده نمی‌شود | همولیز روی **خون اسب/خرگوش**؛ PCR (*fucK*، *hpd*) در موارد مهم |
+| **دیسک هِمین با کلنی از شکلات** | انتقال هِمین ← *H. influenzae* «فقط NAD» ← *H. parainfluenzae* کاذب | **پورفیرین** |
+| ***H. haemolyticus* به‌جای NTHi** | MALDI-TOF و بیوشیمی گاه جدا نمی‌کنند؛ همولیز روی آگار خون گوسفند مشاهده نمی‌شود | همولیز روی **خون اسب/خرگوش**؛ PCR (*fucK*، *hpd*) در موارد مهم |
 | **سروتایپ لام *H. influenzae*** | واکنش متقاطع، خودآگلوتیناسیون، NTHi «تیپ‌پذیر» کاذب | تأیید با **PCR کپسول** در آزمایشگاه مرجع |
 | ***K. kingae* در مایع مفصلی** | روی پلیت ضعیف رشد می‌کند ← کشت منفی | **تلقیح مایع در بطری کشت خون** + **PCR** |
 | **HACEK در کشت خون** | رشد کند؛ رنگ گرم کم‌رنگ | سیستم‌های مدرن در ۵ روز کافی‌اند؛ ساب‌کالچر روی **شکلات در CO₂** |
-| ***Capnocytophaga* در گازگرفتگی سگ** | رشد کند (۲–۴ روز)، در کشت روتین زخم دیده نمی‌شود | پیام به آزمایشگاه دربارهٔ **اسپلنکتومی + سگ**؛ رنگ گرم **بافی‌کوت** |
+| ***Capnocytophaga* در گازگرفتگی سگ** | رشد کند (۲–۴ روز)، در کشت روتین زخم مشاهده نمی‌شود | پیام به آزمایشگاه دربارهٔ **اسپلنکتومی + سگ**؛ رنگ گرم **بافی‌کوت** |
 | **PCR *Bordetella* با IS481** | *B. holmesii* و برخی *B. bronchiseptica* هم IS481 دارند | گزارش «*Bordetella* spp. (IS481)» یا سنجش چندهدفی (ptxP، hIS1001) |
 | **زمان PCR سیاه‌سرفه** | بعد از **۳ هفته** سرفه یا پس از آنتی‌بیوتیک ← حساسیت کم | بعد از ۳ هفته: **سرولوژی** (anti-PT IgG) |
 | ***Legionella* با آنتی‌ژن ادراری** | فقط **سروگروه ۱ *L. pneumophila*** | کشت BCYE و PCR برای سایر گونه‌ها و اپیدمیولوژی |
-| ***Legionella* در رنگ گرم** | بسیار کم‌رنگ یا دیده نمی‌شود | فوشین بازی به‌عنوان رنگ متقابل؛ گیمنز |
+| ***Legionella* در رنگ گرم** | بسیار کم‌رنگ یا مشاهده نمی‌شود | فوشین بازی به‌عنوان رنگ متقابل؛ گیمنز |
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/legionella-gram.jpg" width="300" alt="legionella-gram"><br><sub><b>شکل ۲۰.۱۲.</b> <i>Legionella pneumophila</i> در رنگ‌آمیزی گرم: باسیل‌های گرم منفی باریک، کم‌رنگ و گاه رشته‌ای<br>منبع: CDC-PHIL، <a href="https://commons.wikimedia.org/wiki/File:LegionellaPneumophila_Gram.jpg">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="Assets/images/legionella-dfa.jpg" width="300" alt="legionella-dfa"><br><sub><b>شکل ۲۰.۱۳.</b> <i>L. pneumophila</i> در رنگ‌آمیزی ایمونوفلورسانس<br>منبع: CDC-PHIL، <a href="https://commons.wikimedia.org/wiki/File:LegionellaPneumophila_IF.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr><tr><td align="center" width="50%"><img src="Assets/images/legionella-bcye.jpg" width="300" alt="legionella-bcye"><br><sub><b>شکل ۲۰.۱۴.</b> کلنی‌های <i>L. pneumophila</i> روی BCYE<br>منبع: Turasayb، <a href="https://commons.wikimedia.org/wiki/File:BCYE.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/legionella-colonies.jpg" width="300" alt="legionella-colonies"><br><sub><b>شکل ۲۰.۱۵.</b> کلنی‌های <i>L. pneumophila</i> (پیکان‌ها) در کنار کلنی‌های دیگر<br>منبع: CDC-PHIL، <a href="https://commons.wikimedia.org/wiki/File:LegionellaPneumophila_Kolonie.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 ## ۲. MALDI-TOF در این گروه
 - **خوب:** *H. influenzae* (با احتیاط در برابر *H. haemolyticus*)، *H. parainfluenzae*، HACEK، *Capnocytophaga*، *Bordetella*، *Legionella* (تا جنس).
@@ -49,3 +55,5 @@
 | *Brucella* | M45؛ **روتین نه**؛ فقط در آزمایشگاه مرجع و در BSC | — |
 | *Bordetella*، *Legionella* | AST روتین **نه**؛ ⚠️ ***B. pertussis* مقاوم به ماکرولید** (جهش 23S rRNA) در برخی کشورها (به‌ویژه چین) گزارش شده ← آزمایشگاه مرجع | — |
 | ⚠️ اعداد M45 | در این مخزن هنوز با متن M45 بررسی نشده‌اند و آورده نمی‌شوند | |
+
+</div>

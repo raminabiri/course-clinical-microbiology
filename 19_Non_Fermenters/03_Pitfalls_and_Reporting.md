@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # دام‌های تشخیصی و گزارش‌دهی: باسیل‌های گرم منفی غیرتخمیری
 
 ## ۱. دام‌های تشخیصی
@@ -16,6 +18,10 @@
 | **کولیستین با دیسک یا نوار گرادیان** | نتایج **نامعتبر** (انتشار ضعیف) | فقط **BMD** (یا CBDE/CAT برای Enterobacterales و *P. aeruginosa*) ← [کولیستین](../AST/03_Other_Resistance/04_Colistin.md) |
 | **Carba NP/mCIM در *Acinetobacter*** | CLSI آن‌ها را برای *Acinetobacter* معتبر نمی‌داند | **PCR** (OXA-23، 24، 58 و متالو) |
 | **کارباپنم «S» در *S. maltophilia*** | سیستم خودکار گزارش داده؛ متالوبتالاکتاماز **L1** کروموزومی | **R ذاتی**؛ گزارش نشود |
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/acinetobacter-blood-agar.jpg" width="300" alt="acinetobacter-blood-agar"><br><sub><b>شکل ۱۹.۱۴.</b> کلنی‌های صاف، کدر و خاکستری-سفید و بدون همولیز <i>A. baumannii</i> complex روی آگار خون‌دار<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Acinetobacter_baumannii_Complex_on_Blood_Agar_from_Sputum_Culture.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td><td align="center" width="50%"><img src="Assets/images/acinetobacter-macconkey.jpg" width="300" alt="acinetobacter-macconkey"><br><sub><b>شکل ۱۹.۱۵.</b> کلنی‌های بزرگ و موکوئید <i>A. baumannii</i> complex روی MacConkey که به <i>Klebsiella pneumoniae</i> شبیه‌اند<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Acinetobacter_baumannii_Complex_on_MacConkey_Agar.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr><tr><td align="center" width="50%"><img src="Assets/images/pa-mucoid-cled.jpg" width="300" alt="pa-mucoid-cled"><br><sub><b>شکل ۱۹.۱۶.</b> کلنی‌های موکوئید <i>P. aeruginosa</i> روی آگار CLED<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Mucoid_strain_of_Pseudomonas_aeruginosa_on_CLED_agar.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr></table>
 
 ## ۲. MALDI-TOF در این گروه
 - عالی برای *P. aeruginosa*، *S. maltophilia*، *Acinetobacter* (تا گونه برای *A. baumannii* در پایگاه‌های جدید؛ گاه فقط «*A. baumannii* complex»).
@@ -48,3 +54,5 @@
 | سایر غیرتخمیری‌ها | Table 2B-5 (فقط MIC) | *Achromobacter*، *Pseudomonas* غیر *aeruginosa* و … | [AST](../AST/09_Breakpoints/README.md) |
 | کارباپنماز | — | *P. aeruginosa*: mCIM یا مولکولی؛ *Acinetobacter*: فقط مولکولی | [کارباپنمازها](../AST/02_Beta_Lactamases/05_Carbapenemases.md) |
 | درمان | IDSA 2026 | DTR-PA، CRAB، *S. maltophilia* | [10_Treatment_Link](../AST/10_Treatment_Link/01_IDSA_2026.md) |
+
+</div>

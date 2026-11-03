@@ -1,7 +1,9 @@
+<div dir="rtl">
+
 # ۲۴. باکتری‌های غیرقابل‌کشت یا دشوارکشت (درون‌سلولی، بدون دیواره، اسپیروکت‌ها)
 
 ## دامنه
-باکتری‌هایی که در **کشت روتین آزمایشگاه رشد نمی‌کنند** و با **رنگ گرم دیده نمی‌شوند**؛ تشخیص بر پایهٔ **NAAT**، **سرولوژی**، **میکروسکوپی ویژه** (میدان تاریک، گیمسا، نقره) و در موارد محدود کشت سلولی یا محیط اختصاصی.
+باکتری‌هایی که در **کشت روتین آزمایشگاه رشد نمی‌کنند** و با **رنگ گرم مشاهده نمی‌شوند**؛ تشخیص بر پایهٔ **NAAT**، **سرولوژی**، **میکروسکوپی ویژه** (میدان تاریک، گیمسا، نقره) و در موارد محدود کشت سلولی یا محیط اختصاصی.
 
 | گروه | ارگانیسم‌های مهم |
 |---|---|
@@ -16,7 +18,7 @@
 | ***C. trachomatis*** | شایع‌ترین STI باکتریایی؛ سرویسیت، اورتریت، PID، ناباروری؛ **LGV** (سرووار L1–L3)؛ **تراخم**؛ کونژنکتیویت و پنومونی نوزادی |
 | *C. pneumoniae*، *C. psittaci* | پنومونی آتیپیک؛ *psittaci*: تماس با **پرندگان** |
 | ***M. pneumoniae*** | پنومونی آتیپیک («پنومونی راه‌رونده»)، کودکان و جوانان؛ آگلوتینین‌های سرد؛ **مقاومت به ماکرولید** (به‌ویژه شرق آسیا) |
-| ***M. genitalium*** | اورتریت غیرگنوکوکی پایدار، سرویسیت، PID؛ **مقاومت به ماکرولید و فلوروکینولون** |
+| ***M. genitalium*** | اورتریت غیرگونوکوکی پایدار، سرویسیت، PID؛ **مقاومت به ماکرولید و فلوروکینولون** |
 | *M. hominis*، *Ureaplasma* | تب پس از زایمان، عفونت در پیوند (هیپرآمونمی)، نوزاد نارس؛ در سواب واژن معمولاً **فلور** |
 | ***T. pallidum*** | سیفلیس اولیه (شانکر)، ثانویه، نهفته، ثالثیه، **نوروسیفلیس**، **مادرزادی** |
 | ***B. persica*** | **تب راجعهٔ ناشی از کنه** (آندمیک در ایران)؛ تشخیص با **لام خون محیطی در حین تب** |
@@ -39,6 +41,10 @@
 | *Coxiella* | **سرولوژی IFA** (فاز I و II)؛ PCR (حاد، دریچه) | سرم، بافت دریچه |
 | *Rickettsia* | **سرولوژی IFA** (دو نمونه)؛ **PCR اسکار/بیوپسی پوست** | سرم، بیوپسی |
 
+**تصاویر:** ۱۲ عکس و ۰ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/tpallidum-steiner.jpg" width="300" alt="tpallidum-steiner"><br><sub><b>شکل ۲۴.۰۱.</b> اسپیروکت‌های <i>T. pallidum</i> در بافت؛ رنگ‌آمیزی نقره (استاینر اصلاح‌شده)<br>منبع: CDC، <a href="https://commons.wikimedia.org/wiki/File:Treponema_pallidum_01.png">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="Assets/images/borrelia-recurrentis-cdc.jpg" width="300" alt="borrelia-recurrentis-cdc"><br><sub><b>شکل ۲۴.۰۲.</b> طرح آموزشی CDC از <i>Borrelia recurrentis</i> (عامل تب راجعهٔ شپشی)<br>منبع: CDC، <a href="https://commons.wikimedia.org/wiki/File:Borrelia_recurrentis_CDC.png">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+
 ## ایمنی
 *C. psittaci*، *Coxiella* و *Rickettsia* در کشت **BSL-3**؛ کشت آن‌ها فقط در آزمایشگاه مرجع. کشت *Leptospira* و سرم‌های بیماران BSL-2.
 
@@ -55,3 +61,5 @@
 - محیط‌ها: [NYC (رشد *M. hominis* و *Ureaplasma*)](../11_Culture_Media/04_Pathogen_Specific_Selective.md)؛ محیط‌های اختصاصی A8 و 10B ← [05_Genital](../05_Genital/02_Protocol/04_Culture_Identification.md)
 - آنتی‌بیوگرام: AST روتین برای این گروه انجام نمی‌شود؛ **مقاومت مولکولی** *M. genitalium* (۲۳S rRNA ← ماکرولید؛ *parC* ← فلوروکینولون) ← [05_Genital/02_Protocol/05](../05_Genital/02_Protocol/05_Molecular_Methods.md)
 - ماژول‌های نمونه: [05_Genital](../05_Genital/README.md) · [06_Respiratory](../06_Respiratory/README.md) · [03_CSF](../03_CSF/README.md) · [01_Blood_Culture](../01_Blood_Culture/README.md)
+
+</div>

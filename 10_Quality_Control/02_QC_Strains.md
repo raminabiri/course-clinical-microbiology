@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # سویه‌های QC: فهرست یکپارچه و مدیریت
 
 > این فهرست از **همهٔ سویه‌های QC ذکرشده در این مخزن** جمع‌آوری شده است (محیط‌ها، تست‌ها، AST، ماژول‌های نمونه). کاربرد دقیق، نتیجهٔ مورد انتظار و دامنه‌ها در فایل مرجع هر سطر است. ⚠️ همیشه با **IFU سازنده** و نسخهٔ جاری CLSI تطبیق دهید. «ATCC» = American Type Culture Collection؛ سویه‌های معادل (NCTC، DSM، CIP) قابل‌قبول‌اند اگر سازنده/CLSI تأیید کند.
@@ -38,13 +40,13 @@
 |---|---|---|---|
 | ATCC 19615 | *S. pyogenes* | β-همولیز، باسیتراسین S، PYR +، لانسفیلد A | [12/03](../12_Identification_Tests/03_Disk_and_Growth_Tests.md) |
 | ATCC 13813 | *S. agalactiae* | CAMP +، هیپورات +، لانسفیلد B، براث LIM | [12/03](../12_Identification_Tests/03_Disk_and_Growth_Tests.md) |
-| **ATCC 49619** | *S. pneumoniae* | اپتوچین S، حلالیت صفرا؛ **AST** استرپتوکوک‌ها | [12/03](../12_Identification_Tests/03_Disk_and_Growth_Tests.md)، [AST/08](../AST/08_QC/01_AST_QC.md) |
+| **ATCC 49619** | *S. pneumoniae* | اپتوچین S، حلالیت صفرا؛ **AST** استرپتوکوکوس‌ها | [12/03](../12_Identification_Tests/03_Disk_and_Growth_Tests.md)، [AST/08](../AST/08_QC/01_AST_QC.md) |
 | ATCC 9809 | *S. bovis* | NaCl ۶٫۵٪ (کنترل منفی) | [11/08](../11_Culture_Media/08_Biochemical_Tube_Media.md) |
 | ATCC 15305 | *S. saprophyticus* | نووبیوسین R | [12/03](../12_Identification_Tests/03_Disk_and_Growth_Tests.md) |
-| ATCC 10211 / **49247** / **49766** | *H. influenzae* | X+V، پورفیرین −، شکلات؛ **AST** (HTM) | [12/03](../12_Identification_Tests/03_Disk_and_Growth_Tests.md)، [AST/08](../AST/08_QC/01_AST_QC.md) |
-| ATCC 7901 | *H. parainfluenzae* | فقط V، پورفیرین + | [12/03](../12_Identification_Tests/03_Disk_and_Growth_Tests.md) |
+| ATCC 10211 / **49247** / **49766** | *H. influenzae* | هِمین + NAD، پورفیرین −، شکلات؛ **AST** (HTM) | [12/03](../12_Identification_Tests/03_Disk_and_Growth_Tests.md)، [AST/08](../AST/08_QC/01_AST_QC.md) |
+| ATCC 7901 | *H. parainfluenzae* | فقط NAD، پورفیرین + | [12/03](../12_Identification_Tests/03_Disk_and_Growth_Tests.md) |
 | ATCC 43069 | *N. gonorrhoeae* | MTM/ML، قندها (فقط گلوکز)، بوتیرات − | [11/04](../11_Culture_Media/04_Pathogen_Specific_Selective.md)، [11/08](../11_Culture_Media/08_Biochemical_Tube_Media.md) |
-| **ATCC 49226** | *N. gonorrhoeae* | **AST** گنوکوک | [AST/08](../AST/08_QC/01_AST_QC.md) |
+| **ATCC 49226** | *N. gonorrhoeae* | **AST** گونوکوکوس | [AST/08](../AST/08_QC/01_AST_QC.md) |
 | ATCC 13090 | *N. meningitidis* | قندها (گلوکز، مالتوز)، MTM | [11/08](../11_Culture_Media/08_Biochemical_Tube_Media.md) |
 | ATCC 25238 | *M. catarrhalis* | بوتیرات +، قندها همه − | [12/02](../12_Identification_Tests/02_Spot_Rapid_Tests.md) |
 | ATCC 9797 | *B. pertussis* | ریگان–لو | [11/04](../11_Culture_Media/04_Pathogen_Specific_Selective.md) |
@@ -99,3 +101,5 @@
 - **خلوص:** هر بار کشت خلوص روی آگار غیرانتخابی.
 - **سویه‌های مقاوم و خطرناک** (KPC، NDM، *mcr-1*، MTB H37Rv): فهرست موجودی، دسترسی محدود، **ایمنی زیستی** متناسب.
 - **سویه‌های بالینی** با فنوتیپ شناخته‌شده می‌توانند برای آموزش و صلاحیت به کار روند، ولی جایگزین سویه‌های مرجع QC نیستند.
+
+</div>

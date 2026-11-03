@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ماژول ۰۳: میکروب‌شناسی مایع مغزی–نخاعی (CSF)
 
 ## معرفی
@@ -43,5 +45,10 @@
 | [07_References.md](07_References.md) | منابع |
 
 ## پیش‌نیاز
-- رنگ‌آمیزی گرم و اصول کشت (ماژول‌های ۱۱ تا ۱۳)
+- محیط‌های کشت و تست‌های شناسایی: ماژول‌های [۱۱](../11_Culture_Media/README.md) و [۱۲](../12_Identification_Tests/README.md)
+- ماژول‌های خانواده: [۱۴](../14_GPC_Catalase_Negative/README.md) (پنوموکوکوس، GBS)، [۱۵](../15_Aerobic_GPB/README.md) (*Listeria*)، [۱۶](../16_Gram_Negative_Cocci/README.md) (*Neisseria*)، [۲۰](../20_Fastidious_GNB/README.md) (*Haemophilus*)، [۲۳](../23_Mycobacteria/README.md) (مایکوباکتری‌ها)
 - واژه‌نامه: [Shared/Glossary_FA_EN.md](../Shared/Glossary_FA_EN.md)
+
+**تصاویر:** ۱۱ عکس و ۰ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
+</div>

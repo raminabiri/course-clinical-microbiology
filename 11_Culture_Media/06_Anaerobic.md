@@ -1,14 +1,16 @@
+<div dir="rtl">
+
 # گروه ۶: محیط‌های بی‌هوازی
 
 > برای نمونه‌های مناسب کشت بی‌هوازی (آبسه، بافت عمقی، مایعات استریل، آسپیره؛ **نه** سواب سطحی، خلط یا ادرار میانی). جزئیات نمونه‌گیری در ماژول‌های [08_Wound_Tissue](../08_Wound_Tissue/README.md) و [09_Sterile_Fluids_and_Other](../09_Sterile_Fluids_and_Other/README.md).
 
 ## اصول مشترک
 - **محیط‌های پیش‌احیاشده (PRAS)** یا محیط‌های **تازه** (کمتر از ۲ هفته) یا **پیش‌احیا** در جار بی‌هوازی **۴–۲۴ ساعت** پیش از تلقیح. محیط اکسیدشده ← رادیکال‌های اکسیژن ← عدم رشد بی‌هوازی‌های سخت‌گیر.
-- **غنی‌سازی:** **همین (۵ mg/L)** + **ویتامین K₁ (۱۰ mg/L)** ← نیاز *Prevotella*، *Porphyromonas* و برخی *Bacteroides*.
+- **غنی‌سازی:** **هِمین (۵ mg/L)** + **ویتامین K₁ (۱۰ mg/L)** ← نیاز *Prevotella*، *Porphyromonas* و برخی *Bacteroides*.
 - **اتمسفر:** ۵–۱۰٪ H₂، ۵–۱۰٪ CO₂، ۸۰–۹۰٪ N₂ (چمبر)، یا جار/کیسهٔ تولیدکنندهٔ گاز با **کاتالیست پالادیوم** و **نشانگر بی‌هوازی** (متیلن بلو یا رزازورین: بی‌رنگ = بی‌هوازی).
 - **انکوباسیون:** ۳۵–۳۷°C؛ **اولین بررسی در ۴۸ ساعت** (باز کردن زودهنگام جار ← آسیب به بی‌هوازی‌ها؛ در چمبر می‌توان در ۲۴ ساعت دید)؛ نگهداری تا **۵–۷ روز** (*Actinomyces*: تا ۱۴ روز).
 - **ست استاندارد اولیه:** (۱) بروسلا/CDC خون‌دار غیرانتخابی، (۲) **BBE**، (۳) **KVLB**، (۴) **PEA-BA**، (۵) براث تیوگلیکولات غنی‌شده (بک‌آپ).
-- **آزمون هوازی‌تحملی (Aerotolerance):** هر کلنی روی پلیت بی‌هوازی ← زیرکشت روی **آگار خون هوازی + CO₂** و **شکلات CO₂** و **پلیت بی‌هوازی** ← رشد فقط بی‌هوازی = **بی‌هوازی اجباری** (← [12_Identification_Tests](../12_Identification_Tests/README.md)).
+- **آزمون هوازی‌تحملی (Aerotolerance):** هر کلنی روی پلیت بی‌هوازی ← ساب‌کالچر روی **آگار خون هوازی + CO₂** و **شکلات CO₂** و **پلیت بی‌هوازی** ← رشد فقط بی‌هوازی = **بی‌هوازی اجباری** (← [12_Identification_Tests](../12_Identification_Tests/README.md)).
 
 ---
 
@@ -17,8 +19,12 @@
 |---|---|
 | **ترکیب** | **بروسلا آگار** (یا پایهٔ CDC: TSA + عصارهٔ مخمر + سیستین) + **۵٪ خون گوسفند** + **همین** + **ویتامین K₁** |
 | **نقش** | محیط **غیرانتخابی** اصلی؛ رشد همهٔ بی‌هوازی‌ها و اختیاری‌ها؛ **همولیز**، **رنگدانه**، **فلورسانس** |
-| **تفسیر کلیدی** | **هالهٔ دوگانه** ← *C. perfringens*؛ **کلنی سیاه/قهوه‌ای** (۵–۱۴ روز) ← *Porphyromonas*، *Prevotella* رنگدانه‌دار؛ **فلورسانس آجری-قرمز** زیر UV (۳۶۵ nm) پیش از سیاه شدن ← رنگدانه‌دارها؛ **سوارمینگ** ← *C. septicum*، *C. tetani*؛ **کلنی دندانه‌دار «دندان آسیاب» (molar tooth)** ← *Actinomyces israelii*؛ کلنی **تخم مرغ نیمرو/«شکسته»** ← *Fusobacterium nucleatum*؛ **پیتینگ** ← *B. ureolyticus* |
+| **تفسیر کلیدی** | **هالهٔ دوگانه** ← *C. perfringens*؛ **کلنی سیاه/قهوه‌ای** (۵–۱۴ روز) ← *Porphyromonas*، *Prevotella* رنگدانه‌دار؛ **فلورسانس آجری-قرمز** زیر UV (۳۶۵ nm) پیش از سیاه شدن ← رنگدانه‌دارها؛ **سوارمینگ** ← *C. septicum*، *C. tetani*؛ **کلنی دندانه‌دار «دندان آسیاب» (molar tooth)** ← *Actinomyces israelii*؛ کلنی **«خرده‌نانی» (bread-crumb)/لکه‌دار و رنگین‌کمانی** ← *Fusobacterium nucleatum*؛ **پیتینگ** ← *B. ureolyticus* |
 | **QC** | *B. fragilis* ATCC 25285 (رشد)؛ *C. perfringens* ATCC 13124 (رشد، هالهٔ دوگانه)؛ *Peptostreptococcus anaerobius* ATCC 27337 (رشد)؛ *Prevotella melaninogenica* ATCC 25845 (رشد، رنگدانه) |
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/anaerobic-mixed-plate.jpg" width="300" alt="anaerobic-mixed-plate"><br><sub><b>شکل ۱۱.۳۵.</b> رشد مخلوط با غلبهٔ <i>Prevotella melaninogenica</i> روی آگار خون‌دار (سواب رکتال)<br>منبع: CDC/ Dr. V.R. Dowell، <a href="https://commons.wikimedia.org/wiki/File:15239_lores.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr></table>
 
 ## ۶.۲ آگار BBE (Bacteroides Bile Esculin)
 | ویژگی | توضیح |
@@ -27,7 +33,7 @@
 | **اساس** | **صفرا ۲۰٪** ← فقط گروه ***B. fragilis*** (و *Bilophila*، برخی *Fusobacterium mortiferum/varium*) رشد می‌کنند؛ **جنتامایسین** ← مهار اختیاری‌ها؛ **هیدرولیز اسکولین** ← اسکولتین + Fe³⁺ ← **سیاه شدن** |
 | **تفسیر** | کلنی **> ۱ mm، خاکستری با هالهٔ سیاه** ← **گروه *B. fragilis*** (شناسایی احتمالی سریع)؛ *Bilophila wadsworthia*: کلنی ریز شفاف با **مرکز سیاه** (H₂S)، **بدون** سیاه کردن محیط (اسکولین −)؛ *F. mortiferum*: کلنی ناهموار، اسکولین + |
 | **QC** | *B. fragilis* ATCC 25285 (رشد، سیاه)؛ *E. coli* ATCC 25922 (مهار)؛ *Prevotella melaninogenica* (مهار) |
-| **دام** | *B. vulgatus* (*Phocaeicola vulgatus*) اسکولین منفی ← رشد بدون سیاه کردن؛ برخی *Enterococcus* و *Klebsiella* مقاوم به جنتامایسین رشد و سیاه می‌کنند ← **هوازی‌تحملی** |
+| **دام** | *Phocaeicola vulgatus* (نام قدیم *B. vulgatus*) اسکولین منفی ← رشد بدون سیاه کردن؛ برخی *Enterococcus* و *Klebsiella* مقاوم به جنتامایسین رشد و سیاه می‌کنند ← **هوازی‌تحملی** |
 
 ## ۶.۳ آگار KVLB (Kanamycin–Vancomycin Laked Blood)
 | ویژگی | توضیح |
@@ -56,6 +62,10 @@
 | **محیط جایگزین** | **کروموژنیک *C. difficile*** (chromID C. difficile): کلنی‌های **خاکستری-سیاه** در ۲۴ ساعت |
 | **QC** | *C. difficile* ATCC 9689 (رشد، زرد)؛ *E. coli* ATCC 25922 (مهار)؛ *B. fragilis* ATCC 25285 (مهار) |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/clostridium-difficile-colonies.jpg" width="300" alt="clostridium-difficile-colonies"><br><sub><b>شکل ۱۱.۳۶.</b> کلنی‌های <i>C. difficile</i> پس از ۴۸ ساعت روی آگار خون‌دار (بزرگ‌نمایی ۴٫۸×)<br>منبع: Content Providers(s): CDC/Dr. Holdeman، <a href="https://commons.wikimedia.org/wiki/File:Clostridium_difficile_colonies.png">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+
 ## ۶.۶ آگار زردهٔ تخم‌مرغ (Egg Yolk Agar, EYA; McClung–Toabe)
 | واکنش | ظاهر | سازوکار | مثال |
 |---|---|---|---|
@@ -65,6 +75,10 @@
 
 - **آزمون ناگلر (Nagler):** نیمی از پلیت EYA با **آنتی‌توکسین α *C. perfringens*** پوشانده می‌شود ← **مهار لسیتیناز** در آن نیمه ← تأیید *C. perfringens* (← [12_Identification_Tests](../12_Identification_Tests/README.md)).
 - **QC:** *C. perfringens* ATCC 13124 (لسیتیناز +)؛ *C. sporogenes* ATCC 11437 (لیپاز +)؛ *B. fragilis* ATCC 25285 (منفی).
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="Assets/images/clostridium-perfringens-egg-yolk.jpg" width="300" alt="clostridium-perfringens-egg-yolk"><br><sub><b>شکل ۱۱.۳۷.</b> <i>C. perfringens</i> روی آگار زردهٔ تخم‌مرغ<br>منبع: CDC، <a href="https://commons.wikimedia.org/wiki/File:Clostridium_perfringens_CDC_3872.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 ## ۶.۷ محیط تقویتی کلستریدیوم (RCM) و براث گوشت پخته (Chopped Meat)
 | محیط | ترکیب | کاربرد |
@@ -87,3 +101,5 @@
 | ✓ | ✓ مرکز سیاه، ریز | | ✓ | ***Bilophila wadsworthia*** |
 
 > ⚠️ این جدول **شناسایی احتمالی** است؛ تأیید با الگوی **دیسک‌های ویژه** (ونکومایسین ۵ µg، کانامایسین ۱ mg، کولیستین ۱۰ µg)، تست‌های سریع، MALDI-TOF ← [12_Identification_Tests](../12_Identification_Tests/README.md) و ماژول خانوادهٔ بی‌هوازی‌ها.
+
+</div>

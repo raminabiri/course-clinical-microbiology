@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # پروتکل ۴: کشت و شناسایی — زخم، بافت، استخوان، ایمپلنت
 
 ## ۱. پردازش بافت و استخوان
@@ -7,6 +9,10 @@
 2. با **۱–۳ mL براث یا سالین استریل**، با **هموژنایزر** (Stomacher، بیدهای استریل در ورتکس، یا هاون استریل) له کنید.
 3. ⚠️ **هموژنیزه‌کردن شدید** ممکن است بی‌هوازی‌ها را در معرض اکسیژن قرار دهد ← سریع کار کنید. **اسپورهای کپک‌های موکورال** با له‌کردن شدید آسیب می‌بینند (برای قارچ، خرد کنید نه له).
 4. **استخوان:** خرد کنید (قیچی استخوان/ساینده استریل) یا قطعات کوچک را مستقیم در براث قرار دهید؛ ± دکلسیفیه نکنید (برای کشت).
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/dounce-homogenizer.jpg" width="300" alt="dounce-homogenizer"><br><sub><b>شکل ۸.۰۳.</b> هموژنایزرهای شیشه‌ای دستی (Dounce) در اندازه‌های مختلف<br>منبع: Lilly_M، <a href="https://commons.wikimedia.org/wiki/File:Tissue_glass_Dounce_homogenizer-08.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr></table>
 
 ### ۱-۲) تلقیح هموژنیزه
 
@@ -32,6 +38,10 @@
 
 > ☣️ ⚠️ ظرف کاملاً **دربسته** (آئروسل)؛ کیسه‌های پلاستیکی در صورت نشت خطرناک‌اند. ظرف‌های سخت با درپوش پیچی ارجح‌اند.
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/ultrasonic-bath-lab.jpg" width="300" alt="ultrasonic-bath-lab"><br><sub><b>شکل ۸.۰۴.</b> حمام اولتراسونیک آزمایشگاهی<br>منبع: Karelj، <a href="https://commons.wikimedia.org/wiki/File:Ultrasonic_bath_1.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+
 ## ۳. کشت کمّی بافت (سوختگی و موارد خاص)
 1. بافت را **وزن کنید** (g).
 2. هموژنیزه در حجم مشخص سالین (مثلاً ۱ mL).
@@ -41,6 +51,10 @@
 ## ۴. زخم‌ها و سواب‌ها
 - SBA، CA، MAC، (CNA/PEA)، بی‌هوازی (فقط اگر ESwab/محیط مناسب)؛ ۴۸ ساعت هوازی، ۵ روز بی‌هوازی.
 - **سطح شناسایی:** پاتوژن‌های اصلی و غالب (ماژول ۰۷).
+
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/pseudomonas-aeruginosa-blood-agar.jpg" width="300" alt="pseudomonas-aeruginosa-blood-agar"><br><sub><b>شکل ۸.۰۵.</b> کشت <i>Pseudomonas aeruginosa</i> روی آگار خون‌دار<br>منبع: Pavel Dušek, vyfotografováno s laskavým svolením zaměstnanců Ústavu im، <a href="https://commons.wikimedia.org/wiki/File:Pseudomonas_aeruginosa-blood_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a></sub></td><td align="center" width="50%"><img src="../Assets/images/acinetobacter-baumannii-blood-agar.jpg" width="300" alt="acinetobacter-baumannii-blood-agar"><br><sub><b>شکل ۸.۰۶.</b> کلنی‌های صاف، کدر، خاکستری–سفید و غیرهمولیتیک کمپلکس <i>Acinetobacter baumannii</i> روی آگار خون‌دار<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Acinetobacter_baumannii_Complex_on_Blood_Agar_from_Sputum_Culture.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr></table>
 
 ## ۵. شناسایی ارگانیسم‌های کلیدی
 | ارگانیسم | نکته |
@@ -54,5 +68,11 @@
 | *Corynebacterium striatum* | PJI/زخم مزمن؛ MDR؛ معنی‌دار در نمونه‌های متعدد |
 | *Cutibacterium*، *Finegoldia*، *Peptoniphilus* | بی‌هوازی‌های گرم مثبت در PJI/پای دیابتی |
 
+**تصاویر:**
+
+<table><tr><td align="center" width="50%"><img src="../Assets/images/cutibacterium-acnes-thioglycollate.jpg" width="300" alt="cutibacterium-acnes-thioglycollate"><br><sub><b>شکل ۸.۰۷.</b> گرم <i>Cutibacterium acnes</i> (نام قبلی <i>Propionibacterium acnes</i>) از کشت تیوگلیکولات: باسیل‌های گرم مثبت پلئومورف<br>منبع: CDC/Bobby Strong، <a href="https://commons.wikimedia.org/wiki/File:Propionibacterium_acnes.jpg">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="../Assets/images/kingella-kingae-colonies-cdc.jpg" width="300" alt="kingella-kingae-colonies-cdc"><br><sub><b>شکل ۸.۰۸.</b> کلنی‌های <i>Kingella kingae</i> روی آگار خون گوسفند پس از ۲۴ ساعت<br>منبع: CDC/ Amanda Moore, MT; Todd Parker, PhD; Audra Marsh، <a href="https://commons.wikimedia.org/wiki/File:Kingella_kingae_PHIL12451.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr><tr><td align="center" width="50%"><img src="../Assets/images/corynebacterium-striatum-blood-agar.jpg" width="300" alt="corynebacterium-striatum-blood-agar"><br><sub><b>شکل ۸.۰۹.</b> کلنی‌های <i>Corynebacterium striatum</i> روی آگار خون اسب کلمبیا (ایزوله از کشت خون)<br>منبع: Nathan Reading from Halesowen, UK، <a href="https://commons.wikimedia.org/wiki/File:Corynebacterium_striatum_on_Columbia_Horse_Blood_Agar_-_Detail.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td><td align="center" width="50%"><img src="../Assets/images/brucella-melitensis-colonies.jpg" width="300" alt="brucella-melitensis-colonies"><br><sub><b>شکل ۸.۱۰.</b> کلنی‌های <i>Brucella melitensis</i> روی آگار خون‌دار<br>منبع: This media comes from the Centers for Disease Control and Pr، <a href="https://commons.wikimedia.org/wiki/File:BrucellaMelitensis.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+
 ## ۶. نگهداری ایزوله‌ها
 - ایزوله‌های PJI و استئومیلیت را **حداقل ۳ ماه** (منجمد) نگه دارید (عود، مقایسه، AST اضافی).
+
+</div>

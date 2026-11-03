@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ماژول ۰۶: میکروب‌شناسی نمونه‌های تنفسی
 
 ## معرفی
@@ -42,4 +44,8 @@
 | [07_References.md](07_References.md) | منابع |
 
 ## پیش‌نیاز
-ماژول‌های ۱۱، ۱۲ (*Corynebacterium*)، ۱۵ (غیرتخمیری‌ها)، ۱۸ (سخت‌رشدها: *Haemophilus*، *Bordetella*، *Legionella*)، ۲۰ (مایکوباکتری‌ها)، ۲۱ (*Mycoplasma*/*Chlamydia*).
+ماژول‌های [۱۳](../13_GPC_Catalase_Positive/README.md)، [۱۴](../14_GPC_Catalase_Negative/README.md)، [۱۵](../15_Aerobic_GPB/README.md) (*Corynebacterium*، *Nocardia*)، [۱۶](../16_Gram_Negative_Cocci/README.md) (*Moraxella*)، [۱۹](../19_Non_Fermenters/README.md) (غیرتخمیری‌ها)، [۲۰](../20_Fastidious_GNB/README.md) (سخت‌رشدها: *Haemophilus*، *Bordetella*، *Legionella*)، [۲۳](../23_Mycobacteria/README.md) (مایکوباکتری‌ها)، [۲۴](../24_Non_Culturable/README.md) (*Mycoplasma*/*Chlamydia*).
+
+**تصاویر:** ۱۴ عکس و ۰ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+
+</div>
