@@ -1,6 +1,6 @@
 # PROGRESS
 
-Last handoff: 2026-11-02 22:10 (Tehran). Repo: public GitHub `raminabiri/Diagnostic-Clinical-Microbiology`.
+Last handoff: 2026-11-02 22:10 (Tehran). Repo: public GitHub `raminabiri/course-clinical-microbiology`.
 **Branch: `main`** (`final-review` merged 2026-11-03). Language: Persian (fa), RTL.
 Audience: microbiology residents. Bacteria only.
 

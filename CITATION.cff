@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: Abiri
     given-names: Ramin
-repository-code: "https://github.com/raminabiri/Diagnostic-Clinical-Microbiology"
+repository-code: "https://github.com/raminabiri/course-clinical-microbiology"
 date-released: 2026-10-15
 keywords:
   - clinical microbiology
