@@ -107,13 +107,13 @@ after the user reviews it on GitHub.
 - Open user decisions: LICENSE file, CITATION author name, Iran data in `03_Antibiogram/04_Iran_Reference.md` (01–09).
 
 ## 6. Next steps (priority order, one session each)
-1. Figure agents all done (2026-11-02). Before committing, user decisions pending:
-   a) `File:Neisseria_gonorrhoeae_01.png` (chocolate vs Thayer-Martin), used in 05, 11, 16: author blank on Commons;
-      confirm source (likely CDC PHIL) or replace.
-   b) `Neisseria_meningitidis_Colonies_growth_on_New_York_City_Medium_Agar.jpg` in 03: rejected by the 16 agent for handwritten
-      labels; keep or drop.
-   c) Optional: add the fetched-but-unplaced module 14 photos; SVGs for common gaps (string test, RUT, CIN, SMAC, CTA).
-2. Commit and push the figures to `final-review`; send the user the GitHub links per module and the list of gaps.
+1. (Done 2026-11-03) Figures `9c8da87`; module 14 extra photos `57bf332` (Gemella ×2, Abiotrophia, Leuconostoc, Lactococcus;
+   Leuconostoc AST photos rejected: VA disk shows a zone); SVGs `1740e54` (RUT, SMAC, CIN, CTA, hvKp string test; module 12
+   Vibrio string test reused in 18). User kept both disputed Neisseria photos. 389 figure links, 0 broken.
+   - Old scratchpad was wiped; new tools in this session's scratchpad `kit/`: `commons.py` (search/info), `fetch.py`,
+     `sheet.py`, `addfig.py MODULE spec.json [--check]` (insert photos/SVGs, renumber in file order, CREDITS, README count),
+     `svgs.py` (the 5 new SVGs). Avoid "≥" in RTL SVG text (renders mirrored).
+2. Merge `final-review` → `main` after the user approves on GitHub.
 3. After user approval: `git fetch` (check for web edits), merge `final-review` → `main`, push.
 4. Module 11: if gaps remain for key media (XLD, TCBS, CIN, BCYE, LJ…), draw SVGs in module 12 style.
 5. Verify the M45/M24S/M02 items above when the user supplies the documents.
