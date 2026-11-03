@@ -24,7 +24,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/anaerobic-mixed-plate.jpg" width="300" alt="anaerobic-mixed-plate"><br><sub><b>شکل ۱۱.۳۳.</b> رشد مخلوط با غلبهٔ <i>Prevotella melaninogenica</i> روی آگار خون‌دار (سواب رکتال)<br>منبع: CDC/ Dr. V.R. Dowell، <a href="https://commons.wikimedia.org/wiki/File:15239_lores.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/anaerobic-mixed-plate.jpg" width="300" alt="anaerobic-mixed-plate"><br><sub><b>شکل ۱۱.۳۵.</b> رشد مخلوط با غلبهٔ <i>Prevotella melaninogenica</i> روی آگار خون‌دار (سواب رکتال)<br>منبع: CDC/ Dr. V.R. Dowell، <a href="https://commons.wikimedia.org/wiki/File:15239_lores.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr></table>
 
 ## ۶.۲ آگار BBE (Bacteroides Bile Esculin)
 | ویژگی | توضیح |
@@ -64,7 +64,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/clostridium-difficile-colonies.jpg" width="300" alt="clostridium-difficile-colonies"><br><sub><b>شکل ۱۱.۳۴.</b> کلنی‌های <i>C. difficile</i> پس از ۴۸ ساعت روی آگار خون‌دار (بزرگ‌نمایی ۴٫۸×)<br>منبع: Content Providers(s): CDC/Dr. Holdeman، <a href="https://commons.wikimedia.org/wiki/File:Clostridium_difficile_colonies.png">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/clostridium-difficile-colonies.jpg" width="300" alt="clostridium-difficile-colonies"><br><sub><b>شکل ۱۱.۳۶.</b> کلنی‌های <i>C. difficile</i> پس از ۴۸ ساعت روی آگار خون‌دار (بزرگ‌نمایی ۴٫۸×)<br>منبع: Content Providers(s): CDC/Dr. Holdeman، <a href="https://commons.wikimedia.org/wiki/File:Clostridium_difficile_colonies.png">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 ## ۶.۶ آگار زردهٔ تخم‌مرغ (Egg Yolk Agar, EYA; McClung–Toabe)
 | واکنش | ظاهر | سازوکار | مثال |
@@ -78,7 +78,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/clostridium-perfringens-egg-yolk.jpg" width="300" alt="clostridium-perfringens-egg-yolk"><br><sub><b>شکل ۱۱.۳۵.</b> <i>C. perfringens</i> روی آگار زردهٔ تخم‌مرغ<br>منبع: CDC، <a href="https://commons.wikimedia.org/wiki/File:Clostridium_perfringens_CDC_3872.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/clostridium-perfringens-egg-yolk.jpg" width="300" alt="clostridium-perfringens-egg-yolk"><br><sub><b>شکل ۱۱.۳۷.</b> <i>C. perfringens</i> روی آگار زردهٔ تخم‌مرغ<br>منبع: CDC، <a href="https://commons.wikimedia.org/wiki/File:Clostridium_perfringens_CDC_3872.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 ## ۶.۷ محیط تقویتی کلستریدیوم (RCM) و براث گوشت پخته (Chopped Meat)
 | محیط | ترکیب | کاربرد |

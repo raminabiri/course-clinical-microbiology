@@ -20,7 +20,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="../Assets/images/xld-salmonella-h2s.jpg" width="300" alt="xld-salmonella-h2s"><br><sub><b>شکل ۴.۰۵.</b> کلنی‌های <i>Salmonella</i> با مرکز سیاه (تولید H₂S) روی آگار XLD<br>منبع: Nathan Reading from Halesowen, UK، <a href="https://commons.wikimedia.org/wiki/File:Salmonella_species_growing_on_XLD_agar_-_Showing_H2S_production.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td><td align="center" width="50%"><img src="../Assets/images/hektoen-stool-culture.jpg" width="300" alt="hektoen-stool-culture"><br><sub><b>شکل ۴.۰۶.</b> کشت مدفوع روی آگار HE: کلنی‌های نارنجی (تخمیر لاکتوز) و کلنی‌های سیاه (تولید H₂S)<br>منبع: Mediocreclementine، <a href="https://commons.wikimedia.org/wiki/File:Hektoen_enteric_agar_stool_culture.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr><tr><td align="center" width="50%"><img src="../Assets/images/ss-agar.jpg" width="300" alt="ss-agar"><br><sub><b>شکل ۴.۰۷.</b> کلنی‌های بی‌رنگ <i>Salmonella</i> Typhi روی آگار SS<br>منبع: Iripseudocorus، <a href="https://commons.wikimedia.org/wiki/File:SSA_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="../Assets/images/campylobacter-skirrow.jpg" width="300" alt="campylobacter-skirrow"><br><sub><b>شکل ۴.۰۸.</b> کلنی‌های ریز و گرد <i>Campylobacter jejuni</i> روی محیط Skirrow/Butzler<br>منبع: CDC/ Sheila Mitchel، <a href="https://commons.wikimedia.org/wiki/File:15985_lores.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="../Assets/images/xld-salmonella-h2s.jpg" width="300" alt="xld-salmonella-h2s"><br><sub><b>شکل ۴.۰۶.</b> کلنی‌های <i>Salmonella</i> با مرکز سیاه (تولید H₂S) روی آگار XLD<br>منبع: Nathan Reading from Halesowen, UK، <a href="https://commons.wikimedia.org/wiki/File:Salmonella_species_growing_on_XLD_agar_-_Showing_H2S_production.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td><td align="center" width="50%"><img src="../Assets/images/hektoen-stool-culture.jpg" width="300" alt="hektoen-stool-culture"><br><sub><b>شکل ۴.۰۷.</b> کشت مدفوع روی آگار HE: کلنی‌های نارنجی (تخمیر لاکتوز) و کلنی‌های سیاه (تولید H₂S)<br>منبع: Mediocreclementine، <a href="https://commons.wikimedia.org/wiki/File:Hektoen_enteric_agar_stool_culture.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td></tr><tr><td align="center" width="50%"><img src="../Assets/images/ss-agar.jpg" width="300" alt="ss-agar"><br><sub><b>شکل ۴.۰۸.</b> کلنی‌های بی‌رنگ <i>Salmonella</i> Typhi روی آگار SS<br>منبع: Iripseudocorus، <a href="https://commons.wikimedia.org/wiki/File:SSA_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="../Assets/images/campylobacter-skirrow.jpg" width="300" alt="campylobacter-skirrow"><br><sub><b>شکل ۴.۰۹.</b> کلنی‌های ریز و گرد <i>Campylobacter jejuni</i> روی محیط Skirrow/Butzler<br>منبع: CDC/ Sheila Mitchel، <a href="https://commons.wikimedia.org/wiki/File:15985_lores.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 ### ۱-۲) اختصاصی (بر اساس درخواست یا بالین)
 
@@ -34,7 +34,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="../Assets/images/tcbs-cholerae-parahaemolyticus.jpg" width="300" alt="tcbs-cholerae-parahaemolyticus"><br><sub><b>شکل ۴.۰۹.</b> آگار TCBS: <i>Vibrio cholerae</i> با رشد زرد (چپ) و <i>Vibrio parahaemolyticus</i> با رشد سبز (راست)<br>منبع: Chainwit.، <a href="https://commons.wikimedia.org/wiki/File:TCBS_agar_plate_of_Vibrio_Cholerae_and_vibrio_parahaemolyticus.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="../Assets/images/tcbs-cholerae-parahaemolyticus.jpg" width="300" alt="tcbs-cholerae-parahaemolyticus"><br><sub><b>شکل ۴.۱۰.</b> آگار TCBS: <i>Vibrio cholerae</i> با رشد زرد (چپ) و <i>Vibrio parahaemolyticus</i> با رشد سبز (راست)<br>منبع: Chainwit.، <a href="https://commons.wikimedia.org/wiki/File:TCBS_agar_plate_of_Vibrio_Cholerae_and_vibrio_parahaemolyticus.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ### ۱-۳) *C. difficile* (کشت توکسیژنیک)
 - **CCFA** یا کروموژنیک *C. difficile*، **بی‌هوازی**، ۴۸ ساعت؛ پیش‌تیمار با **شوک الکلی/حرارتی** (انتخاب اسپورها)
@@ -43,7 +43,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="../Assets/images/cdiff-colonies.jpg" width="300" alt="cdiff-colonies"><br><sub><b>شکل ۴.۱۰.</b> کلنی‌های <i>Clostridioides difficile</i> پس از ۴۸ ساعت روی آگار خون‌دار (بزرگ‌نمایی ۴٫۸×)<br>منبع: Content Providers(s): CDC/Dr. Holdeman، <a href="https://commons.wikimedia.org/wiki/File:Clostridium_difficile_colonies.png">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="../Assets/images/cdiff-colonies.jpg" width="300" alt="cdiff-colonies"><br><sub><b>شکل ۴.۱۱.</b> کلنی‌های <i>Clostridioides difficile</i> پس از ۴۸ ساعت روی آگار خون‌دار (بزرگ‌نمایی ۴٫۸×)<br>منبع: Content Providers(s): CDC/Dr. Holdeman، <a href="https://commons.wikimedia.org/wiki/File:Clostridium_difficile_colonies.png">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 ### ۱-۴) *H. pylori*
 - بیوپسی را **هموژن** (له) کنید ← کشت روی:
@@ -55,7 +55,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="../Assets/images/hpylori-giemsa-2.jpg" width="300" alt="hpylori-giemsa-2"><br><sub><b>شکل ۴.۱۱.</b> <i>Helicobacter pylori</i> روی سطح مخاط معده در رنگ‌آمیزی گیمسا (بیوپسی، ۱۰۰۰×)<br>منبع: Ed Uthman from Houston, TX, USA، <a href="https://commons.wikimedia.org/wiki/File:Helicobacter_pylori,_Gastric_Mucosa,_Giemsa_stain_(390307643).jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="../Assets/images/hpylori-giemsa-2.jpg" width="300" alt="hpylori-giemsa-2"><br><sub><b>شکل ۴.۱۲.</b> <i>Helicobacter pylori</i> روی سطح مخاط معده در رنگ‌آمیزی گیمسا (بیوپسی، ۱۰۰۰×)<br>منبع: Ed Uthman from Houston, TX, USA، <a href="https://commons.wikimedia.org/wiki/File:Helicobacter_pylori,_Gastric_Mucosa,_Giemsa_stain_(390307643).jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a></sub></td></tr></table>
 
 ## ۲. غربالگری کلنی‌های مشکوک (Enterobacterales روده‌ای)
 
@@ -85,7 +85,7 @@ flowchart TD
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="../Assets/images/tsi-salmonella-typhi.jpg" width="300" alt="tsi-salmonella-typhi"><br><sub><b>شکل ۴.۱۲.</b> TSI: سطح قلیایی (قرمز)، عمق اسیدی (زرد) و H₂S اندک در محل اتصال سطح و عمق (<i>Salmonella</i> Typhi)<br>منبع: Microrao، <a href="https://commons.wikimedia.org/wiki/File:TSI_agar_S_typhi.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="../Assets/images/tsi-salmonella-typhi.jpg" width="300" alt="tsi-salmonella-typhi"><br><sub><b>شکل ۴.۱۳.</b> TSI: سطح قلیایی (قرمز)، عمق اسیدی (زرد) و H₂S اندک در محل اتصال سطح و عمق (<i>Salmonella</i> Typhi)<br>منبع: Microrao، <a href="https://commons.wikimedia.org/wiki/File:TSI_agar_S_typhi.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 ### ۲-۲) *Shigella* ☣️
 | آزمون | نتیجه |
@@ -100,7 +100,7 @@ flowchart TD
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="../Assets/images/hektoen-shigella-sonnei.jpg" width="300" alt="hektoen-shigella-sonnei"><br><sub><b>شکل ۴.۱۳.</b> کلنی‌های سبز <i>Shigella sonnei</i> روی آگار HE (۴۸ ساعت)<br>منبع: Todd Parker, Ph.D., Assoc Director for Laboratory Science, Div of Prep، <a href="https://commons.wikimedia.org/wiki/File:Gram_negative_Shigella_sonnei_bacteria_which_spent_48_hours_cultured_on_Hektoen_enteric_agar.jpg">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="../Assets/images/xld-shigella-sonnei.jpg" width="300" alt="xld-shigella-sonnei"><br><sub><b>شکل ۴.۱۴.</b> کلنی‌های <i>Shigella sonnei</i> بدون مرکز سیاه روی آگار XLD (۱۰×)<br>منبع: Todd Parker, Ph.D., Assoc Director for Laboratory Science, Div of Prep، <a href="https://commons.wikimedia.org/wiki/File:CDC_17192_Shigella_sonnei_XLD.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="../Assets/images/hektoen-shigella-sonnei.jpg" width="300" alt="hektoen-shigella-sonnei"><br><sub><b>شکل ۴.۱۴.</b> کلنی‌های سبز <i>Shigella sonnei</i> روی آگار HE (۴۸ ساعت)<br>منبع: Todd Parker, Ph.D., Assoc Director for Laboratory Science, Div of Prep، <a href="https://commons.wikimedia.org/wiki/File:Gram_negative_Shigella_sonnei_bacteria_which_spent_48_hours_cultured_on_Hektoen_enteric_agar.jpg">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="../Assets/images/xld-shigella-sonnei.jpg" width="300" alt="xld-shigella-sonnei"><br><sub><b>شکل ۴.۱۵.</b> کلنی‌های <i>Shigella sonnei</i> بدون مرکز سیاه روی آگار XLD (۱۰×)<br>منبع: Todd Parker, Ph.D., Assoc Director for Laboratory Science, Div of Prep، <a href="https://commons.wikimedia.org/wiki/File:CDC_17192_Shigella_sonnei_XLD.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 ### ۲-۳) *Campylobacter*
 | آزمون | نتیجه |
@@ -117,6 +117,12 @@ flowchart TD
 - **شیگاتوکسین** روی ایزوله یا براث (EIA/PCR *stx1*/*stx2*، *eae*)
 - ارسال **همهٔ** ایزوله‌ها/براث‌های Stx مثبت به آزمایشگاه مرجع (سروتایپ غیر O157، WGS برای شیوع)
 
+**تصاویر:**
+
+<p align="center"><img src="../Assets/figures/smac-reading-schematic.svg" width="420" alt="smac-reading-schematic"></p>
+
+> **شکل ۴.۱۶.** خواندن SMAC: کلنی بی‌رنگ (سوربیتول منفی) مشکوک به *E. coli* O157 است؛ اکثر سویه‌های *E. coli* صورتی‌اند — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+
 ### ۲-۵) *Vibrio*
 - اکسیداز +، **حساسیت به ویبریواستات O/129** (۱۵۰ µg)، رشد در NaCl (*V. cholerae* بدون نمک هم رشد می‌کند؛ هالوفیل‌ها نیاز به NaCl دارند)، **String test +**
 - *V. cholerae*: آنتی‌سرم **O1** (سروتایپ Ogawa/Inaba) و O139؛ تست توکسین (PCR *ctxA*)
@@ -127,7 +133,11 @@ flowchart TD
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="../Assets/images/yersinia-hektoen.jpg" width="300" alt="yersinia-hektoen"><br><sub><b>شکل ۴.۱۵.</b> کلنی‌های لاکتوز منفی <i>Yersinia enterocolitica</i> روی آگار HE<br>منبع: CDC، <a href="https://commons.wikimedia.org/wiki/File:Yersinia_enterocolitica_colonies_Hektoen.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="../Assets/images/yersinia-hektoen.jpg" width="300" alt="yersinia-hektoen"><br><sub><b>شکل ۴.۱۷.</b> کلنی‌های لاکتوز منفی <i>Yersinia enterocolitica</i> روی آگار HE<br>منبع: CDC، <a href="https://commons.wikimedia.org/wiki/File:Yersinia_enterocolitica_colonies_Hektoen.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+
+<p align="center"><img src="../Assets/figures/cin-reading-schematic.svg" width="420" alt="cin-reading-schematic"></p>
+
+> **شکل ۴.۱۸.** کلنی «چشم گاوی» *Yersinia enterocolitica* روی CIN: مرکز قرمز تیره و حاشیهٔ شفاف — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
 
 ### ۲-۷) *Aeromonas* و *Plesiomonas*
 - اکسیداز + (افتراق از Enterobacterales)، گرم منفی، بدون نیاز به NaCl؛ *Aeromonas*: معمولاً بتا همولیتیک، DNase +؛ *Plesiomonas*: غیرهمولیتیک، لیزین/اورنیتین/آرژینین +

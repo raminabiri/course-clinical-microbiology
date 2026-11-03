@@ -42,6 +42,12 @@
 > - **لاکتوز / ONPG +** ← *N. lactamica* (حامل حلقی شایع در کودکان).
 > - **هیچ قندی + بوتیرات + DNase + نیترات +** ← *M. catarrhalis*.
 
+**تصاویر:**
+
+<p align="center"><img src="Assets/figures/cta-sugars-schematic.svg" width="420" alt="cta-sugars-schematic"></p>
+
+> **شکل ۱۶.۰۳.** الگوی قندهای CTA در *Neisseria* و *M. catarrhalis*: زرد شدن لایهٔ بالایی = اسید — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+
 ## جدول ۳: آنزیم‌های کروموژنیک (مانند Gonochek-II، RapID NH)
 
 | آنزیم | *N. gonorrhoeae* | *N. meningitidis* | *N. lactamica* | *N. cinerea* | *M. catarrhalis* |
@@ -54,7 +60,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/bacticard-neisseria.jpg" width="300" alt="bacticard-neisseria"><br><sub><b>شکل ۱۶.۰۳.</b> کارت کروموژنیک BactiCard Neisseria با چاهک‌های IB، PRO، GLUT و BGAL<br>منبع: Niels Olson from New Orleans, United States، <a href="https://commons.wikimedia.org/wiki/File:Bacticard_Neisseria_(398901501).jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/bacticard-neisseria.jpg" width="300" alt="bacticard-neisseria"><br><sub><b>شکل ۱۶.۰۴.</b> کارت کروموژنیک BactiCard Neisseria با چاهک‌های IB، PRO، GLUT و BGAL<br>منبع: Niels Olson from New Orleans, United States، <a href="https://commons.wikimedia.org/wiki/File:Bacticard_Neisseria_(398901501).jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a></sub></td></tr></table>
 
 ## جدول ۴: ریخت کلنی (۲۴–۴۸ ساعت، شکلات، CO₂)
 
@@ -68,6 +74,6 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/gonococcus-colonies.jpg" width="300" alt="gonococcus-colonies"><br><sub><b>شکل ۱۶.۰۴.</b> کلنی‌های <i>N. gonorrhoeae</i> روی پلیت‌های آگار<br>منبع: Graham Beards، <a href="https://commons.wikimedia.org/wiki/File:GC_Culture.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/neisseria-lactamica-culture.jpg" width="300" alt="neisseria-lactamica-culture"><br><sub><b>شکل ۱۶.۰۵.</b> کلنی‌های <i>N. lactamica</i> در ۲۴ ساعت (چپ) و پس از انکوباسیون طولانی‌تر (راست)<br>منبع: Content source: Division of STD Prevention, National Center for HIV/AI، <a href="https://commons.wikimedia.org/wiki/File:Neisseria_lactamica_culture.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/gonococcus-colonies.jpg" width="300" alt="gonococcus-colonies"><br><sub><b>شکل ۱۶.۰۵.</b> کلنی‌های <i>N. gonorrhoeae</i> روی پلیت‌های آگار<br>منبع: Graham Beards، <a href="https://commons.wikimedia.org/wiki/File:GC_Culture.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/neisseria-lactamica-culture.jpg" width="300" alt="neisseria-lactamica-culture"><br><sub><b>شکل ۱۶.۰۶.</b> کلنی‌های <i>N. lactamica</i> در ۲۴ ساعت (چپ) و پس از انکوباسیون طولانی‌تر (راست)<br>منبع: Content source: Division of STD Prevention, National Center for HIV/AI، <a href="https://commons.wikimedia.org/wiki/File:Neisseria_lactamica_culture.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 </div>

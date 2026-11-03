@@ -46,6 +46,10 @@
 
 <table><tr><td align="center" width="50%"><img src="Assets/images/hpylori-giemsa-biopsy.jpg" width="300" alt="hpylori-giemsa-biopsy"><br><sub><b>شکل ۲۱.۰۴.</b> <i>Helicobacter pylori</i> در بیوپسی معده، رنگ‌آمیزی گیمسا<br>منبع: Ed Uthman from Houston, TX, USA، <a href="https://commons.wikimedia.org/wiki/File:Helicobacter_pylori,_Gastric_Biopsy,_Giemsa_Stain_(5517582111).jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/hpylori-he.jpg" width="300" alt="hpylori-he"><br><sub><b>شکل ۲۱.۰۵.</b> باسیل‌های خمیدهٔ <i>H. pylori</i> در مجرای فووئولای معده، رنگ‌آمیزی H&E (۱۰۰۰×)<br>منبع: Ed Uthman from Houston, TX, USA، <a href="https://commons.wikimedia.org/wiki/File:Helicobacter_pylori,_Gastric_Mucosa,_H%26E_(390307642).jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a></sub></td></tr><tr><td align="center" width="50%"><img src="Assets/images/hpylori-ihc.jpg" width="300" alt="hpylori-ihc"><br><sub><b>شکل ۲۱.۰۶.</b> <i>H. pylori</i> در حفرهٔ فووئولار بیوپسی معده، ایمونوهیستوشیمی ضد <i>Helicobacter</i> (رنگ قهوه‌ای)<br>منبع: KGH، <a href="https://commons.wikimedia.org/wiki/File:Immunohistochemical_detection_of_Helicobacter_pylori_histopathology.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></sub></td></tr></table>
 
+<p align="center"><img src="Assets/figures/rapid-urease-reading-schematic.svg" width="420" alt="rapid-urease-reading-schematic"></p>
+
+> **شکل ۲۱.۰۷.** خواندن تست اوره‌آز سریع (RUT) روی بیوپسی معده: تغییر رنگ زرد به قرمز/صورتی ظرف ۱ تا ۲۴ ساعت = *H. pylori* مثبت — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+
 ## جدول ۳: ریخت‌شناسی
 
 | ارگانیسم | رنگ گرم | لام مرطوب | کلنی |
@@ -57,6 +61,6 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/campylobacter-sem.jpg" width="300" alt="campylobacter-sem"><br><sub><b>شکل ۲۱.۰۷.</b> میکروسکوپ الکترونی روبشی <i>C. jejuni</i>: باسیل‌های خمیده و S‌شکل<br>منبع: CDC PHIL #5778، <a href="https://commons.wikimedia.org/wiki/File:Campylobacter_jejuni_5778_lores.jpg">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="Assets/images/campylobacter-ccda-detail.jpg" width="300" alt="campylobacter-ccda-detail"><br><sub><b>شکل ۲۱.۰۸.</b> کلنی‌های خاکستری، مرطوب و پهن‌شوندهٔ <i>Campylobacter</i> روی آگار انتخابی CCDA (جدایه از بیمار با اسهال خونی)<br>منبع: Nathan Reading from Halesowen, UK، <a href="https://commons.wikimedia.org/wiki/File:Campylobacter_jejuni_growing_on_CCDA_campylobacter_selective_agar_-_Detail.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/campylobacter-sem.jpg" width="300" alt="campylobacter-sem"><br><sub><b>شکل ۲۱.۰۸.</b> میکروسکوپ الکترونی روبشی <i>C. jejuni</i>: باسیل‌های خمیده و S‌شکل<br>منبع: CDC PHIL #5778، <a href="https://commons.wikimedia.org/wiki/File:Campylobacter_jejuni_5778_lores.jpg">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="Assets/images/campylobacter-ccda-detail.jpg" width="300" alt="campylobacter-ccda-detail"><br><sub><b>شکل ۲۱.۰۹.</b> کلنی‌های خاکستری، مرطوب و پهن‌شوندهٔ <i>Campylobacter</i> روی آگار انتخابی CCDA (جدایه از بیمار با اسهال خونی)<br>منبع: Nathan Reading from Halesowen, UK، <a href="https://commons.wikimedia.org/wiki/File:Campylobacter_jejuni_growing_on_CCDA_campylobacter_selective_agar_-_Detail.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td></tr></table>
 
 </div>

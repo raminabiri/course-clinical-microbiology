@@ -109,6 +109,12 @@
   - ⇐ **توصیهٔ CDC:** همهٔ مدفوع‌های اسهال حاد هم‌زمان برای **کشت O157** و **آزمون توکسین شیگا (Stx1/Stx2: EIA یا PCR)** بررسی شوند.
 - کلنی بی‌رنگ مشکوک ← **لاتکس O157** و **H7**، تأیید توکسین، ارسال به آزمایشگاه مرجع.
 
+**تصاویر:**
+
+<p align="center"><img src="Assets/figures/smac-reading-schematic.svg" width="420" alt="smac-reading-schematic"></p>
+
+> **شکل ۱۱.۲۰.** خواندن SMAC: کلنی بی‌رنگ (سوربیتول منفی) مشکوک به *E. coli* O157 است؛ اکثر سویه‌های *E. coli* صورتی‌اند — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+
 ## الف۷. TCBS (Thiosulfate–Citrate–Bile salts–Sucrose)
 | جزء | نقش |
 |---|---|
@@ -132,7 +138,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/tcbs-cholerae-parahaemolyticus.jpg" width="300" alt="tcbs-cholerae-parahaemolyticus"><br><sub><b>شکل ۱۱.۲۰.</b> آگار TCBS: <i>V. cholerae</i> (زرد، چپ) و <i>V. parahaemolyticus</i> (سبز، راست)<br>منبع: Chainwit.، <a href="https://commons.wikimedia.org/wiki/File:TCBS_agar_plate_of_Vibrio_Cholerae_and_vibrio_parahaemolyticus.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/tcbs-cholerae-parahaemolyticus.jpg" width="300" alt="tcbs-cholerae-parahaemolyticus"><br><sub><b>شکل ۱۱.۲۱.</b> آگار TCBS: <i>V. cholerae</i> (زرد، چپ) و <i>V. parahaemolyticus</i> (سبز، راست)<br>منبع: Chainwit.، <a href="https://commons.wikimedia.org/wiki/File:TCBS_agar_plate_of_Vibrio_Cholerae_and_vibrio_parahaemolyticus.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ## الف۸. CIN (Cefsulodin–Irgasan–Novobiocin)
 - **سفسولودین + ایرگاسان (تریکلوزان) + نوووبیوسین** + کریستال ویوله + دزوکسی‌کولات ← مهار انتخابی.
@@ -142,6 +148,12 @@
 - **غنی‌سازی سرد** (PBS در ۴°C، ۲–۳ هفته): در کشت ناقلین (کاربرد محدود).
 - **QC:** *Y. enterocolitica* ATCC 9610 (چشم گاوی)؛ *E. coli* ATCC 25922 (مهار).
 - ⚠️ *Citrobacter*، *Serratia*، *Enterobacter* ممکن است کلنی مشابه بدهند ← اوره‌آز (*Yersinia* +)، اکسیداز (*Aeromonas* +).
+
+**تصاویر:**
+
+<p align="center"><img src="Assets/figures/cin-reading-schematic.svg" width="420" alt="cin-reading-schematic"></p>
+
+> **شکل ۱۱.۲۲.** کلنی «چشم گاوی» *Yersinia enterocolitica* روی CIN: مرکز قرمز تیره و حاشیهٔ شفاف — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
 
 ## الف۹. محیط‌های کمپیلوباکتر
 | محیط | اساس | ویژگی |
@@ -160,7 +172,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/campylobacter-charcoal.jpg" width="300" alt="campylobacter-charcoal"><br><sub><b>شکل ۱۱.۲۱.</b> کلنی‌های <i>Campylobacter jejuni</i> روی محیط انتخابی زغال‌دار بدون خون<br>منبع: Kubo (Dworaczek) Michal، <a href="https://commons.wikimedia.org/wiki/File:Campylobacter_jejuni.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/2.5">CC BY-SA 2.5</a></sub></td><td align="center" width="50%"><img src="Assets/images/campylobacter-skirrow.jpg" width="300" alt="campylobacter-skirrow"><br><sub><b>شکل ۱۱.۲۲.</b> کلنی‌های ریز <i>C. jejuni</i> روی محیط اسکیرو و بوتزلر<br>منبع: CDC/ Sheila Mitchel، <a href="https://commons.wikimedia.org/wiki/File:15985_lores.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/campylobacter-charcoal.jpg" width="300" alt="campylobacter-charcoal"><br><sub><b>شکل ۱۱.۲۳.</b> کلنی‌های <i>Campylobacter jejuni</i> روی محیط انتخابی زغال‌دار بدون خون<br>منبع: Kubo (Dworaczek) Michal، <a href="https://commons.wikimedia.org/wiki/File:Campylobacter_jejuni.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/2.5">CC BY-SA 2.5</a></sub></td><td align="center" width="50%"><img src="Assets/images/campylobacter-skirrow.jpg" width="300" alt="campylobacter-skirrow"><br><sub><b>شکل ۱۱.۲۴.</b> کلنی‌های ریز <i>C. jejuni</i> روی محیط اسکیرو و بوتزلر<br>منبع: CDC/ Sheila Mitchel، <a href="https://commons.wikimedia.org/wiki/File:15985_lores.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 ---
 
@@ -206,7 +218,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/neisseria-gonorrhoeae-two-media.jpg" width="300" alt="neisseria-gonorrhoeae-two-media"><br><sub><b>شکل ۱۱.۲۳.</b> نمونهٔ رکتال برای <i>N. gonorrhoeae</i>: رشد بیش از حد فلور روی آگار شکلات (چپ) و رشد فقط <i>Neisseria</i> روی تایر–مارتین (راست)<br>منبع: Wikimedia Commons، <a href="https://commons.wikimedia.org/wiki/File:Neisseria_gonorrhoeae_01.png">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/neisseria-gonorrhoeae-two-media.jpg" width="300" alt="neisseria-gonorrhoeae-two-media"><br><sub><b>شکل ۱۱.۲۵.</b> نمونهٔ رکتال برای <i>N. gonorrhoeae</i>: رشد بیش از حد فلور روی آگار شکلات (چپ) و رشد فقط <i>Neisseria</i> روی تایر–مارتین (راست)<br>منبع: Wikimedia Commons، <a href="https://commons.wikimedia.org/wiki/File:Neisseria_gonorrhoeae_01.png">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 ---
 
@@ -247,7 +259,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/bcye-legionella.jpg" width="300" alt="bcye-legionella"><br><sub><b>شکل ۱۱.۲۴.</b> کلنی‌های <i>L. pneumophila</i> روی آگار BCYE<br>منبع: Turasayb، <a href="https://commons.wikimedia.org/wiki/File:BCYE.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/bcye-legionella.jpg" width="300" alt="bcye-legionella"><br><sub><b>شکل ۱۱.۲۶.</b> کلنی‌های <i>L. pneumophila</i> روی آگار BCYE<br>منبع: Turasayb، <a href="https://commons.wikimedia.org/wiki/File:BCYE.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ## ج۲. BCSA و OFPBL (*Burkholderia cepacia*)
 | محیط | اساس |
@@ -272,7 +284,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/cetrimide-pseudomonas.jpg" width="300" alt="cetrimide-pseudomonas"><br><sub><b>شکل ۱۱.۲۵.</b> کلنی‌های <i>P. aeruginosa</i> روی آگار سترامید<br>منبع: HansN.، <a href="https://commons.wikimedia.org/wiki/File:Pseudomonas_aeruginosa_on_cetrimide_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/cetrimide-pseudomonas-uv.jpg" width="300" alt="cetrimide-pseudomonas-uv"><br><sub><b>شکل ۱۱.۲۶.</b> فلورسانس رنگدانهٔ <i>P. aeruginosa</i> روی آگار سترامید زیر نور UV<br>منبع: BiotechMichael، <a href="https://commons.wikimedia.org/wiki/File:P-aeruginosa_fluoreszenz.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/cetrimide-pseudomonas.jpg" width="300" alt="cetrimide-pseudomonas"><br><sub><b>شکل ۱۱.۲۷.</b> کلنی‌های <i>P. aeruginosa</i> روی آگار سترامید<br>منبع: HansN.، <a href="https://commons.wikimedia.org/wiki/File:Pseudomonas_aeruginosa_on_cetrimide_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/cetrimide-pseudomonas-uv.jpg" width="300" alt="cetrimide-pseudomonas-uv"><br><sub><b>شکل ۱۱.۲۸.</b> فلورسانس رنگدانهٔ <i>P. aeruginosa</i> روی آگار سترامید زیر نور UV<br>منبع: BiotechMichael، <a href="https://commons.wikimedia.org/wiki/File:P-aeruginosa_fluoreszenz.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 ## ج۴. ریگان–لو و بوردت–ژانگو (*Bordetella*)
 | محیط | ترکیب | نکته |
@@ -290,7 +302,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/bordetella-charcoal-agar.jpg" width="300" alt="bordetella-charcoal-agar"><br><sub><b>شکل ۱۱.۲۷.</b> کلنی‌های <i>B. pertussis</i> روی آگار زغال با سفالکسین پس از ۷ روز (۱۰٪ CO₂)<br>منبع: Nathan Reading from Halesowen, UK، <a href="https://commons.wikimedia.org/wiki/File:Bordetella_pertussis_on_Charcoal_Agar_supplemented_with_Cephalexin.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/bordetella-charcoal-agar.jpg" width="300" alt="bordetella-charcoal-agar"><br><sub><b>شکل ۱۱.۲۹.</b> کلنی‌های <i>B. pertussis</i> روی آگار زغال با سفالکسین پس از ۷ روز (۱۰٪ CO₂)<br>منبع: Nathan Reading from Halesowen, UK، <a href="https://commons.wikimedia.org/wiki/File:Bordetella_pertussis_on_Charcoal_Agar_supplemented_with_Cephalexin.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></sub></td></tr></table>
 
 ## ج۵. محیط‌های دیفتری: تلوریت، تینزدیل، لوفلر
 | محیط | اساس | تفسیر | کاربرد |
@@ -307,7 +319,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/tinsdale-corynebacterium.jpg" width="300" alt="tinsdale-corynebacterium"><br><sub><b>شکل ۱۱.۲۸.</b> کلنی‌های قهوه‌ای تیره تا سیاه <i>C. diphtheriae</i> روی آگار تینزدیل<br>منبع: Unknown author Unknown author، <a href="https://commons.wikimedia.org/wiki/File:CDC_15191_(1979).png">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="Assets/images/tinsdale-corynebacterium-2.jpg" width="300" alt="tinsdale-corynebacterium-2"><br><sub><b>شکل ۱۱.۲۹.</b> کلنی‌های سیاه با هالهٔ تیره روی آگار تینزدیل (کشت سواب حلق)<br>منبع: Unknown author Unknown author، <a href="https://commons.wikimedia.org/wiki/File:CDC_16561_(1970).png">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/tinsdale-corynebacterium.jpg" width="300" alt="tinsdale-corynebacterium"><br><sub><b>شکل ۱۱.۳۰.</b> کلنی‌های قهوه‌ای تیره تا سیاه <i>C. diphtheriae</i> روی آگار تینزدیل<br>منبع: Unknown author Unknown author، <a href="https://commons.wikimedia.org/wiki/File:CDC_15191_(1979).png">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="Assets/images/tinsdale-corynebacterium-2.jpg" width="300" alt="tinsdale-corynebacterium-2"><br><sub><b>شکل ۱۱.۳۱.</b> کلنی‌های سیاه با هالهٔ تیره روی آگار تینزدیل (کشت سواب حلق)<br>منبع: Unknown author Unknown author، <a href="https://commons.wikimedia.org/wiki/File:CDC_16561_(1970).png">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 ---
 
@@ -325,7 +337,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/msa-aureus-cons.jpg" width="300" alt="msa-aureus-cons"><br><sub><b>شکل ۱۱.۳۰.</b> <i>S. aureus</i> (کلنی زرد) و استافیلوکوکوس‌های کوآگولاز منفی (کلنی صورتی) روی مانیتول سالت آگار<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Staphylococcus_aureus_(yellow_colonies)_and_CoNS_(pink_colonies)_on_Mannitol_salt_agar_(MSA).jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/msa-aureus-epidermidis.jpg" width="300" alt="msa-aureus-epidermidis"><br><sub><b>شکل ۱۱.۳۱.</b> <i>S. aureus</i> و <i>S. epidermidis</i> روی مانیتول سالت آگار، ۲۴ ساعت<br>منبع: HansN.، <a href="https://commons.wikimedia.org/wiki/File:Mannitol_salt_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/msa-aureus-cons.jpg" width="300" alt="msa-aureus-cons"><br><sub><b>شکل ۱۱.۳۲.</b> <i>S. aureus</i> (کلنی زرد) و استافیلوکوکوس‌های کوآگولاز منفی (کلنی صورتی) روی مانیتول سالت آگار<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Staphylococcus_aureus_(yellow_colonies)_and_CoNS_(pink_colonies)_on_Mannitol_salt_agar_(MSA).jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/msa-aureus-epidermidis.jpg" width="300" alt="msa-aureus-epidermidis"><br><sub><b>شکل ۱۱.۳۳.</b> <i>S. aureus</i> و <i>S. epidermidis</i> روی مانیتول سالت آگار، ۲۴ ساعت<br>منبع: HansN.، <a href="https://commons.wikimedia.org/wiki/File:Mannitol_salt_agar.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr></table>
 
 ---
 

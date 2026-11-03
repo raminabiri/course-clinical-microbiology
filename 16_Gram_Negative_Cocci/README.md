@@ -41,6 +41,6 @@
 - آنتی‌بیوگرام: [گونوکوکوس و مننگوکوکوس](../AST/05_Fastidious_Anaerobes/README.md) · [بتالاکتاماز *Moraxella*](../AST/02_Beta_Lactamases/02_Staph_Penicillinase.md)
 - ماژول‌های نمونه: [01_Blood_Culture](../01_Blood_Culture/README.md) · [03_CSF](../03_CSF/README.md) · [05_Genital](../05_Genital/README.md) · [06_Respiratory](../06_Respiratory/README.md)
 
-**تصاویر:** ۹ عکس و ۰ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
+**تصاویر:** ۹ عکس و ۱ دیاگرام؛ منبع و مجوز هر تصویر: [Assets/CREDITS.md](Assets/CREDITS.md).
 
 </div>

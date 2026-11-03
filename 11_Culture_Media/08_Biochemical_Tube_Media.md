@@ -34,7 +34,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/tsi-reactions.jpg" width="300" alt="tsi-reactions"><br><sub><b>شکل ۱۱.۴۰.</b> واکنش‌های TSI، از چپ: شاهد بدون تلقیح، <i>P. aeruginosa</i>، <i>E. coli</i>، <i>S.</i> Typhimurium (H₂S +)، <i>Shigella</i><br>منبع: Y_tambe، <a href="https://commons.wikimedia.org/wiki/File:TSIagar.JPG">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/tsi-reactions-2.jpg" width="300" alt="tsi-reactions-2"><br><sub><b>شکل ۱۱.۴۱.</b> ترکیب‌های مختلف واکنش شیب/عمق و H₂S در آگار TSI<br>منبع: Microrao، <a href="https://commons.wikimedia.org/wiki/File:TSI_agar.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/tsi-reactions.jpg" width="300" alt="tsi-reactions"><br><sub><b>شکل ۱۱.۴۲.</b> واکنش‌های TSI، از چپ: شاهد بدون تلقیح، <i>P. aeruginosa</i>، <i>E. coli</i>، <i>S.</i> Typhimurium (H₂S +)، <i>Shigella</i><br>منبع: Y_tambe، <a href="https://commons.wikimedia.org/wiki/File:TSIagar.JPG">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/tsi-reactions-2.jpg" width="300" alt="tsi-reactions-2"><br><sub><b>شکل ۱۱.۴۳.</b> ترکیب‌های مختلف واکنش شیب/عمق و H₂S در آگار TSI<br>منبع: Microrao، <a href="https://commons.wikimedia.org/wiki/File:TSI_agar.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 ### نکات تفسیری مهم
 - **TSI در برابر KIA:** *Yersinia enterocolitica*، *Vibrio cholerae*، برخی *Proteus vulgaris*، *Providencia* و *Serratia* ساکارز مثبت‌اند ← در TSI **A/A** ولی در KIA **K/A**. ⇐ KIA برای غربالگری *Salmonella*/*Shigella* اختصاصی‌تر است.
@@ -87,7 +87,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/sim-ecoli.jpg" width="300" alt="sim-ecoli"><br><sub><b>شکل ۱۱.۴۲.</b> <i>E. coli</i> در SIM: H₂S منفی، ایندول مثبت (پس از معرف کواکس)، متحرک<br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Escherichia_coli_in_SIM_Agar_07.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/sim-salmonella.jpg" width="300" alt="sim-salmonella"><br><sub><b>شکل ۱۱.۴۳.</b> <i>S.</i> Typhimurium در SIM: H₂S مثبت (سیاهی)، ایندول منفی، متحرک<br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Salmonella_Typhimurium_in_SIM_Agar_127.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr><tr><td align="center" width="50%"><img src="Assets/images/sim-shigella.jpg" width="300" alt="sim-shigella"><br><sub><b>شکل ۱۱.۴۴.</b> <i>Shigella sonnei</i> در SIM: H₂S منفی، ایندول منفی، غیرمتحرک<br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Shigella_sonnei_in_SIM_Agar_126.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/sim-ecoli.jpg" width="300" alt="sim-ecoli"><br><sub><b>شکل ۱۱.۴۴.</b> <i>E. coli</i> در SIM: H₂S منفی، ایندول مثبت (پس از معرف کواکس)، متحرک<br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Escherichia_coli_in_SIM_Agar_07.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/sim-salmonella.jpg" width="300" alt="sim-salmonella"><br><sub><b>شکل ۱۱.۴۵.</b> <i>S.</i> Typhimurium در SIM: H₂S مثبت (سیاهی)، ایندول منفی، متحرک<br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Salmonella_Typhimurium_in_SIM_Agar_127.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr><tr><td align="center" width="50%"><img src="Assets/images/sim-shigella.jpg" width="300" alt="sim-shigella"><br><sub><b>شکل ۱۱.۴۶.</b> <i>Shigella sonnei</i> در SIM: H₂S منفی، ایندول منفی، غیرمتحرک<br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Shigella_sonnei_in_SIM_Agar_126.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ---
 
@@ -101,7 +101,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/citrate-simmons-pos-neg.jpg" width="300" alt="citrate-simmons-pos-neg"><br><sub><b>شکل ۱۱.۴۵.</b> سیترات سیمونز: بدون تغییر (سبز، چپ) و مثبت با قلیایی شدن (آبی، راست)<br>منبع: Jnjoffin، <a href="https://commons.wikimedia.org/wiki/File:Citrate_Simmons_DSCN0604.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/citrate-simmons-pos-neg.jpg" width="300" alt="citrate-simmons-pos-neg"><br><sub><b>شکل ۱۱.۴۷.</b> سیترات سیمونز: بدون تغییر (سبز، چپ) و مثبت با قلیایی شدن (آبی، راست)<br>منبع: Jnjoffin، <a href="https://commons.wikimedia.org/wiki/File:Citrate_Simmons_DSCN0604.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ---
 
@@ -133,7 +133,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/methyl-red-test.jpg" width="300" alt="methyl-red-test"><br><sub><b>شکل ۱۱.۴۶.</b> آزمون MR: <i>E. coli</i> مثبت (قرمز، چپ) و <i>Enterobacter cloacae</i> منفی (زرد، راست)<br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Methylrot_Probe_methyl_red_test.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/vp-enterobacter.jpg" width="300" alt="vp-enterobacter"><br><sub><b>شکل ۱۱.۴۷.</b> آزمون VP مثبت (صورتی-قرمز) با <i>Enterobacter cloacae</i><br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Enterobacter_cloacae_Voges-Proskauer_test.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr><tr><td align="center" width="50%"><img src="Assets/images/vp-cosenzaea-neg.jpg" width="300" alt="vp-cosenzaea-neg"><br><sub><b>شکل ۱۱.۴۸.</b> آزمون VP منفی با <i>Cosenzaea myxofaciens</i><br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Cosenzaea_myxofaciens_Voges-Proskauer_test.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/imvic-results.jpg" width="300" alt="imvic-results"><br><sub><b>شکل ۱۱.۴۹.</b> نتایج مثبت و منفی آزمون‌های IMViC: ایندول، MR، VP و سیترات<br>منبع: Own work، <a href="https://commons.wikimedia.org/wiki/File:IMViC_Results.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/methyl-red-test.jpg" width="300" alt="methyl-red-test"><br><sub><b>شکل ۱۱.۴۸.</b> آزمون MR: <i>E. coli</i> مثبت (قرمز، چپ) و <i>Enterobacter cloacae</i> منفی (زرد، راست)<br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Methylrot_Probe_methyl_red_test.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/vp-enterobacter.jpg" width="300" alt="vp-enterobacter"><br><sub><b>شکل ۱۱.۴۹.</b> آزمون VP مثبت (صورتی-قرمز) با <i>Enterobacter cloacae</i><br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Enterobacter_cloacae_Voges-Proskauer_test.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr><tr><td align="center" width="50%"><img src="Assets/images/vp-cosenzaea-neg.jpg" width="300" alt="vp-cosenzaea-neg"><br><sub><b>شکل ۱۱.۵۰.</b> آزمون VP منفی با <i>Cosenzaea myxofaciens</i><br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Cosenzaea_myxofaciens_Voges-Proskauer_test.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/imvic-results.jpg" width="300" alt="imvic-results"><br><sub><b>شکل ۱۱.۵۱.</b> نتایج مثبت و منفی آزمون‌های IMViC: ایندول، MR، VP و سیترات<br>منبع: Own work، <a href="https://commons.wikimedia.org/wiki/File:IMViC_Results.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr></table>
 
 ---
 
@@ -208,7 +208,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/nitrate-ecoli.jpg" width="300" alt="nitrate-ecoli"><br><sub><b>شکل ۱۱.۵۰.</b> احیای نیترات مثبت با <i>E. coli</i> (رنگ قرمز پس از افزودن معرف‌ها)<br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Test_auf_Nitratreduktion_nitrate_reducase_test.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/nitrate-ecoli.jpg" width="300" alt="nitrate-ecoli"><br><sub><b>شکل ۱۱.۵۲.</b> احیای نیترات مثبت با <i>E. coli</i> (رنگ قرمز پس از افزودن معرف‌ها)<br>منبع: A doubt، <a href="https://commons.wikimedia.org/wiki/File:Test_auf_Nitratreduktion_nitrate_reducase_test.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></sub></td></tr></table>
 
 ---
 
@@ -222,7 +222,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/bile-esculin-pos-neg.jpg" width="300" alt="bile-esculin-pos-neg"><br><sub><b>شکل ۱۱.۵۱.</b> آزمون بایل اسکولین: منفی (چپ) و مثبت با سیاه شدن محیط (راست)<br>منبع: Microrao، <a href="https://commons.wikimedia.org/wiki/File:Bile_esculin_agar_test.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/bile-esculin-enterococcus.jpg" width="300" alt="bile-esculin-enterococcus"><br><sub><b>شکل ۱۱.۵۲.</b> <i>Enterococcus faecalis</i> روی بایل اسکولین آگار با سیاه شدن محیط<br>منبع: Pavel Dušek، <a href="https://commons.wikimedia.org/wiki/File:Enterococcus_faecalis-bile_esculin.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/bile-esculin-pos-neg.jpg" width="300" alt="bile-esculin-pos-neg"><br><sub><b>شکل ۱۱.۵۳.</b> آزمون بایل اسکولین: منفی (چپ) و مثبت با سیاه شدن محیط (راست)<br>منبع: Microrao، <a href="https://commons.wikimedia.org/wiki/File:Bile_esculin_agar_test.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/bile-esculin-enterococcus.jpg" width="300" alt="bile-esculin-enterococcus"><br><sub><b>شکل ۱۱.۵۴.</b> <i>Enterococcus faecalis</i> روی بایل اسکولین آگار با سیاه شدن محیط<br>منبع: Pavel Dušek، <a href="https://commons.wikimedia.org/wiki/File:Enterococcus_faecalis-bile_esculin.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a></sub></td></tr></table>
 
 ---
 
@@ -251,6 +251,12 @@
 - جزئیات ← [16_Gram_Negative_Cocci](../16_Gram_Negative_Cocci/01_Differential_Tables.md).
 
 ---
+
+**تصاویر:**
+
+<p align="center"><img src="Assets/figures/cta-sugars-schematic.svg" width="420" alt="cta-sugars-schematic"></p>
+
+> **شکل ۱۱.۵۵.** الگوی قندهای CTA در *Neisseria* و *M. catarrhalis*: زرد شدن لایهٔ بالایی = اسید — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
 
 ## جدول جمع‌بندی: محیط ← سؤال تشخیصی
 

@@ -30,6 +30,10 @@
 
 <table><tr><td align="center" width="50%"><img src="Assets/images/vibrio-cholerae-gram-cdc.jpg" width="300" alt="vibrio-cholerae-gram-cdc"><br><sub><b>شکل ۱۸.۰۱.</b> رنگ گرم <i>Vibrio cholerae</i>: باسیل‌های خمیدهٔ گرم منفی<br>منبع: CDC، <a href="https://commons.wikimedia.org/wiki/File:Vibrio_cholerae_gram_stain_CDC.jpg">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="Assets/images/aeromonas-gram.jpg" width="300" alt="aeromonas-gram"><br><sub><b>شکل ۱۸.۰۲.</b> رنگ گرم کشت <i>Aeromonas hydrophila</i>: باسیل‌های گرم منفی<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Aeromonas_hydrophila_in_Gram_staining_of_Culture_Microscopy.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a></sub></td></tr><tr><td align="center" width="50%"><img src="Assets/images/chromobacterium-blood-agar.jpg" width="300" alt="chromobacterium-blood-agar"><br><sub><b>شکل ۱۸.۰۳.</b> کلنی‌های بنفش تیرهٔ <i>Chromobacterium violaceum</i> روی آگار خون‌دار<br>منبع: CDC/ Dr. W.A. Clark، <a href="https://commons.wikimedia.org/wiki/File:Chromobacterium_violaceum_blood_agar.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
+<p align="center"><img src="Assets/figures/string-test-reading-schematic.svg" width="420" alt="string-test-reading-schematic"></p>
+
+> **شکل ۱۸.۰۴.** آزمون نخ با دزوکسی‌کولات ۰٫۵٪: *Vibrio* نخ موکوئید می‌دهد، *Aeromonas* نه — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+
 ## جدول ۲: گونه‌های *Vibrio*
 
 | گونه | رنگ روی **TCBS** | NaCl ۰٪ | NaCl ۶٪ | NaCl ۸٪ | ساکارز | لاکتوز/ONPG | LDC | ODC | ADH | نکته |
@@ -45,7 +49,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/vibrio-cholerae-parahaemolyticus-tcbs.jpg" width="300" alt="vibrio-cholerae-parahaemolyticus-tcbs"><br><sub><b>شکل ۱۸.۰۴.</b> آگار TCBS: <i>V. cholerae</i> با کلنی‌های زرد (چپ) و <i>V. parahaemolyticus</i> با کلنی‌های سبز (راست)<br>منبع: Chainwit.، <a href="https://commons.wikimedia.org/wiki/File:TCBS_agar_plate_of_Vibrio_Cholerae_and_vibrio_parahaemolyticus.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/vibrio-parahaemolyticus-tcbs.jpg" width="300" alt="vibrio-parahaemolyticus-tcbs"><br><sub><b>شکل ۱۸.۰۵.</b> کلنی‌های سبز <i>V. parahaemolyticus</i> روی آگار TCBS<br>منبع: Matthias M.، <a href="https://commons.wikimedia.org/wiki/File:Vibrio_parahaemolyticus_TCBS.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/vibrio-cholerae-parahaemolyticus-tcbs.jpg" width="300" alt="vibrio-cholerae-parahaemolyticus-tcbs"><br><sub><b>شکل ۱۸.۰۵.</b> آگار TCBS: <i>V. cholerae</i> با کلنی‌های زرد (چپ) و <i>V. parahaemolyticus</i> با کلنی‌های سبز (راست)<br>منبع: Chainwit.، <a href="https://commons.wikimedia.org/wiki/File:TCBS_agar_plate_of_Vibrio_Cholerae_and_vibrio_parahaemolyticus.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td><td align="center" width="50%"><img src="Assets/images/vibrio-parahaemolyticus-tcbs.jpg" width="300" alt="vibrio-parahaemolyticus-tcbs"><br><sub><b>شکل ۱۸.۰۶.</b> کلنی‌های سبز <i>V. parahaemolyticus</i> روی آگار TCBS<br>منبع: Matthias M.، <a href="https://commons.wikimedia.org/wiki/File:Vibrio_parahaemolyticus_TCBS.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ## جدول ۳: *Aeromonas* و *Plesiomonas* در برابر *V. cholerae* و *Shigella*
 
@@ -65,7 +69,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/aeromonas-blood-agar.jpg" width="300" alt="aeromonas-blood-agar"><br><sub><b>شکل ۱۸.۰۶.</b> کلنی‌های <i>Aeromonas hydrophila</i> روی آگار خون‌دار (نور بازتابی)<br>منبع: Stefan Walkowski، <a href="https://commons.wikimedia.org/wiki/File:Aeromonas_hydrophila_colonies_01.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/aeromonas-blood-agar.jpg" width="300" alt="aeromonas-blood-agar"><br><sub><b>شکل ۱۸.۰۷.</b> کلنی‌های <i>Aeromonas hydrophila</i> روی آگار خون‌دار (نور بازتابی)<br>منبع: Stefan Walkowski، <a href="https://commons.wikimedia.org/wiki/File:Aeromonas_hydrophila_colonies_01.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
 ## جدول ۴: *Pasteurella*
 
@@ -84,6 +88,6 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/pasteurella-gram-cdc.jpg" width="300" alt="pasteurella-gram-cdc"><br><sub><b>شکل ۱۸.۰۷.</b> رنگ گرم <i>Pasteurella multocida</i>: کوکوباسیل‌های کوچک گرم منفی (۱۱۲۵×)<br>منبع: Centers for Disease Control and Prevention, Office of the Associate Di، <a href="https://commons.wikimedia.org/wiki/File:PHIL_3621.tif">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/pasteurella-gram-cdc.jpg" width="300" alt="pasteurella-gram-cdc"><br><sub><b>شکل ۱۸.۰۸.</b> رنگ گرم <i>Pasteurella multocida</i>: کوکوباسیل‌های کوچک گرم منفی (۱۱۲۵×)<br>منبع: Centers for Disease Control and Prevention, Office of the Associate Di، <a href="https://commons.wikimedia.org/wiki/File:PHIL_3621.tif">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 </div>

@@ -61,6 +61,10 @@
 
 <table><tr><td align="center" width="50%"><img src="../Assets/images/rapid-urease-test-pl.jpg" width="300" alt="rapid-urease-test-pl"><br><sub><b>شکل ۴.۰۴.</b> کیت تست اوره‌آز سریع برای <i>Helicobacter pylori</i>؛ راهنمای رنگ روی کیت: زرد = منفی، قرمز = مثبت<br>منبع: Louve.pl، <a href="https://commons.wikimedia.org/wiki/File:Rapid_urease_test.JPG">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
+<p align="center"><img src="../Assets/figures/rapid-urease-reading-schematic.svg" width="420" alt="rapid-urease-reading-schematic"></p>
+
+> **شکل ۴.۰۵.** خواندن تست اوره‌آز سریع (RUT) روی بیوپسی معده: تغییر رنگ زرد به قرمز/صورتی ظرف ۱ تا ۲۴ ساعت = *H. pylori* مثبت — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+
 ## ۷. گزارش
 - «لاکتوفرین مدفوع: مثبت.»
 - «*C. difficile*: GDH مثبت، توکسین A/B منفی؛ آزمایش تکمیلی (NAAT) در جریان.»

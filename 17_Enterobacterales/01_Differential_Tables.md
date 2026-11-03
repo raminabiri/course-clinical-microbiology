@@ -46,6 +46,10 @@
 
 <table><tr><td align="center" width="50%"><img src="Assets/images/klebsiella-mucoid-macconkey.jpg" width="300" alt="klebsiella-mucoid-macconkey"><br><sub><b>شکل ۱۷.۰۱.</b> کلنی‌های موکوئید تخمیرکنندهٔ لاکتوز <i>Klebsiella pneumoniae</i> روی MacConkey (کشت BAL)<br>منبع: Ajay Kumar Chaurasiya، <a href="https://commons.wikimedia.org/wiki/File:Mucoid_lactose-fermenting_(MLF)_colonies_of_Klebsiella_pneumoniae_on_MacConkey_agar.jpg">Wikimedia Commons</a>، <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></sub></td><td align="center" width="50%"><img src="Assets/images/serratia-pigment.jpg" width="300" alt="serratia-pigment"><br><sub><b>شکل ۱۷.۰۲.</b> کلنی‌های رنگدانه‌دار (قرمز) <i>Serratia marcescens</i> روی آگار مغذی<br>منبع: User:Microrao، <a href="https://commons.wikimedia.org/wiki/File:Serratia_marcescens_pigment_cropped_and_balanced.jpg">Wikimedia Commons</a>، <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></sub></td></tr></table>
 
+<p align="center"><img src="Assets/figures/hvkp-string-test-schematic.svg" width="420" alt="hvkp-string-test-schematic"></p>
+
+> **شکل ۱۷.۰۳.** آزمون رشته (string test) برای *K. pneumoniae* هیپرویرولانت: رشتهٔ دست‌کم ۵ میلی‌متر با لوپ — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
+
 ## جدول ۳: *E. coli* در برابر *Shigella*
 
 | ویژگی | *E. coli* | *E. coli* «غیرفعال» و EIEC | *Shigella* |
@@ -69,7 +73,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/shigella-stool-smear.jpg" width="300" alt="shigella-stool-smear"><br><sub><b>شکل ۱۷.۰۳.</b> اگزودای مدفوع در شیگلوز: لکوسیت‌ها و گلبول‌های قرمز فراوان مشاهده می‌شود<br>منبع: Centers for Disease Control and Prevention Publich Health Image Librar، <a href="https://commons.wikimedia.org/wiki/File:Shigella_stool.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/shigella-stool-smear.jpg" width="300" alt="shigella-stool-smear"><br><sub><b>شکل ۱۷.۰۴.</b> اگزودای مدفوع در شیگلوز: لکوسیت‌ها و گلبول‌های قرمز فراوان مشاهده می‌شود<br>منبع: Centers for Disease Control and Prevention Publich Health Image Librar، <a href="https://commons.wikimedia.org/wiki/File:Shigella_stool.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 ## جدول ۵: *Salmonella*
 
@@ -87,7 +91,7 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/tsi-salmonella-typhi.jpg" width="300" alt="tsi-salmonella-typhi"><br><sub><b>شکل ۱۷.۰۴.</b> TSI در <i>S.</i> Typhi: ته اسیدی، شیب قلیایی و رگهٔ باریک H₂S در محل اتصال ته و شیب<br>منبع: Microrao، <a href="https://commons.wikimedia.org/wiki/File:TSI_agar_S_typhi.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/tsi-salmonella-typhi.jpg" width="300" alt="tsi-salmonella-typhi"><br><sub><b>شکل ۱۷.۰۵.</b> TSI در <i>S.</i> Typhi: ته اسیدی، شیب قلیایی و رگهٔ باریک H₂S در محل اتصال ته و شیب<br>منبع: Microrao، <a href="https://commons.wikimedia.org/wiki/File:TSI_agar_S_typhi.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
 
 ## جدول ۶: *Yersinia*
 
@@ -103,7 +107,11 @@
 
 **تصاویر:**
 
-<table><tr><td align="center" width="50%"><img src="Assets/images/yersinia-enterocolitica-hektoen.jpg" width="300" alt="yersinia-enterocolitica-hektoen"><br><sub><b>شکل ۱۷.۰۵.</b> کلنی‌های لاکتوز منفی <i>Yersinia enterocolitica</i> روی آگار Hektoen<br>منبع: CDC، <a href="https://commons.wikimedia.org/wiki/File:Yersinia_enterocolitica_colonies_Hektoen.jpg">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="Assets/images/yersinia-pestis-colonies.jpg" width="300" alt="yersinia-pestis-colonies"><br><sub><b>شکل ۱۷.۰۶.</b> کلنی‌های <i>Yersinia pestis</i> روی آگار شکلات پس از ۷۲ ساعت در ۲۵°C<br>منبع: Department of Health and Human Services، <a href="https://commons.wikimedia.org/wiki/File:Yersinia_pestis_HHS.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr><tr><td align="center" width="50%"><img src="Assets/images/yersinia-pestis-wayson.jpg" width="300" alt="yersinia-pestis-wayson"><br><sub><b>شکل ۱۷.۰۷.</b> رنگ‌آمیزی Wayson: <i>Y. pestis</i> با نمای دوقطبی «سنجاق قفلی»<br>منبع: U.S. Center for Disease Control، <a href="https://commons.wikimedia.org/wiki/File:Yersinia_pestis_wayson.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+<table><tr><td align="center" width="50%"><img src="Assets/images/yersinia-enterocolitica-hektoen.jpg" width="300" alt="yersinia-enterocolitica-hektoen"><br><sub><b>شکل ۱۷.۰۶.</b> کلنی‌های لاکتوز منفی <i>Yersinia enterocolitica</i> روی آگار Hektoen<br>منبع: CDC، <a href="https://commons.wikimedia.org/wiki/File:Yersinia_enterocolitica_colonies_Hektoen.jpg">Wikimedia Commons</a>، Public domain</sub></td><td align="center" width="50%"><img src="Assets/images/yersinia-pestis-colonies.jpg" width="300" alt="yersinia-pestis-colonies"><br><sub><b>شکل ۱۷.۰۷.</b> کلنی‌های <i>Yersinia pestis</i> روی آگار شکلات پس از ۷۲ ساعت در ۲۵°C<br>منبع: Department of Health and Human Services، <a href="https://commons.wikimedia.org/wiki/File:Yersinia_pestis_HHS.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr><tr><td align="center" width="50%"><img src="Assets/images/yersinia-pestis-wayson.jpg" width="300" alt="yersinia-pestis-wayson"><br><sub><b>شکل ۱۷.۰۸.</b> رنگ‌آمیزی Wayson: <i>Y. pestis</i> با نمای دوقطبی «سنجاق قفلی»<br>منبع: U.S. Center for Disease Control، <a href="https://commons.wikimedia.org/wiki/File:Yersinia_pestis_wayson.jpg">Wikimedia Commons</a>، Public domain</sub></td></tr></table>
+
+<p align="center"><img src="Assets/figures/cin-reading-schematic.svg" width="420" alt="cin-reading-schematic"></p>
+
+> **شکل ۱۷.۰۹.** کلنی «چشم گاوی» *Yersinia enterocolitica* روی CIN: مرکز قرمز تیره و حاشیهٔ شفاف — منبع: رسم آموزشی همین مخزن (شماتیک؛ مقیاس واقعی نیست)
 
 ## جدول ۷: مقاومت ذاتی (CLSI M100-Ed36 Appendix B1)
 
