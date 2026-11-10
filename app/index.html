@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>میکروب‌شناسی بالینی تشخیصی</title>
+<link rel="icon" href="assets/icon/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/css/app.css">
+</head>
+<body>
+<div id="app" class="app">
+  <header class="topbar">
+    <button class="icon-btn only-narrow" id="navToggle" aria-label="منو" title="منو">
+      <svg viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+    <a class="brand" href="#/">
+      <img src="assets/icon/icon.svg" alt="" class="brand-mark">
+      <span class="brand-text">
+        <span class="brand-title">میکروب‌شناسی بالینی تشخیصی</span>
+        <span class="brand-sub">درس‌نامهٔ تعاملی دستیاران</span>
+      </span>
+    </a>
+    <form class="search" id="searchForm" role="search">
+      <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4 4"/></svg>
+      <input id="searchInput" type="search" placeholder="جست‌وجو در درس‌ها، تصاویر و سناریوها…  ( / )" autocomplete="off">
+    </form>
+    <div class="top-actions">
+      <button class="icon-btn" id="themeToggle" title="روشن / تیره" aria-label="روشن / تیره">
+        <svg viewBox="0 0 24 24"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg>
+      </button>
+      <a class="icon-btn" href="#/settings" title="تنظیمات" aria-label="تنظیمات">
+        <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg>
+      </a>
+    </div>
+  </header>
+
+  <nav class="sidenav" id="sidenav" aria-label="بخش‌ها">
+    <a href="#/" data-nav="home"><svg viewBox="0 0 24 24"><path d="M4 11l8-7 8 7v9a1 1 0 0 1-1 1h-4v-6H9v6H5a1 1 0 0 1-1-1z"/></svg>پیشخوان</a>
+    <a href="#/library" data-nav="library"><svg viewBox="0 0 24 24"><path d="M5 4h4v16H5zM10 4h4v16h-4zM15.5 4.5l3.8 1-3.6 14.6-3.8-1z"/></svg>درس‌ها</a>
+    <a href="#/quiz" data-nav="quiz"><svg viewBox="0 0 24 24"><rect x="3.5" y="5" width="17" height="14" rx="2"/><circle cx="9" cy="10" r="1.8"/><path d="M5 17l4.5-4 3 2.5 3.5-3.5 3 3"/></svg>آزمون تصویری</a>
+    <a href="#/review" data-nav="review"><svg viewBox="0 0 24 24"><path d="M20 12a8 8 0 1 1-2.3-5.7M20 4v4h-4"/><path d="M12 8v4l2.5 2"/></svg>مرور هوشمند<span class="badge" id="dueBadge" hidden></span></a>
+    <a href="#/cases" data-nav="cases"><svg viewBox="0 0 24 24"><path d="M9 5h6M9 3h6v4H9z"/><rect x="5" y="5" width="14" height="16" rx="2"/><path d="M9 12h6M9 16h4"/></svg>سناریوهای بالینی</a>
+    <a href="#/atlas" data-nav="atlas"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><circle cx="9" cy="10" r="1.6"/><circle cx="14.5" cy="9" r="1.1"/><circle cx="13" cy="14.5" r="2"/><circle cx="8.5" cy="14.5" r="0.9"/></svg>اطلس تصاویر</a>
+    <a href="#/videos" data-nav="videos"><svg viewBox="0 0 24 24"><rect x="3" y="5.5" width="18" height="13" rx="3"/><path d="M10.5 9.5v5l4.3-2.5z"/></svg>فیلم‌های آموزشی</a>
+    <a href="#/bookmarks" data-nav="bookmarks"><svg viewBox="0 0 24 24"><path d="M6.5 3.5h11v17l-5.5-4-5.5 4z"/></svg>نشان‌ها و یادداشت‌ها</a>
+    <div class="nav-foot">
+      <a href="#/settings" data-nav="settings"><svg viewBox="0 0 24 24"><path d="M12 3l2.5 5.2 5.7.8-4.1 4 1 5.6-5.1-2.7-5.1 2.7 1-5.6-4.1-4 5.7-.8z"/></svg>پرسش از Claude</a>
+      <a href="#/about" data-nav="about"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><path d="M12 11v6M12 7.5v.5"/></svg>دربارهٔ درس‌نامه</a>
+    </div>
+  </nav>
+
+  <main class="main" id="main" tabindex="-1"></main>
+</div>
+
+<!-- Ask Claude drawer -->
+<aside class="drawer" id="askDrawer" aria-hidden="true" aria-label="پرسش از Claude">
+  <div class="drawer-head">
+    <div>
+      <div class="drawer-title"><span class="spark">✦</span> پرسش از Claude</div>
+      <div class="drawer-ctx" id="askCtx"></div>
+    </div>
+    <button class="icon-btn" id="askClose" aria-label="بستن"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+  </div>
+  <div class="drawer-body" id="askLog"></div>
+  <form class="drawer-input" id="askForm">
+    <textarea id="askInput" rows="3" placeholder="سؤال خود را دربارهٔ همین بخش بنویسید…"></textarea>
+    <div class="drawer-row">
+      <span class="cost" id="askCost"></span>
+      <button class="btn primary" id="askSend" type="submit">ارسال</button>
+    </div>
+  </form>
+</aside>
+<div class="scrim" id="scrim"></div>
+
+<!-- Lightbox -->
+<div class="lightbox" id="lightbox" aria-hidden="true">
+  <button class="icon-btn lb-close" id="lbClose" aria-label="بستن"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+  <div class="lb-stage" id="lbStage"><img id="lbImg" alt=""></div>
+  <div class="lb-cap" id="lbCap"></div>
+</div>
+
+<div class="toast" id="toast" role="status"></div>
+
+<script src="assets/vendor/marked.min.js"></script>
+<script src="assets/vendor/mermaid.min.js"></script>
+<script src="assets/js/content.js"></script>
+<script src="assets/js/videos.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>

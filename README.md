@@ -6,6 +6,11 @@
 
 > *A Persian-language teaching handbook of diagnostic clinical bacteriology for microbiology residents: specimen workflows, a media and test library, organism-family identification modules with Mermaid flowcharts and case scenarios, and an AST section aligned with CLSI M100-Ed36, EUCAST v16.1 and IDSA 2026.*
 
+## نرم‌افزار تعاملی
+همین درس‌نامه به‌صورت **نرم‌افزار آفلاین** برای ویندوز و لینوکس در پوشهٔ [`app/`](app/README.md) هم هست: آزمون تصویری، مرور هوشمند، سناریوهای بالینی، اطلس تصاویر، فیلم‌های آموزشی و **پرسش از Claude** در هر بخش (با کلید API خود خواننده).
+- ویندوز: دوبار کلیک روی `app/install-windows.bat` تا آیکون روی دسکتاپ ساخته شود.
+- لینوکس: `app/install-linux.sh`
+
 ## ساختار
 
 | بخش | محتوا | از کجا شروع کنیم؟ |

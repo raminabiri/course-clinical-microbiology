@@ -67,6 +67,13 @@ after the user reviews it on GitHub.
     LIA, Møller, OF, PAD, malonate, CTA.
 - **Rollout complete: all modules 01–24 have figures.** Repo-wide check: 356 figure links, 0 broken; ~102 changed/new paths.
 
+- **Interactive app `app/` (2026-11-10):** offline HTML/JS (file://, no server, no build), Win + Linux launchers and
+  desktop-shortcut installers, icon (SVG/PNG/ICO). Reader, image quiz (529 Q from CREDITS), Leitner review, 330 cases,
+  atlas, search, bookmarks/notes, progress export/import, 31 YouTube videos (checked via noembed.com: YouTube is blocked
+  from this machine without proxy), per-section «✦ بپرس» → Claude Messages API direct from browser with the reader's own
+  key (default claude-opus-5-5, fallbacks "default"; CORS allows Origin null). Rebuild content after edits:
+  `python3 app/build/build_content.py`. Linux shortcut installed on this machine.
+
 ## 3. Files changed
 - On `final-review`: about 340 files (all .md through review, RTL and naming), `12_Identification_Tests/Assets/**`,
   `Shared/Glossary_FA_EN.md`, `Shared/Figures/Image_Policy.md` (§6 = image rules).
